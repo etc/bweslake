@@ -1,5 +1,6 @@
 Date: Date: 16 July 2011
 Categories: technology
+Author: Brad Weslake
 Summary: A short note explaining the technologies used to construct this website.
 Read more: Continue
 
