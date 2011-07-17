@@ -1,0 +1,339 @@
+@import "mixins.sass"
+@import "colours.sass"
+
+$border-style: 1px solid $border-color
+
+article, aside, footer, header, nav, section
+  display: block
+
+.group:after
+  content: "."
+  display: block
+  height: 0
+  clear: both
+  visibility: hidden
+
+// Reset
+
+*
+  margin: 0
+  padding: 0
+
+// Typography
+
+@mixin heading-font
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+
+@mixin body-font
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+
+@mixin text-shadow($color: #DCDBD1)
+  text-shadow: 0 2px 5px $color
+
+body
+  font-size: $base-font * 1.05
+  line-height: $vertical-rhythm
+  font-weight: 300
+  color: $base-color
+  @include body-font
+
+header[role=banner]
+  h1,
+  h2
+    margin: 0
+  h1
+    font-size: 100% * $h1-scale
+    font-weight: 600
+
+  h2
+    color: $meta-color
+    font-size: 1em * $h3-scale
+    font-weight: 300
+
+h1, h2, h3, #sidebar
+  @include heading-font
+h1, h2, h3, h4
+  font-weight: 300
+h4
+  letter-spacing: 0.1em
+  text-transform: uppercase
+h4, h5, h6
+  @include body-font
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
+h1
+  @include adjust-font-size($h1-scale, 0.6, 0.4)
+h2
+  @include adjust-font-size($h2-scale, 1.5, 0.5)
+h3
+  @include adjust-font-size($h3-scale, 1.5, 0.5)
+h4
+  @include adjust-font-size(.75 * $h4-scale, 1, 0)
+
+ol,
+p,
+pre,
+ul
+  margin: 0
+  margin-bottom: $base-vertical-margin
+
+li
+  @include adjust-font-size(1, 0, 0)
+
+blockquote
+  margin: $base-vertical-margin 0
+  padding: 0 $base-vertical-margin
+  
+  font-style: italic
+  color: $base-color + #555
+  
+pre
+  padding: ($vertical-rhythm / 2) 1em
+  overflow: auto
+
+img
+  border: none
+
+nav.breadcrumb
+  margin-top: $vertical-rhythm
+  color: $meta-color
+  padding: 0.5em 0
+
+  font-size: 0.909em
+
+article[role=main]
+  ol, ul
+    margin-left: 1.5em
+
+// Layout
+
+div#container
+  position: relative
+
+header[role=banner]
+  position: relative
+  nav.primary
+    line-height: $vertical-rhythm
+    ul.menu
+      @include group
+      margin: 0 0
+      padding: 0 0
+      list-style: none
+      li
+        @adjust-font-size($base-scale)
+        font-weight: 700
+        &:nth-child(odd)
+          float: left
+        &:nth-child(even)
+          float: right
+        a
+          text-decoration: none
+  p.links
+    position: absolute
+    top: 0.7em
+    left: 8em
+
+    margin: 0
+
+    a
+      width: 16px
+      height: 16px
+      float: left
+
+      margin-right: 8px
+
+      display: block
+      text-indent: -9999px
+      &.feed
+        background: url(/images/feed.png) no-repeat
+
+        width: 24px
+        height: 24px
+        margin-top: -4px
+
+div#container
+  width: 93%
+  margin: 0 auto
+  padding: 1em 1em 0 1em
+
+  div#content
+    position: relative
+
+  footer.branding
+    clear: both
+    color: $meta-color
+    @include adjust-font-size($base-scale)
+    p
+      width: auto
+      margin: 0
+      padding: 1em 0
+
+// The visuals
+
+a
+  color: $link-color
+  @include transition(color 0.25s 0 ease)
+  &:visited
+    color: $visited-link-color
+  &:hover
+    color: $hover-link-color
+  &:active
+    color: $active-link-color
+
+nav.breadcrumb    
+  ul
+    margin: 0
+  li
+    display: inline
+    list-style: none
+    &::after
+      content: " > "
+    &:last-child::after
+      content: ""
+
+nav.breadcrumb,
+div.feed,
+article p.meta
+  a
+    color: $nav-link-color
+  &:hover a
+    color: $link-color
+  a:hover
+    color: $hover-link-color
+
+article
+  img
+    max-width: 100%
+    margin-bottom: $base-vertical-margin
+
+  code,
+  pre
+    code
+      background: none
+  code
+    padding: 1px 3px
+  pre
+    border-left: $border-style
+    code
+      padding: 0
+
+  footer
+    border-top: $border-style
+    p.meta
+      @include adjust-font-size(0.909, 0.1, 1.9)
+      font-style: italic
+      color: $meta-color
+
+// Pages of content
+article[role="main"]
+  h1, h2
+//    @include text-shadow
+
+  div#disqus_thread
+    img
+      max-width: none
+    ul#dsq-comments
+      margin-left: 0
+  
+// Pages/articles assigned to this page
+section.pages,
+section.articles
+  & > ol
+    margin-left: 0
+    li
+      position: relative
+      margin: $base-vertical-margin 0
+      list-style: none
+    article
+      ol li
+        list-style: decimal
+      ul li
+        list-style: disc
+
+  header[role=main] h1
+    @include adjust-font-size($h1-scale, 1.5, 0.5)
+  header h1
+    @include adjust-font-size($h2-scale, 1.5, 0.5)
+
+  article
+    h1
+      font-weight: normal
+      text-shadow: none
+      a
+        text-decoration: none
+    p.read_more
+      @include adjust-font-size(1, 0, 0)
+      margin-top: -$base-vertical-margin
+    footer
+      border-top: none
+
+div#sidebar heading h1
+  @include adjust-font-size($h2-scale)
+
+nav.teaching
+  ul
+    list-style: none
+  ul ul
+    margin: 0 0 0 1.5em
+    list-style: disc
+  & > ul
+    margin-left: 0
+    & > li:first-child
+      font-weight: bold
+
+div.feed
+  margin: $base-vertical-margin 0
+
+article.home
+  section
+
+    h1
+      @include adjust-font-size($h2-scale, 1.6, 0.4)
+
+    &.intro
+      heading
+        display: none
+      p
+        width: 80%
+        max-width: 23.5em
+        margin: 0 auto
+        color: $meta-color
+
+        @include adjust-font-size($h4-scale, 1, 1, 4/3)
+        text-align: center
+
+    &.overview,
+    &.features
+      ul
+        padding-left: 0
+      em
+        color: $meta-color
+
+    &.articles
+      ol li
+        margin: 0 0 ($vertical-rhythm / 2)
+
+        article
+          h1
+            @include adjust-font-size(1, 0, 0)
+          p.meta
+            margin: 0
+
+    &.users
+      & > ul
+        margin-left: 0
+        padding-left: 0
+        list-style: none
+      blockquote
+        padding: 0
+        @include adjust-font-size($base-scale, 0, 0)
+        cite
+          display: block
+          font-weight: bold
+
+    &.doc-list
+      nav ul li
+        list-style: none
+      nav > ul > li:first-child
+        font-weight: bold
+
+@import "layout.sass"

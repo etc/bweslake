@@ -1,1 +1,47 @@
-%section.articles= article_summaries(latest_articles)
+Title: Brad Weslake
+Template: home
+
+%section.overview
+  %heading
+    %h1 Home
+  :markdown
+    I work in philosophy of science, metaphysics and philosophy of mind.  My main projects at present concern levels of explanation in the sciences, the use of causal models to analyse token causation, the temporal asymmetry of causation, and the exclusion problem in philosophy of mind.
+
+    #### online
+    I edit the category [Explanation][exp] in the [PhilPapers][pp] project, and am a contributor to the philosophy of science weblog [It's Only a Theory][only] and the metaphysics weblog [Matters of Substance][substance].
+
+    [exp]: http://philpapers.org/browse/explanation "Explanation"
+    [pp]: http://philpapers.org/ "PhilPapers"
+    [only]: http://itisonlyatheory.blogspot.com/ "It's Only a Theory"
+    [substance]: http://substantialmatters.blogspot.com/ "Matters of Substance"
+
+    ### Test
+
+    #### in the beginning
+    Before moving to Rochester in Fall 2007 I wrote a PhD under the direction of [Huw Price][huw] at the [Centre for Time][time], [Department of Philosophy][sydphil], [University of Sydney][sydney].
+
+    [huw]: http://www.usyd.edu.au/time/price/ "Huw Price"
+    [time]: http://www.usyd.edu.au/centre_for_time/ "Centre for Time"
+    [sydphil]: http://www.arts.usyd.edu.au/philosophy/ "Department of Philosophy"
+    [sydney]: http://www.usyd.edu.au/ "University of Sydney"
+
+%section.news
+  %heading
+    %h1 News
+  :markdown
+    - I am on research leave for the Spring 2011 and Fall 2011 semesters.
+    - In Spring 2012 I will be co-teaching a course on the history and philosophy of the interaction between science and religion with the evolutionary biologist [H. Allen Orr][allen]. For information on the last version of this course see here.
+
+    [allen]: http://www.rochester.edu/College/BIO/professors/orr.html "H. Allen Orr"
+
+%section.articles
+  %heading
+    %h1 Blog
+  %ol
+    - latest_articles(3).each do |article|
+      %li
+        %article
+          %header
+            %h1
+              %a(href="#{article.abspath}")= article.heading
+          = haml :page_meta, :layout => false, :locals => { :page => article }

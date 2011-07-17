@@ -1,0 +1,7 @@
+/
+research
+teaching
+  teaching/2010
+  teaching/2009
+    teaching/2009/mind
+blog

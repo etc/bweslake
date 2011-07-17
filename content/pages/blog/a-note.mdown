@@ -1,0 +1,26 @@
+Date: Date: 16 July 2011
+Categories: technology
+Summary: A short note explaining the technologies used to construct this website.
+Read more: Continue
+
+# A Note on This Site
+
+I got tired of editing HTML.  Perhaps I yearned for my former life as a computer programmer.  So I decided to try something new.
+
+This site is constructed with [Nesta](http://nestacms.com/ "Nesta"), a very lightweight content management system.  I chose Nesta because it does everything I need, and nothing more.  Here are some of the features I find particularly attractive:
+
+- Simple pages can be written with [Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown").
+- More complex pages can be written with [Haml](http://haml-lang.com/ "Haml").
+- Sitewide style can be managed with [Sass](http://sass-lang.com/ "Sass").
+- The entire site can be gracefully evolved using [git](http://git-scm.com/ "git").
+- The entire site can be previewed locally on any computer with [Ruby](http://www.ruby-lang.org/ "Ruby").
+
+All this means the normal workflow to add or amend the site is something like this:
+
+1. Checkout the file with git.
+2. Edit the file with [TextMate](http://macromates.com/ "TextMate").
+3. Preview the changes locally by executing this command in the local site root directory: `bundle exec shotgun config.ru`
+
+## Why Write with Markdown? ##
+
+The central attraction of Markdown for me is the ease with which it can be used to generate web content on the one hand, *via* content management systems such as Nesta, and to generate print content on the other, *via* typesetting systems such as [LaTeX](http://www.latex-project.org/ "LaTeX").  Another attraction is the clean and minimal syntax, which makes the source file itself much easier to read than ordinary HTML.
