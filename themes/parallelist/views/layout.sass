@@ -12,6 +12,10 @@ $unit: ($container-width - ($gutter * ($columns - 1))) / $columns
 
 $content-width: grid-width(7)
 $sidebar-width: grid-width(4)
+
+$widecontent-width: grid-width(8)
+$widesidebar-width: grid-width(3)
+
 $sidebar-left: grid-left(9)
 
 @media screen and (min-width: 30em)
@@ -48,6 +52,14 @@ $sidebar-left: grid-left(9)
 
     div#content
       width: $content-width
+      float: left
+      padding: 1px 0
+
+      ol, ul
+        margin-left: 0
+
+    div#widecontent
+      width: $widecontent-width
       float: left
       padding: 1px 0
 

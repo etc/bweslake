@@ -1,4 +1,8 @@
-%heading
-  %h1 Blog
+#widecontent
+  %heading
+    %h1 Blog
 
-%section.articles= article_summaries(latest_articles)
+  %section.articles= article_summaries(latest_articles)
+
+  :markdown
+    [Subscribe](../articles.xml "Subscribe to Atom Feed")

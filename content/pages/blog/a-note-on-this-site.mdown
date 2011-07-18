@@ -1,8 +1,7 @@
+Template: article
 Date: Date: 17 July 2011
 Categories: technology
 Author: Brad Weslake
-Summary: A short note explaining the technologies used to construct this website.
-Read more: Continue
 
 # A Note on This Site
 
