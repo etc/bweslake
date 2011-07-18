@@ -1,4 +1,4 @@
-Date: Date: 16 July 2011
+Date: Date: 17 July 2011
 Categories: technology
 Author: Brad Weslake
 Summary: A short note explaining the technologies used to construct this website.
@@ -15,12 +15,14 @@ This site is constructed with [Nesta](http://nestacms.com/ "Nesta"), a very ligh
 - Sitewide style can be managed with [Sass](http://sass-lang.com/ "Sass").
 - The entire site can be gracefully evolved using [git](http://git-scm.com/ "git").
 - The entire site can be previewed locally on any computer with [Ruby](http://www.ruby-lang.org/ "Ruby").
+- Hosting is free on [Heroku](http://www.heroku.com/ "Heroku").
 
 All this means the normal workflow to add or amend the site is something like this:
 
 1. Checkout the file with git.
 2. Edit the file with [TextMate](http://macromates.com/ "TextMate").
 3. Preview the changes locally by executing this command in the local site root directory: `bundle exec shotgun config.ru`
+4. Push the changes remotely by executing this command in the local site root directory: `git push heroku`
 
 ## Why Write with Markdown? ##
 
