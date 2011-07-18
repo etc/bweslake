@@ -1,0 +1,111 @@
+Summary: Speaking.
+Categories: research/speaking
+Template: wide
+
+# Speaking
+
+### Upcoming ###
+
+16–17 August 2011  
+*TBD*  
+*Temporal Asymmetry* \[[Details][1]\]  
+[Monash University][2]
+
+ [1]: http://timechance2011.wordpress.com/
+ [2]: http://arts.monash.edu.au/philosophy/
+
+19–20 August 2011  
+Invited Participant  
+*Chance and the Principal Principle* \[[Details][1]\]  
+[Monash University][2]
+
+31 August 2011  
+*TBD*  
+Philosophy Colloquium \[[Details][3]\]  
+[University of Sydney][4]
+
+ [3]: http://usydseminars.blogspot.com/
+ [4]: http://sydney.edu.au/arts/philosophy/
+
+### Past ###
+
+3 December 2010  
+“A Tangled History: On Science and Religion” (with [H. Allen Orr][5]) \[[Slides][6]\]  
+Phelps Colloquium Series \[[Details][7]\]  
+[University of Rochester][8]
+
+ [5]: http://www.rochester.edu/College/bio/professors/orr.html
+ [6]: http://www.rochester.edu/college/faculty/bweslake/research/talks/tangled_slides.pdf
+ [7]: http://www.rochester.edu/provost/phelps_colloquium.html
+ [8]: http://www.rochester.edu/
+
+30 November and 2, 7 and 9 December 2010  
+Four lectures on topics in philosophy of biology  
+Graduate seminar *Advanced Ecology and Evolutionary Biology* \[[Details][9]\]  
+[Department of Biology][10], [University of Rochester][8]
+
+ [9]: http://www.rochester.edu/college/bio/graduate/courses.html
+ [10]: http://www.rochester.edu/College/BIO/index.php
+
+8 October 2010  
+“Against Explanatory Fundamentalism” \[[Slides][11]\]  
+Philosophy Colloquium \[[Details][12]\]  
+[University of Nevada, Las Vegas][13]
+
+ [11]: http://www.rochester.edu/college/faculty/bweslake/research/talks/fundamentalism_slides.pdf
+ [12]: http://liberalarts.unlv.edu/Philosophy/colloquia.htm
+ [13]: http://liberalarts.unlv.edu/Philosophy/
+
+25-27 July 2010  
+Session Chair  
+*SPAWN* \[[Details][14]\]  
+[Syracuse University][15]
+
+ [14]: https://papresco.mysite.syr.edu/spawn2010/welcome.html
+ [15]: http://syr.edu/
+
+16-18 April 2010  
+Invited Participant  
+*Quantum Mechanics, Time, and Ontology* \[[Details][16]\]  
+[Rutgers Center for Philosophy and the Sciences][17]
+
+ [16]: http://fas-philosophy.rutgers.edu/hdemarest/timeontology.html
+ [17]: http://fas-philosophy.rutgers.edu/philosophyscience/
+
+21-24 October 2009  
+Symposium on Causation, Laws, and Natural Kinds  
+(with [Angelo Cei][18], [Steven French][19], and [Michela Massimi][20])  
+*European Philosophy of Science Association* \[[Details][21]\]  
+[Vrije Universiteit Amsterdam][22]
+
+ [18]: http://leeds.academia.edu/AngeloCei
+ [19]: http://www.philosophy.leeds.ac.uk/Staff/SF/Index.htm
+ [20]: http://www.ucl.ac.uk/sts/massimi/index.htm
+ [21]: http://www.epsa09.org/
+ [22]: http://www.vu.nl/en/index.asp
+
+22 May 2009  
+“Explanation in Neuroscience and Folk Psychology” \[[Slides][23]\]  
+*Neuroscience Cluster Annual Retreat* \[[Details][24]\] \[[Poster][25]\]  
+[University of Rochester][8]
+
+ [23]: http://www.rochester.edu/college/faculty/bweslake/research/talks/retreat_slides.pdf
+ [24]: http://www.urmc.rochester.edu/neuroscience/retreat/
+ [25]: http://www.rochester.edu/college/faculty/bweslake/research/talks/retreat_poster.pdf
+
+13-14 May 2009  
+“Initial Conditions, Laws and Explanation” \[[Handout][26]\] \[[Slides][27]\]  
+*Workshop on the Philosophical Foundations of Statistical Mechanics* \[[Details][28]\]  
+[Rutgers Center for Philosophy and the Sciences][17]
+
+ [26]: http://www.rochester.edu/college/faculty/bweslake/research/talks/iclaws_handout.pdf
+ [27]: http://www.rochester.edu/college/faculty/bweslake/research/talks/iclaws_slides.pdf
+ [28]: http://fas-philosophy.rutgers.edu/hdemarest/StatMech.html
+
+2 May 2009  
+“Causal Relativism” \[[Handout][29]\]  
+*Mellon Metaphysics Workshop*  
+[Cornell University][30]
+
+ [29]: http://www.rochester.edu/college/faculty/bweslake/research/talks/relativism_handout.pdf
+ [30]: http://www.arts.cornell.edu/phil/

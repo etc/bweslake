@@ -1,0 +1,24 @@
+Summary: Current.
+
+# Current
+
+### Under Review ###
+
+“Exclusion Excluded” \[[PDF][1]\] \[[PhilPapers][2]\]
+
+ [1]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_exclusion.pdf
+ [2]: http://philpapers.org/rec/WESEE
+
+> I argue that an independently attractive account of causation and causal explanation provides a principled resolution of the exclusion problem. 
+### In Progress ###
+
+“A Partial Theory of Actual Causation” [*available on request*]
+
+> Theories of actual causation in the structural equations framework have problems with cases of trumping, switching and voting. I defend (part of) a theory of actual causation that gets the right results in each of these cases. 
+“Statistical Mechanical Imperialism” [*coming soon*]
+
+> I argue against the claim, advanced by David Albert and Barry Loewer, that all non-fundamental laws can be derived from those required to underwrite the second law of thermodynamics.
+
+![Writing][3]
+
+ [3]: http://www.rochester.edu/college/faculty/bweslake/images/writing.png

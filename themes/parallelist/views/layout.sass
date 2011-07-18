@@ -71,6 +71,15 @@ $sidebar-left: grid-left(9)
         & > ul
           margin-left: 0
 
+      nav.research
+        float: none
+        width: auto
+        ul
+          float: none
+          width: auto
+        & > ul
+          margin-left: 0
+
   article.home
     section
       clear: both
@@ -95,10 +104,26 @@ $sidebar-left: grid-left(9)
 
   p.teaching-overview
     float: left
-    width: grid-width(3) - 0.1em
+    width: grid-width(6) - 0.1em
   nav.teaching
     float: right
-    width: grid-width(8)
+    width: grid-width(5)
+    ul
+      float: left
+      width: grid-width(4)
+      &.quick-start
+        float: none
+      &.config,
+      &.deployment
+        margin-left: $gutter
+        width: grid-width(4) - 0.1em
+
+  p.research-overview
+    float: left
+    width: grid-width(6) - 0.1em
+  nav.research
+    float: right
+    width: grid-width(5)
     ul
       float: left
       width: grid-width(4)

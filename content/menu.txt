@@ -1,5 +1,10 @@
 /
 research
+  research/writing
+    research/writing/current
+    research/writing/publications
+  research/speaking
+  research/resources
 teaching
   teaching/2010
   teaching/2009
