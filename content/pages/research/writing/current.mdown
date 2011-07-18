@@ -18,7 +18,3 @@ Summary: Current.
 “Statistical Mechanical Imperialism” [*coming soon*]
 
 > I argue against the claim, advanced by David Albert and Barry Loewer, that all non-fundamental laws can be derived from those required to underwrite the second law of thermodynamics.
-
-![Writing][3]
-
- [3]: http://www.rochester.edu/college/faculty/bweslake/images/writing.png
