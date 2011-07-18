@@ -69,6 +69,12 @@ h3
 h4
   @include adjust-font-size(.75 * $h4-scale, 1, 0)
 
+article[role=main]
+  h1
+    @include adjust-font-size($h1-scale, 1, 0.25)
+  h2
+    @include adjust-font-size($h2-scale, 0, 0.5)
+
 ol,
 p,
 pre,
@@ -99,10 +105,6 @@ nav.breadcrumb
   padding: 0.5em 0
 
   font-size: 0.909em
-
-article[role=main]
-  ol, ul
-    margin-left: 1.5em
 
 // Layout
 

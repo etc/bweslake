@@ -1,3 +1,49 @@
 Summary: Scientific Explanation.
+Template: class
 
 # Scientific Explanation
+
+## Graduate Seminar, Fall 2007
+
+> The word *explanation* occurs so continually and holds so important a place in philosophy, that a little time spent in fixing the meaning of it will be profitably employed. —John Stuart Mill.
+### Details ###
+
+Course Code: PHL552  
+Location: 531 Lattimore Hall  
+Times: Tuesdays, 2:00pm to 4:40pm  
+
+### Overview
+
+The aim of this seminar is both to introduce the essential background to contemporary debates on explanation, and to engage with some of these debates as they are playing out right now. We will survey accounts of scientific explanation from the logical positivists to the present, focussing on three interrelated themes:
+
+*   The role of laws in explanation; 
+*   Explanation in the special sciences; 
+*   Explanatory asymmetries.
+
+The seminar will be divided roughly into two parts. The first part will be a selective survey of the classical views in the literature, including the deductive-nomological view of explanation articulated by the positivists, probabilistic and causal theories of explanation, and unificationist and pragmatic theories of explanation. The survey will be selective insofar as I will be emphasising advantages and disadvantages of these accounts with respect to the three themes above.
+            
+The second part will be an introduction to the interventionist theory of explanation in the form advocated by [James Woodward][1] in his *Making Things Happen* (OUP, 2003). This will include an examination of the recent (and some forthcoming) critical discussion surrounding Woodward's book, and an exploration of applications of the interventionist view to the special sciences.
+            
+### Textbooks
+            
+The reading for the course will mostly be journal papers, but the following books will also be used heavily.
+            
+* Wesley C. Salmon, *Four Decades of Scientific Explanation*, University of Pittsburgh Press, Pittsburgh, 2006. \[[Pitt][2]\] \[[AddAll][3]\]
+            
+> Originally published in Philip Kitcher and Wesley C. Salmon (Ed), *Scientific Explanation*, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, 1989, pp. 3–219. Also reprinted as a book by University of Minnesota Press, 1989.
+
+* James Woodward, *Making Things Happen: A Theory of Causal Explanation*, Oxford University Press, New York, 2003. \[[OUP][4]\] \[[AddAll][5]\] \[[OSO][6]\] 
+          
+### Syllabus
+            
+Available [here][7] \[PDF\].
+            
+*Updated*: 4 September 2007
+
+ [1]: http://www.hss.caltech.edu/people/faculty/jfw
+ [2]: http://www.upress.pitt.edu/BookDetails.aspx?bookId=35806
+ [3]: http://www3.addall.com/New/compare.cgi?dispCurr=USD&id=182579&isbn=0822959267&location=10000&state=NY
+ [4]: http://www.oup.com/us/catalog/general/subject/Philosophy/Science/?view=usa&ci=9780195189537
+ [5]: http://www.addall.com/New/compare.cgi?dispCurr=USD&id=1097329&isbn=0195189531&location=10000&state=NY
+ [6]: http://dx.doi.org/10.1093/0195155270.001.0001
+ [7]: http://www.rochester.edu/college/faculty/bweslake/teaching/2007/explanation/syllabus.pdf
