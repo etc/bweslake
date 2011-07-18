@@ -323,17 +323,18 @@ article.home
     h1
       @include adjust-font-size($h2-scale, 1.6, 0.4)
 
-    &.intro
+    &.quote
       heading
         display: none
       p
         width: 80%
-        max-width: 23.5em
         margin: 0 auto
         color: $meta-color
-
-        @include adjust-font-size($h4-scale, 1, 1, 4/3)
-        text-align: center
+        line-height: 140%
+        font-family: Bell, Georgia, "Times New Roman", Times, serif
+        font-style: italic
+        font-weight: 100
+        font-size: $base-font
 
     &.overview,
     &.features

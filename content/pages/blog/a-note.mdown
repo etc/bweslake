@@ -17,13 +17,17 @@ This site is constructed with [Nesta](http://nestacms.com/ "Nesta"), a very ligh
 - The entire site can be previewed locally on any computer with [Ruby](http://www.ruby-lang.org/ "Ruby").
 - Hosting is free on [Heroku](http://www.heroku.com/ "Heroku").
 
-All this means the normal workflow to add or amend the site is something like this:
+All this means the normal workflow to add to or amend the site is something like this (all commands executed in the local site root directory):
 
 1. Edit the file with [TextMate](http://macromates.com/ "TextMate").
-3. Preview the changes locally by executing this command in the local site root directory: `bundle exec shotgun config.ru`
-2. Add and commit the file with git.
-4. Push the changes remotely by executing this command in the local site root directory: `git push heroku`
+3. Preview changes locally with: `bundle exec shotgun config.ru` (if the site is already running, simply refresh browsers)
+2. Commit the file with: `git commit -a`
+4. Push the changes remotely with: `git push heroku`
 
 ## Why Write with Markdown? ##
 
 The central attraction of Markdown for me is the ease with which it can be used to generate web content on the one hand, *via* content management systems such as Nesta, and to generate print content on the other, *via* typesetting systems such as [LaTeX](http://www.latex-project.org/ "LaTeX").  Another attraction is the clean and minimal syntax, which makes the source file itself much easier to read than ordinary HTML.
+
+## Why Use Git? ##
+
+Git is an enormously simple version control system.  In addition to making it easy to restore earlier versions of the site, Git makes it very easy to share code with others.  For example, the entire source of this website can be seen [here](http://github.com/etc/bweslake "bweslake.org source on GitHub"), and I am happy for others to make use of whichever parts they like.
