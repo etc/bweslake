@@ -6,7 +6,29 @@ research
   research/speaking
   research/resources
 teaching
+  teaching/2012
+    teaching/2012/darwin
   teaching/2010
+    teaching/2010/reason
+    teaching/2010/darwin
+    teaching/2010/science
+    teaching/2010/cognition
+    teaching/2010/causation
   teaching/2009
+    teaching/2009/reason
+    teaching/2009/science
     teaching/2009/mind
+    teaching/2009/biology
+    teaching/2009/content
+    teaching/2009/models
+  teaching/2008
+    teaching/2008/reason
+    teaching/2008/science
+    teaching/2008/mind
+    teaching/2008/counterfactuals
+    teaching/2008/biology
+    teaching/2008/realism
+  teaching/2007
+    teaching/2007/mind
+    teaching/2007/explanation
 blog
