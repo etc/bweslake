@@ -1,8 +1,7 @@
-Summary: Speaking.
-Categories: research/speaking
-Template: wide
+Summary: Talks.	
+Template: research
 
-# Speaking
+# Talks
 
 ### Upcoming ###
 

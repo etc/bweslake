@@ -1,0 +1,5 @@
+Template: research
+
+# Research
+
+Things I do.

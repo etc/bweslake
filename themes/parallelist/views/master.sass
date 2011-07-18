@@ -30,6 +30,13 @@ article, aside, footer, header, nav, section
 @mixin text-shadow($color: #DCDBD1)
   text-shadow: 0 2px 5px $color
 
+span.small
+  font-size: 80%
+
+span.sc
+  font-variant: small-caps
+  letter-spacing: 0.05em
+
 body
   font-size: $base-font * 1.05
   line-height: $vertical-rhythm
@@ -267,6 +274,19 @@ section.articles
 
 div#sidebar heading h1
   @include adjust-font-size($h2-scale)
+
+nav.menu
+  ul
+    list-style: none
+  ul ul
+    margin: 0 0 0 1.5em
+    list-style: none
+  ul ul ul
+    list-style: disc
+  & > ul
+    margin-left: 0
+    & > li:first-child
+      font-weight: bold
 
 nav.teaching
   ul

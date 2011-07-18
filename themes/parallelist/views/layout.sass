@@ -18,7 +18,7 @@ $sidebar-left: grid-left(9)
   header[role=banner]
     nav.primary
       ul.menu
-        padding: $base-vertical-margin 0
+        padding: $base-vertical-margin/3 0
         li
           &:nth-child(even)
             float: left
@@ -62,6 +62,15 @@ $sidebar-left: grid-left(9)
       heading h1
         display: none
 
+      nav.menu
+        float: none
+        width: auto
+        ul
+          float: none
+          width: auto
+        & > ul
+          margin-left: 0
+
       nav.teaching
         float: none
         width: auto
@@ -104,10 +113,10 @@ $sidebar-left: grid-left(9)
 
   p.teaching-overview
     float: left
-    width: grid-width(6) - 0.1em
+    width: grid-width(7) - 0.1em
   nav.teaching
     float: right
-    width: grid-width(5)
+    width: grid-width(8)
     ul
       float: left
       width: grid-width(4)
@@ -120,10 +129,10 @@ $sidebar-left: grid-left(9)
 
   p.research-overview
     float: left
-    width: grid-width(6) - 0.1em
+    width: grid-width(7) - 0.1em
   nav.research
     float: right
-    width: grid-width(5)
+    width: grid-width(4)
     ul
       float: left
       width: grid-width(4)

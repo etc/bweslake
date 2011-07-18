@@ -1,10 +1,11 @@
 Summary: Current.
+Template: research
 
 # Current
 
 ### Under Review ###
 
-“Exclusion Excluded” \[[PDF][1]\] \[[PhilPapers][2]\]
+“Exclusion Excluded” \[[<span class="small">PDF</span>][1]\] \[[<span class="small">PhilPapers</span>][2]\]
 
  [1]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_exclusion.pdf
  [2]: http://philpapers.org/rec/WESEE

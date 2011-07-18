@@ -1,3 +1,4 @@
-Summary: 2009.
+Summary: 2009
+Template: teaching
 
 # 2009

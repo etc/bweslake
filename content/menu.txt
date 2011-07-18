@@ -1,9 +1,8 @@
 /
 research
-  research/writing
-    research/writing/current
-    research/writing/publications
-  research/speaking
+  research/current
+  research/publications
+  research/talks
   research/resources
 teaching
   teaching/2012

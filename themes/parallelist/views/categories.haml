@@ -1,0 +1,6 @@
+- if ! @menu_items.empty?
+  %heading
+    %h1 Menu
+  %nav.menu
+    - display_menu(Nesta::Menu.for_path('/research'), :root => '/research', :class => 'research', :levels => 3)
+    - display_menu(Nesta::Menu.for_path('/teaching'), :root => '/teaching', :class => 'teaching', :levels => 3)

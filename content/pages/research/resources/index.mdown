@@ -1,4 +1,5 @@
 Summary: Resources.
+Template: research
 
 # Resources
 

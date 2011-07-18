@@ -22,21 +22,21 @@ The aim of this seminar is both to introduce the essential background to contemp
 
 The seminar will be divided roughly into two parts. The first part will be a selective survey of the classical views in the literature, including the deductive-nomological view of explanation articulated by the positivists, probabilistic and causal theories of explanation, and unificationist and pragmatic theories of explanation. The survey will be selective insofar as I will be emphasising advantages and disadvantages of these accounts with respect to the three themes above.
             
-The second part will be an introduction to the interventionist theory of explanation in the form advocated by [James Woodward][1] in his *Making Things Happen* (OUP, 2003). This will include an examination of the recent (and some forthcoming) critical discussion surrounding Woodward's book, and an exploration of applications of the interventionist view to the special sciences.
+The second part will be an introduction to the interventionist theory of explanation in the form advocated by [James Woodward][1] in his *Making Things Happen* (oup, 2003). This will include an examination of the recent (and some forthcoming) critical discussion surrounding Woodward's book, and an exploration of applications of the interventionist view to the special sciences.
             
 ### Textbooks
             
-The reading for the course will mostly be journal papers, but the following books will also be used heavily.
-            
-* Wesley C. Salmon, *Four Decades of Scientific Explanation*, University of Pittsburgh Press, Pittsburgh, 2006. \[[Pitt][2]\] \[[AddAll][3]\]
+The reading for the course will mostly be journal papers, but the following books will also be used heavily:
+    
+* Wesley C. Salmon, *Four Decades of Scientific Explanation*, University of Pittsburgh Press, Pittsburgh, 2006. \[[<span class="sc">pitt</span>][2]\] \[[<span class="sc">addall</span>][3]\]
             
 > Originally published in Philip Kitcher and Wesley C. Salmon (Ed), *Scientific Explanation*, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, 1989, pp. 3–219. Also reprinted as a book by University of Minnesota Press, 1989.
 
-* James Woodward, *Making Things Happen: A Theory of Causal Explanation*, Oxford University Press, New York, 2003. \[[OUP][4]\] \[[AddAll][5]\] \[[OSO][6]\] 
+* James Woodward, *Making Things Happen: A Theory of Causal Explanation*, Oxford University Press, New York, 2003. \[[<span class="sc">oup</span>][4]\] \[[<span class="sc">addall</span>][5]\] \[[<span class="sc">oso</span>][6]\] 
           
 ### Syllabus
             
-Available [here][7] \[PDF\].
+Available [here][7] \[<span class="sc">pdf</span>\].
             
 *Updated*: 4 September 2007
 
