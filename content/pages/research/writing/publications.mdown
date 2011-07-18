@@ -1,6 +1,80 @@
-Categories: research/writing
 Summary: Publications.
 
 # Publications
 
-Publications.
+### Books
+
+[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds). *currently untitled*, Harvard University Press, Cambridge MA, *forthcoming*.
+
+ [1]: http://rci.rutgers.edu/~loewer/
+ [2]: http://www.cas.usf.edu/~ewinsb/
+
+> A collection of newly commissioned papers on themes from [David Albert][3]'s *[Time and Chance][4]* (Harvard, 2000), with replies by Albert. Confirmed contributors include [Sean Carroll][5], [Mathias Frisch][6], [Nick Huggett][7], [Jenann Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [Jill North][12], [David Wallace][13], [Brad Weslake][14], and [Eric Winsberg][2]. 
+
+ [3]: http://en.wikipedia.org/wiki/David_Albert
+ [4]: http://www.hup.harvard.edu/catalog.php?isbn=9780674011328
+ [5]: http://preposterousuniverse.com/
+ [6]: http://www.philosophy.umd.edu/Faculty/mfrisch/index.html
+ [7]: http://tigger.uic.edu/~huggett/
+ [8]: http://www.u.arizona.edu/~jtismael/index.html
+ [9]: http://www.brown.edu/Departments/Philosophy/facultymember.php?key=13
+ [10]: http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=111&Itemid=210
+ [11]: http://www.umass.edu/philosophy/faculty/meacham.htm
+ [12]: http://www.yale.edu/philos/people/north_jill.html
+ [13]: http://users.ox.ac.uk/~mert0130/
+ [14]: ../../
+### Papers
+
+  
+Weslake, Brad. 2010. “Explanatory Depth”, in *Philosophy of Science*, Vol. 77, No. 2, April 2010, pp. 273–294. \[[DOI][15]\] \[[PDF][16]\] \[[PhilPapers][17]\]
+
+ [15]: http://dx.doi.org/10.1086/651316
+ [16]: ../papers/weslake_depth.pdf
+ [17]: http://philpapers.org/rec/WESED
+
+[Price, Huw][18] and Weslake, Brad. 2009. “The Time-Asymmetry of Causation”, in Helen Beebee, Chris Hitchcock and Peter Menzies (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, pp. 414–443. \[[OUP][19]\] \[[PhilSci][20]\] \[[PhilPapers][21]\]
+
+ [18]: http://www.usyd.edu.au/time/price/
+ [19]: http://www.oup.com/us/catalog/general/subject/Philosophy/Metaphysics/?view=usa&ci=9780199279739
+ [20]: http://philsci-archive.pitt.edu/archive/00004475/ "Download via the PhilSci archive"
+ [21]: http://philpapers.org/rec/PRITTO
+
+Weslake, Brad. 2006. “Common Causes and The Direction of Causation”, in *Minds and Machines*, Rolf Haenni and Stephan Hartmann (Eds), *Special Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August 2006, pp. 239–257. \[[DOI][22]\] \[[PhilSci][23]\] \[[PhilPapers][24]\]
+
+ [22]: http://dx.doi.org/10.1007/s11023-006-9042-2
+ [23]: http://philsci-archive.pitt.edu/archive/00002792/ "Download via the PhilSci archive"
+ [24]: http://philpapers.org/rec/WESCCA
+
+### Reviews
+
+  
+Weslake, Brad. 2006. “Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136–140. \[[DOI][25]\] \[[PhilPapers][26]\] \[[PDF][27]\]
+
+ [25]: http://dx.doi.org/10.1080/00048400600571935
+ [26]: http://philpapers.org/rec/WESU
+ [27]: ../papers/weslake_review_woodward.pdf
+
+Weslake, Brad. 2004. “Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004. \[[HTML][28]\] \[[PhilPapers][29]\] \[[PDF][30]\]
+
+ [28]: http://www.mhnet.org/books/books.php?type=de&id=2411
+ [29]: http://philpapers.org/rec/WESROU
+ [30]: ../papers/weslake_review_robinson.pdf
+
+### Encyclopaedia Entries
+
+  
+Weslake, Brad. 2010. “Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash University Publishing, Clayton, 2010. \[[HTML][31]\]  
+
+
+ [31]: http://books.publishing.monash.edu/apps/bookworm/view/A+Companion+to+Philosophy+in+Australia+and+New+Zealand/56/xhtml/chapter03.html#chapter03sec03
+
+Weslake, Brad. 2006. “Causation”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. \[[OUP][32]\] \[[PhilPapers][33]\] \[[PDF][34]\]
+
+ [32]: http://www.us.oup.com/us/catalog/general/subject/Philosophy/?view=usa&ci=9780340900284
+ [33]: http://philpapers.org/rec/WESC
+ [34]: ../papers/weslake_essentials_causation.pdf
+
+Weslake, Brad. 2006. “Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 283–284. \[[OUP][32]\] \[[PhilPapers][35]\] \[[PDF][36]\]
+
+ [35]: http://philpapers.org/rec/WEST
+ [36]: ../papers/weslake_essentials_time.pdf
