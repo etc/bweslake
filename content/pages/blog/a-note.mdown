@@ -19,9 +19,9 @@ This site is constructed with [Nesta](http://nestacms.com/ "Nesta"), a very ligh
 
 All this means the normal workflow to add or amend the site is something like this:
 
-1. Checkout the file with git.
-2. Edit the file with [TextMate](http://macromates.com/ "TextMate").
+1. Edit the file with [TextMate](http://macromates.com/ "TextMate").
 3. Preview the changes locally by executing this command in the local site root directory: `bundle exec shotgun config.ru`
+2. Add and commit the file with git.
 4. Push the changes remotely by executing this command in the local site root directory: `git push heroku`
 
 ## Why Write with Markdown? ##
