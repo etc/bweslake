@@ -97,6 +97,10 @@ ul
 li
   @include adjust-font-size(1, 0, 0)
 
+// Style links based on where in the menu we are
+li.current a
+  color: $hover-link-color
+
 blockquote
   margin: $base-vertical-margin 0
   padding: 0 $base-vertical-margin
@@ -120,7 +124,6 @@ ul li blockquote
   border-bottom: 0
   padding-bottom: 0
   margin-bottom: 0
-
 
 pre
   padding: ($vertical-rhythm / 2) 1em
@@ -159,6 +162,7 @@ header[role=banner]
           float: right
         a
           text-decoration: none
+
   p.links
     position: absolute
     top: 0.7em
@@ -313,6 +317,8 @@ nav.menu
     margin-left: 0
     & > li:first-child
       font-weight: bold
+    & > li.current:first-child a
+      color: $link-color
 
 nav.teaching
   ul
@@ -326,6 +332,8 @@ nav.teaching
     margin-left: 0
     & > li:first-child
       font-weight: bold
+    & > li.current:first-child a
+      color: $link-color
 
 nav.research
   ul
@@ -339,6 +347,8 @@ nav.research
     margin-left: 0
     & > li:first-child
       font-weight: bold
+    & > li.current:first-child a
+      color: $link-color
 
 div.feed
   margin: $base-vertical-margin 0

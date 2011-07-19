@@ -31,10 +31,12 @@ Other things I find useful:
 * [Detexify][detexify]
 * [Pandoc][pandoc]
 * [nvALT][nvalt]
+* [GitHub for Mac][githubmac]
 
  [detexify]: http://detexify.kirelabs.org/classify.html "Detexify"
  [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc"
  [nvalt]: http://brettterpstra.com/project/nvalt/ "nvALT"
+ [githubmac]: http://mac.github.com/ "GitHub for Mac"
 
 ### This Site ###
 
