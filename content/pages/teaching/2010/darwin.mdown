@@ -3,7 +3,7 @@ Summary: Darwin and Religion
 
 # Darwin and Religion
 
-## Fall 2010
+## Fall 2010 *with H. Allen Orr*
 
 [Details](#details) | [Instructors](#instructors) |
 [Overview](#overview) | [Assessment](#assessment) |
@@ -127,7 +127,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### Schedule
 
-**Meeting One (Wednesday 1 September)**\
+**Meeting One (Wednesday 1 September)**  
  *Introductory discussion*
 
 *No Class (Monday 6 September)*
@@ -309,7 +309,7 @@ October)**
 ### V. The Mechanical Philosophy and The Foster Thesis
 
 **Meeting Ten (Wednesday 6 October) and Meeting Eleven (Wednesday 13
-October)**\
+October)**  
 *(No Class Monday 11 October)*
 
 #### Primary Reading
