@@ -12,14 +12,14 @@ This site is constructed with [Nesta](http://nestacms.com/ "Nesta"), a very ligh
 - Simple pages can be written with [Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown").
 - More complex pages can be written with [Haml](http://haml-lang.com/ "Haml").
 - Sitewide style can be managed with [Sass](http://sass-lang.com/ "Sass").
-- The entire site can be gracefully evolved using [git](http://git-scm.com/ "git").
+- The entire site can be gracefully evolved using [Git](http://git-scm.com/ "git").
 - The entire site can be previewed locally on any computer with [Ruby](http://www.ruby-lang.org/ "Ruby").
 - Hosting is free on [Heroku](http://www.heroku.com/ "Heroku").
 
 All this means the normal workflow to add to or amend the site is something like this (all commands executed in the local site root directory):
 
 1. Edit the file with [TextMate](http://macromates.com/ "TextMate").
-3. Preview changes locally with: `bundle exec shotgun config.ru` (if the site is already running, simply refresh browsers)
+3. Preview changes locally with: `bundle exec shotgun config.ru`
 2. Commit the file with: `git commit -a`
 4. Push the changes remotely with: `git push heroku`
 
@@ -29,4 +29,4 @@ The central attraction of Markdown for me is the ease with which it can be used 
 
 ## Why Use Git? ##
 
-Git is an enormously simple version control system.  In addition to making it easy to restore earlier versions of the site, Git makes it very easy to share code with others.  For example, the entire source of this website can be seen [here](http://github.com/etc/bweslake "bweslake.org source on GitHub"), and I am happy for others to make use of whichever parts they like.
+Git is an enormously simple version control system.  In addition to making it easy to restore earlier versions of the site, Git makes it very easy to share code with others.  For example, the entire source of this site can be found [here](http://github.com/etc/bweslake "bweslake.org source on GitHub"), and I am happy for others to make use of whichever parts they like.

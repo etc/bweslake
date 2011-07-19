@@ -5,7 +5,7 @@ Template: research
 
 ### Software
 
-I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bibliography management, [biblatex][4] for bibliographic typesetting, [Zotero][5] and [Zot2Bib][6] for bibliographic text-scraping, and [Git][git] for version control.  A short note on the technologies behind this site can be found [here][note].
+I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bibliography management, [biblatex][4] for bibliographic typesetting, [Zotero][5] and [Zot2Bib][6] for bibliographic text-scraping, and [Git][git] for version control.  A short note on the tools used to construct this site can be found [here][note].
 
  [1]: http://macromates.com/
  [2]: http://www.latex-project.org/
@@ -18,8 +18,8 @@ I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bi
 
 ### Downloads
 
-*   An ongoing [BibTeX][7] bibliography, with more than 8,000 references, is available [here][8].
-*   A simple Applescript to transform DOI fields to URL fields for a selected BibDesk entry is available [here][9] (placing this in `~/Library/Application Support/BibDesk/Scripts` will make it available in the BibDesk Scripts menu).
+*   An ongoing [BibTeX][7] bibliography is available [here][8].
+*   A simple Applescript to transform <span class="small">DOI</span> fields to <span class="small">URL</span> fields for a selected BibDesk entry is available [here][9] (place it in `~/Library/Application Support/BibDesk/Scripts` to make it available in the BibDesk Scripts menu).
 
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master

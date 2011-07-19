@@ -1,0 +1,7 @@
+#content
+  %article(role="talks")
+    ~ @page.to_html(self)
+
+#sidebar
+  %nav.research.group
+    - display_menu(Nesta::Menu.for_path('/research'), :root => '/research', :class => 'research', :levels => 3)
