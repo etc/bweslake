@@ -1,4 +1,4 @@
 Summary: 2010
-Template: teaching
+Template: teaching-year
 
 # 2010

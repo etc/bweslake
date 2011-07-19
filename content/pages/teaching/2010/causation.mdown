@@ -1,4 +1,5 @@
+Categories: teaching/2010
 Template: class
-Summary: Causation.
+Summary: A reading group on causation.
 
 # Causation

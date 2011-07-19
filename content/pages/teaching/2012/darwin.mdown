@@ -1,4 +1,5 @@
+Categories: teaching/2012
 Template: class
-Summary: Darwin and Religion
+Summary: A course on the interaction of science and religion, focusing on the reception of *The Origin of Species*, co-taught with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html "H. Allen Orr").
 
 # Darwin and Religion

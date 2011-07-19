@@ -1,3 +1,4 @@
+Categories: research/current
 Summary: Current.
 Template: research
 
@@ -13,9 +14,10 @@ Template: research
 > I argue that an independently attractive account of causation and causal explanation provides a principled resolution of the exclusion problem. 
 ### In Progress ###
 
-“A Partial Theory of Actual Causation” [*available on request*]
+“A Partial Theory of Actual Causation” \[*available on request*\]
 
 > Theories of actual causation in the structural equations framework have problems with cases of trumping, switching and voting. I defend (part of) a theory of actual causation that gets the right results in each of these cases. 
-“Statistical Mechanical Imperialism” [*coming soon*]
+
+“Statistical Mechanical Imperialism” \[*coming soon*\]
 
 > I argue against the claim, advanced by David Albert and Barry Loewer, that all non-fundamental laws can be derived from those required to underwrite the second law of thermodynamics.

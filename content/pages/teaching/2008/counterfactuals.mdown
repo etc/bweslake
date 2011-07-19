@@ -1,4 +1,5 @@
+Categories: teaching/2008
 Template: class
-Summary: Conditionals and Counterfactuals
+Summary: A reading course on conditionals and counterfactuals, focussing on counterfactuals and the temporal asymmetry of counterfactual dependence.
 
 # Conditionals and Counterfactuals

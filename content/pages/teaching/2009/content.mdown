@@ -1,4 +1,5 @@
+Categories: teaching/2009
 Template: class
-Summary: Mental Content.
+Summary: A reading group run in conjunction with *Philosophy of Mind*, focusing on questions concerning the nature of belief, content externalism and self-knowledge, and content externalism and psychological explanation.
 
 # Mental Content

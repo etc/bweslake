@@ -1,0 +1,58 @@
+Template: article
+Date: Date: 11 July 2011
+Categories: philosophy of science, journals, news
+Author: Brad Weslake
+
+# Philosophy of Science in the Latest Journal Citation Reports
+
+(Also posted to [It's Only a Theory](http://itisonlyatheory.blogspot.com/2011/07/philosophy-of-science-in-latest-journal.html "It's Only a Theory"))
+
+On 28 June, Thomson Reuters released the 2010 edition of their *Journal Citation Reports*.  The Social Science Edition contains a category for History and Philosophy of Science (for those interested, there's also a category for Ethics).   Unfortunately, the coverage of journals specialising in philosophy of science is fairly incomplete, though it does include the three most important general journals.   Here is the data for those journals:
+
+<table border="1" cellpadding="2" cellspacing="0" width="95%"> <tbody><tr>  <th rowspan="2">Title</th>    <th colspan="6">JCR Data</th>  <th colspan="2"><nobr><i>Eigenfactor</i><sup>TM</sup></nobr> Metrics </th>  </tr>  
+
+<tr><th>2010 Total Cites</th>
+<th>Impact Factor</th>
+<th>5-Year Impact Factor </th>
+<th>Immediacy Index</th>
+<th>2010 Items</th>
+<th>Cited Half-life</th>
+<th><nobr><i>E-factor</i></nobr></th>
+<th><nobr><i>Infl</i></nobr></th>
+</tr>
+<!-- Start Page Records -->
+<tr>      <td class="sorted" nowrap="nowrap">
+BIOL PHIL
+</td>            <td align="right" valign="middle" class="small">548</td>      <td align="right" valign="middle" class="small">0.829</td>   <td align="right" valign="middle" class="small">1.299</td>      <td align="right" valign="middle" class="small">0.564</td>      <td align="right" valign="middle" class="small">39</td>      <td align="right" valign="middle" class="small">6.5</td>   <td align="right" valign="middle" class="small">0.00151</td>   <td align="right" valign="middle" class="small">0.439</td>    </tr><tr>      <td class="sorted" nowrap="nowrap">
+BJPS
+</td>            <td align="right" valign="middle" class="small">767</td>      <td align="right" valign="middle" class="small">1.048</td>   <td align="right" valign="middle" class="small">1.146</td>      <td align="right" valign="middle" class="small">0.161</td>      <td align="right" valign="middle" class="small">31</td>      <td align="right" valign="middle" class="small">&gt;10.0</td>   <td align="right" valign="middle" class="small">0.00139</td>   <td align="right" valign="middle" class="small">0.434</td>    </tr><tr>      <td class="sorted" nowrap="nowrap">
+PHIL SCI
+</td>            <td align="right" valign="middle" class="small">1648</td>      <td align="right" valign="middle" class="small">0.602</td>   <td align="right" valign="middle" class="small">0.931</td>      <td align="right" valign="middle" class="small">0.044</td>      <td align="right" valign="middle" class="small">68</td>      <td align="right" valign="middle" class="small">&gt;10.0</td>   <td align="right" valign="middle" class="small">0.00191</td>   <td align="right" valign="middle" class="small">0.281</td>    </tr><tr>      <td class="sorted" nowrap="nowrap">
+SYNTH
+</td>            <td align="right" valign="middle" class="small">1471</td>      <td align="right" valign="middle" class="small">0.676</td>   <td align="right" valign="middle" class="small">0.783</td>      <td align="right" valign="middle" class="small">0.063</td>      <td align="right" valign="middle" class="small">142</td>      <td align="right" valign="middle" class="small">&gt;10.0</td>   <td align="right" valign="middle" class="small">0.00250</td>   <td align="right" valign="middle" class="small">0.199</td>    </tr></tbody></table>
+
+For those unfamiliar with the metrics, here is a brief overview.  *Impact Factor* measures the frequency with which an average article from the preceding two years was cited in a given year.  So the data above reflects the average citations in 2010 to papers published in 2008 and 2009.  *5-year Impact Factor *is just what you would expect—the same but for the preceding five years.   *Immediacy Index* is the average number of citations by articles published in some year to articles published by the journal in that year.  *Cited Half-Life* is the median age (in years) of the articles cited in a given year. The *Eigenfactor* metrics are more complicated.  *Eigenfactor* (E-Factor) is a measure that weights citations by the influence of the journal measured by citations, similar to the way Google's <a href="http://en.wikipedia.org/wiki/PageRank">PageRank</a> orders the influence of webpages.  *Influence* (Infl) is a measure of per-article impact, similar to *Impact Factor*.
+
+Some initial comments on these results:
+
+- Overall the *Cited Half-Life* figures, which are high, resemble the other humanities disciplines more than they do the sciences.  To take some sample contrasts—linguistics, mathematical physics and biology tend to have journals with cited half-lives of less than 10 years, while history tends to have journals with cited half-lives of more than 10 years. (*Biology and Philosophy* looks like an exception, but I think the lower figure is an artifact of the fact that it only started publishing in 1986).  
+- *BJPS* and *PoS* have more dissimilar 2-year impact factors than they do 5-year impact factors.  I conjecture that this is because there are more replies and discussions in *BJPS* than in *PoS*.
+- I'm impressed by the performance of *B&amp;P*, especially the high *Immediacy Index*.   I conjecture that this is because it contains a large number of fora on books and target papers.  
+- *EigenFactor* is friendlier to *Synthese* than are the JCR metrics.  This suggests that while *Synthese* is cited less overall than the others, it is cited more in the more important venues.  
+
+Here are some journals that it would be good to see indexed in future:
+
+- Biological Theory  
+- European Journal of Philosophy of Science  
+- Foundations of Physics  
+- International Studies in the Philosophy of Science  
+- Metascience  
+- Mind and Language  
+- Philosophy and Theory in Biology
+- Review of Philosophy and Psychology  
+- Science and Education  
+- Studies in History and Philosophy of Science Part A  
+- Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics  
+- Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences  
+
+No doubt I've forgotten some others, and some are too new to have two years of data to draw on.  Of course, what would be really nice is a category dedicated to philosophy journals overall.

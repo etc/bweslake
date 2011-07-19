@@ -1,3 +1,4 @@
+Categories: research/resources
 Summary: Resources.
 Template: research
 

@@ -1,7 +1,11 @@
-#content
+#narrowcontent
   %article(role="main")
     ~ @page.to_html(self)
 
-#sidebar
+#narrowsidebar
   %nav.teaching.group
-    - display_menu(Nesta::Menu.for_path('/teaching'), :root => '/teaching', :class => 'teaching', :levels => 3)
+    - display_menu(Nesta::Menu.for_path('/teaching/2012'), :root => '/teaching/2012', :class => 'teaching/2012', :levels => 2)
+    - display_menu(Nesta::Menu.for_path('/teaching/2010'), :root => '/teaching/2010', :class => 'teaching/2010', :levels => 2)
+    - display_menu(Nesta::Menu.for_path('/teaching/2009'), :root => '/teaching/2009', :class => 'teaching/2009', :levels => 2)
+    - display_menu(Nesta::Menu.for_path('/teaching/2008'), :root => '/teaching/2008', :class => 'teaching/2008', :levels => 2)
+    - display_menu(Nesta::Menu.for_path('/teaching/2007'), :root => '/teaching/2007', :class => 'teaching/2007', :levels => 2)

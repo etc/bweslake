@@ -13,8 +13,12 @@ $unit: ($container-width - ($gutter * ($columns - 1))) / $columns
 $content-width: grid-width(7)
 $sidebar-width: grid-width(4)
 
-$widecontent-width: grid-width(8)
-$widesidebar-width: grid-width(3)
+$wide-content-width: grid-width(8)
+$wide-sidebar-width: grid-width(3)
+
+$narrow-content-width: grid-width(4)
+$narrow-sidebar-width: grid-width(7)
+
 
 $sidebar-left: grid-left(9)
 
@@ -59,9 +63,30 @@ $sidebar-left: grid-left(9)
         margin-left: 0
 
     div#widecontent
-      width: $widecontent-width
+      width: $wide-content-width
       float: left
       padding: 1px 0
+
+      ol, ul
+        margin-left: 0
+
+    div#widesidebar
+      width: $wide-sidebar-width
+      margin-left: $wide-content-width
+      padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
+
+    div#narrowcontent
+      width: $narrow-content-width
+      float: left
+      padding: 1px 0
+
+      ol, ul
+        margin-left: 0
+
+    div#narrowsidebar
+      width: $narrow-sidebar-width
+      margin-left: $narrow-content-width
+      padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
 
       ol, ul
         margin-left: 0
@@ -119,25 +144,13 @@ $sidebar-left: grid-left(9)
         float: right
         width: $sidebar-width
 
-  p.teaching-overview
-    float: left
-    width: grid-width(7) - 0.1em
   nav.teaching
     float: right
-    width: grid-width(4)
+    width: grid-width(6) - 0.1em
     ul
       float: left
-      width: grid-width(4)
-      &.quick-start
-        float: none
-      &.config,
-      &.deployment
-        margin-left: $gutter
-        width: grid-width(4) - 0.1em
+      width: grid-width(3) - 0.1em
 
-  p.research-overview
-    float: left
-    width: grid-width(7) - 0.1em
   nav.research
     float: right
     width: grid-width(4)

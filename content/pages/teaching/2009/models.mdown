@@ -1,4 +1,5 @@
+Categories: teaching/2009
 Template: class
-Summary: Models and Idealisation
+Summary: A reading course on models and idealisation, focusing on their role in explanation and confirmation.
 
 # Models and Idealisation

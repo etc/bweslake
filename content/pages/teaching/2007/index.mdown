@@ -1,4 +1,4 @@
 Summary: 2007
-Template: teaching
+Template: teaching-year
 
 # 2007

@@ -1,4 +1,5 @@
+Categories: teaching/2008
 Template: class
-Summary: Philosophy of Science.
+Summary: A survey course in general philosophy of science.
 
 # Philosophy of Science

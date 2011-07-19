@@ -1,4 +1,5 @@
+Categories: teaching/2008
 Template: class
-Summary: Science and Reason.
+Summary: Issues at the intersection of science and religion, and science and public policy.  Including a special guest lecture from [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html "H. Allen Orr").
 
 # Science and Reason

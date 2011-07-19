@@ -1,4 +1,5 @@
+Categories: teaching/2009
 Template: class
-Summary: Philosophy of Biology
+Summary: An introduction to philosophy of biology focussing on issues connected with the nature and scope of biological explanations.
 
 # Philosophy of Biology

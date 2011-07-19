@@ -1,5 +1,6 @@
+Categories: teaching/2007
 Template: class
-Summary: Philosophy of Mind.
+Summary: An overview of the recent history of philosophy of mind, focusing on the relationship between the mind and the physical world.  Including a special guest lecture from [Jaegwon Kim](http://www.brown.edu/Departments/Philosophy/faculty/kim.html "Jaegwon Kim").
 
 # Philosophy of Mind
 

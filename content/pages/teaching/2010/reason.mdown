@@ -1,4 +1,5 @@
+Categories: teaching/2010
 Template: class
-Summary: Science and Reason.
+Summary: An introduction to the epistemology of science.
 
 # Science and Reason

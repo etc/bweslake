@@ -1,5 +1,6 @@
-Summary: Scientific Explanation.
+Categories: teaching/2007
 Template: class
+Summary: A survey of accounts of scientific explanation from the logical positivists to the present, focussing on three interrelated themes: i) The role of laws in explanation; ii) Explanation in the special sciences; and iii) Explanatory asymmetries.
 
 # Scientific Explanation
 

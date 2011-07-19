@@ -1,4 +1,5 @@
+Categories: teaching/2008
 Template: class
-Summary: Philosophy of Mind.
+Summary: An overview of the recent history of philosophy of mind, focusing on the relationship between the mind and the physical world.
 
 # Philosophy of Mind
