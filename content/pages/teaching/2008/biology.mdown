@@ -1,3 +1,95 @@
+Template: class
 Summary: Philosophy of Biology
 
 # Philosophy of Biology
+
+<!-- Page Title -->
+<h2>Reading Course, Fall 2008</h2>
+
+<p><a href="#overview">Overview</a> | <a href ="#textbook">Textbook</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> ]</p>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>An introductory reading course on philosophy of biology, run in collaboration with <a href="http://www.rochester.edu/college/BIO/professors/glor.html">Richard E. Glor</a> from the Ecology and Evolutionary Biology division of the <a href="http://www.rochester.edu/College/BIO/index.php">Department of Biology</a>.  Graduate and undergraduate students are both welcome&mdash;<a href="mailto:bradley.weslake@rochester.edu?subject=Philosophy of Biology Reading Course">email me</a> for more information and permission to participate.</p>
+
+<h3>Textbook</h3>
+<p>The main textbook will be:</p>
+
+<blockquote class="note">Sterelny, Kim, and Paul E. Griffiths. 1999. <em>Sex and Death: An Introduction to Philosophy of Biology</em>, University of Chicago Press, Chicago. <span class="small">[<a href="http://www.addall.com/New/submitNew.cgi?query=+0226-77304-3&amp;type=ISBN&amp;location=10000&amp;state=NY&amp;dispCurr=USD">AddAll</a>]</span></blockquote>
+
+
+<p>We will also be reading journal papers on issues that take our collective fancy.</p>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Meeting One (Wednesday 10 September)</strong></p>
+
+<p>Sterelny and Griffiths (Chapters 1 and 2).</p>
+
+<p><em>Optional</em></p>
+<p>Griffiths, Paul. 2008. &ldquo;Philosophy of Biology&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2008. [<a href="http://plato.stanford.edu/entries/biology-philosophy/"><span class="small">URI</span></a>]</p>
+
+<a name="l2"> </a>
+<p><strong>Meeting Two (Wednesday 24 September)</strong></p>
+
+<p>Sterelny and Griffiths (Chapter 3).</p>
+
+<p>Sober, Elliott and Lewontin, Richard C. 1982. &ldquo;Artifact, Cause and Genic Selection&rdquo;, in <em>Philosophy of Science</em>, Vol. 49, No. 2, June 1982, pp. 157&ndash;180. [<a href="http://www.jstor.org/stable/186916"><span class="small">URI</span></a>]</p>
+
+<p>Sterelny, Kim and Kitcher, Philip. 1988. &ldquo;The Return of the Gene&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 85, No. 7, July 1988, pp. 339&ndash;361. [<a href="http://www.jstor.org/stable/2026953"><span class="small">URI</span></a>]</p>
+
+<a name="l3"> </a>
+<p><strong>Meeting Three (Wednesday 1 October)</strong></p>
+
+<p>Sterelny and Griffiths (Chapter 4).</p>
+
+<p>Godfrey-Smith, Peter and Lewontin, Richard C. 1982. &ldquo;The Dimensions of Selection&rdquo;, in <em>Philosophy of Science</em>, Vol. 60, No. 3, September 1993, pp. 373&ndash;395. [<a href="http://www.jstor.org/stable/188081"><span class="small">URI</span></a>]</p>
+
+<a name="l4"> </a>
+<p><strong>Meeting Four (Wednesday 8 October)</strong></p>
+
+<p>Sterelny and Griffiths (Chapter 5).</p>
+
+<p>Griffiths, Paul E. and Gray, Russell D. 1994. &ldquo;Developmental Systems and Evolutionary Explanation&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 91, No. 6, June 1994, pp. 277&ndash;304. [<a href="http://www.jstor.org/stable/2940982"><span class="small">URI</span></a>]</p>
+
+<a name="l5"> </a>
+<p><strong>Meeting Five (Wednesday 22 October)</strong></p>
+
+<p>Lewontin, Richard C. 1974. &ldquo;The Analysis of Variance and the Analysis of Causes&rdquo;, in <em>American Journal of Human Genetics</em>, Vol. 26, No. 3, May 1974, pp. 400&ndash;411. [<a href="http://www.pubmedcentral.nih.gov.ezp.lib.rochester.edu/articlerender.fcgi?artid=1762622"><span class="small">URI</span></a>]</p>
+
+<p>Northcott, Robert. 2008. &ldquo;Can ANOVA Measure Causal Strength?&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 83, No. 1, March 2008, pp. 47&ndash;55. [<a href="http://dx.doi.org/10.1086/529562"><span class="small">URI</span></a>]</p>
+
+<p><em>Optional</em></p>
+
+<p>Downes, Stephen M. 2004. &ldquo;Heredity and Heritability&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University Press, Stanford, 2004. [<a href="http://plato.stanford.edu/entries/heredity/"><span class="small">URI</span></a>]</p>
+
+<a name="l6"> </a>
+<p><strong>Meeting Six (Wednesday 29 October)</strong></p>
+
+<p>Sterelny and Griffiths (Chapter 8).</p>
+
+<a name="l7"> </a>
+<p><strong>Meeting Seven (Wednesday 5 November)</strong></p>
+
+<p>Sober, Elliott and Wilson, David Sloan. 1994. &ldquo;A Critical Review of Philosophical Work on the Units of Selection Problem&rdquo;, in <em>Philosophy of Science</em>, Vol. 61, No. 4, December 1994, pp. 534&ndash;555. [<a href="http://www.jstor.org/stable/188334"><span class="small">URI</span></a>]</p>
+
+<a name="l8"> </a>
+<p><strong>Meeting Eight (Wednesday 12 November)</strong></p>
+
+<p>Lloyd, Elisabeth A. and Gould, Stephen Jay. 1993. &ldquo;Species Selection on Variability&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 90, No. 2, January 1993, pp. 595&ndash;599. [<a href="http://zuihitsu.org/protected/lloyd_gould_variability.pdf"><span class="small">PDF</span></a>]</p>
+
+<p><em>Optional</em></p>
+
+<p>Lloyd, Elisabeth A. 2005. &ldquo;Units and Levels of Selection&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University Press, Stanford, 2005. [<a href="http://plato.stanford.edu/entries/selection-units/"><span class="small">URI</span></a>]</p>
+
+<p>Gould, Stephen Jay and Lloyd, Elisabeth A. 1999. &ldquo;Individuality and Adaptation Across Levels of Selection: How Shall We Name and Generalize the Unit of Darwinism?&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 96, No. 21, October 1999, pp. 11904&ndash;11909. [<a href="http://zuihitsu.org/protected/gould_lloyd_units.pdf"><span class="small">PDF</span></a>]</p>
+
+<a name="l9"> </a>
+<p><strong>Meeting Nine (Wednesday 19 November)</strong></p>
+
+<p>Waters, C. Kenneth. &ldquo;Why Genic and Multilevel Selection Theories are Here to Stay&rdquo;, in <em>Philosophy of Science</em>, Vol. 72, No. 2, April 2005, pp. 311&ndash;333. [<a href="http://dx.doi.org/10.1086/432426"><span class="small">URI</span></a>]</p>
+
+<!-- Revision Information -->
+*Updated*: 19 November 2008

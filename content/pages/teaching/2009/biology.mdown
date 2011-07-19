@@ -1,3 +1,4 @@
+Template: class
 Summary: Philosophy of Biology
 
 # Philosophy of Biology

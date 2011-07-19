@@ -1,3 +1,325 @@
+Template: class
 Summary: Philosophy of Mind.
 
 # Philosophy of Mind
+
+<!-- Page Title -->
+<h2>Fall 2007</h2>
+
+<!-- Page Content -->
+<blockquote>If we were to think of the philosophy of mind over the past fifty years as a single individual, we would say of that person that he is a compulsive neurotic, and his neurosis takes the form of repeating the same pattern of behaviour over and over.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;John Searle.</blockquote>
+
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#announcements">Announcements</a> | <a href ="#assessment">Assessment</a> | <a href ="#textbook">Textbook</a> | <a href ="#special">Special Events</a> | <a href ="#presentations">Presentation Schedule</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a>  | <a href="#l11">11</a>  | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a> | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a> | <a href="#l25">25</a> | <a href="#l26">26</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Codes</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL 244, PHL 244W, PHL 444</td><td>Meliora 221</td><td>Mondays and Wednesdays, 12:30pm to 1:45pm</td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>This course is an overview of the recent history of philosophy of mind, focusing on the relationship between the mind and the physical world.  The aim is to trace through some of the central debates in this history, and to assess where we stand today.  Topics covered include the question of how to formulate physicalism about the mind; an examination of behaviourism, the identity theory, and functionalist theories of the mind; the prospects for integrating consciousness and mental content within a physicalist worldview; and the problem of mental causation.  The course may be taken for upper level writing credit.</p>
+
+<a name="announcements"> </a>
+<h3>Announcements</h3>  
+
+<ul>
+<li>The class has moved to a new room.  We will now meet in Meliora 221. <span class="small">[6 September]</span></li>
+<li>The textbook is now available from the campus bookstore. <span class="small">[10 September]</span></li>
+<li>The <a href ="#special">details</a> for Professor Kim's Colloquium presentation have been added. <span class="small">[15 October]</span></li>
+</ul>
+
+<a name="assessment"> </a>
+<h3>Assessment</h3>
+<p>Two papers and one presentation.  Graduate students or students enrolled for upper level writing credit will be required to write longer essays.  Graduate students will also be required to do additional reading and meet for an additional discussion section.  Due dates to be determined.  <em>There are no exams</em>.</p>
+
+<em>Research Resources</em>  
+Available <a href="resources.pdf">here</a> [<span class="small">PDF</span>]
+
+<em>Essay One</em>  
+Available <a href="essay1.pdf">here</a> [<span class="small">PDF</span>]
+
+<em>Essay Two</em>  
+Available <a href="essay2.pdf">here</a> [<span class="small">PDF</span>]
+
+<a name="textbook"> </a>
+<h3>Textbook</h3>
+<p>Jaegwon Kim,  <em>Philosophy of Mind</em>, 2<sup>nd</sup> Edition, Westview Press, Boulder CO, 2005. <span class="small">[<a href="http://www.perseusbooksgroup.com/westview/book_detail.jsp?isbn=0813342694">Westview</a>] [<a href="http://www.addall.com/New/submitNew.cgi?query=0813342694&type=ISBN&location=10000&state=NY&dispCurr=USD">AddAll</a>]</span></p>
+
+<blockquote class="note">The textbook has been ordered into the <a href="http://urochester.bkstore.com/">UR Bookstore</a>, where it can be pre-ordered.  It should be available in time for the class on Monday 10 September&mdash;any readings before the textbook arrives will be distributed in class.  Note that the 2<sup>nd</sup> Edition is required.  If buying second hand, make sure you do not buy the 1<sup>st</sup> Edition.</blockquote>
+
+<a name="special"> </a>
+<h3>Special Events</h3>
+
+<p><a href="http://www.brown.edu/Departments/Philosophy/faculty/kim.html">Jaegwon Kim</a>, William Herbert Perry Faunce Professor of Philosophy at Brown University and author of our textbook, will be speaking to our class on Wednesday 7 November and also at the <a href="http://www.rochester.edu/College/PHL/events.html">Philosophy Colloquium</a> later in the afternoon.  Here are the details for the Colloquium:</p>
+
+<blockquote class="note">Wednesday 7 November, 4:00<span class="small">PM</span>
+  Gowen Room, Wilson Commons
+  Reception to follow in Lattimore 501</blockquote>
+
+<a name ="presentations"> </a>
+<h3>Presentation Schedule</h3>
+
+<p>
+<table class="names">
+<thead>
+<tr><th>Date</th><th>Presenter</th></tr>
+</thead>
+<tbody>
+<tr><td><em>Monday 17 September</em></td><td> Emily</td></tr>
+<tr><td><em>Monday 24 September</em></td><td> Mike</td></tr>
+<tr><td><em>Wednesday 26 September</em></td><td> Chris</td></tr>
+<tr><td><em>Monday 1 October</em></td><td> Ana Karen</td></tr>
+<tr><td><em>Wednesday 3 October </em></td><td> Brandon</td></tr>
+<tr><td><em>Monday 15 October </em></td><td> Daniel</td></tr>
+<tr><td><em>Monday 22 October </em></td><td> Caroline </td></tr>
+<tr><td><em>Wednesday 24 October </em></td><td> David </td></tr>
+<tr><td><em>Wednesday 31 October </em></td><td> Amulya </td></tr>
+<tr><td><em>Monday 5 November </em></td><td> Sommer </td></tr>
+<tr><td><em>Wednesday 14 November </em></td><td> Stephen </td></tr>
+<tr><td><em>Monday 19 November </em></td><td> Uche </td></tr>
+<tr><td><em>Monday 26 November </em></td><td> Pankaj </td></tr>
+<tr><td><em>Monday 3 December </em></td><td> Mark </td></tr>
+<tr><td><em>Wednesday 5 December </em></td><td> Sarah </td></tr>
+<tr><td><em>Monday 10 December </em></td><td> Wes </td></tr>
+<tr><td><em>Wednesday 12 December </em></td><td> Nick </td></tr>
+</tbody>
+</table>
+</p>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Lecture One (Monday 10 September)</strong></p>
+
+<p><a href="http://www.ceu.hu/phil/robinson/">Howard Robinson</a>, "Dualism", in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, 2003. [<a href="http://plato.stanford.edu/entries/dualism/"><span class="small">URI</span></a>]</p>
+
+<blockquote class="note">Focus especially on Sections 1-3.</blockquote>
+
+<a name="l2"> </a>
+<p><strong>Lecture Two (Wednesday 12 September)</strong></p>
+
+<p>Kim (2005, Chapters 1 and 2).</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://web.princeton.edu/sites/philosph/bios/garber.htm">Garber, Daniel</a>. 1983. "Understanding Interaction: What Descartes Should Have Told 
+Elisabeth", in <em>Southern Journal of Philosophy</em>, Vol. 21, Supplement, 1983, pp. 
+15-32.</p>
+
+<blockquote class="note">Reprinted in his <em>Descartes Embodied: Reading Cartesian Philosophy Through Cartesian Science</em>, Cambridge University Press, Cambridge, 2001, pp. 168-188.  This is available online through our library.  If you are on campus, <a href="http://site.ebrary.com/lib/rochester/Doc?id=10014992">this</a> is a direct link.  You will then need to navigate to p. 168 with the "Go To Page Number" button.</blockquote>
+
+<a name="l3"> </a>
+<p><strong>Lecture Three (Monday 17 September)</strong></p>
+
+<p>Kim (2005, Chapter 3).</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://web.mit.edu/philos/www/byrne.html">Byrne, Alex</a>. 1994. "Behaviourism", in Samuel Guttenplan (Ed.), <em>A Companion to the 
+Philosophy of Mind</em>, Blackwell, Oxford, pp. 132-140. [<a href="http://web.mit.edu/abyrne/www/behaviourism.html"><span class="small">URI</span></a>]</p>
+
+<a name="l4"> </a>
+<p><strong>Lecture Four (Wednesday 19 September)</strong></p>
+
+<p><a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 1981. "Psychologism and Behaviorism", in <em>The Philosophical Review</em>, Vol. 90, No. 1, January 1981, pp. 5-43. [<a href="http://www.jstor.org/sici?sici=0031-8108%28198101%2990%3A1%3C5%3APAB%3E2.0.CO%3B2-J"><span class="small">JSTOR</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1965. "Brains and Behavior", in R. J. Butler (Ed), <em>Analytical Philosophy</em>, Second Series, Oxford University Press, Oxford, pp. 1-19.</p>
+
+<blockquote class="note">Reprinted in Hilary Putnam, <em>Mind, Language and Reality</em>, Philosophical Papers, Volume II, Cambridge University Press, Cambridge, 1975, pp. 325-341.  Also reprinted in David J. Chalmers, <em>Philosophy of Mind: Classical and Contemporary Readings</em>, Oxford University Press, Oxford, 2002, pp. 45-54.</blockquote>
+
+<p><a href="http://web.mit.edu/linguistics/www/chomsky.home.html">Chomsky, Noam</a>. 1959. "Review of <em>Verbal Behavior</em>", in <em>Language</em>, Vol. 35, 1959, pp. 26-58. [<a href="http://links.jstor.org/sici?sici=0097-8507%28195901%2F03%2935%3A1%3C26%3AVB%3E2.0.CO%3B2-L"><span class="small">JSTOR</span></a>]</p>
+
+<a name="l5"> </a>
+<p><strong>Lecture Five (Monday 24 September)</strong></p>
+
+<p>Kim (2005, Chapter 4).</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://www.mcps.umn.edu/fbiofr.htm">Feigl, Herbert</a>. 1958. "The "Mental" and the "Physical"", in Herbert Feigl, Michael Scriven, and Grover Maxwell (Eds), <em>Concepts, Theories, and the Mind-Body Problem</em>, Minnesota Studies in the Philosophy of Science, Volume 2, University of Minnesota Press, Minneapolis, pp. 370-497.</p>
+
+<blockquote class="note">Reprinted in Herbert Feigl, <em>The "Mental" and the "Physical": The Essay and a Postscript</em>, University of Minnesota Press, Minneapolis, 1968.</blockquote>
+
+<a name="l6"> </a>
+<p><strong>Lecture Six (Wednesday 26 September)</strong></p>
+
+<p><a href="http://arts.monash.edu.au/phil/staff/smart/index.html">Smart, J. J. C</a>. 1959. "Sensations and Brain Processes", in <em>The Philosophical Review</em>, Vol. 68, No. 2, April 1959, pp. 141&ndash;156. [<a href="http://links.jstor.org/sici?sici=0031-8108%28195904%2968%3A2%3C141%3ASABP%3E2.0.CO%3B2-S"><span class="small">JSTOR</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://www.arts.adelaide.edu.au/humanities/philosophy/utplace.html">Place, Ullin T</a>. 1956. "Is Consciousness a Brain Process?", in <em>British Journal of Psychology</em>, Vol. 47, No. 1, February 1956, pp. 44&ndash;50.</p>
+
+<blockquote class="note">I have an electronic copy of this paper I can send to, or print out for, anyone who is interested.</blockquote>
+
+<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1966. "An Argument for the Identity Theory", in <em>The Journal of Philosophy</em>, Vol. 63, No. 1, January 1966, pp. 17&ndash;25. [<a href="http://links.jstor.org/sici?sici=0022-362X%2819660106%2963%3A1%3C17%3AAAFTIT%3E2.0.CO%3B2-N"><span class="small">JSTOR</span></a>]</p>
+
+<a name="l7"> </a>
+<p><strong>Lecture Seven (Monday 1 October)</strong></p>
+
+<p>Kim (2005, Chapter 5).</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 2007. "Functionalism", in <em>Consciousness, Function, and Representation</em>, Volume 1, Collected Papers, MIT Press, Cambridge MA, pp. 15&ndash;26. [<a href="http://mitpress.mit.edu/books/chapters/0262524627chap1.pdf"><span class="small">PDF</span></a>]</p>
+
+<a name="l8"> </a>
+<p><strong>Lecture Eight (Wednesday 3 October)</strong></p>
+
+<p><a href="http://socrates.berkeley.edu/~jsearle/">Searle, John R</a>. 1980. "Minds, Brains, and Programs", in <em>Behavioral and Brain Sciences</em>, Vol. 3, No. 3, pp. 417&ndash;457. [<a href="http://www.bbsonline.org/documents/a/00/00/04/84/bbs00000484-00/bbs.searle2.html"><span class="small">URI</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1967.  "Psychological Predicates", in Capitan, William H., and Daniel Davy Merrill, <em>Art, Mind, and Religion</em>, University of Pittsburgh Press, Pittsburgh, pp. 37&ndash;48. </p>
+
+<blockquote class="note">Reprinted as "The Nature of Mental States", in his <em>Mind, Language and Reality</em>, Volume II, Philosophical Papers, Cambridge University Press, Cambridge, 1975, pp. 429&ndash;440. </blockquote>
+
+<p><a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 1978. "Troubles with Functionalism", in C. Wade Savage (Ed.), <em>Perception and Cognition: 
+Issues in the Foundations of Psychology</em>, Minnesota Studies in the Philosophy of Science, Volume 9, University of Minnesota Press, Minneapolis, pp. 261&ndash;326. [<a href="http://w3.uniroma1.it/cordeschi/Articoli/block.htm"><span class="small">URI</span></a>]</p>
+
+<blockquote class="note">Reprinted in his <em>Consciousness, Function, and Representation</em>, Volume 1, Collected Papers, MIT Press, Cambridge MA, pp. 63&ndash;102.</blockquote>
+
+<a name="l9"> </a>
+<p><strong>Lecture Nine (Wednesday 10 October)</strong></p>
+
+<p>Kim (2005, Chapter 6).</p>
+
+<p><em>Optional</em><br/>  
+Lewis, David. 1972. "Psychophysical and Theoretical Identifications", in <em>Australasian 
+Journal of Philosophy</em>, Vol. 50, No. 3, December 1972, pp. 249&ndash;258. [<a href="http://dx.doi.org/10.1080/00048407212341301"><span class="small">URI</span></a>].</p>
+
+<a name="l10"> </a>
+<p><strong>Lecture Ten (Monday 15 October)</strong></p>
+
+<p>Block, Ned J., and Jerry A. Fodor. 1972. "What Psychological States are Not", in <em>The Philosophical Review</em>, Vol. 81, No. 2, April 1972, pp. 159&ndash;181. [<a href="http://links.jstor.org/sici?sici=0031-8108%28197204%2981%3A2%3C159%3AWPSAN%3E2.0.CO%3B2-C"><span class="small">JSTOR</span></a>]</p>
+
+<a name="l11"> </a>
+<p><strong>Lecture Eleven (Wednesday 17 October)</strong></p>
+
+<p><a href="http://philosophy.ucsd.edu/faculty/pchurchland/">Churchland, Paul</a>. 1981. "Eliminative Materialism and the Propositional Attitudes", in <em>The Journal of Philosophy</em>, Vol. 78, No. 2, February 1981, pp. 67&ndash;90. [<a href="http://www.jstor.org/sici?sici=0022-362X%28198102%2978%3A2%3C67%3AEMATPA%3E2.0.CO%3B2-8"><span class="small">JSTOR</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://philosophy.ucsd.edu/faculty/pchurchland/">Churchland, Paul</a>. 2005. "Functionalism at Forty: A Critical Retrospective", in <em>The Journal of Philosophy</em>, Vol. 102, No. 1, January 2005, pp. 33&ndash;50. [<a href="http://www.nyu.edu/gsas/dept/philo/courses/consciousness05/churchland.pdf"><span class="small">PDF</span></a>]</p>
+
+<p><a href="http://dingo.sbs.arizona.edu/~thorgan/">Horgan, Terence</a> and <a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 1985. "Folk Psychology is Here to Stay", in <em>The Philosophical Review</em>, Vol. 94, No. 2, April 1985, pp. 197&ndash;226. [<a href="http://dx.doi.org/10.2307/2185428"><span class="small">JSTOR</span></a>]</p>
+
+<a name="l12"> </a>
+<p><strong>Lecture Twelve (Monday 22 October)</strong></p>
+
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1991. "Real Patterns", <em>The Journal of Philosophy</em>, Vol. 88, No. 1, January 1991, pp. 27&ndash;51. [<a href="http://dx.doi.org/10.2307/2027085"><span class="small">JSTOR</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1981. "Three Kinds of Intentional Psychology", in Richard A. Healey (Ed.), <em>Reduction, Time, and Reality: Studies in the Philosophy of the Natural Sciences</em>, Cambridge University Press, Cambridge, pp. 37&ndash;61.</p>
+
+<blockquote class="note">Reprinted in his <em>The Intentional Stance</em>, MIT Press, Cambridge MA, pp. 43&ndash;68.</blockquote>
+
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1987. "Reflections: Instrumentalism Reconsidered", in <em>The Intentional Stance</em>, MIT Press, Cambridge MA, pp. 69&ndash;81.</p>
+
+<a name="l13"> </a>
+<p><strong>Lecture Thirteen (Wednesday 24 October)</strong></p>
+
+<p>Kim (2005, Chapter 7).</p>
+
+<p><em>Optional</em><br/>
+Yalowitz, Steven. 2005. "Anomalous Monism", in Edward N. Zalta (Ed.), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford. [<a href="http://plato.stanford.edu/entries/anomalous-monism/"><span class="small">URI</span></a>].</p>
+
+<a name="l14"> </a>
+<p><strong>Lecture Fourteen (Monday 29 October)</strong></p>
+
+<p>Kim, Jaegwon. 1998. "The Many Problems of Mental Causation", in <em>Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation</em>, MIT Press, Cambridge MA, pp. 29&ndash;56.</p>
+
+<p><em>Optional</em><br/>  
+Horgan, Terence. 1997. "Kim on Mental Causation and Causal Exclusion", in <em>No&ucirc;s</em>, 
+Vol. 31, Supplement: Philosophical Perspectives, 11, Mind, Causation, and World, pp. 165&ndash;184. [<a href="http://links.jstor.org/sici?sici=0029-4624(1997)31%3C165%3AKOMCAC%3E2.0.CO%3B2-E"><span class="small">JSTOR</span></a>]</p>
+
+<p><a href="http://www.arts.cornell.edu/phil/faculty/Bennett.htm">Bennett, Karen</a>. 2003. "Why the Exclusion Problem Seems Intractable, and How, Just 
+Maybe, To Tract It", in <em>No&ucirc;s</em>, Vol. 37, No. 3, September 2003, pp. 471&ndash;497. [<a href="http://dx.doi.org/10.1111/1468-0068.00447"><span class="small">URI</span></a>]</p>
+
+<a name="l15"> </a>
+<p><strong>Lecture Fifteen (Wednesday 31 October)</strong></p>
+
+<p><a href="http://ruccs.rutgers.edu/faculty/lepore.html">Lepore, Ernest</a> and <a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/loewer.html">Loewer, Barry</a>. 1987. "Mind Matters", in <em>The Journal of Philosophy</em>, Vol. 84, No. 11, November 1987, pp. 630&ndash;642. [<a href="http://links.jstor.org/sici?sici=0022-362X(198711)84%3A11%3C630%3AMM%3E2.0.CO%3B2-L"><span class="small">JSTOR</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/fodor.html">Fodor, Jerry</a>. 1989. "Making Mind Matter More", in <em>Philosophical Topics</em>, Vol. 17, No. 1, Spring 1989, pp. 59&ndash;79.</p>
+
+<blockquote class="note">Reprinted in his <em>A Theory of Content and Other Essays</em>, MIT Press, Cambridge MA, 1992, pp. 137&ndash;159.</blockquote>
+
+<p>Lepore, Ernest and Loewer, Barry. 1989. "More on Making Mind Matter", in <em>Philosophical Topics</em>, Vol. 17, No. 1, Spring 1989, pp. 175&ndash;191.</p>
+
+<a name="l16"> </a>
+<p><strong>Lecture Sixteen (Monday 5 November)</strong></p>
+
+<p>Kim, Jaegwon. 1998. "Mental Causation: The Backlash and Free Lunches", in <em>Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation</em>, MIT Press, Cambridge MA, pp. 58&ndash;87.</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://admin.cdh.ucla.edu/webpage.php?par=97">Burge, Tyler</a>. 1993. "Mind-Body Causation and Explanatory Practice", in John Heil and Alfred Mele (Ed.), <em>Mental Causation</em>, Oxford University Press, Oxford, pp. 97&ndash;120. </p>
+
+<blockquote class="note">Reprinted in his <em>Foundations of Mind</em>, Oxford University Press, Oxford, 2007, pp. 344&ndash;362.</blockquote>
+
+<p>Burge, Tyler. 2006. "Postscript: Mind-Body Causation and Explanatory Practice", in <em>Foundations of Mind</em>, Oxford University Press, Oxford, 2007, pp. 363&ndash;382.</p>
+
+<a name="l17"> </a>
+<p><strong>Lecture Seventeen (Wednesday 7 November)</strong></p>
+
+<p>Kim (2005, Chapter 10).</p>
+
+<p><em>Optional</em><br/>  
+Kim, Jaegwon. 1998. "Reduction and Reductionism: A New Look", in <em>Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation</em>, MIT Press, Cambridge MA, pp. 89&ndash;120.</p>
+
+<a name="l18"> </a>
+<p><strong>Lecture Eighteen (Monday 12 November)</strong></p>
+
+<p><em>No reading</em>.</p>
+
+<a name="l19"> </a>
+<p><strong>Lecture Nineteen (Wednesday 14 November)</strong></p>
+
+<p>Kim (2005, Chapter 8).</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://consc.net/">Chalmers, David J</a>. 1995. "The Puzzle of Conscious Experience", in <em>Scientific American</em>, Vol. 237, No. 6, December 1995, pp. 62&ndash;68. [<a href="http://consc.net/papers/puzzle.pdf"><span class="small">PDF</span></a>].</p>
+
+<a name="l20"> </a>
+<p><strong>Lecture Twenty (Monday 19 November)</strong></p>
+
+<p><a href="http://philosophy.fas.nyu.edu/object/thomasnagel">Nagel, Thomas</a>, 1974. "What Is It Like to Be a Bat?", in <em>The Philosophical Review</em>, Vol. 83, No. 4, October 1974, pp. 435&ndash;450. [<a href="http://dx.doi.org/10.2307/2183914"><span class="small">URI</span></a>]</p>
+
+<a name="l21"> </a>
+<p><strong>Lecture Twenty One (Monday 26 November)</strong></p>
+
+<p><a href="http://philrsss.anu.edu.au/people-defaults/fcj/index.php3">Jackson, Frank</a>. 1982. "Epiphenomenal Qualia", in <em>The Philosophical Quarterly</em>, Vol. 32, No. 127, April 1982, pp. 127&ndash;136. [<a href="http://links.jstor.org/sici?sici=0031-8094%28198204%2932%3A127%3C127%3AEQ%3E2.0.CO%3B2-5"><span class="small">URI</span></a>]</p>
+
+<a name="l22"> </a>
+<p><strong>Lecture Twenty Two (Wednesday 28 November)</strong></p>
+
+<p><a href="http://perso.unifr.ch/martine.nida-ruemelin/">Nida-R&uuml;melin, Martine</a>, "Qualia: The Knowledge Argument", in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, 2002. [<a href="http://plato.stanford.edu/entries/qualia-knowledge/"><span class="small">URI</span></a>]</p>
+
+<a name="l23"> </a>
+<p><strong>Lecture Twenty Three (Monday 3 December)</strong></p>
+
+<p><a href="http://www.princeton.edu/~harman/">Harman, Gilbert</a>, "The Intrinsic Quality of Experience", in <em>Philosophical Perspectives</em>, Vol. 4, Action Theory and Philosophy of Mind, 1990, pp. 31&ndash;52. [<a href="http://links.jstor.org/sici?sici=1520-8583%281990%294%3C31%3ATIQOE%3E2.0.CO%3B2-7"><span class="small">URI</span></a>]</p>
+
+<a name="l24"> </a>
+<p><strong>Lecture Twenty Four (Wednesday 5 December)</strong></p>
+
+<p><a href="http://www.unc.edu/%7Eujanel/">Lycan, William G.</a>, "Representational Theories of Consciousness", in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, 2006. [<a href="http://plato.stanford.edu/entries/consciousness-representational/"><span class="small">URI</span></a>]</p>
+
+<p><em>Optional</em><br/>  
+<a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>, "Inverted Earth", in <em>Philosophical Perspectives</em>, Vol. 4, Action Theory and Philosophy of Mind, 1990, pp. 53&ndash;79. [<a href="http://links.jstor.org/sici?sici=1520-8583%281990%294%3C53%3AIE%3E2.0.CO%3B2-8"><span class="small">URI</span></a>]</p>
+
+<a name="l25"> </a>
+<p><strong>Lecture Twenty Five (Monday 10 December)</strong></p>
+
+<p><a href="http://philrsss.anu.edu.au/people-defaults/fcj/index.php3">Jackson, Frank</a>. 2003. "Mind and Illusion", in Anthony O'Hear (Ed), <em>Minds and Persons</em>, Cambridge University Press, Cambridge, 2003, pp. 251&ndash;272. [<a href="http://consciousness.anu.edu.au/jackson/mindillusion.pdf"><span class="small">PDF</span></a>]</p>
+
+<a name="l26"> </a>
+<p><strong>Lecture Twenty Six (Wednesday 12 December)</strong></p>
+
+<p><a href="http://www.colinmcginnblog.com/">McGinn, Colin</a>. "Can We Solve the Mind&ndash;Body Problem?", in <em>Mind</em>, Vol. 98, No. 391, July 1989, pp. 349&ndash;366. [<a href="http://links.jstor.org/sici?sici=0026-4423%28198907%292%3A98%3A391%3C349%3ACWSTMP%3E2.0.CO%3B2-3"><span class="small">URI</span></a>]</p>
+
+<!-- Revision Information -->
+*Updated*: 3 December 2007

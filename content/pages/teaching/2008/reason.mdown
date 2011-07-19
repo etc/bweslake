@@ -1,3 +1,4 @@
+Template: class
 Summary: Science and Reason.
 
 # Science and Reason

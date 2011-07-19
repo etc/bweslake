@@ -1,3 +1,4 @@
+Template: class
 Summary: Darwin and Religion
 
 # Darwin and Religion

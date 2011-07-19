@@ -100,10 +100,28 @@ li
 blockquote
   margin: $base-vertical-margin 0
   padding: 0 $base-vertical-margin
-  
-  font-style: italic
   color: $base-color + #555
-  
+
+blockquote.note
+  font-style: normal
+
+blockquote.caption
+  font-size: 85%
+  font-style: normal
+  border: 0
+  padding: 0
+  margin: 0
+  text-align: center
+
+ul li blockquote
+  border-top: 0
+  padding-top: 0
+  margin-top: 0
+  border-bottom: 0
+  padding-bottom: 0
+  margin-bottom: 0
+
+
 pre
   padding: ($vertical-rhythm / 2) 1em
   overflow: auto
@@ -217,7 +235,9 @@ article p.meta
 article
   img
     max-width: 100%
-    margin-bottom: $base-vertical-margin
+    margin: 0
+    padding: 0
+    border: 0
 
   code,
   pre
@@ -375,5 +395,61 @@ article.home
         list-style: none
       nav > ul > li:first-child
         font-weight: bold
+
+// Tables
+
+table.right
+  margin-top: 1em
+  margin-right: 2em
+  border-collapse: collapse
+
+table.right td, th
+  padding-left 0em
+  padding-right: 1.5em
+  border: 0
+  vertical-align: text-top
+
+table.right td.colon, th.colon
+  padding-left: 0em
+  padding-right: 0.75em
+
+table.names
+  margin-top: 1em
+  margin-right: 2em
+  margin-left: 2em
+  border-collapse: collapse
+
+table.names td, th
+  padding-left: 0em
+  padding-right: 1.5em
+  border: 0
+  vertical-align: text-top
+
+table.names td.colon, th.colon
+  padding-left: 0em
+  padding-right: 0.75em
+
+table.assess
+  margin-right: 2em
+  margin-left: 4.5em
+  border-collapse: collapse
+
+table.assess td, th
+  padding-left: 0em
+  padding-right: 1.5em
+  border: 0
+  vertical-align: text-top
+
+table.assess td.colon, th.colon
+  padding-left: 0em
+  padding-right: 0.75em
+
+tr.odd td, tr.odd th
+  background-color: #eee
+
+thead th, tfoot th, tfoot td
+  text-align: left
+  font-weight: normal
+  font-style: italic
 
 @import "layout.sass"

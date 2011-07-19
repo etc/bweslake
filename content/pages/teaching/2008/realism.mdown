@@ -1,3 +1,4 @@
+Template: class
 Summary: IBE and Scientific Realism
 
 # IBE and Scientific Realism

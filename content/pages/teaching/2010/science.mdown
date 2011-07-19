@@ -1,3 +1,4 @@
+Template: class
 Summary: Philosophy of Science.
 
 # Philosophy of Science

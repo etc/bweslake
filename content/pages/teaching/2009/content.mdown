@@ -1,3 +1,4 @@
+Template: class
 Summary: Mental Content.
 
 # Mental Content

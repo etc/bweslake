@@ -1,3 +1,4 @@
+Template: class
 Summary: Models and Idealisation
 
 # Models and Idealisation
