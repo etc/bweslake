@@ -3,9 +3,9 @@ Template: research
 
 # Resources
 
-### Software
+### Workflow
 
-I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bibliography management, [biblatex][4] for bibliographic typesetting, [Zotero][5] and [Zot2Bib][6] for bibliographic text-scraping, and [Git][git] for version control.  A short note on the tools used to construct this site can be found [here][note].
+I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bibliography management, [biblatex][4] for bibliographic typesetting, [Zotero][5] and [Zot2Bib][6] for bibliographic text-scraping, and [Git][git] for version control.
 
  [1]: http://macromates.com/
  [2]: http://www.latex-project.org/
@@ -13,7 +13,6 @@ I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bi
  [4]: http://www.ctan.org/tex-archive/help/Catalogue/entries/biblatex.html
  [5]: http://www.zotero.org/
  [6]: http://mackerron.com/zot2bib/
- [note]: ../../blog/a-note-on-this-site
  [git]: http://git-scm.com/
 
 ### Downloads
@@ -24,3 +23,21 @@ I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bi
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master
  [9]: http://www.rochester.edu/college/faculty/bweslake/research/resources/DOItoURI.scpt.zip
+
+### Utilities
+
+Other things I find useful:
+
+* [Detexify][detexify]
+* [Pandoc][pandoc]
+* [nvALT][nvalt]
+
+ [detexify]: http://detexify.kirelabs.org/classify.html "Detexify"
+ [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc"
+ [nvalt]: http://brettterpstra.com/project/nvalt/ "nvALT"
+
+### This Site ###
+
+A short note on the tools used to construct this site can be found [here][note].
+
+ [note]: ../../blog/a-note-on-this-site

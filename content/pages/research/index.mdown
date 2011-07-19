@@ -2,4 +2,4 @@ Template: research
 
 # Research
 
-Things I do.
+My main projects at present concern the relationship between different levels of explanation in the sciences, the use of causal models to analyse token causation, the temporal asymmetry of causation, and the exclusion problem in philosophy of mind.
