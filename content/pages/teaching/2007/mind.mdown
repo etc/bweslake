@@ -52,7 +52,7 @@ Available <a href="https://s3.amazonaws.com/bweslake/teaching/2007/mind/essay2.p
 
 <a name="textbook"> </a>
 <h3>Textbook</h3>
-<p>Jaegwon Kim,  <em>Philosophy of Mind</em>, 2<sup>nd</sup> Edition, Westview Press, Boulder CO, 2005. <span class="small">[<a href="http://www.perseusbooksgroup.com/westview/book_detail.jsp?isbn=0813342694">Westview</a>] [<a href="http://www.addall.com/New/submitNew.cgi?query=0813342694&type=ISBN&location=10000&state=NY&dispCurr=USD">AddAll</a>]</span></p>
+<p>Jaegwon Kim,  <em>Philosophy of Mind</em>, 2<sup>nd</sup> Edition, Westview Press, Boulder CO, 2005. <span class="small">[<a href="http://www.perseusbooksgroup.com/westview/book_detail.jsp?isbn=0813342694">Westview</a>] [<a href="http://bit.ly/qXuk67">AddAll</a>]</span></p>
 
 <blockquote class="note">The textbook has been ordered into the <a href="http://urochester.bkstore.com/">UR Bookstore</a>, where it can be pre-ordered.  It should be available in time for the class on Monday 10 September&mdash;any readings before the textbook arrives will be distributed in class.  Note that the 2<sup>nd</sup> Edition is required.  If buying second hand, make sure you do not buy the 1<sup>st</sup> Edition.</blockquote>
 
