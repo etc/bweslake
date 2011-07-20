@@ -1,7 +1,8 @@
 Template: article
-Date: Date: 11 July 2011
 Categories: philosophy of science, journals, news
 Author: Brad Weslake
+Date: 11 July 2011
+Summary: The latest *Journal Citation Reports* is out, and it contains some interesting data on four major philosophy of science journals.  Unfortunately, the majority of philosophy of science journals remain unindexed.
 
 # Philosophy of Science in the Latest Journal Citation Reports
 
