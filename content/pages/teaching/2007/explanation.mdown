@@ -47,4 +47,4 @@ Available [here][7] \[<span class="sc">pdf</span>\].
  [4]: http://www.oup.com/us/catalog/general/subject/Philosophy/Science/?view=usa&ci=9780195189537
  [5]: http://www.addall.com/New/compare.cgi?dispCurr=USD&id=1097329&isbn=0195189531&location=10000&state=NY
  [6]: http://dx.doi.org/10.1093/0195155270.001.0001
- [7]: http://www.rochester.edu/college/faculty/bweslake/teaching/2007/explanation/syllabus.pdf
+ [7]: https://s3.amazonaws.com/bweslake/teaching/2007/explanation/syllabus.pdf

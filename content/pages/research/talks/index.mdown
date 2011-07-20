@@ -35,7 +35,7 @@ Phelps Colloquium Series \[[<span class="small">DETAILS</span>][7]\]
 [University of Rochester][8]
 
  [5]: http://www.rochester.edu/College/bio/professors/orr.html
- [6]: http://www.rochester.edu/college/faculty/bweslake/research/talks/tangled_slides.pdf
+ [6]: https://s3.amazonaws.com/bweslake/research/talks/tangled_slides.pdf
  [7]: http://www.rochester.edu/provost/phelps_colloquium.html
  [8]: http://www.rochester.edu/
 
@@ -52,7 +52,7 @@ Graduate seminar *Advanced Ecology and Evolutionary Biology* \[[<span class="sma
 Philosophy Colloquium \[[<span class="small">DETAILS</span>][12]\]  
 [University of Nevada, Las Vegas][13]
 
- [11]: http://www.rochester.edu/college/faculty/bweslake/research/talks/fundamentalism_slides.pdf
+ [11]: https://s3.amazonaws.com/bweslake/research/talks/fundamentalism_slides.pdf
  [12]: http://liberalarts.unlv.edu/Philosophy/colloquia.htm
  [13]: http://liberalarts.unlv.edu/Philosophy/
 
@@ -89,17 +89,17 @@ Symposium on Causation, Laws, and Natural Kinds
 *Neuroscience Cluster Annual Retreat* \[[<span class="small">DETAILS</span>][24]\] \[[<span class="small">POSTER</span>][25]\]  
 [University of Rochester][8]
 
- [23]: http://www.rochester.edu/college/faculty/bweslake/research/talks/retreat_slides.pdf
+ [23]: https://s3.amazonaws.com/bweslake/research/talks/retreat_slides.pdf
  [24]: http://www.urmc.rochester.edu/neuroscience/retreat/
- [25]: http://www.rochester.edu/college/faculty/bweslake/research/talks/retreat_<span class="small">POSTER</span>.pdf
+ [25]: https://s3.amazonaws.com/bweslake/research/talks/retreat_poster.pdf
 
 13-14 May 2009  
 “Initial Conditions, Laws and Explanation” \[[<span class="small">HANDOUT</span>][26]\] \[[<span class="small">SLIDES</span>][27]\]  
 *Workshop on the Philosophical Foundations of Statistical Mechanics* \[[<span class="small">DETAILS</span>][28]\]  
 [Rutgers Center for Philosophy and the Sciences][17]
 
- [26]: http://www.rochester.edu/college/faculty/bweslake/research/talks/iclaws_<span class="small">HANDOUT</span>.pdf
- [27]: http://www.rochester.edu/college/faculty/bweslake/research/talks/iclaws_slides.pdf
+ [26]: https://s3.amazonaws.com/bweslake/research/talks/iclaws_handout.pdf
+ [27]: https://s3.amazonaws.com/bweslake/research/talks/iclaws_slides.pdf
  [28]: http://fas-philosophy.rutgers.edu/hdemarest/StatMech.html
 
 2 May 2009  
@@ -107,5 +107,5 @@ Symposium on Causation, Laws, and Natural Kinds
 *Mellon Metaphysics Workshop*  
 [Cornell University][30]
 
- [29]: http://www.rochester.edu/college/faculty/bweslake/research/talks/relativism_<span class="small">HANDOUT</span>.pdf
+ [29]: https://s3.amazonaws.com/bweslake/research/talks/relativism_handout.pdf
  [30]: http://www.arts.cornell.edu/phil/

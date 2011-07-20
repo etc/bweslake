@@ -23,18 +23,20 @@ I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bi
 
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master
- [9]: http://www.rochester.edu/college/faculty/bweslake/research/resources/DOItoURI.scpt.zip
+ [9]: https://s3.amazonaws.com/bweslake/research/resources/DOItoURI.scpt.zip
 
 ### Utilities
 
 Other things I find useful:
 
+* [Cyberduck][duck]
 * [Detexify][detexify]
 * [Pandoc][pandoc]
 * [nvALT][nvalt]
 * [GitHub for Mac][githubmac]
 
  [detexify]: http://detexify.kirelabs.org/classify.html "Detexify"
+ [duck]: http://cyberduck.ch/
  [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc"
  [nvalt]: http://brettterpstra.com/project/nvalt/ "nvALT"
  [githubmac]: http://mac.github.com/ "GitHub for Mac"

@@ -42,13 +42,13 @@ Summary: An overview of the recent history of philosophy of mind, focusing on th
 <p>Two papers and one presentation.  Graduate students or students enrolled for upper level writing credit will be required to write longer essays.  Graduate students will also be required to do additional reading and meet for an additional discussion section.  Due dates to be determined.  <em>There are no exams</em>.</p>
 
 <em>Research Resources</em>  
-Available <a href="resources.pdf">here</a> [<span class="small">PDF</span>]
+Available <a href="https://s3.amazonaws.com/bweslake/teaching/2007/mind/resources.pdf">here</a> [<span class="small">PDF</span>]
 
 <em>Essay One</em>  
-Available <a href="essay1.pdf">here</a> [<span class="small">PDF</span>]
+Available <a href="https://s3.amazonaws.com/bweslake/teaching/2007/mind/essay1.pdf">here</a> [<span class="small">PDF</span>]
 
 <em>Essay Two</em>  
-Available <a href="essay2.pdf">here</a> [<span class="small">PDF</span>]
+Available <a href="https://s3.amazonaws.com/bweslake/teaching/2007/mind/essay2.pdf">here</a> [<span class="small">PDF</span>]
 
 <a name="textbook"> </a>
 <h3>Textbook</h3>

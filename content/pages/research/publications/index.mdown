@@ -31,7 +31,7 @@ Template: research
 Weslake, Brad. 2010. “Explanatory Depth”, in *Philosophy of Science*, Vol. 77, No. 2, April 2010, pp. 273–294. \[[<span class="small">DOI</span>][15]\] \[[<span class="small">PDF</span>][16]\] \[[<span class="small">PhilPapers</span>][17]\]
 
  [15]: http://dx.doi.org/10.1086/651316
- [16]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_depth.pdf
+ [16]: https://s3.amazonaws.com/bweslake/research/papers/weslake_depth.pdf
  [17]: http://philpapers.org/rec/WESED
 
 [Price, Huw][18] and Weslake, Brad. 2009. “The Time-Asymmetry of Causation”, in Helen Beebee, Chris Hitchcock and Peter Menzies (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, pp. 414–443. \[[<span class="small">OUP</span>][19]\] \[[<span class="small">PhilSci</span>][20]\] \[[<span class="small">PhilPapers</span>][21]\]
@@ -54,13 +54,13 @@ Weslake, Brad. 2006. “Review of *Making Things Happen*”, in *Australasian Jo
 
  [25]: http://dx.doi.org/10.1080/00048400600571935
  [26]: http://philpapers.org/rec/WESU
- [27]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_review_woodward.pdf
+ [27]: https://s3.amazonaws.com/bweslake/research/papers/weslake_review_woodward.pdf
 
 Weslake, Brad. 2004. “Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004. \[[<span class="small">HTML</span>][28]\] \[[<span class="small">PhilPapers</span>][29]\] \[[<span class="small">PDF</span>][30]\]
 
  [28]: http://www.mhnet.org/books/books.php?type=de&id=2411
  [29]: http://philpapers.org/rec/WESROU
- [30]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_review_robinson.pdf
+ [30]: https://s3.amazonaws.com/bweslake/research/papers/weslake_review_robinson.pdf
 
 ### Encyclopaedia Entries
 
@@ -74,9 +74,9 @@ Weslake, Brad. 2006. “Causation”, in Martin Cohen (Ed), *Essentials of Philo
 
  [32]: http://www.us.oup.com/us/catalog/general/subject/Philosophy/?view=usa&ci=9780340900284
  [33]: http://philpapers.org/rec/WESC
- [34]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_essentials_causation.pdf
+ [34]: https://s3.amazonaws.com/bweslake/research/papers/weslake_essentials_causation.pdf
 
 Weslake, Brad. 2006. “Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 283–284. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][35]\] \[[<span class="small">PDF</span>][36]\]
 
  [35]: http://philpapers.org/rec/WEST
- [36]: http://www.rochester.edu/college/faculty/bweslake/research/papers/weslake_essentials_time.pdf
+ [36]: https://s3.amazonaws.com/bweslake/research/papers/weslake_essentials_time.pdf

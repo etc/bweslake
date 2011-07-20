@@ -16,7 +16,7 @@ Summary: A course on the interaction of science and religion, focusing on the re
 [23](#l23) | [24](#l24) | [25](#l25) | [26](#l26) | [27](#l27) ]
 
 ![Charles Darwin, Diagram of Divergence of
-Taxa](http://www.rochester.edu/college/faculty/bweslake/images/darwin_diagram.png)
+Taxa](https://s3.amazonaws.com/bweslake/images/darwin_diagram.png)
 <blockquote class="caption">Part of Darwin's &ldquo;Diagram of Divergence of Taxa&rdquo;, the only diagram in <em>On The Origin of Species</em>.  For the full diagram see <a href="http://darwin-online.org.uk/content/frameset?viewtype=image&amp;itemID=F373&amp;pageseq=133">here</a>.</blockquote>
 
 ### Details
@@ -121,7 +121,7 @@ Books placed on reserve can be seen
 [here](http://www.lib.rochester.edu/index.cfm?page=2213&searchtype=rcl&professor=Weslake,%20B&department=Philosophy&course_number=256).
 A research guide on the history of science and religion, which will be
 updated as the course progresses, can be downloaded here
-\[[<span class="small">PDF</span>](./research.pdf)\] (*Updated 16 September*). For research
+\[[<span class="small">PDF</span>](http://www.rochester.edu/college/faculty/bweslake/teaching/2010/darwin/research.pdf)\] (*Updated 16 September*). For research
 assistance, students are encouraged to consult either with us or with
 Eileen Daly, philosophy subject librarian, who maintains a useful set of
 resources [here](http://www.library.rochester.edu/subject/philosophy).
