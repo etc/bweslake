@@ -3,3 +3,308 @@ Template: class
 Summary: Issues at the intersection of science and religion, and science and public policy.  Including a special guest lecture from [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html "H. Allen Orr").
 
 # Science and Reason
+
+## Spring 2008
+
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#special">Special Events</a> | <a href ="#assessment">Assessment</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a>  | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a> | <a href="#l25">25</a> | <a href="#l26">26</a>  | <a href="#l27">27</a>  | <a href="#l28">28</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Code</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL 152</td><td>Gavet 312</td><td>Mondays and Wednesdays, 2:00pm to 3:15pm</td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>This course is an introduction to the epistemological side of philosophy of science, focussing firstly on questions concerning the nature of science, and secondly on questions at the intersection of science and religion, and science and public policy.  Epistemological questions in the philosophy of science are those concerning the nature of scientific knowledge: Is scientific knowledge different in principle from other forms of knowledge? If so, what makes it different? Are there criteria which can be used to distinguish scientific knowledge from other forms of knowledge? Is there such a thing as the scientific method? Can the history of science be seen as an ever-increasing advance of knowledge, or should we see the historical development of science in some other terms? After addressing these questions, we will turn to questions about the relation of science to values and religion:  What role do values play in science?  Is there a conflict between science and religion?  These questions will be addressed in part through an examination of the issue of intelligent design in biology: Is intelligent design science?  Should it be taught alongside evolutionary biology in high schools?  This part of the course will include a <a href ="#special">special guest lecture</a>.</p>
+
+
+<a name="special"> </a>
+<h3>Special Events</h3>
+
+<p>The class will feature a special guest visit and discussion with the evolutionary biologist <a href="http://www.rochester.edu/College/BIO/professors/orr.html">H. Allen Orr</a>, Shirley Cox Kearns Professor in the <a href="http://www.rochester.edu/College/BIO/index.php">Department of Biology</a>. <strong>Announcement:</strong> Professor Orr will visit the class on <strong>21 April</strong>.</p>
+
+<a name="assessment"> </a>
+<h3>Assessment</h3>
+<p>Requirements:</p>
+<ul class="assess">
+<li>Ten 1&ndash;2 page weekly reading summaries. Ideally each summary will include 
+a proposed question or topic for discussion, and an indication of which&mdash;if 
+any&mdash;parts of the reading were unclear or confusing.</li>
+<li>A 10&ndash;15 minute presentation, followed by discussion.</li> 
+<li>A first 4&ndash;6 page research paper, questions to be provided.</li>
+<li>A second 8&ndash;10 page research paper, questions to be provided.</li>
+</ul>
+
+<p>The final grade will be determined as follows:
+<table class="assess">
+<thead></thead>
+<tbody>
+<tr><td>Reading Summaries: </td><td>10% </td></tr>
+<tr><td>Presentation: </td><td>20% </td></tr>
+<tr><td>First Paper: </td><td>20% </td></tr>
+<tr><td>Final Paper: </td><td>50% </td></tr>
+</tbody>
+</table></p>
+
+<p>Due dates:</p>
+<p><table class="assess">
+<thead></thead>
+<tbody>
+<tr><td>First Paper:  </td><td>Monday 17 March </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2008/reason/essay1.pdf">PDF</a>]</td></tr>
+<tr><td>Second Paper:  </td><td>Wednesday 7 May </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2008/reason/essay2.pdf">PDF</a>]</td></tr>
+<tr><td>Weekly Reading Summaries:  </td><td>Midnight the evening before each class</td></tr>
+</tbody>
+</table>
+</p>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Lecture One (Wednesday 16 January)</strong></p>
+
+<p><em>Introductory Discussion: What is Science?</em></p>
+
+<a name="l2"> </a>
+<p><strong>Lecture Two (Wednesday 23 January)</strong></p>
+
+<p><a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1963. &ldquo;Science: Conjectures and Refutations&rdquo;, in <em>Conjectures and Refutations</em>, Routledge, Kegan Paul, London, pp. 33&ndash;58. [<a href="http://zuihitsu.org/protected/popper.pdf">PDF</a>]</p>
+
+<blockquote class="note">Sections &sect;1&ndash;&sect;3 are compulsory, the rest is optional.</blockquote>
+
+<a name="l3"> </a>
+<p><strong>Lecture Three (Monday 28 January)</strong></p>
+
+<p><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1970. &ldquo;Logic of Discovery or Psychology of Research?&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 1&ndash;22. [<a href="http://zuihitsu.org/protected/kuhn_logic_or_psychology.pdf">PDF</a>]</p>
+
+<blockquote class="note">Reprinted in Thomas S. Kuhn, <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 266&ndash;292; and in Schilpp, Paul Arthur, <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Volume 14, Open Court, La Salle, pp. 798&ndash;819.</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1970. &ldquo;Normal Science and its Dangers&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 51&ndash;58. [<a href="http://zuihitsu.org/protected/popper_reply_kuhn.pdf">PDF</a>]</p>
+
+<p><a href="http://www.phil.vt.edu/HTML/people/mayodeborah.html">Mayo, Deborah G</a>. 1996. &ldquo;Ducks, Rabbits, and Normal Science: Recasting the Kuhn's-Eye View of Popper's Demarcation of Science&rdquo;, in <em>The British Journal for the Philosophy of Science</em>, Vol. 47, No. 2, June 1996, pp. 271&ndash;290. [<a href="http://dx.doi.org/10.1093/bjps/47.2.271">URI</a>]</p>
+
+<a name="l4"> </a>
+<p><strong>Lecture Four (Wednesday 30 January)</strong></p>
+
+<p><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974, pp.  pp. 96&ndash;102. [<a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscienceTranscript.htm">URI</a>]</p>
+
+<blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7.  This lecture is also available as an <a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience48.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. [<a href="http://zuihitsu.org/protected/lakatos_falsification_methodology.pdf">PDF</a>]</p>
+
+<a name="l5"> </a>
+<p><strong>Lecture Five (Monday 4 February)</strong></p>
+
+<p><a href="http://cogsci.uwaterloo.ca/Biographies/pault.html">Thagard, Paul R</a>. 1978. &ldquo;Why Astrology is a Pseudoscience&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Volume One: Contributed Papers, 1978, pp. 223&ndash;234. [<a href="http://links.jstor.org/sici?sici=0270-8647(1978)1978%3C223%3AWAIAP%3E2.0.CO%3B2-W">URI</a>]</p>
+
+<a name="l6"> </a>
+<p><strong>Lecture Six (Wednesday 6 February)</strong></p>
+
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. [<a href="http://zuihitsu.org/protected/laudan_demise.pdf">PDF</a>]</p>
+
+<blockquote class="note">
+Reprinted in Ruse, Michael, <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 1988; and  Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method, and Evidence</em>, Westview Press, Boulder CO, 1996.</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://www.indiana.edu/~soc/zbio_Gieryn.shtml">Gieryn, Thomas F</a>. 1983. &ldquo;Boundary-Work and the Demarcation of Science from Non-Science: Strains and Interests in Professional Ideologies of Scientists&rdquo;, in <em>American Sociological Review</em>, Vol. 48, No. 6, December 1983, pp. 781&ndash;795. [<a href="http://dx.doi.org/10.2307/2095325">URI</a>]
+</p>
+
+<a name="l7"> </a>
+<p><strong>Lecture Seven (Monday 11 February)</strong></p>
+
+<p><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">For today read Chapters I&ndash;V, pp. 1&ndash;51.</blockquote>
+
+<a name="l8"> </a>
+<p><strong>Lecture Eight (Wednesday 13 February)</strong></p>
+
+<p><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">For today read Chapters VI&ndash;IX, pp. 52&ndash;110.</blockquote>
+
+<a name="l9"> </a>
+<p><strong>Lecture Nine (Monday 18 February)</strong></p>
+
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. &ldquo;Progress and Cumulativity&rdquo;, in <em>Science and Relativism: Some Key Controversies in the Philosophy of Science</em>, University Of Chicago Press, Chicago, 1990, pp. 1&ndash;32 [<a href="http://zuihitsu.org/protected/laudan_progress.pdf">PDF</a>].</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1976. &ldquo;Two Dogmas of Methodology&rdquo;, in <em>Philosophy of Science</em>, Vol. 43, No. 4, December 1976, pp. 585&ndash;597. [<a href="http://links.jstor.org/sici?sici=0031-8248%28197612%2943%3A4%3C585%3ATDOM%3E2.0.CO%3B2-2">URI</a>]</p>
+
+<a name="l10"> </a>
+<p><strong>Lecture Ten (Wednesday 20 February)</strong></p>
+
+<p><a href="http://eis.bris.ac.uk/~plajb/">Bird, Alexander</a>. 2007. &ldquo;What Is Scientific Progress?&rdquo;, in <em>No&ucirc;s</em>, Vol. 41, No. 1, March 2007, pp. 64&ndash;89. [<a href="http://zuihitsu.org/protected/bird_scientific_progress.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://seis.bris.ac.uk/~pldpr/">Rowbottom, Darrell Patrick</a>. 2008. &ldquo;N-rays and the Semantic View of Scientific Progress&rdquo;, in <em>Studies in History and Philosophy of Science</em>, <em>forthcoming</em>. [<a href="http://zuihitsu.org/protected/rowbottom_n-rays.pdf">PDF</a>]</p>
+
+<p><a href="http://eis.bris.ac.uk/~plajb/">Bird, Alexander</a>. 2008. &ldquo;Scientific Progress as Accumulation of Knowledge&mdash;A Reply to Rowbottom&rdquo;, in <em>Studies in History and Philosophy of Science</em>, <em>forthcoming</em>. [<a href="http://eis.bris.ac.uk/~plajb/research/papers/Reply_to_Rowbottom.pdf">PDF</a>]</p>
+
+<a name="l11"> </a>
+<p><strong>Lecture Eleven (Monday 25 February)</strong></p>
+
+<p><a href="http://www.sps.ed.ac.uk/staff/science_studies/bloor_david">Bloor, David</a>. 1991. <em>Knowledge and Social Imagery</em>, University of Chicago Press, Chicago, 2<sup>nd</sup> Ed, 1991. [<a href="http://zuihitsu.org/protected/bloor_knowledge.pdf">PDF</a>]</p>
+
+<blockquote class="note">For today read at least Chapter 1, and ideally Chapters 1&ndash;3.</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://www.fas.harvard.edu/~hsdept/bios/shapin.html">Shapin, Steven</a>. 1982. &ldquo;History of Science and its Sociological Reconstructions&rdquo;, in <em>History of Science</em>, Vol. 20, No. 3, September 1982, pp. 157&ndash;211. [<a href="http://zuihitsu.org/protected/shapin_history_sociology_science.pdf">PDF</a>]</p>
+
+<a name="l12"> </a>
+<p><strong>Lecture Twelve (Wednesday 27 February)</strong></p>
+
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1981. &ldquo;The Pseudo-Science of Science?&rdquo;, in <em>Philosophy of the Social Sciences</em>, Vol. 11, No. 2, June 1981, pp. 173&ndash;198. [<a href="http://zuihitsu.org/protected/laudan_pseudoscience_science.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.uoguelph.ca/philosophy/page.cfm?id=98"> Freedman, Karyn L</a>. 2005. &ldquo;Naturalized Epistemology, or What the Strong Programme Can't Explain&rdquo;, in <em>Studies in History and Philosophy of Science Part A</em>, Vol. 36, No. 1. March 2005, pp. 135&ndash;148. [<a href="http://dx.doi.org/10.1016/j.shpsa.2004.12.007">URI</a>]</p>
+
+<a name="l13"> </a>
+<p><strong>Lecture Thirteen (Monday 3 March)</strong></p>
+
+<p><a href="http://www.sps.ed.ac.uk/staff/science_studies/bloor_david">Bloor, David</a> and <a href="http://www.huss.ex.ac.uk/sociology/staff/barnes/index.php">Barnes, Barry</a>. 1982. &ldquo;Relativism, Rationalism and the Sociology of Knowledge&rdquo;, in Martin Hollis and Steven Lukes (Eds), <em>Rationality and Relativism</em>, MIT Press, Cambridge MA, pp. 21&ndash;47. [<a href="http://zuihitsu.org/protected/barnes_bloor_relativism.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. &ldquo;Standards of Success&rdquo;, in <em>Science and Relativism: Some Key Controversies in the Philosophy of Science</em>, University Of Chicago Press, Chicago, 1990, pp. 93&ndash;120 [<a href="http://zuihitsu.org/protected/laudan_standards.pdf">PDF</a>].</p>
+
+<a name="l14"> </a>
+<p><strong>Lecture Fourteen (Wednesday 5 March)</strong></p>
+
+<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. 2001. &ldquo;What is Social Construction?&rdquo;, in <em>Times Literary Supplement</em>, No. 5108, 23 February 2001, pp. 6&ndash;8. [<a href="http://philosophy.fas.nyu.edu/docs/IO/1153/socialconstruction.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.as.miami.edu/phi/siegel/">Siegel, Harvey</a>. 2004. &ldquo;Relativism&rdquo;, in Ilkka Niiniluoto, Matti Sintonen, and Jan Wole<small>&#324;</small>ski (Ed), <em>Handbook of Epistemology</em>, Kluwer, Dordrecht, pp. 747&ndash;780. [<a href="http://zuihitsu.org/protected/siegel_relativism.pdf">PDF</a>]</p>
+
+<a name="l15"> </a>
+<p><strong>Lecture Fifteen (Monday 17 March)</strong></p>
+
+<p><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1977. &ldquo;Objectivity, Value Judgment, and Theory Choice&rdquo;, in <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 320&ndash;339. [<a href="http://zuihitsu.org/protected/kuhn_objectivity.pdf">PDF</a>]</p>
+
+<p><a href="http://artsci.wustl.edu/~philos/history/narrative/rudner.htm">Rudner, Richard</a>. 1953. &ldquo;The Scientist <em>Qua</em> Scientist Makes Value Judgments&rdquo;, in <em>Philosophy of Science</em>, Vol. 20, No. 1, January 1953, pp. 1&ndash;6. [<a href="http://links.jstor.org/sici?sici=0031-8248(195301)20%3A1%3C1%3ATSQSMV%3E2.0.CO%3B2-U">URI</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://en.wikipedia.org/wiki/Ernan_McMullin">McMullin, Ernan</a>. 1982. &ldquo;Values in Science&rdquo;, in <em>Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Vol. Two: Symposia and Invited Papers, 1982, pp. 3&ndash;28. [<a href="http://links.jstor.org/sici?sici=0270-8647(1982)1982%3C3%3AVIS%3E2.0.CO%3B2-%23">URI</a>]</p>
+
+<a name="l16"> </a>
+<p><strong>Lecture Sixteen (Wednesday 19 March)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould">Gould, Stephen Jay</a>. 1981. &ldquo;Measuring Heads: Paul Broca and the Heyday of Craniology&rdquo;, in <em>The Mismeasure of Man</em>, Norton, New York, 1981, pp. 105&ndash;141. [<a href="http://zuihitsu.org/protected/gould_craniology.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.newyorker.com/magazine/contributors/ian_parker">Parker, Ian</a>. 2007. &ldquo; Swingers&rdquo;, in <em>The New Yorker</em>, 30 July 2007, pp. 48&ndash;61. [<a href="http://www.newyorker.com/reporting/2007/07/30/070730fa_fact_parker?printable=true">URI</a>]</p>
+
+<p><a href="http://mypage.iu.edu/~ealloyd/">Lloyd, Elisabeth A.</a>. &ldquo;Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality&rdquo;, in <em>Philosophical Studies</em>, Vol. 69, No. 2&ndash;3, March 1993, pp. 139&ndash;153. [<a href="http://zuihitsu.org/protected/lloyd_pretheoretical.pdf">PDF</a>]</p>
+
+<a name="l17"> </a>
+<p><strong>Lecture Seventeen (Monday 24 March)</strong></p>
+
+<p><a href="http://www.philosophy.umn.edu/people/faculty/longino.html">Longino, Helen E</a>. 2004. &ldquo;How Values Can Be Good for Science&rdquo;, in Peter K. Machamer and Gereon Wolters (Eds), <em>Science, Values, And Objectivity</em>, University of Pittsburgh Press, Pittsburgh, 2004, pp. 127&ndash;142. [<a href="http://zuihitsu.org/protected/longino_values.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.philosophy.umn.edu/people/faculty/longino.html">Longino, Helen E</a>. 1995. &ldquo;Cognitive and Non-Cognitive Values in Science: Rethinking the Dichotomy&rdquo;, in Lynn Hankinson Nelson and Jack Nelson (Eds), <em>Feminism, Science, and the Philosophy of Science</em>, Kluwer, Dordrecht, Synthese Library Vol. 256, 1996, pp. 39&ndash;58. [<a href="http://zuihitsu.org/protected/longino_rethinking.pdf">PDF</a>]</p>
+
+<a name="l18"> </a>
+<p><strong>Lecture Eighteen (Wednesday 26 March)</strong></p>
+
+<p><a href="http://www.as.miami.edu/phi/haack/">Haack, Susan</a>. 1993. &ldquo;Knowledge and Propaganda: Reflections of an Old Feminist&rdquo;, in <em>Partisan Review</em>, Vol 60, No. 4, Fall 1993, pp. 556&ndash;565. [<a href="http://zuihitsu.org/protected/haack_reflections.pdf">PDF</a>]</p>
+
+<blockquote class="note">
+Reprinted in Susan Haack, <em>Defending Science&mdash;Within Reason: Between Scientism and Cynicism</em>, Prometheus, Amherst MA, 2003, pp. 123&ndash 136.</blockquote>
+
+<p><a href="http://www-personal.umich.edu/~eandersn/">Anderson, Elizabeth</a>. 1995. &ldquo;Knowledge, Human Interests, and Objectivity in Feminist Epistemology&rdquo;, in <em>Philosophical Topics</em>, Vol 23, No. 2, Fall 1995, pp. 27&ndash;58. [<a href="http://zuihitsu.org/protected/anderson_knowledge_objectivity.pdf">PDF</a>]</p>
+
+<a name="l19"> </a>
+<p><strong>Lecture Nineteen (Monday 1 April)</strong></p>
+
+<p><a href="http://philosophy.nd.edu/people/all/profiles/van-inwagen-peter/">van Inwagen, Peter</a>. 1996. &ldquo;It Is Wrong, Everywhere, Always, and for Anyone, to Believe Anything upon Insufficient Evidence&rdquo;, in Jeff Jordan and Daniel Howard-Snyder (Eds), <em>Faith, Freedom, and Rationality: Philosophy of Religion Today</em>, Rowman and Littlefield, Lanham MD, 1996, pp. 137&ndash;154. [<a href="http://comp.uark.edu/~senor/wrong.html">URI</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://en.wikipedia.org/wiki/William_Kingdon_Clifford">Clifford, William K</a>. 1876&ndash;1877. &ldquo;The Ethics of Belief&rdquo;, in <em>Contemporary Review</em>, Vol. 29, December&ndash;May, 1876&ndash;1877, pp. 289&ndash;309. [<a href="http://zuihitsu.org/protected/clifford_ethics_belief.pdf">PDF</a>]</p>
+
+<p><a href="http://plato.stanford.edu/entries/james/">James, William</a>. 1897. &ldquo;The Will to Believe&rdquo;, in <em>The Will to Believe: And Other Essays in Popular Philosophy</em>, Longmans Green, New York, 1897, pp. 1&ndash;31. [<a href="http://books.google.com/books?id=5dAf5_s5lL0C">URI</a>]</p>
+
+<a name="l20"> </a>
+<p><strong>Lecture Twenty (Wednesday 3 April)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Gerald_Cohen">Cohen, Gerald</a>. 2000. &ldquo;Paradoxes of Conviction&rdquo;, in <em>If You're an Egalitarian, How Come You're So Rich?</em>, Harvard University Press, Cambridge MA, 2000, pp. 7&ndash;19.  [<a href="http://zuihitsu.org/protected/cohen_paradoxes_conviction.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://www.umass.edu/philosophy/faculty/kornblith.htm"> Kornblith, Hilary</a>. 1999. &ldquo;Distrusting Reason&rdquo;, in <em>Midwest Studies in Philosophy</em>, Vol. 23, No. 1, pp. 181&ndash; 196. [<a href="http://zuihitsu.org/protected/kornblith_distrusting_reason.pdf">PDF</a>]</p>
+
+<a name="l21"> </a>
+<p><strong>Lecture Twenty One (Monday 8 April)</strong></p>
+
+<p><a href="http://philosophy.nd.edu/people/all/profiles/plantinga-alvin/">Plantinga, Alvin</a>. 1991. &ldquo;When Faith and Reason Clash: Evolution and the Bible&rdquo;, in <em>Christian Scholar's Review</em>, Vol. 21, No. 1, September 1991, pp. 8&ndash;33. [<a href="http://www.asa3.org/aSA/dialogues/Faith-reason/CRS9-91Plantinga1.html">URI</a>]</p>
+
+<blockquote class="note">
+Reprinted in David L. Hull and Michael Ruse (Eds), <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, 1998, pp. 674&ndash;697; and Robert T. Pennock (Ed), <em>Intelligent Design Creationism and Its Critics: Philosophical, Theological and Scientific Perspectives</em>, MIT Press, Cambridge MA, pp. 113&ndash;146.</blockquote>
+
+<a name="l22"> </a>
+<p><strong>Lecture Twenty Two (Wednesday 10 April)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Ernan_McMullin">McMullin, Ernan</a>. 1993. &ldquo;Evolution and Special Creation&rdquo;, in <em>Zygon</em>, Vol. 28, No. 3, September 1993, pp. 299&ndash;335. [<a href="http://zuihitsu.org/protected/mcmullin_evolution_special_creation.pdf">PDF</a>]</p>
+
+<blockquote class="note">
+Reprinted in David L. Hull and Michael Ruse (Eds), <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, 1998, pp. 698&ndash;733.
+</blockquote>
+
+<a name="l23"> </a>
+<p><strong>Lecture Twenty Three (Monday 15 April)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould">Gould, Stephen Jay</a>. 1997. &ldquo;Nonoverlapping Magisteria&rdquo;, in <em>Natural History</em>, Vol. 106, No. 2, March 1997, 
+pp. 16&ndash;22. [<a href="http://zuihitsu.org/protected/gould_nonoverlapping_magisteria.pdf">PDF</a>]</p>
+
+<blockquote class="note">
+Reprinted in Steven Rose (Ed.), <em>The Richness of Life: The Essential Stephen Jay Gould</em>,  W. W. Norton, New York, 2007, pp. 590&ndash;603.
+</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://www.ucalgary.ca/ibi/kauffman/">Kauffman, Stuart</a>. 2007. &ldquo;Beyond Reductionism: Reinventing the Sacred&rdquo;, in <em>Zygon</em>, Vol. 42, No. 4, December 2007, pp. 903&ndash;914. [<a href="http://dx.doi.org/10.1111/j.1467-9744.2007.00879.x">URI</a>]</p>
+
+<a name="l24"> </a>
+<p><strong>Lecture Twenty Four (Wednesday 17 April)</strong></p>
+
+<p><a href="http://www.hps.cam.ac.uk/dept/lipton.html">Lipton, Peter</a>. 2007. &ldquo;Science and Religion: The Immersion Solution&rdquo;, in Andrew Moore and Michael Scott (Ed.), <em>Realism and Religion: Philosophical and Theological Perspectives</em>, Ashgate, Aldershot, 2007. [<a href="http://www.hps.cam.ac.uk/dept/lipton_science_and_religion.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://en.wikipedia.org/wiki/R._B._Braithwaite">Braithwaite, Richard B</a>. 1955. <em>An Empiricist's View of the Nature of Religious Belief</em>, Cambridge University Press, Cambridge, 1955.</p>
+
+<a name="l25"> </a>
+<p><strong>Lecture Twenty Five (Monday 21 April)</strong></p>
+
+<p>The class today features a special guest visit and discussion with the evolutionary biologist <a href="http://www.rochester.edu/College/BIO/professors/orr.html">H. Allen Orr</a>, Shirley Cox Kearns Professor in the <a href="http://www.rochester.edu/College/BIO/index.php">Department of Biology</a>.  Professor Orr has suggested that we read the following two articles to prepare for our discussion.</p>
+
+<p><a href="http://www.rochester.edu/College/BIO/professors/orr.html">H. Allen Orr</a>. 2005. &ldquo;Devolution: Why Intelligent Design Isn't&rdquo;, in <em>The New Yorker</em>, 30 May 2005, pp. 40&ndash;52. [<a href="http://www.newyorker.com/archive/2005/05/30/050530fa_fact?printable=true">URI</a>]</p>
+
+<p><a href="http://www.rochester.edu/College/BIO/professors/orr.html">H. Allen Orr</a>. 2007. &ldquo;A Mission to Convert&rdquo;, in <em>The New York Review of Books</em>, Vol. 54, No. 1, 11 January 2007, pp. 21&ndash;24. [<a href="http://www.nybooks.com/articles/19775">URI</a>]</p>
+
+<a name="l26"> </a>
+<p><strong>Lecture Twenty Six (Wednesday 23 April)</strong></p>
+
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Believing Where We Cannot Prove&rdquo;, in <em>Abusing Science: The Case Against Creationism</em>, MIT Press, Cambridge MA, pp. 30&ndash;54. [<a href="http://zuihitsu.org/protected/kitcher_believing.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 2007. &ldquo;What Is Wrong With Intelligent Design?&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 82, No. 1, March 2007, pp. 3&ndash;8. [<a href="http://philosophy.wisc.edu/sober/what's%20wrong%20with%20id%20qrb%202007.pdf">PDF</a>]</p>
+
+<a name="l27"> </a>
+<p><strong>Lecture Twenty Seven (Monday 28 April)</strong></p>
+
+<p><a href="http://www.msu.edu/~pennock5/">Pennock, Robert T</a>. 2002. &ldquo;Should Creationism be Taught in the Public Schools?&rdquo;, in <em>Science and Education</em>, Vol. 11, No. 2, March 2002, pp. 111&ndash;133. [<a href="http://zuihitsu.org/protected/pennock_creationism_schools.pdf">PDF</a>]</p>
+
+<a name="l28"> </a>
+<p><strong>Lecture Twenty Eight (Wednesday 30 April)</strong></p>
+
+<p>No reading for today.  We'll have a general discussion and recap of the course.  Those wishing to submit writing summaries&mdash;please write to me telling me what you liked and what you didn't like about the course.</p>
+
+<p><em>Optional</em><br>
+<a href="http://historyweb.ucsd.edu/oreskes/pages/profile.html">Oreskes, Naomi</a>. 2004. &ldquo;Science and public policy: what's proof got to do with it?&rdquo;, in <em>Environmental Science and Policy</em>, Vol. 7, No. 5, October 2004, pp. 369&ndash;383. [<a href="http://dx.doi.org/10.1016/j.envsci.2004.06.002">URI</a>]</p>
+
+*Updated*: 22 April 2008

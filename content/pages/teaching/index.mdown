@@ -3,6 +3,4 @@ Template: teaching
 
 # Teaching
 
-I have taught at undergraduate and postgraduate level in general philosophy of science, philosophy of biology, philosophy of cognitive science, and philosophy of mind.  I also regularly co-teach an interdisciplinary class on the history and philosophy of the relationship between science and religion. For information on specific classes please choose from the links on the right.
-
-*Note*: Some of these links are temporary placeholders until content from an old site is transferred.
+I have taught at undergraduate and postgraduate level in general philosophy of science, philosophy of biology, philosophy of cognitive science, and philosophy of mind.  I also regularly co-teach an interdisciplinary class on the history and philosophy of the relationship between science and religion.

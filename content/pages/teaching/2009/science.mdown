@@ -3,3 +3,303 @@ Template: class
 Summary: A survey course on the metaphysics of science.
 
 # Philosophy of Science
+
+## Spring 2009
+
+<p align="center"><br/><img width="70%" src="https://s3.amazonaws.com/bweslake/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity"><blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo; <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
+
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#assessment">Assessment</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a> | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a>  | <a href="#l25">25</a>  | <a href="#l26">26</a>  | <a href="#l27">27</a>  | <a href="#l28">28</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Codes</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL 252, PHL 252W, PHL 452</td><td>Dewey 2110D</td><td>Mondays and Wednesdays, 3:25pm to 4:40pm</td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>This is a survey course in general philosophy of science, focussing on metaphysical questions concerning the nature of science.  Our questions: Do scientific explanations work because they tell us about laws, or because they tell us about causes, or for some other reason?  How should we understand scientific laws?  Do the laws of nature govern the world or simply encapsulate some interesting patterns in the world?  What is the relationship between lower level and higher level laws, and between lower level and higher level scientific theories?  The course may taken for upper level writing credit.</p>
+
+<a name="assessment"> </a>
+<h3>Assessment</h3>
+<p>Requirements:</p>
+<ul class="assess">
+<li>Ten 1&ndash;2 page weekly reading summaries. Ideally each summary will include 
+a proposed question or topic for discussion, and an indication of which&mdash;if 
+any&mdash;parts of the reading were unclear or confusing.</li>
+<li>A 10&ndash;15 minute presentation, followed by discussion. </li>
+<li>A first 5&ndash;7 page research paper, questions to be provided. </li>
+<li>A second 9&ndash;11 page research paper, questions to be provided. </li>
+</ul>
+
+<p>The final grade will be determined as follows:
+<table class="assess">
+<thead></thead>
+<tbody>
+<tr><td>Reading Summaries: </td><td>10% </td></tr>
+<tr><td>Presentation: </td><td>20% </td></tr>
+<tr><td>First Paper: </td><td>20% </td></tr>
+<tr><td>Final Paper: </td><td>50% </td></tr>
+</tbody>
+</table></p>
+
+<p><em>Note</em>: Graduate students or students enrolled for upper level writing credit will be required to write longer essays. Graduate students will also be required to do additional 
+reading and meet for an additional discussion section.</p>
+
+<p>Due dates:</p>
+<p><table class="assess">
+<thead></thead>
+<tbody>
+<tr><td>First Paper:  </td><td>Monday 16 March </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2009/science/essay1.pdf">PDF</a>]</td></tr>
+<tr><td>Second Paper:  </td><td>Monday 4 May </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2009/science/essay2.pdf">PDF</a>]</td></tr>
+<tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
+</tbody>
+</table>
+</p>
+
+<p>Essay guidelines [<a href="https://s3.amazonaws.com/bweslake/teaching/resources/guidelines.pdf">PDF</a>]</p>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Lecture One (Wednesday 14 January)</strong></p>
+
+<p><em>Introductory Discussion: What is Science?</em></p>
+
+<a name="l2"> </a>
+<p><strong>Lecture Two (Wednesday 21 January)</strong></p>
+
+<p><a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. [<a href="http://zuihitsu.org/protected/hempel_aspects_i-ii.pdf">PDF</a>]</p>
+
+<blockquote class="note">Sections &sect;1&ndash;&sect;2 to be read for this class.</blockquote>
+
+<a name="l3"> </a>
+<p><strong>Lecture Three (Monday 26 January)</strong></p>
+
+<p><em>Optional</em><br>
+<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. &ldquo;Scientific Explanation&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2003. [<a href="http://plato.stanford.edu/entries/scientific-explanation/">URI</a>]
+
+<blockquote class="note">Focus on sections &sect;1&ndash;&sect;2.</blockquote></p>
+
+<p><a href="http://www.cgu.edu/pages/4745.asp">Scriven, Michael</a>. 1959. &ldquo;Explanation and Prediction in Evolutionary Theory: Satisfactory Explanation of the Past is Possible Even When Prediction of the Future is Impossible&rdquo;, in <em>Science</em>, Vol. 130, No. 3374, 28 August, 1959, pp. 477&ndash;482. [<a href="http://dx.doi.org/10.1126/science.130.3374.477">URI</a>].</p>
+
+<a name="l4"> </a>
+<p><strong>Lecture Four (Wednesday 28 January)</strong></p>
+
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. [<a href="http://zuihitsu.org/protected/woodward_background.pdf">PDF</a>]</p>
+
+<a name="l5"> </a>
+<p><strong>Lecture Five (Monday 2 February)</strong></p>
+
+<p><a href="http://query.nytimes.com/gst/fullpage.html?res=9E02E1DC1338F937A35756C0A9679C8B63">Salmon, Wesley C</a>. 1989. &ldquo;Four Decades of Scientific Explanation&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 3-219. [<a href="http://zuihitsu.org/protected/salmon_four_decades.pdf">PDF</a>]</p>
+
+<blockquote class="note">Sections &sect;2.4&ndash;&sect;3.1 to be read for this class (&sect;3.2 is optional).</blockquote>
+
+<a name="l6"> </a>
+<p><strong>Lecture Six (Wednesday 4 February)</strong></p>
+
+<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2000. &ldquo;Do Large Probabilities Explain Better?&rdquo;, in <em>Philosophy of Science</em>, Vol. 67, No. 3, September 2000, pp. 366&ndash;390. [<a href="http://links.jstor.org/sici?sici=0031-8248(200009)67%3A3%3C366%3ADLPEB%3E2.0.CO;2-3">URI</a>]</p>
+
+<a name="l7"> </a>
+<p><strong>Lecture Seven (Monday 9 February)</strong></p>
+
+<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. [<a href="http://zuihitsu.org/protected/lewis_causal_explanation.pdf">PDF</a>]</p>
+
+<a name="l8"> </a>
+<p><strong>Lecture Eight (Wednesday 11 February)</strong></p>
+
+<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. [<a href="http://zuihitsu.org/protected/sober_equilibrium_explanation.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+Kuorikoski, Jaakko. 2007. &ldquo;Explaining with Equilibria&rdquo;, in Johannes Persson and Petri Ylikoski (Eds), <em>Rethinking Explanation</em>, Boston Studies in the Philosophy of Science, Vol. 252, Springer, New York, pp. 149&ndash;162. [<a href="http://www.helsinki.fi/filosofia/tint/publications/kuorikoski,%20explainingwithequilibria.pdf">PDF</a>]</p>
+
+<a name="l9"> </a>
+<p><strong>Lecture Nine (Monday 16 February)</strong></p>
+
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. [<a href="http://zuihitsu.org/protected/woodward_hitchcock_i.pdf">PDF</a>]</p>
+
+<a name="l10"> </a>
+<p><strong>Lecture Ten (Wednesday 18 February)</strong></p>
+
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. [<a href="http://zuihitsu.org/protected/woodward_hitchcock_ii.pdf">PDF</a>]</p>
+
+<a name="l11"> </a>
+<p><strong>Lecture Eleven (Monday 23 February)</strong></p>
+
+<p><a href="http://www.rochester.edu/college/faculty/bweslake/">Weslake, Brad</a>. 2009. &ldquo;Explanatory Depth&rdquo;. [<a href="http://zuihitsu.org/protected/weslake_depth.pdf">PDF</a>]</p>
+
+<a name="l12"> </a>
+<p><strong>Lecture Twelve (Wednesday 25 February)</strong></p>
+
+<p><a href="http://plato.stanford.edu/entries/ayer/">Ayer, Alfred Jules</a>. 1956. &ldquo;What is a Law of Nature?&rdquo;, in <em>Revue Internationale de Philosophie</em>, Vol. 10, No. 2, pp. 144&ndash;165. [<a href="http://zuihitsu.org/protected/ayer_law_nature.pdf">PDF</a>]</p>
+
+<blockquote class="note">Reprinted in his <em>The Concept of a Person and Other Essays</em>, Macmillan, London, 1963, 209&ndash;234 and Martin Curd and Jan A. Cover (Eds), <em>Philosophy of Science: The Central Issues</em>, W. W. Norton, New York, 1998, pp. 808&ndash;825 and Michael Tooley (Ed), <em>Laws of Nature, Causation, and Supervenience</em>, Metaphysics, Vol 1, Garland, New York, pp. 52&ndash;73.</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://www4.ncsu.edu/~carroll/hpage.htm">Carroll, John W</a>. 2006. &ldquo;Laws of Nature&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2006. [<a href="http://plato.stanford.edu/entries/laws-of-nature/">URI</a>]
+</p>
+
+<a name="l13"> </a>
+<p><strong>Lecture Thirteen (Monday 2 March)</strong></p>
+
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. [<a href="http://zuihitsu.org/protected/psillos_regularity.pdf">PDF</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1983. &ldquo;New Work for a Theory of Universals&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 61, No. 4, December 1983, pp. 343&ndash;377. [<a href="http://dx.doi.org/10.1080/00048408312341131">URI</a>]</p>
+
+<blockquote class="note">It is pp. 365&ndash;368 that is relevant to our discussion.</blockquote>
+
+<p><a href="http://danielnolanphil.googlepages.com/home">Nolan, Daniel</a>. 2005. &ldquo;Laws of Nature and Physical Necessity&rdquo;, in <em>David Lewis</em>, McGill-Queen's University 
+Press, Montreal, pp. 81&ndash;89. [<a href="http://zuihitsu.org/protected/nolan_lewis_laws.pdf">PDF</a>]</p>
+
+<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Ideal Science: David Lewis's Account of Laws&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 40&ndash;64. [<a href="http://zuihitsu.org/protected/van_fraassen_symmetry_1-3.pdf">PDF</a>]</p>
+
+<a name="l14"> </a>
+<p><strong>Lecture Fourteen (Wednesday 4 March)</strong></p>
+
+<p><a href="http://fds.duke.edu/db/aas/Philosophy/faculty/dretske">Dretske, Fred I</a>. 1977. &ldquo;Laws of Nature&rdquo;, in <em>Philosophy of Science</em>, Vol. 44, No. 2, June 1977, pp. 248&ndash;268. [<a href="http://links.jstor.org/sici?sici=0031-8248%28197706%2944%3A2%3C248%3ALON%3E2.0.CO%3B2-B">URI</a>]</p>
+
+<p><em>Optional</em><br>
+<a href="http://spot.colorado.edu/~tooley/">Tooley, Michael</a>. 1977. &ldquo;The Nature of Laws&rdquo;, in <em>Canadian Journal of Philosophy</em>, Vol. 7, No. 4, December 1977, pp. 667&ndash;698. [<a href="http://zuihitsu.org/protected/tooley_laws.pdf">PDF</a>]</p>
+
+<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Universals: Laws Grounded in Nature&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 94&ndash;128. [<a href="http://zuihitsu.org/protected/van_fraassen_symmetry_5.pdf">PDF</a>]</p>
+
+<p><em>Spring Break</em></p>
+
+<a name="l15"> </a>
+<p><strong>Lecture Fifteen (Monday 16 March)</strong></p>
+
+<p><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. [<a href="http://zuihitsu.org/protected/maudlin_modest_proposal.pdf">PDF</a>]</p>
+
+<a name="l16"> </a>
+<p><strong>Lecture Sixteen (Wednesday 18 March)</strong></p>
+
+<p><a href="http://www4.ncsu.edu/~carroll/hpage.htm"> Carroll, John W</a>. 2008. &ldquo;Nailed to Hume's Cross?&rdquo;, in Theodore Sider and John Hawthorne and Dean W. Zimmerman (Eds), <em>Contemporary Debates in Metaphysics</em>, Blackwell, Malden MA, 2008, 67&ndash;81. [<a href="http://www4.ncsu.edu/%7Ecarroll/HumeCross3shorter.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.pitt.edu/~hpsdept/people/fac_pages/earman.html">Earman, John</a> and <a href="http://philosophy.unc.edu/roberts.htm">John T. Roberts</a>. 2005. &ldquo;Contact with the Nomic: A Challenge for Deniers of Humean Supervenience about Laws of Nature Part I: Humean Supervenience&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 71, No. 1, July 2005, pp. 1&ndash;22. [<a href="http://dx.doi.org/10.1111/j.1933-1592.2005.tb00428.x">URI</a>]</p>
+
+<p><a href="http://www.pitt.edu/~hpsdept/people/fac_pages/earman.html">Earman, John</a> and <a href="http://philosophy.unc.edu/roberts.htm">John T. Roberts</a>. 2005. &ldquo;Contact with the Nomic: A Challenge for Deniers of Humean Supervenience about Laws of Nature Part II: The Epistemological Argument for Humean Supervenience&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 71, No. 2, September 2005, pp. 253&ndash;286. [<a href="http://dx.doi.org/10.1111/j.1933-1592.2005.tb00449.x">URI</a>]</p>
+
+<a name="l17"> </a>
+<p><strong>Lecture Seventeen (Monday 23 March)</strong></p>
+
+<p><a href="http://rsss.anu.edu.au/~schaffer/">Schaffer, Jonathan</a>. 2008. &ldquo;Causation and Laws of Nature: Reductionism&rdquo;, in Theodore Sider and John Hawthorne and Dean W. Zimmerman (Eds), <em>Contemporary Debates in Metaphysics</em>, Blackwell, Malden MA, 2008, 82&ndash;108. [<a href="http://rsss.anu.edu.au/~schaffer/papers/Reductionism.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.uark.edu/depts/philinfo/ward.html">Ward, Barry</a>. 2002. &ldquo;Humeanism without Humean Supervenience: A Projectivist Account of Laws and Possibilities&rdquo;, in <em>Philosophical Studies</em>, Vol. 107, No. 3, February 2002, pp. 191&ndash;218. [<a href="http://dx.doi.org/10.1023/A:1014583323702">URI</a>]</p>
+
+<a name="l18"> </a>
+<p><strong>Lecture Eighteen (Wednesday 25 March)</strong></p>
+
+<p>Today our regular class is cancelled so that we can attend a lecture by <a href="http://www.perimeterinstitute.ca/personal/cfuchs/">Chris Fuchs</a> which will be (partly) on the topic of how to understand the laws of quantum mechanics.  The lecture will be at 3:45pm in <a href="http://www.rochester.edu/maps/bauschandlomb/">Bausch and Lomb</a> 106.</p>
+
+<p><em>Optional Background Reading</em></p>
+
+<p><a href="http://users.ox.ac.uk/~bras2317/">Timpson, Christopher Gordon</a>. 2008. &ldquo;Quantum Bayesianism: A Study&rdquo;, in <em>Studies In History and Philosophy of Science Part B: Studies In History and Philosophy of Modern Physics</em>, Vol. 39, No. 3, September 2008, pp. 579&ndash;609. [<a href="http://dx.doi.org/10.1016/j.shpsb.2008.03.006">URI</a>]</p>
+
+<a name="l19"> </a>
+<p><strong>Lecture Nineteen (Monday 30 March)</strong></p>
+
+<p><a href="http://www.uark.edu/depts/philinfo/ward.html">Ward, Barry</a>. 2007. &ldquo;Laws, Explanation, Governing, and Generation&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 85, No. 4, December 2007, pp. 537&ndash;552. [<a href="http://dx.doi.org/10.1080/00048400701654853">URI</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.philosophy.bham.ac.uk/staff/beebee.shtml">Beebee, Helen</a>. 2000. &ldquo;The Non-Governing Conception of Laws of Nature&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 61, No. 3, November 2000. pp. 571&ndash;594. [<a href="http://dx.doi.org/10.2307/2653613">URI</a>]</p>
+
+<blockquote class="note">Reprinted in Carroll, John W. 2004. <em>Readings on Laws of Nature</em>, University of Pittsburgh Press, Pittsburgh, pp. 250&ndash;276.</blockquote>
+
+<a name="l20"> </a>
+<p><strong>Lecture Twenty (Wednesday 1 April)</strong></p>
+
+<p><a href="http://www.philosophy.ubc.ca/faculty/beatty/">Beatty, John</a>. 1995. &ldquo;The Evolutionary Contingency Thesis&rdquo;, in Gereon Wolters and James G. Lennox (Eds), <em>Concepts, Theories, and Rationality in the Biological Sciences</em>, University of Pittsburgh Press, Pittsburgh, 1995, pp. 45&ndash;81. [<a href="http://www.philosophy.ubc.ca/faculty/beatty/BeattyECT1995.pdf">PDF</a>]</p>
+
+<blockquote class="note">Reprinted in Elliott Sober, <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3<sup>rd</sup> Edition, MIT Press, Cambridge MA, 2006, pp. 217&ndash;248; and Marc Lange, <em>Philosophy of Science: An Anthology</em>, Blackwell, Malden MA, 2006, pp. 338&ndash;357.</blockquote>
+
+<p><em>Optional</em><br>
+<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1997. &ldquo;Two Outbreaks of Lawlessness in Recent Philosophy of Biology&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, No. 4, December 1997, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association, Part II: Symposia Papers, pp. S458&ndash; S467. [<a href="http://links.jstor.org/sici?sici=0031-8248%28199712%2964%3A4%3CS458%3ATOOLIR%3E2.0.CO%3B2-E">URI</a>]</p>
+
+<blockquote class="note">Reprinted in Elliott Sober, <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3<sup>rd</sup> Edition, MIT Press, Cambridge MA, 2006, pp. 249&ndash;260.</blockquote>
+
+<p><a href="http://fds.duke.edu/db/aas/Philosophy/rbrandon">Brandon, Robert N</a>. 2006. &ldquo;The Principle of Drift: Biology's First Law&rdquo;, in <em>Journal of Philosophy</em>, Vol. 103, No. 7, pp. 319&ndash;335. [<a href="http://zuihitsu.org/protected/brandon_drift_law.pdf">PDF</a>]</p>
+
+<a name="l21"> </a>
+<p><strong>Lecture Twenty One (Monday 6 April)</strong></p>
+
+<p><a href="http://philosophy.unc.edu/lange.html">Lange, Marc</a>. 1995. &ldquo;Are There Natural Laws Concerning Particular Biological Species?&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 92, No. 8, August 1995, pp. 430&ndash;451. [<a href="http://dx.doi.org/10.2307/2940819">URI</a>]</p>
+
+<a name="l22"> </a>
+<p><strong>Lecture Twenty One (Wednesday 8 April)</strong></p>
+
+<p><a href="http://www.duke.edu/~alexrose/">Rosenberg, Alexander</a>. 2001. &ldquo;How is Biological Explanation Possible?&rdquo;, in <em>British Journal for the Philosophy of Science</em>, Vol. 52, No. 4, December 2001, pp. 735&ndash;760. [<a href="http://dx.doi.org/10.1093/bjps/52.4.735">URI</a>]</p>
+
+<p><a href="http://philosophy.unc.edu/lange.html">Lange, Marc</a>. 2004. &ldquo;The Autonomy of Functional Biology: A Reply to Rosenberg&rdquo;, in <em>Biology and Philosophy</em>, Vol. 19, No. 1, January 2004, pp. 93&ndash;109 [<a href="http://dx.doi.org/10.1023/B:BIPH.0000013247.44628.02">URI</a>]</p>
+
+<a name="l23"> </a>
+<p><strong>Lecture Twenty Three (Monday 13 April)</strong></p>
+
+<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2008. &ldquo;Physically Contingent Laws and Counterfactual Support&rdquo;, in <em>Philosophers' Imprint</em>, Vol. 8, No. 8, August 2008, pp. 1&ndash;20. [<a href="http://hdl.handle.net/2027/spo.3521354.0008.008">URI</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://philosophy.unc.edu/lange.html">Lange, Marc</a>. 2008. &ldquo;Could the Laws of Nature Change?&rdquo;, in <em>Philosophy of Science</em>, Vol. 75, No. 1, January 2008, pp. 69&ndash;92. [<a href="http://hdl.handle.net/2027/spo.3521354.0008.008">URI</a>]</p>
+
+<a name="l24"> </a>
+<p><strong>Lecture Twenty Four (Wednesday 15 April)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1974. &ldquo;Special Sciences (Or: The Disunity of Science as a Working Hypothesis)&rdquo;, in <em>Synthese</em>, 
+Vol. 28, No. 2, October 1974, pp. 97&ndash;115. [<a href="http://zuihitsu.org/protected/fodor_special_sciences.pdf">PDF</a>]</p>
+
+<blockquote class="note">Reprinted in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, 1980, Vol. 1, pp. 120&ndash;133; Jerry A. Fodor, <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, 1983, pp. 127&ndash;145; Paul K. Moser and J. D. Trout (Eds), <em>Contemporary Materialism: A Reader</em>, Routledge, London, 1995, pp. 53&ndash;67; and Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 395&ndash;410.</blockquote>
+
+<a name="l25"> </a>
+<p><strong>Lecture Twenty Five (Monday 20 April)</strong></p>
+
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. &ldquo;Why is There Anything Except Physics?&rdquo;, forthcoming in <em>Synthese</em>. [<a href="http://rci.rutgers.edu/~loewer/papers/Why_is_there_Anything_Except_Physics.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.brown.edu/Departments/Philosophy/faculty/kim.html">Kim, Jaegwon</a>. 1992. &ldquo;Multiple Realization and the Metaphysics of Reduction&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 52, No. 1, March 1992, pp. 1&ndash;26. [<a href="http://www.jstor.org/pss/2107741">URI</a>]</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1997. &ldquo;Special Sciences: Still Autonomous After All These Years&rdquo;, in <em>No&ucirc;s</em>, Vol. 31, Supplement: Philosophical Perspectives, Vol. 11: Mind, Causation, and World, pp. 149&mdash;163. [<a href="http://doi.wiley.com/10.1111/0029-4624.31.s11.7">URI</a>]</p>
+
+<a name="l26"> </a>
+<p><strong>Lecture Twenty Six (Wednesday 22 April)</strong></p>
+
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds), <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. [<a href="http://zuihitsu.org/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 1997. &ldquo;What Is &lsquo;The Problem of the Direction of Time&rsquo;?&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association Part II: Symposia Papers, December 1997, pp. S223&ndash;S234. [<a href="http://www.jstor.org/pss/188405">URI</a>]</p>
+
+<a name="l27"> </a>
+<p><strong>Lecture Twenty Seven (Monday 27 April)</strong></p>
+
+<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a> and <a href="http://aardvark.ucsd.edu/">Jonathan Cohen</a>. 2009. &ldquo;Special Sciences, Conspiracy and the Better Best System Account of Laws&rdquo;, unpublished draft. [<a href="http://philosophy.ucsd.edu/faculty/ccallender/Callender%20Cohen.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a> and <a href="http://aardvark.ucsd.edu/">Jonathan Cohen</a>. &ldquo;The Better Best System Theory of Laws&rdquo;, forthcoming in <em>Philosophical Studies</em>. [<a href="http://philosophy.ucsd.edu/faculty/ccallender/better%20best%20system.pdf">PDF</a>]</p>
+
+<a name="l28"> </a>
+<p><strong>Lecture Twenty Eight (Wednesday 29 April)</strong></p>
+
+<p>Today we'll have a general discussion and recap of the course.  Those wishing to submit writing summaries&mdash;please write to me telling me what you liked and what you didn't like about the course.</p>
+
+<p><em>Optional: Two Nobel Laureates on The Big Picture</em></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Philip_Warren_Anderson">Anderson, P. W</a>. 1972. &ldquo;More Is Different&rdquo;, in <em>Science</em>, Vol. 177, No. 4047, 4 August 1972, pp. 393&ndash;396. [<a href="http://dx.doi.org/10.1126/science.177.4047.393">URI</a>]</p>
+
+<p><a href="http://en.wikipedia.org/wiki/Steven_Weinberg">Weinberg, Steven</a>. 1987. &ldquo;Newtonianism, Reductionism and the Art of Congressional Testimony&rdquo;, in <em>Nature</em>, Vol. 330, No. 6147, December 1987, pp. 433&ndash;437. [<a href="http://dx.doi.org/10.1038/330433a0">URI</a>]</p>
+
+<blockquote class="note">Reprinted in Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 345&ndash;358.</blockquote>
+
+*Updated*: 28 April 2009

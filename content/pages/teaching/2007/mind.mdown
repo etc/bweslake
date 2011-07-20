@@ -11,7 +11,7 @@ Summary: An overview of the recent history of philosophy of mind, focusing on th
 <blockquote>If we were to think of the philosophy of mind over the past fifty years as a single individual, we would say of that person that he is a compulsive neurotic, and his neurosis takes the form of repeating the same pattern of behaviour over and over.
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;John Searle.</blockquote>
 
-<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#announcements">Announcements</a> | <a href ="#assessment">Assessment</a> | <a href ="#textbook">Textbook</a> | <a href ="#special">Special Events</a> | <a href ="#presentations">Presentation Schedule</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a>  | <a href="#l11">11</a>  | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a> | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a> | <a href="#l25">25</a> | <a href="#l26">26</a> ]</p>
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#announcements">Announcements</a> | <a href ="#assessment">Assessment</a> | <a href ="#textbook">Textbook</a> | <a href ="#special">Special Events</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a>  | <a href="#l11">11</a>  | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a> | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a> | <a href="#l25">25</a> | <a href="#l26">26</a> ]</p>
 
 <a name="details"> </a>
 <h3>Details</h3>
@@ -64,36 +64,6 @@ Available <a href="https://s3.amazonaws.com/bweslake/teaching/2007/mind/essay2.p
 <blockquote class="note">Wednesday 7 November, 4:00<span class="small">PM</span>
   Gowen Room, Wilson Commons
   Reception to follow in Lattimore 501</blockquote>
-
-<a name ="presentations"> </a>
-<h3>Presentation Schedule</h3>
-
-<p>
-<table class="names">
-<thead>
-<tr><th>Date</th><th>Presenter</th></tr>
-</thead>
-<tbody>
-<tr><td><em>Monday 17 September</em></td><td> Emily</td></tr>
-<tr><td><em>Monday 24 September</em></td><td> Mike</td></tr>
-<tr><td><em>Wednesday 26 September</em></td><td> Chris</td></tr>
-<tr><td><em>Monday 1 October</em></td><td> Ana Karen</td></tr>
-<tr><td><em>Wednesday 3 October </em></td><td> Brandon</td></tr>
-<tr><td><em>Monday 15 October </em></td><td> Daniel</td></tr>
-<tr><td><em>Monday 22 October </em></td><td> Caroline </td></tr>
-<tr><td><em>Wednesday 24 October </em></td><td> David </td></tr>
-<tr><td><em>Wednesday 31 October </em></td><td> Amulya </td></tr>
-<tr><td><em>Monday 5 November </em></td><td> Sommer </td></tr>
-<tr><td><em>Wednesday 14 November </em></td><td> Stephen </td></tr>
-<tr><td><em>Monday 19 November </em></td><td> Uche </td></tr>
-<tr><td><em>Monday 26 November </em></td><td> Pankaj </td></tr>
-<tr><td><em>Monday 3 December </em></td><td> Mark </td></tr>
-<tr><td><em>Wednesday 5 December </em></td><td> Sarah </td></tr>
-<tr><td><em>Monday 10 December </em></td><td> Wes </td></tr>
-<tr><td><em>Wednesday 12 December </em></td><td> Nick </td></tr>
-</tbody>
-</table>
-</p>
 
 <a name="reading"> </a>
 <h3>Reading</h3>

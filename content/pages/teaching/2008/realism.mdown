@@ -2,4 +2,157 @@ Categories: teaching/2008
 Template: class
 Summary: An examination of inference to the best explanation as it figures in recent debates over scientific realism.
 
-# IBE and Scientific Realism
+# Inference to the Best Explanation and Scientific Realism
+
+## Graduate Seminar, Fall 2008
+
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#textbook">Textbook</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a>  | <a href="#l11">11</a>  | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Code</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL552</td><td>531 Lattimore Hall</td><td>Tuesdays, 2:00pm to 4:40pm</td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>In recent years the dispute between scientific realists and antirealists has reached something of an impasse.  On one hand there have been a number of attempts to dissolve the dispute, while on the other hand there have been an increasing number of attempts to provoke a shift from global disputes concerning science as a whole to local disputes concerning particular scientific theories.  This seminar will trace one important strand through these trends&mdash;the dispute over the r&ocirc;le of inference to the best explanation.  The first part of the course will be an examination of explanatory considerations in theory assessment, and the second part of the course will be an application of these considerations to the dispute between scientific  realism and antirealism.</p>
+
+<h3>Textbook</h3>
+<p>The reading for the course will mostly be journal papers, but the following book will also be used heavily:</p>
+
+<blockquote class="note">Peter Lipton, <em>Inference to the Best Explanation</em>, 2<sup>nd</sup> Edition, Routledge, London, 2004. <span class="small">[<a href="http://www.addall.com/New/submitNew.cgi?query=+0415-24203-7&amp;type=ISBN&amp;location=10000&amp;state=NY&amp;dispCurr=USD">AddAll</a>]</span></blockquote>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Lecture One (Tuesday 2 September)</strong></p>
+
+<p><em>No reading&mdash;initial class discussion.</em></p>
+
+<a name="l2"> </a>
+<p><strong>Lecture Two (Tuesday 9 September)</strong></p>
+
+<p><a href="http://www.princeton.edu/~harman/">Harman, Gilbert</a>. 1965. &ldquo;The Inference to the Best Explanation&rdquo;, in <em>The Philosophical Review</em>, Vol. 74, No. 1, January 1965, pp. 88&ndash;95. [<a href="http://www.jstor.org/pss/2183532">URI</a>]</p>
+
+<p><a href="http://cogsci.uwaterloo.ca/Biographies/pault.html">Thagard, Paul R</a>. 1978. &ldquo;The Best Explanation: Criteria for Theory Choice&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 75, No. 2, February 1978, pp. 76&ndash;92. [<a href="http://www.jstor.org/pss/2025686">URI</a>]</p>
+
+<p><a href="http://www.uiowa.edu/~phil/fumertoncv.shtml">Fumerton, Richard A</a>. 1980. &ldquo;Induction and Reasoning to the Best Explanation&rdquo;, in 
+<em>Philosophy of Science</em>, Vol. 47, No. 4, December 1980, pp. 589&ndash;600. [<a href="http://www.jstor.org/pss/187316">URI</a>]</p> 
+
+<p><em>Optional</em></p>
+
+<p><a href="http://faculty.ed.uiuc.edu/rhennis/">Ennis, Robert H</a>. 1968. &ldquo;Enumerative Induction and Best Explanation&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 65, No. 18, September 1968, pp. 523&ndash;529. [<a href="http://www.jstor.org/pss/2024114">URI</a>]</p>
+
+<p><a href="http://www.princeton.edu/~harman/">Harman, Gilbert</a>. 1968. &ldquo;Enumerative Induction as Inference to the Best Explanation&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 65, No. 18, September 1968, pp. 529&ndash;533. [<a href="http://www.jstor.org/pss/2024115">URI</a>]</p>
+
+<a name="l3"> </a>
+<p><strong>Lecture Three (Tuesday 16 September)</strong></p>
+
+<p><a href="http://mit.edu/philos/www/white.html">White, Roger</a>. 2005. &ldquo;Explanation as a Guide to Induction&rdquo;, in <em>Philosophers' Imprint</em>, Vol. 5, No. 2, April 2005, pp. 1&ndash;29. [<a href="http://www.philosophersimprint.org/005002/">URI</a>]</p>
+
+<a name="l4"> </a>
+<p><strong>Lecture Four (Tuesday 23 September)</strong></p>
+
+<p>Lipton (Chapter 3).</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.pitt.edu/~jdnorton/jdnorton.html">Norton, John D</a>. 2006. &ldquo;How the Formal Equivalence of Grue and Green Defeats What is New in the New Riddle of Induction&rdquo;, in <em>Synthese</em>, Vol. 150, No. 2, May 2006, pp. 185&ndash;207. [<a href="http://dx.doi.org/10.1007/s11229-004-6261-z">URI</a>]></p>
+
+<blockquote class="note">This is the paper I claim provides us with a way to flesh out White's argument in &sect;3.3 (see especially the caveat in fn. 19, p. 18).</blockquote>
+
+<a name="l5"> </a>
+<p><strong>Lecture Five (Tuesday 30 September)</strong></p>
+
+<p>Lipton (Chapters 4 and 5).</p>
+
+<a name="l6"> </a>
+<p><strong>Lecture Six (Tuesday 7 October)</strong></p>
+
+<p>Lipton (Chapter 7).</p>
+
+<p>Day, Timothy and <a href="http://www.uab.edu/philosophy/kincaid.html">Kincaid, Harold</a>. 1994. &ldquo;Putting Inference to the Best Explanation in its Place&rdquo;, in <em>Synthese</em>, Vol. 98, No. 2, February 1994, pp. 271&ndash;295.</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.bristol.ac.uk/philosophy/department/staff/so.html">Okasha, Samir</a>. 2000. &ldquo;Van Fraassen's Critique of Inference to the Best Explanation&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 31, No. 4, December 2000, pp. 691&ndash;710.</p>
+
+<a name="l7"> </a>
+<p><strong>Lecture Seven (Tuesday 14 October)</strong></p>
+
+<p>Lipton (Chapter 9).</p>
+
+<p><a href="http://www.lps.uci.edu/home/fac-staff/faculty/stanford/">Stanford, P. Kyle</a>. 2001. &ldquo;Refusing the Devil's Bargain: What Kind of Underdetermination Should We Take Seriously?&rdquo;, in <em>Philosophy of Science</em>, Vol. 68, No. 3, Supplement, pp. S1&ndash;S12. [<a href="http://www.jstor.org/stable/3080930">URI</a>]</p>
+
+<a name="l8"> </a>
+<p><strong>Lecture Eight (Tuesday 21 October)</strong></p>
+
+<p><a href="http://www.fecundity.com/pmagnus/">Magnus, P. D.</a> 2006. &ldquo;What's New about the New Induction?&rdquo;, in <em>Synthese</em>, Vol. 148, No. 2, January 2006, pp. 295&ndash;301. [<a href="http://dx.doi.org/10.1007/s11229-004-6223-5">URI</a>]</p>
+
+<p><a href="http://www.lps.uci.edu/home/fac-staff/faculty/stanford/">Stanford, P. Kyle</a>. 2003. &ldquo;Pyrrhic Victories for Scientific Realism&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 100, No. 11, November 2003, pp. 553&ndash;572. </p>
+
+<a name="l9"> </a>
+<p><strong>Lecture Nine (Tuesday 28 October)</strong></p>
+
+<p><a href="http://philosophy.berkeley.edu/roush">Roush, Sherrilyn</a>. 2009. &ldquo;Optimism about the Pessimistic Induction&rdquo;, in P. D. Magnus and Jacob Busch (Eds), <em>New Waves in Philosophy of Science</em>, Palgrave Macmillan, New York, 2009. [<em>Handout</em>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.hps.cam.ac.uk/dept/lipton.html">Lipton, Peter</a>. 2000. &ldquo;Tracking Track Records&rdquo;, in <em>Proceedings of the Aristotelian Society</em>, Vol. 74, No. 1, Supplementary, pp. 179&ndash;205. [<a href="http://dx.doi.org/10.1111/1467-8349.00069">URI</a>]</p>
+
+<a name="l10"> </a>
+<p><strong>Lecture Ten (Tuesday 4 November)</strong></p>
+
+<p>Lipton (Chapter 10).</p>
+
+<p><a href="http://faculty.etsu.edu/harkerd/">Harker, David</a>. 2008. &ldquo;On the Predilections for Predictions&rdquo;, in <em>British Journal for the Philosophy of Science</em>, Vol. 59, No. 3, September 2008, pp. 429&ndash;453. [<a href="http://dx.doi.org/10.1093/bjps/axn017">URI</a>]</p>
+
+<a name="l11"> </a>
+<p><strong>Lecture Eleven (Tuesday 11 November)</strong></p>
+
+<p><a href="http://www.lps.uci.edu/home/fac-staff/faculty/stanford/">Stanford, P. Kyle</a>. 2000. &ldquo;An Antirealist Explanation of the Success of Science&rdquo;, in <em>Philosophy of Science</em>, Vol. 67, No. 2, June 2000, pp. 266&ndash;284. [<a href="http://www.jstor.org/stable/188724">URI</a>]</p>
+
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2001. &ldquo;Predictive Similarity and the Success of Science: A Reply to Stanford&rdquo;, in <em>Philosophy of Science</em>, Vol. 68, No. 3, September 2001, pp. 346&ndash;355. [<a href="http://www.jstor.org/stable/3080923">URI</a>]</p>
+
+<a name="l12"> </a>
+<p><strong>Lecture Twelve (Tuesday 18 November)</strong></p>
+
+<p>Lipton (Chapter 11).</p>
+
+<p><a href="http://www.fecundity.com/pmagnus/">Magnus, P. D.</a> and <a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 2004. &ldquo;Realist Ennui and the Base Rate Fallacy&rdquo;, in <em>Philosophy of Science</em>, Vol. 71, No. 3, July 2004, pp. 320&ndash;338. [<a href="http://zuihitsu.org/protected/magnus_callender_ennui.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2006. &ldquo;Thinking About the Ultimate Argument for Realism&rdquo;, in Colin Cheyne and John Worrall (Eds), <em>Rationality and Reality: Conversations with Alan Musgrave</em>, Studies in History and Philosophy of Science, Vol. 20, Springer, Dordrecht, 2006, pp. 133&ndash;156. [<a href="http://www.phs.uoa.gr/~psillos/Publications_files/MUSGRAVE-Psillos.pdf">PDF</a>]</p>
+
+<a name="l13"> </a>
+<p><strong>Lecture Thirteen (Tuesday 25 November)</strong></p>
+
+<p><a href="http://philosophy.berkeley.edu/roush">Roush, Sherrilyn</a>. 2005. &ldquo;Real Anti-realism: The Evidential Approach&rdquo;, in <em>Tracking Truth: Knowledge, Evidence, and Science</em>, Oxford University Press, Oxford, 2005, pp. 189&ndash;224. [<em>Handout</em>]</p>
+
+<p><a href="http://www.lps.uci.edu/home/fac-staff/faculty/stanford/">Stanford, P. Kyle</a>. 2006.  &ldquo;Science without Realism?&rdquo;, in <em>Exceeding Our Grasp: Science, History, and the Problem of Unconceived Alternatives</em>, Oxford University Press, Oxford, 2006, pp. 188&ndash;214. [<em>Handout</em>]</p>
+
+<a name="l14"> </a>
+<p><strong>Lecture Fourteen (Tuesday 2 December)</strong></p>
+
+<p><em>Presentation: Matt.</em></p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.lps.uci.edu/home/fac-staff/faculty/stanford/">Stanford, P. Kyle</a>. &ldquo;Comments on Roush, <em>Tracking Truth</em>&rdquo;, Philosophy of Science Association Meeting, November 2006. [<a href="http://philosophy.berkeley.edu/file/148/PSA2006commentsStanford.pdf">PDF</a>]</p>
+
+<p><a href="http://philosophy.berkeley.edu/roush">Roush, Sherrilyn</a>. &ldquo;Reply to Stanford&rdquo;, Philosophy of Science Association Meeting, November 2006. [<a href="http://philosophy.berkeley.edu/file/151/PSA2006responsetoKS.pdf">PDF</a>]</p>
+
+<a name="l15"> </a>
+<p><strong>Lecture Fifteen (Tuesday 9 December)</strong></p>
+
+<p><em>Presentations: Sommer and Brian.</em></p>
+
+*Updated*: 25 November 2008

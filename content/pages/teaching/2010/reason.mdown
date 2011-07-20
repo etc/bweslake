@@ -3,3 +3,366 @@ Template: class
 Summary: An introduction to the epistemology of science.
 
 # Science and Reason
+
+## Spring 2010
+
+<p align="center"><img width="60%" src="https://s3.amazonaws.com/bweslake/images/lavoisier.png" alt="From Lavoisier's Trait&eacute; &eacute;l&eacute;mentaire">
+
+<blockquote class="caption">Lavoisier's experiment to analyze water (boiling in flask A) into its constituents of oxygen and hydrogen by passing the steam through a red-hot glass tube (EF) that contains spirals of beaten iron. The oxygen from the steam combines chemically with the glowing iron, while the released gaseous hydrogen is collected at left; scrupulous weighing verifies the equivalence of water and products. From Lavoisier's <em>Trait&eacute; &eacute;l&eacute;mentaire</em> (1789). Image and caption from <a href="http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&amp;bookkey=176215">here</a>.</blockquote></p>
+
+<p><a href="#details">Details</a> | <a href="#instructors">Instructors</a> | <a href="#overview">Overview</a> | <a href="#textbooks">Textbooks</a> | <a href ="#assessment">Assessment</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#exam">Exam</a>  | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a>  | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a> | <a href="#l25">25</a> | <a href="#l26">26</a>  | <a href="#l27">27</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Code</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL 152</td><td>Gavett 301</td><td>Mondays and Wednesdays, 12:30pm to 1:45pm</td></tr>
+</tbody>
+</table>
+
+<a name="instructors"> </a>
+<h3>Instructors</h3>
+<table class="names">
+<thead>
+<tr><th>Name</th><th>Role</th><th>Email</th><th>Office</th><th>Consultation Times</th></tr>
+</thead>
+<tbody>
+<tr><td>Brad Weslake</td><td>Professor</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>519 Lattimore</td><td>Tuesdays 1pm&ndash;3pm, or by appointment</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+<tr><td>Brian Barnett</td><td>Teaching Assistant</td><td><a href="mailto:bbarnet3@mail.rochester.edu">bbarnet3@mail.rochester.edu</a></td><td>534 Lattimore </td><td>Tuesdays 11:30am&ndash;12:30pm</td></tr>
+</tbody>
+</table>
+
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>This course is an introduction to the epistemological side of philosophy of science, focussing on questions concerning the nature of science. Epistemological questions in the philosophy of science are those concerning the nature of scientific knowledge: Is scientific knowledge different in principle from other forms of knowledge? If so, what makes it different? Are there criteria which can be used to distinguish scientific beliefs from other forms of belief? Should the history of science be seen as an ever-increasing advance of nowledge, or should we see the historical development of science in some other terms? What is the relation of science to moral and political values? We will examine these questions through reading widely in the recent history of philosophy of science; and since it is Darwin's 200th birthday, we will look to the history of biology for our 
+examples and examine the scientific credentials of intelligent design as a case study.</p>
+
+<a name="textbooks"> </a>
+<h3>Textbooks</h3>
+<p>The following textbook is mandatory.  I have not ordered it into the bookstore, as second-hand copies should be very easy to find (see the link below):</p>
+
+<blockquote class="note"><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&amp;isbn=0226458083&amp;location=10000&amp;state=NY">AddAll</a>]</span></blockquote>
+
+<a name="assessment"> </a>
+<h3>Assessment</h3>
+<p>Requirements:</p>
+<ul class="assess">
+<li>Fifteen 1&ndash;2 page reading summaries. You should pick at least one of the readings for the class in question and summarise, as clearly and concisely as you can, the main argument.</li>
+<li>An in class exam, consisting of multiple choice and short answer questions.</li> 
+<li>An 8&ndash;10 page research paper, questions to be provided.</li>
+</ul>
+
+<p>The final grade will be determined as follows:
+<table class="assess">
+<thead></thead>
+<tbody>
+<tr><td>Reading Summaries: </td><td>15% </td></tr>
+<tr><td>Exam: </td><td>35% </td></tr>
+<tr><td>Final Paper: </td><td>50% </td></tr>
+</tbody>
+</table></p>
+
+<p>Assessment dates:</p>
+<p><table class="assess">
+<thead></thead>
+<tbody>
+<tr><td>Exam:  </td><td>Wednesday 3 March </td><td></td></tr>
+<tr><td>Final Paper:  </td><td>Wednesday 28 April </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2010/reason/final.pdf">PDF</a>]</td></tr>
+<tr><td>Reading Summaries:  </td><td>At <em>the beginning</em> of each associated class, <em>with no exceptions</em></td></tr>
+</tbody>
+</table>
+</p>
+
+<p>Essay guidelines [<a href="https://s3.amazonaws.com/bweslake/teaching/resources/guidelines.pdf">PDF</a>]</p>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Lecture One (Wednesday 13 January)</strong></p>
+
+<p><em>Introductory Discussion: What is Science?</em></p>
+
+<h3>Section I: The Demarcation Problem</h3>
+
+<a name="l2"> </a>
+<p><strong>Lecture Two (Wednesday 20 January)</strong></p>
+
+<p><em>Introductory Reading</em><br/>
+<a href="http://www.infra.kth.se/~soh/">Hansson, Sven Ove</a>. &ldquo;Science and Pseudo-Science&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2008. <span class="small">[<a href="http://plato.stanford.edu/entries/pseudo-science/">URI</a>]</span>
+</p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1963. &ldquo;Science: Conjectures and Refutations&rdquo;, in <em>Conjectures and Refutations</em>, Routledge, Kegan Paul, London, pp. 33&ndash;58. <span class="small">[<a href="http://zuihitsu.org/protected/popper.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Sections &sect;1&ndash;&sect;3 are compulsory, the rest is optional.</blockquote>
+
+<a name="l3"> </a>
+<p><strong>Lecture Three (Monday 25 January)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1970. &ldquo;Logic of Discovery or Psychology of Research?&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 1&ndash;22. <span class="small">[<a href="http://zuihitsu.org/protected/kuhn_logic_or_psychology.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in Thomas S. Kuhn, <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 266&ndash;292; and in Schilpp, Paul Arthur, <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Volume 14, Open Court, La Salle, pp. 798&ndash;819.</blockquote>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1970. &ldquo;Normal Science and its Dangers&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 51&ndash;58. <span class="small">[<a href="http://zuihitsu.org/protected/popper_reply_kuhn.pdf">PDF</a>]</span></p>
+
+<p><a href="http://www.phil.vt.edu/HTML/people/mayodeborah.html">Mayo, Deborah G</a>. 1996. &ldquo;Ducks, Rabbits, and Normal Science: Recasting the Kuhn's-Eye View of Popper's Demarcation of Science&rdquo;, in <em>The British Journal for the Philosophy of Science</em>, Vol. 47, No. 2, June 1996, pp. 271&ndash;290. <span class="small">[<a href="http://dx.doi.org/10.1093/bjps/47.2.271">URI</a>]</span></p>
+
+<a name="l4"> </a>
+<p><strong>Lecture Four (Wednesday 27 January)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1974. &ldquo;The &lsquo;Corroboration&rsquo; of Theories&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 221&ndash;240. <span class="small">[<a href="http://zuihitsu.org/protected/putnam_corroboration.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in Putnam, Hilary. 1975. <em>Mathematics, Matter, and Method</em>, Philosophical Papers, Vol. 1, Cambridge University Press, Cambridge, pp. 250&ndash;269; and Boyd, Richard, Philip Gasper, and J. D. Trout (Eds). 1991. <em>The Philosophy of Science</em>, 3rd Edition, MIT Press, Cambridge MA, pp. 121&ndash;136; and Sklar, Lawrence. 2000. <em>Bayesian and Non-Inductive Methods</em>, The Philosophy of Science: A Collection of Essays, Vol. 5, Garland, Hamden CT, pp. 225&ndash;245.</blockquote>
+
+<a name="l5"> </a>
+<p><strong>Lecture Five (Monday 1 February)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974,  pp. 96&ndash;102. <span class="small">[<a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscienceTranscript.htm">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7.  This lecture is also available as an <a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience48.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. <span class="small">[<a href="http://zuihitsu.org/protected/lakatos_falsification_methodology.pdf">PDF</a>]</span></p>
+
+<p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. <span class="small">[<a href="http://zuihitsu.org/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</span></p>
+
+<a name="l6"> </a>
+<p><strong>Lecture Six (Wednesday 3 February)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://cogsci.uwaterloo.ca/Biographies/pault.html">Thagard, Paul R</a>. 1978. &ldquo;Why Astrology is a Pseudoscience&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Volume One: Contributed Papers, 1978, pp. 223&ndash;234. <span class="small">[<a href="http://links.jstor.org/sici?sici=0270-8647(1978)1978%3C223%3AWAIAP%3E2.0.CO%3B2-W">URI</a>]</span></p>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://en.wikipedia.org/wiki/Lynn_Thorndike">Thorndike, Lynn</a>. 1955. &ldquo;The True Place of Astrology in the History of Science&rdquo;, in <em>Isis</em>, Vol. 46, No. 3, September 1955, pp. 273&ndash;278. <span class="small">[<a href="http://www.jstor.org/stable/226346">URI</a>]</span>
+</p>
+
+<a name="l7"> </a>
+<p><strong>Lecture Seven (Monday 8 February)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. <span class="small">[<a href="http://zuihitsu.org/protected/laudan_demise.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">
+Reprinted in Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method, and Evidence</em>, Westview Press, Boulder CO, 1996, pp. 210&ndash;222; and in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008, pp. 312&ndash;330.</blockquote>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://www.indiana.edu/~soc/zbio_Gieryn.shtml">Gieryn, Thomas F</a>. 1983. &ldquo;Boundary-Work and the Demarcation of Science from Non-Science: Strains and Interests in Professional Ideologies of Scientists&rdquo;, in <em>American Sociological Review</em>, Vol. 48, No. 6, December 1983, pp. 781&ndash;795. <span class="small">[<a href="http://dx.doi.org/10.2307/2095325">URI</a>]</span>
+</p>
+
+<h3>Section II: Intelligent Design and the Demarcation Problem</h3>
+
+<a name="l8"> </a>
+<p><strong>Lecture Eight (Wednesday 10 February)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1974. &ldquo;Darwinism as a Metaphysical Research Programme&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 133&ndash;143. <span class="small">[<a href="http://zuihitsu.org/protected/popper_darwin_metaphysics.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in Balashov, Yuri and Alexander Rosenberg (Eds). 2002. <em>Philosophy of Science: Contemporary Readings</em>, Routledge, London, pp. 302&ndash;304; and in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008, pp. 105&ndash;115.</blockquote>
+
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Believing Where We Cannot Prove&rdquo;, in <em>Abusing Science: The Case Against Creationism</em>, MIT Press, Cambridge MA, pp. 30&ndash;54. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_believing.pdf">PDF</a>]</span></p>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1985. &ldquo;Darwin's Achievement&rdquo;, in Nicholas Rescher (Ed), <em>Reason and Rationality in Natural Science</em>, University Press of America, Lanham MD, pp. 127&ndash;189. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_darwin_achievement.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in <em>The Advancement of Science: Science without Legend, Objectivity without Illusions</em>, Oxford University Press, Oxford, 1993, pp. 11&mdash;57; <em>In Mendel's Mirror: Philosophical Reflections on Biology</em>, Oxford University Press, Oxford, 2003, pp. 45&ndash;93; and in Marc Lange (Ed), <em>Philosophy of Science: An Anthology</em>, Blackwell, Malden MA, 2006, pp. 154&mdash;188.</blockquote>
+
+<p><a href="http://darwin-online.org.uk/">Darwin, Charles</a>. &ldquo;Struggle for Existence&rdquo; and &ldquo;Natural Selection&rdquo;, in <em>On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</em>, John Murray, London, 1<sup>st</sup> Ed, 1859, Chapters 3 and 4, pp. 60&ndash;79 and 80&ndash;130. <span class="small">[<a href="http://zuihitsu.org/protected/darwin_origin_3_4.pdf">PDF</a>]</span></p>
+
+<p><a href="http://www.languages.utah.edu/?module=facultyDetails&amp;personId=131&amp;orgId=300">Plutynski, Anya</a> and <a href="http://www.bio.upenn.edu/faculty/ewens/">Warren J. Ewens</a>. &ldquo;Population Genetics&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and Jessica Pfeifer (Eds), <em>The Philosophy of Science: An Encyclopedia</em>, Routledge, New York, 2005, pp. 578&ndash;585. <span class="small">[<a href="http://zuihitsu.org/protected/plutynski_ewens_population_genetics.pdf">PDF</a>]</span></p>
+
+<p><em>Multimedia</em><br/>
+Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> present an overview of Darwin's theory <a href="http://sackler.nasmediaonline.org/2009/darwin/elliot_sober/elliot_sober.html">here</a>. The paper on which this talk is based is:</p>
+
+<blockquote class="note"><a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>, &ldquo;Did Darwin Write the <em>Origin</em> Backwards?&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 106, Supplement 1, June 2009, pp. 10048&ndash;10055. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901109106">URI</a>]</span></blockquote>
+
+<a name="l9"> </a>
+<p><strong>Lecture Nine (Monday 15 February)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a>, &ldquo;Irreducible Complexity: Obstacle to Darwinian Evolution&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 352&ndash;370. <span class="small">[<a href="http://zuihitsu.org/protected/behe_irreducible_complexity.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in <a href="http://www.duke.edu/~alexrose/">Rosenberg, Alexander</a> and <a href="http://org.buffalo.edu/rarp/arp_vita.html">Robert Arp</a>. 2010. <em>Philosophy of Biology: An Anthology</em>, Blackwell, Malden MA, pp. 427&ndash;438.</blockquote>
+
+<p><em>Multimedia</em><br/>
+Watch <a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a> present a talk on his argument from design at the conference &ldquo;Interpreting Evolution: Scientific and Religious Perspectives&rdquo; (Haverford, 17 June 2001) <a href="http://www.counterbalance.net/perspevo/presmb-frame.html">here</a>.</p>
+
+<a name="l10"> </a>
+<p><strong>Lecture Ten (Wednesday 17 February)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a>, &ldquo;The Flagellum Unspun: The Collapse of &ldquo;Irreducible Complexity&rdquo;&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 81&ndash;97. <span class="small">[<a href="http://zuihitsu.org/protected/miller_flagellum_unspun.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in <a href="http://www.duke.edu/~alexrose/">Rosenberg, Alexander</a> and <a href="http://org.buffalo.edu/rarp/arp_vita.html">Robert Arp</a>. 2010. <em>Philosophy of Biology: An Anthology</em>, Blackwell, Malden MA, pp. 439&ndash;449.</blockquote>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://www.plantbiology.ucr.edu/faculty/liu.html">Liu, Renyi</a> and <a href="http://www.biochem.arizona.edu/faculty/profiles/ochman.htm">Howard Ochman</a>. 2007. &ldquo;Stepwise Formation of the Bacterial Flagellar System&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 104, No. 17, April 2007, pp. 7116&ndash;7121. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0700266104">URI</a>]</span>
+</p>
+
+<p><em>Multimedia</em><br/>
+Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present an overview of the evidence for evolution, criticise the argument from irreducible complexity, and endorse theistic evolutionism <a href="http://media.hhmi.org/hl/06Miller.html">here</a>.</p>
+
+<a name="l11"> </a>
+<p><strong>Lecture Eleven (Monday 22 February)</strong></p>
+
+<p><em>Introductory Reading</em><br/>
+<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 2007. &ldquo;What Is Wrong With Intelligent Design?&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 82, No. 1, March 2007, pp. 3&ndash;8. <span class="small">[<a href="http://philosophy.wisc.edu/sober/what's%20wrong%20with%20id%20qrb%202007.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008, pp. 495&ndash;505.</blockquote>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2003. &ldquo;The Design Argument&rdquo;, in Neil A. Manson (Ed), <em>God and Design: The Teleological Argument and Modern Science</em>, Routledge, London, pp. 25&ndash;53. <span class="small">[<a href="http://zuihitsu.org/protected/sober_design_argument_dembski.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 98&ndash;129; and in Mann, William E (Ed). 2005. <em>The Blackwell Guide to the Philosophy of Religion</em>, Blackwell, Malden MA, pp. 117&ndash;147.</blockquote>
+
+<a name="l12"> </a>
+<p><strong>Lecture Twelve (Wednesday 24 February)</strong></p>
+
+<p><em>Sober, continued.</em></p>
+
+<a name="l13"> </a>
+<p><strong>Lecture Thirteen (Monday 1 March)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://bradleymonton.com/">Monton, Bradley</a>. 2009. &ldquo;Why It Is Legitimate to Treat Intelligent Design as Science&rdquo;, in <em>Seeking God in Science: An Atheist Defends Intelligent Design</em>, Broadview, Peterborough ON, Chapter 2, pp. 47&ndash;74. <span class="small">[<a href="http://zuihitsu.org/protected/monton_is_id_science.pdf">PDF</a>]</span></p>
+
+<p><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, forthcoming in <em>Synthese</em>. <span class="small">[<a href="http://zuihitsu.org/protected/pennock_demarcation_revisited.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">
+Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008.</blockquote>
+
+<p><em>Multimedia</em><br/>
+For some of the background on this exchange, see the PBS documentary <em>Judgment Day: Intelligent Design on Trial</em>, available in full <a href="http://www.pbs.org/wgbh/nova/id/program.html">here</a>.</p>
+
+<a name="exam"> </a>
+<p><strong>Exam (Wednesday 3 March)</strong></p>
+
+<h3>Section III: Conceptual Change</h3>
+
+<a name="l14"> </a>
+<p><strong>Lecture Fourteen (Monday 15 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections I&ndash;IV, pp. 1&ndash;42.</blockquote>
+
+<p><em>Secondary Reading</em><br/></p>
+
+<blockquote class="note">Postscript, Sections 1&ndash;3, pp. 174&ndash;191.</blockquote>
+
+<a name="l15"> </a>
+<p><strong>Lecture Fifteen (Wednesday 17 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections V&ndash;VI.</blockquote>
+
+<a name="l16"> </a>
+<p><strong>Lecture Sixteen (Monday 22 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections VII&ndash;VIII.</blockquote>
+
+<a name="l17"> </a>
+<p><strong>Lecture Seventeen (Wednesday 24 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Section IX.</blockquote>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1977. &ldquo;Objectivity, Value Judgment, and Theory Choice&rdquo;, in <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 320&ndash;339. <span class="small">[<a href="http://zuihitsu.org/protected/kuhn_objectivity.pdf">PDF</a>]</span></p>
+
+<a name="l18"> </a>
+<p><strong>Lecture Eighteen (Monday 29 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Section X.</blockquote>
+
+<a name="l19"> </a>
+<p><strong>Lecture Nineteen (Wednesday 31 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections XI&ndash;XIII.</blockquote>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1987. &ldquo;What Are Scientific Revolutions?&rdquo;, in Lorenz Kr&uuml;ger, Lorraine J. Daston, and Michael Heidelberger (Eds), <em>The Probabilistic Revolution</em>, Vol. 1: Ideas in History, MIT Press, Cambridge MA, pp. 7&ndash;22. <span class="small">[<a href="http://mitpress.mit.edu/books/chapters/0262610620chap1.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in his <em>The Road Since Structure: Philosophical Essays</em>, James Conant and John Haugeland (Eds), University of Chicago Press, Chicago, 2000, pp. 13&ndash;32.</blockquote>
+
+<a name="l20"> </a>
+<p><strong>Lecture Twenty (Monday 5 April)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Postscript.</blockquote>
+
+<a name="l21"> </a>
+<p><strong>Lecture Twenty One (Wednesday 7 April)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1978. &ldquo;Theories, Theorists and Theoretical Change&rdquo;, in <em>The Philosophical Review</em>, Vol. 87, No. 4, October 1978, pp. 519&ndash;547. <span class="small">[<a href="http://dx.doi.org/10.2307/2184458">URI</a>]</span></p>
+
+<a name="l22"> </a>
+<p><strong>Lecture Twenty Two (Monday 12 April)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1983. &ldquo;Commensurability, Comparability, Communicability&rdquo;, in <em>Proceedings of the Biennial Meeting of the Philosophy of Science Association 1982</em>, Vol. 2, pp. 669-688. <span class="small">[<a href="http://www.jstor.org/stable/192452">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted in his <em>The Road Since Structure: Philosophical Essays</em>, James Conant and John Haugeland (Eds), University of Chicago Press, Chicago, 2000, pp. 669&ndash;688.</blockquote>
+
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1983. &ldquo;Implications of Incommensurability&rdquo;, in <em>Proceedings of the Biennial Meeting of the Philosophy of Science Association 1982</em>, Vol. 2, pp. 689-703. <span class="small">[<a href="http://www.jstor.org/stable/192453">URI</a>]</span></p>
+
+<h3>Section IV: The Gene and Conceptual Change</h3>
+<a name="l23"> </a>
+<p><strong>Lecture Twenty Three (Wednesday 14 April)</strong></p>
+
+<p><em>Introductory Reading</em><br/>
+<a href="http://www.mpiwg-berlin.mpg.de/members/rheinbg">Hans-J&ouml;rg Rheinberger</a>
+and <a href="http://huss.exeter.ac.uk/sociology/staff/mueller-wille/">Staffan M&uuml;ller-Wille</a>, &ldquo;Gene&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2010. <span class="small">[<a href="http://plato.stanford.edu/entries/gene/">URI</a>]</span>
+</p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://vanha.sci.utu.fi/biologia/genetiikka/portin_eng.htm">Portin, Petter</a>. 1993. &ldquo;The Concept of the Gene: Short History and Present Status&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 68, No. 2, June 1993, pp. 173&ndash;223. <span class="small">[<a href="http://www.jstor.org/stable/2829967">URI</a>]</span></p>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://vanha.sci.utu.fi/biologia/genetiikka/portin_eng.htm">Portin, Petter</a>. 2009. &ldquo;The Elusive Concept of the Gene&rdquo;, in <em>Hereditas</em>, Vol. 146, No. 3, June 2009, pp. 112&ndash;117. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1601-5223.2009.02128.x">URI</a>]</span></p>
+
+<a name="l24"> </a>
+<p><strong>Lecture Twenty Four (Monday 19 April)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Genes&rdquo;, in <em>British Journal for the Philosophy of Science</em>, Vol. 33, No. 4, December 1982, pp. 337&ndash;359.<span class="small">[<a href="http://www.jstor.org/stable/687168">URI</a>]</span></p>
+
+<a name="l25"> </a>
+<p><strong>Lecture Twenty Five (Wednesday 21 April)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>. 1985. &ldquo;On Conceptual Change in Biology: The Case of the Gene&rdquo;, in David J. Depew and Bruce H. Weber (Eds), <em>Evolution at a Crossroads: The New Biology and the New Philosophy of Science</em>, MIT Press, Cambridge MA, pp. 21&ndash;42. <span class="small">[<a href="http://zuihitsu.org/protected/burian_conceptual_change_biology_gene.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in <a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>. 2005. <em>The Epistemology of Development, Evolution, and Genetics</em>, Cambridge University 
+Press, Cambridge, pp. 126&ndash;144.</blockquote>
+
+<a name="l26"> </a>
+<p><strong>Lecture Twenty Six (Monday 26 April)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://www.uni-konstanz.de/FuF/Philo/Philosophie/philosophie/273-0-weber-marcel.html">Weber, Marcel</a>. 2005. &ldquo;Reference and Conceptual Change: Out of Mendel's Garden?&rdquo;, in <em>Philosophy of Experimental Biology</em>, Cambridge University Press, Cambridge, pp. 188&ndash;228. <span class="small">[<a href="http://zuihitsu.org/protected/weber_reference_conceptual_change.pdf">PDF</a>] [<a href="http://zuihitsu.org/protected/weber_reference_conceptual_change_notes.pdf">Notes</a>] [<a href="http://zuihitsu.org/protected/weber_experimental_biology_references.pdf">References</a>]</span></p>
+
+<a name="l27"> </a>
+<p><strong>Lecture Twenty Seven (Wednesday 28 April)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>, <a href="http://www.artsci.uc.edu/collegedepts/philosophy/fac_staff/profile_details.aspx?ePID=MjcyNDQ%3D">Robert C. Richardson</a>, and Wim J. Van der Steen. 1996. &ldquo;Against Generality: Meaning in Genetics and Philosophy&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 27, No. 1, March 1996, pp. 1&ndash;29. <span class="small">[<a href="http://zuihitsu.org/protected/burian_against_generality.pdf">PDF</a>]</span></p>
+
+*Updated*: 20 April 2010

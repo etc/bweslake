@@ -109,12 +109,16 @@ blockquote
 blockquote.note
   font-style: normal
 
-blockquote.caption
+blockquote.caption,
+blockquote.captionleft
   font-size: 85%
+  line-height: 130%
   font-style: normal
   border: 0
   padding: 0
   margin: 0
+
+blockquote.caption
   text-align: center
 
 ul li blockquote
@@ -325,7 +329,7 @@ nav.teaching
     list-style: none
   ul ul
     margin: 0 0 0 1.5em
-    list-style: none
+    list-style: disc
   ul ul ul
     list-style: disc
   & > ul
@@ -340,7 +344,7 @@ nav.research
     list-style: none
   ul ul
     margin: 0 0 0 1.5em
-    list-style: none
+    list-style: disc
   ul ul ul
     list-style: disc
   & > ul
@@ -372,13 +376,6 @@ article.home
         font-weight: 100
         font-size: $base-font
 
-    &.overview,
-    &.features
-      ul
-        padding-left: 0
-      em
-        color: $meta-color
-
     &.articles
       ol li
         margin: 0 0 ($vertical-rhythm / 2)
@@ -388,24 +385,6 @@ article.home
             @include adjust-font-size(1, 0, 0)
           p.meta
             margin: 0
-
-    &.users
-      & > ul
-        margin-left: 0
-        padding-left: 0
-        list-style: none
-      blockquote
-        padding: 0
-        @include adjust-font-size($base-scale, 0, 0)
-        cite
-          display: block
-          font-weight: bold
-
-    &.doc-list
-      nav ul li
-        list-style: none
-      nav > ul > li:first-child
-        font-weight: bold
 
 // Tables
 
@@ -441,8 +420,9 @@ table.right td.colon, th.colon
 
 table.names
   margin-top: 1em
-  margin-right: 2em
-  margin-left: 2em
+  margin-right: 0em
+  margin-left: 0em
+  margin-bottom: 0em
   border-collapse: collapse
 
 table.names td, th
@@ -450,6 +430,7 @@ table.names td, th
   padding-right: 1.5em
   border: 0
   vertical-align: text-top
+  line-height: 140%
 
 table.names td.colon, th.colon
   padding-left: 0em

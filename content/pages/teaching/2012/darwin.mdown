@@ -3,3 +3,13 @@ Template: class
 Summary: A course on the interaction of science and religion, focusing on the reception of *The Origin of Species*, co-taught with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html "H. Allen Orr").
 
 # Darwin and Religion
+
+## Fall 2012 *with H. Allen Orr*
+&nbsp;
+![Charles Darwin, Diagram of Divergence of
+Taxa](https://s3.amazonaws.com/bweslake/images/darwin_diagram.png)
+<blockquote class="caption">Part of Darwin's &ldquo;Diagram of Divergence of Taxa&rdquo;, the only diagram in <em>On The Origin of Species</em>.  For the full diagram see <a href="http://darwin-online.org.uk/content/frameset?viewtype=image&amp;itemID=F373&amp;pageseq=133">here</a>.</blockquote>
+
+### Details
+
+This is a course on the interaction of science and religion, focusing on the reception of *The Origin of Species*.  For information on the last version of the course, see [here](../2010/darwin/).

@@ -3,3 +3,139 @@ Template: class
 Summary: A reading group run in conjunction with *Philosophy of Mind*, focusing on questions concerning the nature of belief, content externalism and self-knowledge, and content externalism and psychological explanation.
 
 # Mental Content
+
+## Fall 2009
+
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#reading">Schedule</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>Lewis White Beck Memorial Library</td><td>Tuesdays 2:00pm to 4:00pm</td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>A reading group run in conjunction with <a href="http://www.rochester.edu/college/faculty/bweslake/teaching/2009/mind/">Philosophy of Mind</a>. We will focus on questions concerning the nature of belief, content externalism and self-knowledge, and content externalism and psychological explanation.</p>
+
+<a name="schedule"> </a>
+<h3>Schedule</h3>
+
+<a name="l1"> </a>
+<p><strong>Meeting One (Tuesday 15 September)</strong></p>
+
+<p><a href="http://pantheon.yale.edu/~tgendler/">Gendler, Tamar Szab&oacute;</a>. 2008a. &ldquo;Alief and Belief&rdquo;, in <em>Journal of Philosophy</em>, Vol. 105, No. 10, October 2008, pp. 634&ndash;663. <span class="small">[<a href="http://zuihitsu.org/protected/gendler_alief.pdf">PDF</a>]</span></p>
+
+<p><em>Optional Reading</em></p>
+
+<p><a href="http://pantheon.yale.edu/~tgendler/">Gendler, Tamar Szab&oacute;</a>. 2008b. &ldquo;Alief in Action (and Reaction)&rdquo;, in <em>Mind and Language</em>, Vol. 23, No. 5, November 2008, pp. 552&ndash;585. <span class="small">[<a href="http://zuihitsu.org/protected/gendler_alief_action.pdf">PDF</a>]</span></p>
+
+<p><em>See Also</em></p>
+
+<p>A conversation between <a href="http://www.yale.edu/psychology/FacInfo/Bloom.html">Paul Bloom</a> and Tamar Szab&oacute; Gendler can be seen <a href="http://bloggingheads.tv/diavlogs/20086">here</a>.</p>
+
+<a name="l2"> </a>
+<p><strong>Meeting Two (Tuesday 22 September)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1978. &ldquo;Propositional Attitudes&rdquo;, in <em>The Monist</em>, Vol. 61, No. 4, October 1978, pp. 501&ndash;523.</p>
+
+<blockquote class="note">Reprinted in Block, Ned (Ed). 1981. <em>Readings in Philosophy of Psychology</em>, Vol. 2, Harvard University Press, Cambridge MA, pp. 45&ndash;63; <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT 
+Press, Cambridge MA, 1983, pp. 177&ndash;203; Rosenthal, David M (Ed). 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 325&ndash;338; and Stainton, Robert J (Ed). 2000. <em>Perspectives in the Philosophy of Language: A Concise Anthology</em>, Broadview, Peterborough ON, pp. 137&ndash;162.</blockquote>
+
+<p><em>No Meeting (Tuesday 29 September)</em></p>
+
+<p><em>No Meeting (Tuesday 6 October)</em></p>
+
+<a name="l3"> </a>
+<p><strong>Meeting Three (Tuesday 13 October)</strong></p>
+
+<p><a href="http://web.mit.edu/philos/www/stalnaker.html">Robert Stalnaker</a>, &ldquo;The Problem of Intentionality&rdquo; <span class="small">[<a href="http://mitpress.mit.edu/books/chapters/0262691132chap1.pdf">PDF</a>]</span> and &ldquo;The Linguistic Picture&rdquo;, in <em>Inquiry</em>, MIT Press, Cambridge MA, 1984, pp. 1&ndash;42.</p>
+
+<p><em>Optional Reading</em></p>
+
+<p><a href="http://philosophy.fas.nyu.edu/object/hartryfield">Field, Hartry</a>. 1978. &ldquo;Mental Representation&rdquo;, in <em>Erkenntnis</em>, Vol. 13, No. 1, January 1978, pp. 9&ndash;61. <span class="small">[<a href="http://zuihitsu.org/protected/field_mental_representation.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted with postscript in Block, Ned (Ed). 1981. <em>Readings in Philosophy of Psychology</em>, Vol. 2, Harvard University Press, Cambridge MA, pp. 78&ndash;116; in Stich, Stephen, and Ted A. Warfield. 1994. <em>Mental Representation: A Reader</em>, Basil Blackwell, Oxford, pp. 34&ndash;78; and with an updated 
+postscript in <em>Truth and the Absence of Fact</em>, Oxford University Press, Oxford, 2001, pp. 30&ndash;67.</blockquote>
+
+<p><a href="http://philosophy.fas.nyu.edu/object/hartryfield">Field, Hartry</a>. 1986. &ldquo;Critical Notice: Robert Stalnaker, <em>Inquiry</em>&rdquo;, in <em>Philosophy of Science</em>, Vol. 53, No. 3, November 1986, pp. 425&ndash;448. <span class="small">[<a href="http://www.jstor.org/stable/187680">URI</a>]</span></p>
+
+<blockquote class="note">Revised version published in <em>Truth and the Absence of Fact</em>, Oxford University Press, Oxford, 2001, pp. 83&ndash;103.</blockquote>
+
+<a name="l4"> </a>
+<p><strong>Meeting Four (Tuesday 3 November)</strong></p>
+
+<p><a href="http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=113&Itemid=210">McLaughlin, Brian</a> and <a href="https://webspace.utexas.edu/tyem/www/">Michael Tye</a>. 1998. &ldquo;Externalism, Twin-Earth, and Self-Knowledge&rdquo;, in Crispin Wright, Cynthia Macdonald, and Barry C. Smith (Eds), <em>Knowing Our Own Minds</em>, Oxford University Press, New York, pp. 285&ndash;320. <span class="small">[Circulated]</span></p>
+
+<p><em>Optional Reading</em></p>
+
+<p><a href="http://www.clas.wayne.edu/unit-faculty-detail.asp?FacultyID=66">McKinsey, Michael</a>. 2001. &ldquo;The Semantic Basis of Externalism&rdquo;, in Joseph Keim Campbell, Michael O'Rourke, and David Shier (Eds), <em>Meaning and Truth: Investigations in Philosophical Semantics</em>, Seven Bridges Press, New York, pp. 34&ndash;52. <span class="small">[<a href="http://zuihitsu.org/protected/mckinsey_semantic_basis.pdf">PDF</a>]</span></p>
+
+<a name="l5"> </a>
+<p><strong>Meeting Five (Tuesday 10 November)</strong></p>
+
+<p><a href="http://www.jimpryor.net/">Pryor, James</a>. 2007. &ldquo;What's Wrong With McKinsey-Style Reasoning?&rdquo;, in Sanford C. Goldberg (Ed), <em>Internalism and Externalism in Semantics and Epistemology</em>, Oxford University Press, Oxford, pp. 177&ndash;200. [<a href="http://zuihitsu.org/protected/pryor_mckinsey.pdf">PDF</a>]</p>
+
+<a name="l6"> </a>
+<p><strong>Meeting Six (Tuesday 17 November)</strong></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1991. &ldquo;A Modal Argument for Narrow Content&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 88, No. 1, January 1991, pp. 5&ndash;26. [<a href="http://www.jstor.org/stable/2027084">URI</a>]</p>
+
+<blockquote class="note">Reprinted in Macdonald, Cynthia and Graham Macdonald (Eds),  <em>Philosophy of Psychology</em>, Debates on Psychological Explanation, Vol. 1, Oxford University Press, Oxford, 1995.</blockquote>
+
+<a name="l7"> </a>
+<p><strong>Meeting Seven (Tuesday 1 December)</strong></p>
+
+<p><a href="http://www.philosophy.ucla.edu/index.php/user-profile-one/userprofile/burge">Burge, Tyler</a>. &ldquo;Reply: Intentional Properties and Causation&rdquo;, in Macdonald, Cynthia and Graham Macdonald (Eds),  <em>Philosophy of Psychology</em>, Debates on Psychological Explanation, Vol. 1, Oxford University Press, Oxford, 1995. [<a href="http://zuihitsu.org/protected/burge_intentional_properties_causation.pdf">PDF</a>]</p>
+
+<blockquote class="note">Reprinted in <em>Foundations of Mind</em>, Philosophical Essays, Vol. 2, Oxford University Press, Oxford, 2007, pp. 334&ndash;343.</blockquote>
+
+<p><a href="http://web.mit.edu/philos/www/stalnaker.html">Stalnaker, Robert C</a>. 1989. &ldquo;On What's In the Head&rdquo;, in <em>Philosophical Perspectives</em>, Vol. 3, pp. 287&ndash;316. [<a href="http://www.jstor.org/stable/2214271">URI</a>]</p>
+
+<blockquote class="note">Reprinted in Rosenthal, David M (Ed). 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 576&ndash;589; Pessin, Andrew and Sanford Goldberg (Eds). 1996. <em>The Twin Earth Chronicles: Twenty Years of Reflection on 
+Hilary Putnam's &ldquo;The Meaning of &lsquo;Meaning&rsquo; &rdquo;</em>, M. E. Sharpe, Armonk NY, pp. 238&ndash;260; and in <em>Context and Content: Essays on Intentionality in Speech and Thought</em>, Oxford University Press, Oxford, 1999, pp. 169&ndash;193.</blockquote>
+
+<a name="l8"> </a>
+<p><strong>Meeting Eight (Tuesday 8 December)</strong></p>
+
+<p><a href="http://www.philosophy.ox.ac.uk/members/tim_williamson">Williamson, Timothy</a>. 2006. &ldquo;Can Cognition be Factorised into Internal and External Components?&rdquo;, in Robert Stainton (Ed), <em>Contemporary Debates in Cognitive Science</em>, Blackwell, Malden MA. [<a href="http://www.philosophy.ox.ac.uk/__data/assets/pdf_file/0014/1328/Stainton.pdf">PDF</a>]</p>
+
+<p><em>Optional Reading</em></p>
+
+<p><a href="http://users.ox.ac.uk/~mert1230/">Wedgwood, Ralph</a>. 2006. &ldquo;The Internal and External Components of Cognition&rdquo;, in Robert Stainton (Ed), <em>Contemporary Debates in Cognitive Science</em>, Blackwell, Malden MA. [<a href="http://users.ox.ac.uk/~mert1230/cognition.htm">URI</a>]</p>
+
+<p><strong>The Slush Pile</strong></p>
+
+<p><em>Nature of Belief</em></p>
+
+<p><a href="https://files.nyu.edu/dv26/public/">Velleman, J. David</a>. 2000. &ldquo;On the Aim of Belief&rdquo;, in <em>The Possibility of Practical Reason</em>, Oxford University Press, Oxford, pp. 244&ndash;281.</p>
+
+<p><a href="https://www.amherst.edu/people/facstaff/npshah">Shah, Nishi</a> and <a href="https://files.nyu.edu/dv26/public/">J. David Velleman</a>. 2005. &ldquo;Doxastic Deliberation&rdquo;, in <em>Philosophical Review</em>, Vol. 114, No. 4, October 2005, pp. 497&ndash;534.</p>
+
+<p><a href="https://netfiles.uiuc.edu/rcummins/www/HomePage/Cummins.html">Cummins, Robert</a>. 1991. &ldquo;Methodological Reflections on Belief&rdquo;, in Radu J. Bogdan (Ed), <em>Mind and Common Sense: Philosophical Essays on Common Sense Psychology</em>, Cambridge University Press, Cambridge, pp. 53&ndash;70.</p>
+
+<p><em>Externalism and Psychological Explanation</em></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1986. &ldquo;Individualism and Supervenience&rdquo;, in <em>Proceedings of the Aristotelian Society</em>, Supplementary Volume 60, pp. 235&ndash;262.</p>
+
+<blockquote class="note">Reprinted in <em>Psychosemantics: The Problem of Meaning in the Philosophy of Mind</em>, MIT Press, Cambridge MA, 1987, pp. 27&ndash;53; and in Lycan, William G. and Jesse J. Prinz, <em>Mind and Cognition: An Anthology</em>, 3rd Ed, Blackwell, Malden MA, 2008.</blockquote>
+
+<p><a href="http://ruccs.rutgers.edu/faculty/loar.html">Loar, Brian</a>. 1988. &ldquo;Social Content and Psychological Content&rdquo;, in Robert H. Grimm and Daniel D. Merrill (Eds), <em>Contents of Thought</em>, University of Arizona Press, Tucson, pp. 99&ndash;110.</p>
+
+<blockquote class="note">Reprinted in Rosenthal, David M (Ed). 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 568&ndash;577; Pessin, Andrew and Sanford Goldberg (Eds). 1996. <em>The Twin Earth Chronicles: Twenty Years of Reflection on 
+Hilary Putnam's &ldquo;The Meaning of &lsquo;Meaning&rsquo; &rdquo;</em>, M. E. Sharpe, Armonk NY, pp. 180&ndash;191; and Beakley, Brian and Peter Ludlow (Eds). 2006. <em>The Philosophy of Mind: Classical Problems/Contemporary Issues</em>, 2nd edition, MIT Press, Cambridge MA, pp. 623&ndash;634.</blockquote>
+
+<p><a href="http://web.mit.edu/philos/www/stalnaker.html">Stalnaker, Robert C</a>. 1990. &ldquo;Narrow Content&rdquo;, in C. Anthony Anderson and Joseph Owens (Eds), <em>Propositional Attitudes: The Role of Content in Logic, Language, and Mind</em>, CSLI Publications, Stanford, pp. 131&ndash;146.</p>
+
+<blockquote class="note">Reprinted in <em>Context and Content: Essays on Intentionality in Speech and Thought</em>, Oxford University Press, Oxford, 1999, pp. 194&ndash;209.</blockquote>
+
+<p><a href="http://web.mac.com/yablo/Site/Hello.html">Yablo, Stephen</a>. 1997. &ldquo;Wide Causation&rdquo;, in No&ucirc;s, Vol. 31, Supplement: Philosophical Perspectives, 11, Mind, Causation, and World, pp. 251&ndash;281.</p>
+
+<blockquote class="note">Reprinted in <em>Thoughts: Papers on Mind, Meaning, and Modality</em>, Oxford University Press, Oxford, 2009, pp. 275&ndash;306.</blockquote>
+
+*Updated*: 6 December 2009

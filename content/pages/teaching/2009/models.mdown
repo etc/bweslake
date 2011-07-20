@@ -3,3 +3,148 @@ Template: class
 Summary: A reading course on models and idealisation, focusing on their role in explanation and confirmation.
 
 # Models and Idealisation
+
+<h2>Reading Course, Spring 2009</h2>
+
+<p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>Lewis White Beck Memorial Library</td><td>Thursdays, 1:00pm to 3:00pm</td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>A reading course on models and idealisation, focusing on their role in explanation and confirmation.  Graduate and undergraduate students are both welcome&mdash;<a href="mailto:bradley.weslake@rochester.edu?subject=Models and Idealisation Reading Course">email me</a> for more information and permission to participate.</p>
+
+<a name="reading"> </a>
+<h3>Reading</h3>
+
+<a name="l1"> </a>
+<p><strong>Meeting One (Thursday 22 January)</strong></p>
+
+<p><a href="http://www.oberlin.edu/faculty/mthomson-jones/">Jones, Martin R</a>. 2005. &ldquo;Idealization and Abstraction: A Framework&rdquo;, in Martin R. Jones and Nancy Cartwright (Eds), <em>Idealization XII: Correcting the Model: Idealization and Abstraction in the Sciences</em>, Poznan Studies in the Philosophy of the Sciences and the Humanities, Rodopi, Amsterdam, pp. 173&ndash;218. [<a href="http://zuihitsu.org/protected/jones_idealisation_abstraction_framework.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://en.wikipedia.org/wiki/Ernan_McMullin">McMullin, Ernan</a>. 1985. &ldquo;Galilean Idealization&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 16, No. 3, September 1985, pp. 247&ndash;273. [<a href="http://zuihitsu.org/protected/mcmullin_galilean_idealisation.pdf">PDF</a>]</p>
+
+<p><a href="http://www.phil.upenn.edu/~weisberg/">Weisberg, Michael</a>. 2007. &ldquo;Three Kinds of Idealization&rdquo;, in <em>Journal of Philosophy</em>, Vol. 104, No. 12, December 2007, pp. 639&ndash;659. [<a href="http://zuihitsu.org/protected/weisberg_three_kinds_idealisation.pdf">PDF</a>]</p>
+
+<a name="l2"> </a>
+<p><strong>Meeting Two (Thursday 29 January)</strong></p>
+
+<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2007. &ldquo;Why Explanations Lie: Idealization in Explanation&rdquo;, unpublished draft, March 2007. [<a href="http://www.strevens.org/research/expln/Idealization.pdf">PDF</a>]</p>
+
+<a name="l3"> </a>
+<p><strong>Meeting Three (Thursday 5 February)</strong></p>
+
+<p><a href="http://www.pitt.edu/~pittcntr/People/visiting_fellows/vf_2007-08/elgin.htm">Elgin, Mehmet</a>, and <a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 2002. &ldquo;Cartwright On Explanation And Idealization&rdquo;, in <em>Erkenntnis</em>, Vol. 57, No. 3, November 2002, pp. 441&ndash;450. [<a href="http://dx.doi.org/10.1023/A:1021502932490">URI</a>]</p>
+
+<blockquote class="note">
+Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell. 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 165&ndash;174. 
+</blockquote>
+
+<a name="l4"> </a>
+<p><strong>Meeting Four (Thursday 12 February)</strong></p>
+
+<p><a href="http://artsci.wustl.edu/~philos/people/index.php?position_id=1&amp;person_id=5">Craver, Carl F</a>. 2006. &ldquo;When Mechanistic Models Explain&rdquo;, in <em>Synthese</em>, Vol. 153, No. 3, December 2006, pp. 355&ndash;376. [<a href="http://dx.doi.org/10.1007/s11229-006-9097-x">URI</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2002. &ldquo;What is a Mechanism? A Counterfactual Account&rdquo;, in <em>Philosophy of Science</em>, Vol. 69, No. 3, Supplement 2002, S366&ndash;S377. [<a href="http://dx.doi.org/10.1086/341859">URI</a>]</p>
+
+<a name="l5"> </a>
+<p><strong>Meeting Five (Thursday 26 February)</strong></p>
+
+<p><a href="http://www.bu.edu/philo/faculty/abokulich.html">Bokulich, Alisa</a>. 2007. &ldquo;How Scientific Models Can Explain&rdquo;, paper presented at <em>Models and Simulations 2</em>, Tilburg Center for Logic and Philosophy of Science, October 2007. [<a href="http://zuihitsu.org/protected/bokulich_models_explanation.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.bu.edu/philo/faculty/abokulich.html">Bokulich, Alisa</a>. 2008. &ldquo;Can Classical Structures Explain Quantum Phenomena?&rdquo;, in <em>British Journal for the 
+Philosophy of Science</em>, Vol. 59, No. 2, June 2008, pp. 217&ndash;235. [<a href="http://dx.doi.org/10.1093/bjps/axn004">URI</a>]</p>
+
+<p><em>Spring Break</em></p>
+
+<a name="l6"> </a>
+<p><strong>Meeting Six (Thursday 19 March)</strong></p>
+
+<p><a href="http://www.people.fas.harvard.edu/~pgs/">Godfrey-Smith, Peter</a>. 2009. &ldquo;Models and Fictions in Science&rdquo;, in <em>Philosophical Studies</em>, Vol. 143, No. 1, March 2009, pp. 101&ndash;116. [<a href="http://zuihitsu.org/protected/godfrey-smith_models_fictions.pdf">PDF</a>]</p>
+
+<p><a href="http://faculty.washington.edu/afine/">Fine, Arthur</a>. 2009. &ldquo;Science Fictions: Comment on Godfrey-Smith&rdquo;, in <em>Philosophical Studies</em>, Vol. 143, No. 1, March 2009, pp. 117&ndash;125. [<a href="http://zuihitsu.org/protected/fine_on_godfrey-smith.pdf">PDF</a>]</p>
+
+<a name="l7"> </a>
+<p><strong>Meeting Seven (Thursday 26 March)</strong></p>
+
+<p><a href="http://www.hsph.harvard.edu/faculty/richard-levins/">Levins, Richard</a>. 1966. &ldquo;The Strategy of Model Building in Population Biology&rdquo;, in <em>American Scientist</em>, Vol. 54, No. 4, pp. 421&ndash;431. [<a href="http://mechanism.ucsd.edu/~bill/teaching/models/levins.modelbuilding.pdf">PDF</a>]</p>
+
+<blockquote class="note">
+Reprinted in <a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1984. <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 1st Ed, MIT Press, Cambridge MA, pp. 18&ndash;27. 
+</blockquote>
+
+<p><a href="http://www.freshpond.org/staff.html">Orzack, Steven Hecht</a> and <a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1993. &ldquo;A Critical Assessment of Levins's <em>The Strategy of Model Building in Population Biology</em> (1966)&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 68, No. 4, December 1993, pp. 533&ndash;546. [<a href="http://dx.doi.org/10.1086/418301">URI</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.hsph.harvard.edu/faculty/richard-levins/">Levins, Richard</a>. 1993. &ldquo;A Response to Orzack and Sober: Formal Analysis and the Fluidity of Science&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 68, No. 4, December 1993, pp. 547&ndash;555. [<a href="http://dx.doi.org/10.1086/418302">URI</a>]</p>
+
+<p><a href="http://www.lclark.edu/~jay/">Odenbaugh, Jay</a>. 2003. &ldquo;Complex Systems, Trade-Offs, and Theoretical Population Biology: Richard Levin's Strategy of Model Building in Population Biology Revisited&rdquo;, in <em>Philosophy of Science</em>, Vol. 70, No. 5, December 2003, pp. 1496&ndash;1507. [<a href="http://dx.doi.org/10.1086/377425">URI</a>] </p>
+
+<p><a href="http://www.freshpond.org/staff.html">Orzack, Steven Hecht</a>. 2003. &ldquo;Discussion: What, If Anything, Is The Strategy of Model Building in Population Biology? A Comment on Levins (1966) and Odenbaugh (2003)&rdquo;, in <em>Philosophy of Science</em>, Vol. 72, No. 3, July 2003, pp. 479&ndash;485. [<a href="http://dx.doi.org/10.1086/498475">URI</a>] </p>
+
+<p><a href="http://www.phil.upenn.edu/~weisberg/">Weisberg, Michael</a>. 2006. &ldquo;Robustness Analysis&rdquo;, in <em>Philosophy of Science</em>, Vol. 73, No. 5, December 2006, pp. 730&ndash;742. [<a href="http://dx.doi.org/10.1086/51862">URI</a>]</p>
+
+<a name="l8"> </a>
+<p><strong>Meeting Eight (Thursday 2 April)</strong></p>
+
+<p><a href="http://philosophy.uchicago.edu/faculty/wimsatt.html">Wimsatt, William C</a>. 1987. &ldquo;False Models as Means to Truer Theories&rdquo;, in Matthew H. Nitecki and Antoni Hoffman (Eds), <em>Neutral Models in Biology</em>, Oxford University 
+Press, Oxford, pp. 23&ndash;55. [<a href="http://mechanism.ucsd.edu/~bill/teaching/models/Wimsatt.falsemodels.pdf">PDF</a>]</p>
+
+<blockquote class="note">
+Reprinted in <a href="http://philosophy.uchicago.edu/faculty/wimsatt.html">Wimsatt, William C</a>. 2007. <em>Re-Engineering Philosophy for Limited Beings: Piecewise Approximations to Reality</em>, Harvard University Press, Cambridge MA, pp. 94&ndash;132.
+</blockquote>
+
+<a name="l9"> </a>
+<p><strong>Meeting Nine (Thursday 9 April)</strong></p>
+
+<p><a href="https://pro.osu.edu/profiles/laymon.1/">Laymon, Ronald</a>. 1980. &ldquo;Idealization, Explanation, and Confirmation&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Vol. 1, pp. 336&ndash;350. [<a href="http://www.jstor.org/pss/192577">URI</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="https://pro.osu.edu/profiles/laymon.1/">Laymon, Ronald</a>. 1982. &ldquo;Scientific Realism and the Hierarchical Counterfactual Path from Data to Theory&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Vol. 1, pp. 107&ndash;121. [<a href="http://www.jstor.org/pss/192660">URI</a>]</p>
+
+<blockquote class="note">
+Reprinted as &ldquo;The Path from Data to Theory&rdquo; in Jarrett Leplin (Ed). <em>Scientific Realism</em>, University of California Press, Berkeley, 1984, pp. 108&ndash;123.
+</blockquote>
+
+<p><a href="https://pro.osu.edu/profiles/laymon.1/">Laymon, Ronald</a>. 1989. &ldquo;Cartwright and the Lying Laws of Physics&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 86, No. 7, July 1989, pp. 353&ndash;372.[<a href="http://www.jstor.org/pss/2027145">URI</a>]</p>
+
+<p><a href="http://web.phil.ufl.edu/faculty/liu/">Liu, Chuang</a>. 2007. &ldquo;Confirming Idealized Theories and Scientific Realism&rdquo;, paper presented at the LSE-Pitt Conference <em>Confirmation, Induction and Science</em>, London, March 2007. [<a href="http://philsci-archive.pitt.edu/archive/00003244/">URI</a>]</p>
+
+<a name="l10"> </a>
+<p><strong>Meeting Ten (Thursday 16 April)</strong></p>
+
+<p><a href="http://web.ics.purdue.edu/~cpincock/">Pincock, Christopher</a>. <em>forthcoming</em>. &ldquo;Modeling Reality&rdquo;, in <em>Synthese</em>. [<a href="http://web.ics.purdue.edu/~cpincock/pincock%20modeling%20reality.pdf">PDF</a>]</p>
+
+<a name="l11"> </a>
+<p><strong>Meeting Eleven (Thursday 23 April)</strong></p>
+
+<p><a href="http://www.stcloudstate.edu/philosophy/faculty.asp">Shaffer, Michael J</a>. 2001. &ldquo;Bayesian Confirmation of Theories That Incorporate Idealizations&rdquo;, in <em>Philosophy of Science</em>, Vol. 68, No. 1, March 2001, pp. 36&ndash;52. [<a href="http://www.jstor.org/pss/3081023">URI</a>]</p>
+
+<p><a href="http://www.uah.edu/njones/">Jones, Nicholaos</a>. 2007. &ldquo;Resolving the Bayesian Problem of Idealization&rdquo;, paper presented at the LSE-Pitt Conference <em>Confirmation, Induction and Science</em>, London, March 2007. [<a href="http://philsci-archive.pitt.edu/archive/00003101/">URI</a>]</p>
+
+<p><a href="http://www.stcloudstate.edu/philosophy/faculty.asp">Shaffer, Michael J</a>. 2009. &ldquo;The Empirical Confirmation of Idealized Theories&rdquo;, unpublished draft&mdash;thanks to Mike for the copy and permission to post here. [<a href="http://zuihitsu.org/protected/shaffer_confirmation_idealised_theories.pdf">PDF</a>]</p>
+
+<p><em>Optional</em></p>
+
+<p><a href="http://www.phil.metu.edu.tr/erdinc-sayan/">Sayan, Erdinç</a>. 2005. &ldquo;Idealizations and Approximations in Science, and the Bayesian Theory of Confirmation&rdquo;, in Gürol Irzik and Güven Güzeldere (Eds), <em>Turkish Studies in the History and Philosophy of Science</em>, Boston Studies in the Philosophy of Science, Vol. 244, Springer, Dordrecht, pp. 103&ndash;112. [<a href="http://zuihitsu.org/protected/sayan_bayesian_idealisation.pdf">PDF</a>]</p>
+
+<p><img src="https://s3.amazonaws.com/bweslake/images/bad_credit.jpg" alt="Bad Credit, from http://tsilli.com/"></p>
+
+*Updated*: 17 April 2008

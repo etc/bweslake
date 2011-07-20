@@ -1,5 +1,13 @@
 Categories: teaching/2008
 Template: class
-Summary: A reading course on conditionals and counterfactuals, focussing on counterfactuals and the temporal asymmetry of counterfactual dependence.
+Summary: A reading course on conditionals and counterfactuals, focussing on the temporal asymmetry of counterfactual dependence.
 
 # Conditionals and Counterfactuals
+
+## Graduate Reading Course, Spring 2008
+
+A reading course on conditionals and counterfactuals, focussing on the temporal asymmetry of counterfactual dependence.  Our main text was:
+
+> Bennett, Jonathan. 2003. A Philosophical Guide to Conditionals, Oxford University Press, Oxford. \[[<span class="small">OSO</span>](http://dx.doi.org/10.1093/0199258872.001.0001 "Oxford Scholarship Online")\]
+
+*Updated*: 20 July 2011
