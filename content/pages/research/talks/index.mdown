@@ -7,7 +7,7 @@ Template: talks
 ### Upcoming ###
 
 16–17 August 2011  
-*TBD*  
+"Causation, Counterfactual Dependence, and the Transition Problem"
 *Temporal Asymmetry* \[[<span class="small">DETAILS</span>][1]\]  
 [Monash University][2]
 
@@ -27,7 +27,7 @@ Philosophy Colloquium \[[<span class="small">DETAILS</span>][3]\]
  [3]: http://usydseminars.blogspot.com/
  [4]: http://sydney.edu.au/arts/philosophy/
 
-### Past ###
+### Previous ###
 
 3 December 2010  
 “A Tangled History: On Science and Religion” (with [H. Allen Orr][5]) \[[<span class="small">SLIDES</span>][6]\]  
