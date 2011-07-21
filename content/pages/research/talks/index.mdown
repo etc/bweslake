@@ -1,3 +1,4 @@
+Title: Brad Weslake &bull; Talks
 Categories: research/talks
 Summary: Talks.	
 Template: talks

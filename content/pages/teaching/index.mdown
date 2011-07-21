@@ -1,3 +1,4 @@
+Title: Brad Weslake &bull; Teaching
 Summary: Teaching
 Template: teaching
 

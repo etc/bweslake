@@ -1,3 +1,4 @@
+Title: Brad Weslake &bull; Publications
 Categories: research/publications
 Summary: Publications.
 Template: research

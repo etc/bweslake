@@ -1,5 +1,6 @@
 Template: cv
 Categories: cv
+Title: Brad Weslake &bull; Curriculum Vitae
 Summary: Curriculum Vitae
 
 # CV

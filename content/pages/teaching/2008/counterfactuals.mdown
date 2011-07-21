@@ -1,3 +1,4 @@
+Title: Brad Weslake &bull; Conditionals and Counterfactuals
 Categories: teaching/2008
 Template: class
 Summary: A reading course on conditionals and counterfactuals, focussing on the temporal asymmetry of counterfactual dependence.

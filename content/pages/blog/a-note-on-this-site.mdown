@@ -1,4 +1,5 @@
 Template: article
+Title: Brad Weslake &bull; A Note on This Site
 Categories: technology
 Author: Brad Weslake
 Date: 19 July 2011

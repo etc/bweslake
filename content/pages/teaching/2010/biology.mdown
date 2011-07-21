@@ -1,3 +1,4 @@
+Title: Brad Weslake &bull; Topics in Ecology and Evolutionary Biology
 Categories: teaching/2010
 Template: class
 Summary: A unit on philosophy of biology for a four-course sequence providing comprehensive coverage of advanced topics in ecology and evolutionary biology for graduate students in [Ecology and Evolutionary Biology](https://blogs.rochester.edu/EEB/ "Ecology and Evolutionary Biology").

@@ -1,4 +1,5 @@
 Categories: teaching/2007
+Title: Brad Weslake &bull; Scientific Explanation
 Template: class
 Summary: A survey of accounts of scientific explanation from the logical positivists to the present, focussing on three interrelated themes: i) The role of laws in explanation; ii) Explanation in the special sciences; and iii) Explanatory asymmetries.
 

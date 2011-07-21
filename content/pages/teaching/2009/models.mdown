@@ -1,3 +1,4 @@
+Title: Brad Weslake &bull; Models and Idealisation
 Categories: teaching/2009
 Template: class
 Summary: A reading course on models and idealisation, focusing on their role in explanation and confirmation.
