@@ -31,4 +31,5 @@ teaching
   teaching/2007
     teaching/2007/mind
     teaching/2007/explanation
+cv
 blog

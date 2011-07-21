@@ -1,0 +1,277 @@
+Template: cv
+Categories: cv
+Summary: Curriculum Vitae
+
+# CV
+
+Department of Philosophy  
+University of Rochester  
+Box 270078  
+Rochester, NY  
+USA `14627-0078`  
+[bradley.weslake@rochester.edu](mailto:bradley.weslake@rochester.edu)  
+<http://bweslake.org/>  
+<span class="sc">ph</span>: `+1 585 276 3821`  
+<span class="sc">fx</span>: `+1 585 273 2964`
+
+# Areas of speciality
+
+Philosophy of Science • Metaphysics
+
+# Areas of competence
+
+Philosophy of Mind
+
+# Current position
+
+<p class="noteleft">2007–</p>
+*Assistant Professor of Philosophy*, University of Rochester
+
+# Education
+
+<div class="noteleft">2003–2007</div>
+<div><span class="sc">phd</span> in Philosophy, University of Sydney</div>
+<div class="noteleft">2002</div>
+<div><span class="sc">ba</span> with Class I Honours in Philosophy, University of Newcastle</div>
+<div class="noteleft">1997–2001</div>
+<div><span class="sc">bcompsci</span> and <span class="sc">ba</span> in Philosophy, University of Wollongong</div>
+
+# Publications
+
+## books edited
+
+<div class="noteleft"><em>forthcoming</em></div>
+Barry Loewer, Eric Winsberg and Brad Weslake (Eds). Harvard University Press, Cambridge MA, *forthcoming*.
+
+> A presently untitled collection of newly commissioned papers on themes
+> from David Albert’s *Time and Chance* (<span class="sc">hup</span>, 2000), with replies by
+> Albert. Contributors include Sean Carroll, Mathias Frisch, Nick
+> Huggett, Jenann Ismael, Doug Kutach, Barry Loewer, Chris Meacham, Jill
+> North, David Wallace, Brad Weslake, and Eric Winsberg.
+
+## papers published
+
+<div class="noteleft">2010</div>
+Weslake, Brad. “Explanatory Depth”, in *Philosophy of Science*,
+Vol. 77, No. 2, April 2010, pp. 273–294.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1086/651316>
+
+<div class="noteleft">2009</div>
+Price, Huw and Weslake, Brad. “The Time-Asymmetry of Causation”,
+in Helen Beebee, Chris Hitchcock and Peter Menzies (Eds), *Oxford
+Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
+414–443.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021>  
+<span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/4475/>
+
+<div class="noteleft">2006</div>
+Weslake, Brad. “Common Causes and The Direction of Causation”, in
+*Minds and Machines*, Rolf Haenni and Stephan Hartmann (Eds), *Special
+Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
+2006, pp. 239–257.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1007/s11023-006-9042-2>  
+<span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/2792/>
+
+## papers under review
+
+Weslake, Brad. “Exclusion Excluded”.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>
+
+## papers in preparation
+
+“A Partial Theory of Actual Causation”, *available on request*.  
+“Statistical Mechanical Imperialism”, *in progress*.
+
+## encyclopædia entries
+
+<div class="noteleft">2010</div>
+Weslake, Brad. “Causation”, in Graham Oppy and Nick Trakakis
+(Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash
+ePress, Melbourne, 2010.
+
+<div class="noteleft">2006</div>
+Weslake, Brad. “Causation”, “Time”, in Martin Cohen (Ed),
+*Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp.
+44–45, 283–284.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesc>  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/west>
+
+## reviews
+
+<div class="noteleft">2006</div>
+Weslake, Brad. “Review: *Making Things Happen*”, in *Australasian
+Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136-140.  
+<span class="sc">uri</span>:
+<http://dx.doi.org/10.1080/00048400600571935>
+
+<div class="noteleft">2004</div>
+Weslake, Brad. “Review: *Understanding Phenomenal
+Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29
+November 2004.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
+
+# Presentations
+<div class="noteleft">2011</div>
+- Philosophy Colloquium, University of Sydney, 31 August 2011.
+- "Causation, Counterfactual Dependence, and the Transition Problem", *Temporal Asymmetries Conference*, Monash University, 17–18 August 2011.
+
+<div class="noteleft">2010</div>
+- “A Tangled History: On Science and Religion” (with [H. Allen     Orr](http://www.rochester.edu/College/bio/professors/orr.html)), *Phelps Colloquium Series*, University of Rochester, 3 December 2010.
+- “Against Explanatory Fundamentalism”, Philosophy Colloquium, University of Nevada, Las Vegas, 8 October 2010.
+
+<div class="noteleft">2009</div>
+- Symposium on Causation, Laws, and Natural Kinds, *European Philosophy of Science Association*, Vrije Universiteit Amsterdam, 21-24 October 2009.
+- “Explanation in Neuroscience and Folk Psychology”, *Neuroscience Cluster Annual Retreat*, University of Rochester, 22 May 2009.
+- “Initial Conditions, Laws and Explanation”, *Philosophical Issues in Statistical Mechanics*, Center for Philosophy and the Sciences, Rutgers University, 13–14 May 2009.
+- “Causal Relativism”, *Mellon Metaphysics Workshop*, Cornell University, 2 May 2009.
+- “Scientific Models and Explanatory Depth”, *Models and Simulations 3*, University of Virginia, 6–8 March 2009.
+- “Comments on Brad Skow, *The Dynamics of Non-Being*”, *Arizona Ontology Conference*, Tucson, 7–10 January 2009.
+
+<div class="noteleft">2008</div>
+- “Explanatory Depth”, *The Annual Conference of the Australasian Association of Philosophy*, Melbourne, 6–11 July 2008.
+- “Realism and Instrumentalism in Science”, *History and Philosophy of Modern Physics Speaker Series*, University of Rochester, 10 April 2008.
+- “Comments on Thomas Bontly, *Psychological Explanation without Mental Quasation*”, *Pacific APA*, Pasadena, 19–23 March 2008.
+- “Interventionism and Exclusion”, *Mellon Mental Causation Workshop*, Syracuse University, 30 November–1 December 2007.
+
+<blockquote>Also presented at <em>CUNY Cognitive Science Symposium</em>, 14 November 2008.</blockquote>
+
+<div class="noteleft">2007</div>
+- “Two Varieties of Causal Anti-Realism”, *The Foundations of Physics Group*, University of Maryland College Park, 7 May 2007.
+
+<blockquote>Also presented at <em>On What There Isn’t: A Mid-Summer Mini-Conference on Metaphysical Anti-Realism</em>, University of Sydney, 28 February 2006; and at <em>The Origins and Functions of Causal Thinking III: Intervention, Time and Physics</em>, University of Sydney, 19 July 2006.</blockquote>
+
+- “Two Problems for Theories of The Asymmetry of Causal Counterfactuals”, *The 2007 Shapiro Conference: Causal and Epistemic Asymmetry*, Brown University, 27–28 April 2007.
+- Invited participant to *Workshop on the Foundations of Quantum Mechanics*, Center for Philosophy and the Sciences, Rutgers University, 11–12 January 2007.
+
+<div class="noteleft">2005</div>
+- “There Is No Problem of Mental Causation”, *The 11th Annual Australasian Postgraduate Philosophy Conference*, Melbourne University, Melbourne, 28–30 September 2005.
+
+<blockquote>Also presented at <em>Postgraduate Work in Progress Seminar</em>, University of Sydney, 30 November 2005.</blockquote>
+
+- “The Past Hypothesis and The Asymmetry of Causal Counterfactuals”, *Philosophy, Probability and Physics*, University of Konstanz, Germany, 7–13 August 2005.
+- “Lewis on The Asymmetry of Causal Counterfactuals”, *The Annual Conference of the Australasian Association of Philosophy*, University of Sydney, 3–8 July 2005.
+- “Just Passing Through: Passage in a Block Universe”, *Presentism and Passage*, Centre for Time, Sydney,6 May 2005.
+
+<div class="noteleft">2004</div>
+-  “The Passing of Time, Again”, *The 10th Annual Australasian Postgraduate Philosophy Conference*, Macquarie University, Sydney, 29 September–1 October 2004.
+- “Common Causes and The Direction of Causation”, presented at *Causality, Uncertainty and Ignorance*, University of Konstanz, Germany, 15–21 August 2004.
+
+<blockquote>Also presented at <em>Russellian Society Discussion Group</em>, University of Sydney, 10 August 2004; <em>Postgraduate Mini-Conference in Philosophy</em>, University of Sydney, 24 September 2004.</blockquote>
+
+- “Reply to Maudlin”, *The Origins of Temporal Experience*, Centre for Time, Sydney, 16–17 July 2004.
+
+<div class="noteleft">2003</div>
+- “Explaining Causal Asymmetry”, *The 9th Annual Australasian Postgraduate Philosophy Conference*, University of Tasmania, Hobart, 1–3 October 2003.
+
+# Teaching &amp; supervision
+
+## graduate
+
+- Philosophy of Biology (Guest Lectures in Department of Biology),
+[2010](http://bweslake.org/teaching/2010/biology/).  
+- Causation and Counterfactuals (Reading Course),
+[2010](http://bweslake.org/teaching/2010/causation/).  
+- Models and Idealisation (Reading Course),
+[2009](http://bweslake.org/teaching/2009/models/).  
+- Inference to the Best Explanation and Scientific Realism,
+[2008](http://bweslake.org/teaching/2008/ibe/).  
+- Scientific Explanation,
+[2007](http://bweslake.org/teaching/2007/explanation/).  
+- Conditionals and Counterfactuals (Reading Course), 2007.
+
+## upper level
+
+- Darwin and Religion (with [H. Allen
+Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
+[2010](http://bweslake.org/teaching/2010/darwin/).  
+- Philosophy of Cognitive Science,
+[2010](http://bweslake.org/teaching/2010/cognition/).  
+- Philosophy of Biology,
+[2009](http://bweslake.org/teaching/2009/biology/).  
+- Philosophy of Mind,
+[2007](http://bweslake.org/teaching/2007/mind/),
+[2008](http://bweslake.org/teaching/2008/mind/),
+[2009](http://bweslake.org/teaching/2009/mind/).  
+- Philosophy of Science,
+[2008](http://bweslake.org/teaching/2008/science/),
+[2009](http://bweslake.org/teaching/2009/science/),
+[2010](http://bweslake.org/teaching/2010/science/).  
+- Philosophy of Biology (Reading Course),
+[2008](http://bweslake.org/teaching/2008/biology/).  
+- Philosophy of Science, Rutgers Newark, 2007.  
+- Philosophy of Mind, University of Sydney, 2005, 2006.
+
+## lower level
+
+- Reason and Science,
+[2008](http://bweslake.org/teaching/2008/reason/),
+[2009](http://bweslake.org/teaching/2009/reason/),
+[2010](http://bweslake.org/teaching/2010/reason/).
+- Introduction to Philosophy, Adelphi University, 2007.
+- Morality and Ethics, Adelphi University, 2007.
+
+## dissertation committees
+
+<div class="noteleft"><span class="sc">abd</span></div>
+<div><a href="http://sites.google.com/site/kevinmccain/home">Kevin McCain</a> <span class="sc">phd</span></div>
+<div class="noteleft">2011</div>
+<div>Hannah Oh <span class="sc">phd</span></div>
+
+# Service
+
+## refereeing
+
+*American Philosophical Quarterly*  
+*British Journal for the Philosophy of Science*  
+*Canadian Journal of Philosophy*  
+*Dialectica*  
+*Erkenntnis*  
+*International Studies in the Philosophy of Science*  
+*Oxford University Press*  
+*Philosophical Quarterly*  
+*Philosophical Studies*  
+*Philosophy of Science*  
+*Social Epistemology*  
+*Synthese*  
+*Theoria*  
+*Theory and Research in Education*  
+
+## memberships
+
+*American Philosophical Association*  
+*Australasian Association of Philosophy*  
+*Philosophy of Science Association*
+
+# Referees
+
+[Professor Huw Price](http://www.usyd.edu.au/time/price/)  
+*ARC Federation Fellow and Challis Professor of Philosophy*  
+Centre for Time  
+Department of Philosophy  
+University of Sydney  
+[huw@mail.usyd.edu.au](mailto:huw@mail.usyd.edu.au)  
+
+[Professor James F. Woodward](http://www.hps.pitt.edu/profile/woodward.php)  
+*Distinguished Professor of History and Philosophy of Science*  
+Department of History and Philosophy of Science  
+University of Pittsburgh  
+[jfw@pitt.edu](mailto:jfw@pitt.edu)  
+
+[Professor Barry Loewer](http://rci.rutgers.edu/~loewer/)  
+*Professor II*  
+Department of Philosophy  
+Rutgers University  
+[loewer@rci.rutgers.edu](mailto:loewer@rci.rutgers.edu)  
+
+[Professor Tim Maudlin](http://philosophy.rutgers.edu/index.php?option=com%5C_content&task=view&id=111&Itemid=210)  
+*Professor II*  
+Department of Philosophy  
+Rutgers University  
+[maudlin@rci.rutgers.edu](mailto:maudlin@rci.rutgers.edu)  
+
+[Professor David Braddon-Mitchell](http://www.arts.usyd.edu.au/philosophy/staff/profiles/dbraddonmitchell.shtml)  
+Department of Philosophy  
+University of Sydney  
+[dbm@mail.usyd.edu.au](mailto:dbm@mail.usyd.edu.au)    
+
+*Updated*: 21 July 2011

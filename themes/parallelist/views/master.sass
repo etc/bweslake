@@ -82,10 +82,17 @@ article[role=main]
   h2
     @include adjust-font-size($h2-scale, 0, 0.5)
 
+// Talks are blocks of line-break separated texts, so collapse the spacing a little
 article[role=talks]
   line-height: $vertical-rhythm * 0.8
   ul li
     line-height: $vertical-rhythm * 0.8
+
+// Likewise for the CV, but not as much
+article[role=cv]
+  line-height: $vertical-rhythm * 0.95
+  ul li
+    line-height: $vertical-rhythm * 0.95
 
 ol,
 p,
@@ -101,6 +108,7 @@ li
 li.current a
   color: $hover-link-color
 
+// Grey out blockquote text
 blockquote
   margin: $base-vertical-margin 0
   padding: 0 $base-vertical-margin
@@ -109,6 +117,7 @@ blockquote
 blockquote.note
   font-style: normal
 
+//Blockquote style for captioning images
 blockquote.caption,
 blockquote.captionleft
   font-size: 85%
@@ -385,6 +394,15 @@ article.home
             @include adjust-font-size(1, 0, 0)
           p.meta
             margin: 0
+
+// Style for notes in margins
+
+.noteleft
+  position:   relative
+  margin:     0em 0em (-$vertical-rhythm) -8em
+  width:      6em
+  text-align:  left
+  padding:    0em -2em
 
 // Tables
 
