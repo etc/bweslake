@@ -41,13 +41,28 @@ Philosophy of Mind
 ## books edited
 
 <div class="noteleft"><em>forthcoming</em></div>
-Barry Loewer, Eric Winsberg and Brad Weslake (Eds). Harvard University Press, Cambridge MA, *forthcoming*.
+[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds). Harvard University Press, Cambridge MA, *forthcoming*.
 
 > A presently untitled collection of newly commissioned papers on themes
-> from David Albert’s *Time and Chance* (<span class="sc">hup</span>, 2000), with replies by
-> Albert. Contributors include Sean Carroll, Mathias Frisch, Nick
-> Huggett, Jenann Ismael, Doug Kutach, Barry Loewer, Chris Meacham, Jill
-> North, David Wallace, Brad Weslake, and Eric Winsberg.
+> from [David Albert][3]'s *[Time and Chance][4]* (<span class="sc">hup</span>, 2000), with replies by Albert.
+> Confirmed contributors include [Sean Carroll][5], [Mathias Frisch][6], [Nick Huggett][7], [Jenann
+> Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [Jill
+> North][12], [David Wallace][13], [Brad Weslake][14], and [Eric Winsberg][2]. 
+
+ [1]: http://rci.rutgers.edu/~loewer/
+ [2]: http://www.cas.usf.edu/~ewinsb/
+ [3]: http://en.wikipedia.org/wiki/David_Albert
+ [4]: http://www.hup.harvard.edu/catalog.php?isbn=9780674011328
+ [5]: http://preposterousuniverse.com/
+ [6]: http://www.philosophy.umd.edu/Faculty/mfrisch/index.html
+ [7]: http://tigger.uic.edu/~huggett/
+ [8]: http://www.u.arizona.edu/~jtismael/index.html
+ [9]: http://www.brown.edu/Departments/Philosophy/facultymember.php?key=13
+ [10]: http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=111&Itemid=210
+ [11]: http://www.umass.edu/philosophy/faculty/meacham.htm
+ [12]: http://www.yale.edu/philos/people/north_jill.html
+ [13]: http://users.ox.ac.uk/~mert0130/
+ [14]: ../
 
 ## papers published
 
