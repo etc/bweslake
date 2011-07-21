@@ -6,8 +6,6 @@ Summary: A short note on the technologies used to construct this site.
 
 # A Note on This Site
 
-I got tired of editing HTML.  Perhaps I yearned for my former life as a computer programmer.  So I decided to try something new.
-
 This site is constructed with [Nesta](http://nestacms.com/ "Nesta"), a very lightweight content management system.  I chose Nesta because it does everything I need, and nothing more.  Here are some of the features I find particularly attractive:
 
 - Simple pages can be written with [Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown").
