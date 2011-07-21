@@ -90,6 +90,12 @@ article[role=talks]
 
 // Likewise for the CV, but not as much
 article[role=cv]
+  h1
+    @include adjust-font-size($h1-scale * 2, 1.75, 1.25)
+  h2
+    @include adjust-font-size($h2-scale * 1.25, 1, 0)
+  h3
+    @include adjust-font-size($h3-scale, 1, 0.5)
   line-height: $vertical-rhythm * 0.95
   ul li
     line-height: $vertical-rhythm * 0.95
