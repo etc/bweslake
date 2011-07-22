@@ -249,7 +249,7 @@ Press, Cambridge MA, pp. 719&ndash;744; and Burge, Tyler. 2007. <em>Foundations 
 <p><strong>Lecture Seventeen (Wednesday 24 March)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=100&Itemid=210">Egan, Frances</a>. 1999. &ldquo;In Defence of Narrow Mindedness&rdquo;, in <em>Mind and Language</em>, Vol. 14, No. 2, June 1999, pp. 177&ndash;194. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0017.00108">URI</a>]</span></p>
+<a href="http://philosophy.rutgers.edu/index.php?option=com_content&amp;task=view&amp;id=100&amp;Itemid=210">Egan, Frances</a>. 1999. &ldquo;In Defence of Narrow Mindedness&rdquo;, in <em>Mind and Language</em>, Vol. 14, No. 2, June 1999, pp. 177&ndash;194. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0017.00108">URI</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
 <a href="http://www.columbia.edu/cu/philosophy/fac-bios/peacocke/faculty.html">Peacocke, Christopher</a>. 1999. &ldquo;Computation as Involving Content: A Response to Egan&rdquo;, in <em>Mind and Language</em>, Vol. 14, No. 2, April 1999, pp. 195&ndash;202. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0017.00109">URI</a>]</span></p>
