@@ -1,0 +1,13 @@
+#narrowcontent
+  %section(role="main")
+    %h1 Error 404
+    %p
+      The page you were looking for could not be found.  
+      Please select one of the links on this page to try again.
+
+#narrowsidebar
+  %nav.teaching.group
+    - display_menu(Nesta::Menu.for_path('/research'), :root => '/research', :class => 'research', :levels => 3)
+    - display_menu(Nesta::Menu.for_path('/teaching'), :root => '/teaching', :class => 'teaching', :levels => 2)
+    - display_menu(Nesta::Menu.for_path('/cv'), :root => '/cv', :class => 'cv', :levels => 3)
+    - display_menu(Nesta::Menu.for_path('/blog'), :root => '/blog', :class => 'blog', :levels => 3)
