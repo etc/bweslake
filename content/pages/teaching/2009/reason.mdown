@@ -45,13 +45,13 @@ Summary: An introduction to the epistemology of science.
 <h3>Textbooks</h3>
 <p>The following textbook is mandatory.  I have not ordered it into the bookstore, as second-hand copies should be very easy to find (see the link below):</p>
 
-<blockquote class="note"><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&isbn=0226458083&location=10000&state=NY">AddAll</a>]</span></blockquote>
+<blockquote class="note"><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&amp;isbn=0226458083&amp;location=10000&amp;state=NY">AddAll</a>]</span></blockquote>
 
 <p>The following two books are at this point optional, though I may decide to make them mandatory, depending on how the class progresses:</p>
 
-<blockquote class="note"><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. <em>The Advancement of Science: Science without Legend, Objectivity without Illusions</em>, Oxford University Press, Oxford, 1993. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&isbn=0195096533&location=10000&state=NY">AddAll</a>]</span></blockquote>
+<blockquote class="note"><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. <em>The Advancement of Science: Science without Legend, Objectivity without Illusions</em>, Oxford University Press, Oxford, 1993. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&amp;isbn=0195096533&amp;location=10000&amp;state=NY">AddAll</a>]</span></blockquote>
 
-<blockquote class="note"><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&isbn=0199230412&location=10000&state=NY">AddAll</a>]</span></blockquote>
+<blockquote class="note"><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&amp;isbn=0199230412&amp;location=10000&amp;state=NY">AddAll</a>]</span></blockquote>
 
 <a name="assessment"> </a>
 <h3>Assessment</h3>
