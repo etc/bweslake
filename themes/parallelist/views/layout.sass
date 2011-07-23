@@ -1,5 +1,4 @@
 $columns: 12
-
 $container-width: 54em
 $gutter: 2.107em // from modularscale.com with 16px/864px
 $unit: ($container-width - ($gutter * ($columns - 1))) / $columns
@@ -16,9 +15,8 @@ $sidebar-width: grid-width(4)
 $wide-content-width: grid-width(8)
 $wide-sidebar-width: grid-width(3)
 
-$narrow-content-width: grid-width(4)
-$narrow-sidebar-width: grid-width(7)
-
+$narrow-content-width: grid-width(6)
+$narrow-sidebar-width: grid-width(6)
 
 $sidebar-left: grid-left(9)
 
@@ -26,7 +24,7 @@ $sidebar-left: grid-left(9)
   header[role=banner]
     nav.primary
       ul.menu
-        padding: $base-vertical-margin/3 0
+        padding: $base-vertical-margin/2 0
         li
           &:nth-child(even)
             float: left
@@ -63,29 +61,29 @@ $sidebar-left: grid-left(9)
         margin-left: 0
 
     div#widecontent
-      width: $wide-content-width - 0.1em
       float: left
+      width: $wide-content-width
       padding: 1px 0
 
       ol, ul
         margin-left: 0
 
     div#widesidebar
+      float: right
       width: $wide-sidebar-width
-      margin-left: $wide-content-width
       padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
 
     div#narrowcontent
-      width: $narrow-content-width
       float: left
+      width: $narrow-content-width
       padding: 1px 0
 
       ol, ul
         margin-left: 0
 
     div#narrowsidebar
+      float: right
       width: $narrow-sidebar-width
-      margin-left: $narrow-content-width
       padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
 
       ol, ul
@@ -108,15 +106,7 @@ $sidebar-left: grid-left(9)
         & > ul
           margin-left: 0
 
-      nav.teaching
-        float: none
-        width: auto
-        ul
-          float: none
-          width: auto
-        & > ul
-          margin-left: 0
-
+      nav.teaching,
       nav.research
         float: none
         width: auto
@@ -154,7 +144,7 @@ $sidebar-left: grid-left(9)
 
   nav.research
     float: right
-    width: grid-width(4)
+    width: grid-width(3) - 0.1em
     ul
       float: left
-      width: grid-width(4)
+      width: grid-width(3) - 0.1em

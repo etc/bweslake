@@ -38,25 +38,12 @@ span.sc
   letter-spacing: 0.05em
 
 body
+  background: #e2e2e2
   font-size: $base-font * 1.05
   line-height: $vertical-rhythm
   font-weight: 300
   color: $base-color
   @include body-font
-
-header[role=banner]
-  h1
-    margin: 1em 0 0 0
-  h2
-    margin: 0
-  h1
-    font-size: 100% * $h1-scale
-    font-weight: 600
-
-  h2
-    color: $meta-color
-    font-size: 1em * $h3-scale
-    font-weight: 300
 
 h1, h2, h3, #sidebar
   @include heading-font
@@ -67,7 +54,6 @@ h4
   text-transform: uppercase
 h4, h5, h6
   @include body-font
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
 h1
   @include adjust-font-size($h1-scale, 0.6, 0.4)
 h2
@@ -76,6 +62,21 @@ h3
   @include adjust-font-size($h3-scale, 1.5, 0.5)
 h4
   @include adjust-font-size(.75 * $h4-scale, 1, 0)
+
+header[role=banner]
+  h1
+    @include adjust-font-size($h1-scale, 0, 0.5)
+    line-height: 1em
+  h2
+    margin: 0
+  h1
+    font-size: 100% * $h1-scale
+    font-weight: 600
+
+  h2
+    color: $meta-color
+    font-size: 1em * $h3-scale
+    font-weight: 300
 
 article[role=main]
   h1
@@ -91,6 +92,7 @@ article[role=talks]
 
 // Likewise for the CV, but not as much
 article[role=cv]
+  margin-left: 8em
   h1
     @include adjust-font-size($h1-scale * 2, 1.75, 1.25)
   h2
@@ -152,6 +154,7 @@ pre
 img
   border: none
 
+// Breadcrumbs provide a pointer into site structure
 nav.breadcrumb
   margin-top: $vertical-rhythm
   color: $meta-color
@@ -162,12 +165,35 @@ nav.breadcrumb
 // Layout
 
 div#container
+  background: #fff
+  border-top: 3px solid #bbb
+  border-bottom: 3px solid #bbb
+  border-left: 1px solid #ddd
+  border-right: 1px solid #ddd
   position: relative
+  width: 93%
+  margin: 2em auto 2em auto
+  padding: 3em 4em 3em 4em
+
+  div#content
+    position: relative
+    background: #fff
+
+  footer.branding
+    margin: 0
+    padding: 0
+    clear: both
+    color: $meta-color
+    p
+      @include adjust-font-size($base-scale)
+      text-align: center
+      width: auto
+      margin: 0
+      padding: 1em 0
 
 header[role=banner]
   position: relative
   nav.primary
-    line-height: $vertical-rhythm
     ul.menu
       @include group
       margin: 0 0
@@ -205,24 +231,6 @@ header[role=banner]
         width: 24px
         height: 24px
         margin-top: -4px
-
-div#container
-  width: 93%
-  margin: 0 auto
-  padding: 1em 1em 0 1em
-
-  div#content
-    position: relative
-
-  footer.branding
-    clear: both
-    color: $meta-color
-    @include adjust-font-size($base-scale)
-    p
-      text-align: center
-      width: auto
-      margin: 0
-      padding: 1em 0
 
 // The visuals
 
@@ -304,7 +312,9 @@ section.articles
         list-style: decimal
       ul li
         list-style: disc
-
+      ol li a
+        margin: 0
+        text-align: top
   header[role=main] h1
     @include adjust-font-size($h1-scale, 1.5, 0.5)
   header h1
