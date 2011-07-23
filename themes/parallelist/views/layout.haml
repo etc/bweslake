@@ -18,9 +18,6 @@
       %script(src="//html5shim.googlecode.com/svn/trunk/html5.js")
     = local_stylesheet_link_tag('local')
     %link(href="/articles.xml" rel="alternate" type="application/atom+xml")
-    %script(type="text/javascript" src="http://use.typekit.com/nnr4wgc.js")
-    %script(type="text/javascript")
-      try{Typekit.load();}catch(e){}
     = haml :analytics, :layout => false
   %body
     #container
