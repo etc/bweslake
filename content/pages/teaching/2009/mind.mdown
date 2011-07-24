@@ -7,7 +7,7 @@ Summary: An overview of the recent history of philosophy of mind, focusing on th
 
 ## Fall 2009
 
-<p align="center"><img width="100%" src="https://s3.amazonaws.com/bweslake/images/oppenheim_narrow_mind_bw.png" alt="Dennis Oppenheim, Narrow Mind, 1974"></p><blockquote class="caption">Dennis Oppenheim, <em>Narrow Mind</em>, 1974.</blockquote>
+<p align="center"><img width="100%" src="http://bweslake.s3.amazonaws.com/images/oppenheim_narrow_mind_bw.png" alt="Dennis Oppenheim, Narrow Mind, 1974"></p><blockquote class="caption">Dennis Oppenheim, <em>Narrow Mind</em>, 1974.</blockquote>
 
 <blockquote>If we were to think of the philosophy of mind over the past fifty years as a single individual, we would say of that person that he is a compulsive neurotic, and his neurosis takes the form of repeating the same pattern of behaviour over and over.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;John Searle.</blockquote>
@@ -68,7 +68,7 @@ the reading that you found unclear or confusing.</li>
 <table class="assess">
 <tbody>
 <tr><td><a href="#exam">Exam</a>: </td><td>Wednesday 21 October [<a href="#exam">Sample Questions</a>]</td></tr>
-<tr><td>Second Paper: </td><td>Monday 14 December [<a href="https://s3.amazonaws.com/bweslake/teaching/2009/mind/essay.pdf">Questions</a>] [<a href="https://s3.amazonaws.com/bweslake/teaching/resources/guidelines.pdf">Guidelines</a>]</td></tr>
+<tr><td>Second Paper: </td><td>Monday 14 December [<a href="http://bweslake.s3.amazonaws.com/teaching/2009/mind/essay.pdf">Questions</a>] [<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">Guidelines</a>]</td></tr>
 <tr><td>Reading Summaries: </td><td>At each associated class.</td></tr>
 <tr><td></td><td><em>Note</em>: Late summaries will not be accepted.</td></tr>
 </tbody>
@@ -77,7 +77,7 @@ the reading that you found unclear or confusing.</li>
 <p><em>Note</em>: Graduate students or students enrolled for upper level writing credit will be required to write longer essays. Graduate students will also be required to do additional reading and meet for an additional discussion section.</p>
 
 <p><em>Research Resources</em><br>
-Available <a href="https://s3.amazonaws.com/bweslake/teaching/2009/mind/resources.pdf">here</a> [PDF]</p>
+Available <a href="http://bweslake.s3.amazonaws.com/teaching/2009/mind/resources.pdf">here</a> [PDF]</p>
 
 <a name="textbook"> </a>
 <h3>Textbook</h3>
@@ -231,7 +231,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 <a name="exam"> </a>
 <p><strong>Exam (Wednesday 21 October)</strong></p>
 
-<p>Sample exam questions are available <a href="https://s3.amazonaws.com/bweslake/teaching/2009/mind/exam.pdf">here</a> [PDF]</p>
+<p>Sample exam questions are available <a href="http://bweslake.s3.amazonaws.com/teaching/2009/mind/exam.pdf">here</a> [PDF]</p>
 
 <a name="l12"> </a>
 <p><strong>Lecture Twelve (Monday 26 October)</strong></p>

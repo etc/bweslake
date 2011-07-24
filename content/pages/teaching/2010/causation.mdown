@@ -27,6 +27,6 @@ Summary: A reading group on causation.
 <p><em>Multimedia</em><br>
 Watch Paul and Hall discuss causation <a href="http://www.philostv.com/ned-hall-and-l-a-paul/">here</a>.</p>
 
-<p align="center"><img width="75%" src="https://s3.amazonaws.com/bweslake/images/final_hybrid_model.gif" alt="Insights into the Social and Psychological Effects of SMS Text Messaging"><blockquote class="caption">A structural model from Donna Reid and Fraser Reid, &ldquo;Insights into the Social and Psychological Effects of SMS Text Messaging&rdquo;, via <a href="http://www.thediagram.com/9_3/finalhybridmodel.html">Diagram</a>.</blockquote></p>
+<p align="center"><img width="75%" src="http://bweslake.s3.amazonaws.com/images/final_hybrid_model.gif" alt="Insights into the Social and Psychological Effects of SMS Text Messaging"><blockquote class="caption">A structural model from Donna Reid and Fraser Reid, &ldquo;Insights into the Social and Psychological Effects of SMS Text Messaging&rdquo;, via <a href="http://www.thediagram.com/9_3/finalhybridmodel.html">Diagram</a>.</blockquote></p>
 
 *Updated*: 25 October 2010

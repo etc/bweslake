@@ -24,7 +24,7 @@ I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bi
 
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master
- [9]: https://s3.amazonaws.com/bweslake/research/resources/DOItoURI.scpt.zip
+ [9]: http://bweslake.s3.amazonaws.com/research/resources/DOItoURI.scpt.zip
 
 ### Utilities
 

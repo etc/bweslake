@@ -7,7 +7,7 @@ Summary: A survey course on the metaphysics of science.
 
 ## Spring 2009
 
-<p align="center"><br/><img width="70%" src="https://s3.amazonaws.com/bweslake/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity"><blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo; <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
+<p align="center"><br/><img width="70%" src="http://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity"><blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo; <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
 
 <p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#assessment">Assessment</a> | <a href ="#reading">Reading</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a> | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a>  | <a href="#l25">25</a>  | <a href="#l26">26</a>  | <a href="#l27">27</a>  | <a href="#l28">28</a> ]</p>
 
@@ -56,14 +56,14 @@ reading and meet for an additional discussion section.</p>
 <p><table class="assess">
 <thead></thead>
 <tbody>
-<tr><td>First Paper:  </td><td>Monday 16 March </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2009/science/essay1.pdf">PDF</a>]</td></tr>
-<tr><td>Second Paper:  </td><td>Monday 4 May </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2009/science/essay2.pdf">PDF</a>]</td></tr>
+<tr><td>First Paper:  </td><td>Monday 16 March </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2009/science/essay1.pdf">PDF</a>]</td></tr>
+<tr><td>Second Paper:  </td><td>Monday 4 May </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2009/science/essay2.pdf">PDF</a>]</td></tr>
 <tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
 </tbody>
 </table>
 </p>
 
-<p>Essay guidelines [<a href="https://s3.amazonaws.com/bweslake/teaching/resources/guidelines.pdf">PDF</a>]</p>
+<p>Essay guidelines [<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</p>
 
 <a name="reading"> </a>
 <h3>Reading</h3>

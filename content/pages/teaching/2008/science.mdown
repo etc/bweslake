@@ -54,8 +54,8 @@ reading and meet for an additional discussion section.</p>
 <p><table class="assess">
 <thead></thead>
 <tbody>
-<tr><td>First Paper:  </td><td>Monday 17 March </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2008/science/essay1.pdf">PDF</a>]</td></tr>
-<tr><td>Second Paper:  </td><td>Wednesday 7 May </td><td>Questions [<a href="https://s3.amazonaws.com/bweslake/teaching/2008/science/essay2.pdf">PDF</a>]</td></tr>
+<tr><td>First Paper:  </td><td>Monday 17 March </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2008/science/essay1.pdf">PDF</a>]</td></tr>
+<tr><td>Second Paper:  </td><td>Wednesday 7 May </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2008/science/essay2.pdf">PDF</a>]</td></tr>
 <tr><td>Weekly Reading Summaries:  </td><td>Midnight the evening before each class</td></tr>
 </tbody>
 </table>
