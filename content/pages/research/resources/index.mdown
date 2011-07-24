@@ -35,12 +35,14 @@ Other things I find useful:
 * [Pandoc][pandoc]
 * [nvALT][nvalt]
 * [GitHub for Mac][githubmac]
+* [Skim][skim]
 
  [detexify]: http://detexify.kirelabs.org/classify.html "Detexify"
  [duck]: http://cyberduck.ch/
  [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc"
  [nvalt]: http://brettterpstra.com/project/nvalt/ "nvALT"
  [githubmac]: http://mac.github.com/ "GitHub for Mac"
+ [skim]: http://skim-app.sourceforge.net/ "Skim"
 
 ### This Site ###
 
