@@ -73,20 +73,28 @@ Vol. 77, No. 2, April 2010, pp. 273–294.
 <span class="sc">uri</span>: <http://dx.doi.org/10.1086/651316>
 
 <div class="noteleft">2009</div>
-Price, Huw and Weslake, Brad. “The Time-Asymmetry of Causation”,
-in Helen Beebee, Chris Hitchcock and Peter Menzies (Eds), *Oxford
+[Price, Huw][price] and Weslake, Brad. “The Time-Asymmetry of Causation”,
+in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford
 Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
 414–443.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021>  
 <span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/4475/>
 
+ [beebee]: http://www.birmingham.ac.uk/staff/profiles/philosophy/beebee-helen.aspx "Helen Beebee"
+ [price]: http://homepage.mac.com/huw.price/index.html "Huw Price"
+ [hitchcock]: http://www.hss.caltech.edu/people/cricky/profile "Chris Hitchcock"
+ [menzies]: http://www.phil.mq.edu.au/staff/menzies.htm "Peter Menzies"
+
 <div class="noteleft">2006</div>
 Weslake, Brad. “Common Causes and The Direction of Causation”, in
-*Minds and Machines*, Rolf Haenni and Stephan Hartmann (Eds), *Special
+*Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special
 Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
 2006, pp. 239–257.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1007/s11023-006-9042-2>  
 <span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/2792/>
+
+[haenni]: http://haenni.shorturl.com/ "Rolf Haenni"
+[hartmann]: http://stephanhartmann.org/ "Stephan Hartmann"
 
 ### papers under review
 
