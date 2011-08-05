@@ -1,0 +1,52 @@
+Template: article
+Title: Brad Weslake &bull; Explanation, Contrast and Necessity
+Categories: metaphysics, explanation
+Author: Brad Weslake
+Date: 4 August 2011
+Summary: If there are no necessary concrete existents, would we be deprived of an explanation for the number of things?  I say no, if any contingent existents are the result of a fundamentally probabilistic process.
+
+# Explanation, Contrast and Necessity
+
+Why is there something rather than nothing?  When philosophers ask this question, they typically have in mind the question of why anything *contingent* exists.  For if there are things that necessarily exist, [as many believe](http://philpapers.org/surveys/results.pl "PhilPapers: Preliminary Survey results"), the more general question is easily answered by pointing out that there *had to be* something rather than nothing.  
+
+It might seem that the more specific question can be just as easily dismissed.  Here is Roy Sorensen (2009) on a dilemma raised by William Rowe (1975):
+
+> Consider all the contingent truths. The conjunction of all these truths is itself a contingent truth. On the one hand, this conjunction cannot be explained by any contingent truth because the conjunction already contains all contingent truths; the explanation would be circular. On the other hand, this conjunction cannot be explained by a necessary truth because a necessary truth can only imply other necessary truths. This dilemma suggests that ‘Why are there any contingent beings?’ is impossible to answer.
+
+As Sorensen goes on to suggest, there are two problems with this line of thought. The first is that it overlooks the distinction between the contingent truths themselves, and the truth that there are contingent truths.  The contingency of the former is perfectly compatible with the necessity of the latter.  For example, if it could be shown that a world containing nothing contingent is *impossible*, then we would have explained the necessary existence of contingencies, without thereby rendering necessary any of the particular contingencies<sup><a id="fn1r" href="#fn1">1</a></sup>.  The second is that it falsely presupposes that to explain is to deduce.  For it is open for someone to answer the explanatory question by claiming that while the existence of something contingent is not *entailed* by anything necessary, it is nevertheless *explained* in part by necessities. 
+
+There is a different question that can be asked concerning the concrete existents.  It is difficult to specify just what the difference is between concrete and abstract existents (Rosen, 2001), but let us suppose that to be concrete is to be capable of causing or being caused.  The question concerns whether there is any concrete existent that exists necessarily.  It is this question that, in a [recent post](http://prosblogion.ektopos.com/archives/2011/07/a-cost-of-conti.html "A Cost of Contingentism") at [The Prosblogion](http://prosblogion.ektopos.com/ "The Prosblogion"), [Joshua Rasmussen](http://www.nd.edu/~jrasmus1/ "Joshua Rasmussen") has addressed.
+
+Josh calls the claim that no concrete thing must exist *contingentism* and I will call the rejection of this claim *non-contingentism* (it would be nice to use "necessitarianism", but this term is used in myriad ways elsewhere and so liable to cause confusion here).  In discussion following his post and over email, Josh and I have been disagreeing about the following claim<sup><a id="fn2r" href="#fn2">2</a></sup>:
+
+> If non-contingentism is true then there is a better explanation for why there are `n` rather than `n+1` concrete existents than if contingentism is true.
+
+Josh is interested in this claim because he is interested in deploying claims of this sort in arguments against contingentism.  I'm not too interested in that, but I *am* interested in the question of whether there is a defensible account of explanation that makes this claim a reasonable thing to believe.  And I think there is not.  More specifically, I think that if at least one contingent thing is the product of a fundamentally probabilistic process that might have equally well produced more contingent things, then whether contingentism or non-contingentism is true makes no explanatory difference to whether there are `n` rather than `n+1` contingent existents.
+
+Here's why.  Consider a fundamentally probabilistic process in which `x` concrete things are produced, and in which it was just as likely that `x+1` things were produced.  And now consider the question, "Why did the process produce `x` rather than `x+1` things?".  There is, I think, no answer to this question.  The fact that the process is fundamentally probabilistic means that there is nothing that makes a difference to the probability of whether `x` rather than `x+1` things were produced; and the only way to identify an explanatory difference would be to identify such a thing.  Hence, there is no answer to the question.  Notice that this claim is independent of whether, as Strevens (2000) argues, "large probabilities explain better".  The point is simply that if two outcomes were equally likely, we do not have an explanation for why one rather than the other in fact occurred.
+
+Now suppose that this process is embedded in a world with `m` necessary concrete existents, where one of the `m` is at the head of the process that produced the `x` things, and that there are no other concrete existents<sup><a id="fn3r" href="#fn3">3</a></sup>.  By the argument above, the existence of the `m` makes no difference to whether the process produced `x` rather than `x+1` things.  But then there is no explanatory difference made by whether or not contingentism is true.  So the claim at issue is false.
+
+In correspondence, Josh suggests that if contingentism is true there will not be as good an explanation for why the head of the process exists, since it would then itself be contingent.  This may well be true, but it is an explanation of a different fact.  The explanation of `A` is not *ipso facto* part of the explanation for `A` rather than `B`---it is only part of the explanation if it is relevant to the *difference* between `A` and `B`, and when `A` and `B` are fundamentally equiprobable there is *nothing* that is so-relevant.  Or so I claim.
+
+#### Notes
+
+<p id="fn1">
+1. The best discussion of this strategy can be found in a trio of papers by David Efird and Tom Stoneham (2005a, 2005b, 2006). <a href="#fn1r" title="Return to text">&#8617;</a> 
+</p>
+<p id="fn2">
+2. The original claim Josh made was simply that if non-contingentism is true then there is a better explanation for why there are <code>n</code> concrete existents. I have reformulated this as the contrastive claim in the main text, since in my view all explanation is contrastive. If, as I think is reasonable, the contrastive claim is implied by the non-contrastive claim in this context, my remarks will transfer to that case too. <a href="#fn2r" title="Return to text">&#8617;</a> 
+</p>
+<p id="fn3">
+3. As Josh pointed out to me, there is a question whether the process itself counts as a distinct contingent existent.  If so, then our question is why there are <code>x+1</code> rather than <code>x+2</code> contingent existents. <a href="#fn3r" title="Return to text">&#8617;</a> 
+</p>
+
+#### References
+
+- Efird, David and Tom Stoneham. 2005a. “Genuine Modal Realism and the Empty World”, in *European Journal of Analytic Philosophy*, Vol. 1, No. 1, pp. 21–37. \[[PDF](http://www.ffri.hr/phil/casopis/content/volume_1/EUJAP_01_stoneham.pdf)\]
+- Efird, David and Tom Stoneham. 2005b. “The Subtraction Argument for Metaphysical Nihilism”, in *The Journal of Philosophy*, Vol. 102, No. 6, June 2005, pp. 1–23. \[[URI](http://www.jstor.org/stable/3655532)\]
+- Efird, David and Tom Stoneham. 2006. “Combinatorialism and the Possibility of Nothing”, in *Australasian Journal of Philosophy*, Vol. 84, No. 2, June 2006, pp. 269–280. \[[URI](http://dx.doi.org/10.1080/00048400600759134)\]
+- Rowe, William. 1975. *The Cosmological Argument*, Princeton University Press, Princeton.
+- Rosen, Gideon. 2001. “Abstract Objects”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford. \[[URI](http://plato.stanford.edu/entries/abstract-objects/ "Abstract Objects")\]
+- Sorensen, Roy. 2009. “Nothingness”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford. \[[URI](http://plato.stanford.edu/entries/nothingness/ "Nothingness")\]
+- Strevens, Michael. 2000. “Do Large Probabilities Explain Better?”, in *Philosophy of Science*, Vol. 67, No. 3, September 2000, pp. 366–390. \[[URI](http://dx.doi.org/10.1086/392786)\]
