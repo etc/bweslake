@@ -1,0 +1,78 @@
+Title: Brad Weslake &bull; Darwin and Religion Teaching Resources
+Categories: teaching/resources
+Template: class
+Summary: A collection of teaching resources on Darwin and religion.
+
+# Darwin and Religion Teaching Resources
+
+&nbsp;
+![Charles Darwin, Diagram of Divergence of
+Taxa](http://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
+<blockquote class="caption">Part of Darwin's &ldquo;Diagram of Divergence of Taxa&rdquo;, the only diagram in <em>On The Origin of Species</em>.  For the full diagram see <a href="http://darwin-online.org.uk/content/frameset?viewtype=image&amp;itemID=F373&amp;pageseq=133">here</a>.</blockquote>
+
+### Overview
+
+This is a collection of multimedia resources on the history and philosophy of the interaction between science and religion, with a particular focus on Darwin.  The are primarily designed to be a resource for a class on these topics, for example the one I teach with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html) (see syllabus from [2010](../2010/darwin), [2012](../2012/darwin)).  Please [contact me](mailto:bradley.weslake@rochester.edu) with suggestions or broken links.
+
+### History of Science and Religion ###
+
+#### Galileo ####
+
+- David Lindberg, "[The Florentine Heretic? Galileo, the Church, and the Cosmos](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_82)", *The Faraday Institute for Science and Religion*, 24 July 2006.
+- Ernan McMullin, "[Was Galileo Guilty?](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_174)", *The Faraday Institute for Science and Religion*, 28 July 2007.
+
+#### Newton ####
+
+- Iliffe, Robert. "[Newton, Science and Religion](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_332)", *The Faraday Institute for Science and Religion*, 20 October 2009.
+
+### History of Biology ###
+
+#### Natural Theology ####
+
+- Lawrence Principe, "[Natural Theology: A Historical Perspective](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_317)", *The Faraday Institute for Science and Religion*, 14 July 2009.
+- Jonathan Topham, "[Biology in the service of Natural Theology](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_340)", *The Faraday Institute for Science and Religion*, 9 February 2010.
+
+#### Darwin ####
+
+- [Elliot Sober][sober], "[What is Darwin's Theory?](http://sackler.nasmediaonline.org/2009/darwin/elliot_sober/elliot_sober.html)", presented at *In the Light of Evolution III: Two Centuries of Darwin*, Arnold and Mabel Beckman Center, Irvine, CA, 15-17 January 2009.  The paper on which this talk is based is Elliott Sober, "Did Darwin Write the *Origin* Backwards?", in *Proceedings of the National Academy of Sciences*, Vol. 106, Supplement 1, June 2009, pp. 10048--10055. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901109106">URI</a>]</span>
+- Robert J. Richards, "[Darwin's Place in the History of Thought: A Reevaluation](http://sackler.nasmediaonline.org/2009/darwin/robert_richards/robert_richards.html)", presented at *In the Light of Evolution III: Two Centuries of Darwin*, Arnold and Mabel Beckman Center, Irvine, CA, 15-17 January 2009.  The paper on which this talk is based is Robert J. Richards, "Darwin's Place in the History of Thought: A Reevaluation", in *Proceedings of the National Academy of Sciences*, Vol. 106, Supplement 1, June 2009, pp. 10056--10060. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901111106">URI</a>]</span>
+- Peter Bowler, "[Imagining a World Without Darwin](http://video.nd.edu/254-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+- Robert J. Richards, "['All that is most beautiful': Darwin's Theory of Morality and Its Normative Validity](http://video.nd.edu/271-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+
+#### America ###
+
+- Numbers, Ronald. "[Why is Creationism so popular in the USA?](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_188)", *The Faraday Institute for Science and Religion*, 15 September 2007.
+- Kenneth Miller, "[Darwin, God, & Design---Evolution & the Battle for America's Soul](http://video.nd.edu/263-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.  The book on which this talk draws is *Only a Theory: Evolution and the Battle for America's Soul*, Penguin, New York, 2008. 
+
+### Contemporary Evolutionary Theory
+
+#### The Present and Future State of Evolutionary Theory
+
+- Simon Conway Morris, "[Nine Evolutionary Myths: The Closing of the Darwinian Mind](http://reilly.nd.edu/conference/darwin/videos/Simon_Conway_Morris.aspx)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+- Jean Gayon, "[What Future for Darwinism?](http://video.nd.edu/259-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+
+#### The Evolution of Complexity
+
+- Michael Lynch, "[Evolution by Non-Adaptive Mechanisms](http://video.nd.edu/262-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+- Alessandro Minelli, "[The Evolvability of Organic Forms: Possible, Likely, and Unlikely Change From the Perspective of Evolutionary Developmental Biology" ](http://video.nd.edu/264-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+- Sandra D. Mitchell, "[Evolution and the Mechanisms of Complexity](http://video.nd.edu/265-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+
+#### Evolutionary Contingency ####
+
+- Simon Conway Morris, "[Darwin's Compass: Why the Evolution of Humans is Inevitable](http://www.youtube.com/watch?v=6GpYvGGqXIM)", Southern Methodist University, 29 January 2010.
+- John Beatty, "The Details Left to Chance: Evolutionary Contingency and its Broader Implications in the Work of Charles Darwin and Stephen Jay Gould", *The Sam Noble Oklahoma Museum of Natural History*, 12 March 2009. \[[MP4](http://www.snomnh.ou.edu/rss/video/darwin_mar1209.mp4)\]
+
+
+### Philosophy of Biology
+
+#### Design Arguments ####
+
+- Elliot Sober, "Darwinism and Intelligent Design", Southern Methodist University, 13 April 2009. \[[PART 1](http://www.smu.edu/flashvideo/?cat=Charles%20Darwin%20Anniversary%20Series&id=288)\] \[[PART 2](http://www.smu.edu/flashvideo/?cat=Charles%20Darwin%20Anniversary%20Series&id=287)\]
+
+#### Evolutionary Explanations of Belief ####
+
+- Paul Griffiths and John Wilkins, "[Are Evolutionary Explanations of Religion Debunking Explanations?](http://video.nd.edu/260-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.  This talk is based on the following two papers:
+  -  Griffiths, Paul E, and John S. Wilkins. "When do evolutionary explanations of belief debunk belief?", in Phillip R. Sloan (Ed), *Darwin in the 21st Century: Nature, Humanity, and God*, Notre Dame University Press, Notre Dame, *forthcoming*.
+  - Wilkins, John S., and Paul E. Griffiths. "Evolutionary debunking arguments in three domains: Fact, value, and religion", in James Maclaurin and Gregory W. Dawes (Eds), *A New Science of Religion*, University of Chicago Press, Chicago, *forthcoming*.
+
+[sober]: http://philosophy.wisc.edu/sober/ "Elliot Sober"

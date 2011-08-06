@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; Teaching Resources
+Summary: Teaching Resources
+Template: resources
+
+# Teaching Resources
