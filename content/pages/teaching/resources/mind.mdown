@@ -1,0 +1,22 @@
+Title: Brad Weslake &bull; Philosophy of Mind Teaching Resources
+Categories: teaching/resources
+Template: class
+Summary: A collection of teaching resources on philosophy of mind.
+
+# Philosophy of Mind Teaching Resources
+
+<p align="left"><br/><img width="30%" src="http://bweslake.s3.amazonaws.com/images/trepanning.jpg" alt="Mr. Rodman's Trepanning Instrument">
+
+<blockquote class="captionleft">From <em>The Philosophical Magazine, Comprehending the Various Branches of Science, the Liberal and Fine Arts, Agriculture, Manufactures, and Commerce</em>, London, 1811, Part VII, Vol VI (via <a href="http://thediagram.com/2_6/rodman.html">here</a>).</blockquote></p>
+
+### Overview
+
+This is (going to be) a collection of multimedia resources on philosophy of mind.  They are primarily designed to be a resource for a class on these topics.  Please [contact me](mailto:bradley.weslake@rochester.edu) with suggestions or broken links.
+
+### The Chinese Room
+
+- John Searle, "[Minds, Brains and Science](http://www.bbc.co.uk/programmes/p00gq1fk/episodes/player)", *Reith Lectures*, 1984.
+
+### Perception
+
+Alva Noë, "[Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness](http://www.youtube.com/watch?v=af3Vq-C1ck8)", presented at Google, San Francisco, 16 April 2009.

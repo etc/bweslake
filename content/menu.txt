@@ -34,5 +34,6 @@ teaching
     teaching/2007/explanation
   teaching/resources
     teaching/resources/darwin
+    teaching/resources/mind
 cv
 blog

@@ -12,7 +12,7 @@ Taxa](http://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
 
 ### Overview
 
-This is a collection of multimedia resources on the history and philosophy of the interaction between science and religion, with a particular focus on Darwin.  The are primarily designed to be a resource for a class on these topics, for example the one I teach with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html) (see syllabus from [2010](../2010/darwin), [2012](../2012/darwin)).  Please [contact me](mailto:bradley.weslake@rochester.edu) with suggestions or broken links.
+This is a collection of multimedia resources on the history and philosophy of the interaction between science and religion, with a particular focus on Darwin.  They are primarily designed to be a resource for a class on these topics, for example the one I teach with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html) (see syllabus from [2010](../2010/darwin), [2012](../2012/darwin)).  Please [contact me](mailto:bradley.weslake@rochester.edu) with suggestions or broken links.
 
 ### History of Science and Religion ###
 
@@ -35,6 +35,8 @@ This is a collection of multimedia resources on the history and philosophy of th
 #### Darwin ####
 
 - [Elliot Sober][sober], "[What is Darwin's Theory?](http://sackler.nasmediaonline.org/2009/darwin/elliot_sober/elliot_sober.html)", presented at *In the Light of Evolution III: Two Centuries of Darwin*, Arnold and Mabel Beckman Center, Irvine, CA, 15-17 January 2009.  The paper on which this talk is based is Elliott Sober, "Did Darwin Write the *Origin* Backwards?", in *Proceedings of the National Academy of Sciences*, Vol. 106, Supplement 1, June 2009, pp. 10048--10055. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901109106">URI</a>]</span>
+- John van Wyhe, "Darwin's Secret? Was the theory of evolution really held back for twenty years?", *The Sam Noble Oklahoma Museum of Natural History*, 9 April 2009. \[[MP4](http://www.snomnh.ou.edu/rss/video/darwin_apr0909.mp4)\]
+- Paul White, "Darwin's Emotions", *The Sam Noble Oklahoma Museum of Natural History*, 3 February 2009. \[[MP4](http://www.snomnh.ou.edu/rss/video/darwin_feb0309.mp4)\]
 - Robert J. Richards, "[Darwin's Place in the History of Thought: A Reevaluation](http://sackler.nasmediaonline.org/2009/darwin/robert_richards/robert_richards.html)", presented at *In the Light of Evolution III: Two Centuries of Darwin*, Arnold and Mabel Beckman Center, Irvine, CA, 15-17 January 2009.  The paper on which this talk is based is Robert J. Richards, "Darwin's Place in the History of Thought: A Reevaluation", in *Proceedings of the National Academy of Sciences*, Vol. 106, Supplement 1, June 2009, pp. 10056--10060. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901111106">URI</a>]</span>
 - Peter Bowler, "[Imagining a World Without Darwin](http://video.nd.edu/254-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
 - Robert J. Richards, "['All that is most beautiful': Darwin's Theory of Morality and Its Normative Validity](http://video.nd.edu/271-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
@@ -42,6 +44,7 @@ This is a collection of multimedia resources on the history and philosophy of th
 #### America ###
 
 - Numbers, Ronald. "[Why is Creationism so popular in the USA?](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_188)", *The Faraday Institute for Science and Religion*, 15 September 2007.
+- Joe Cain, "A Monkey's Uncle: The 1925 Scopes Trial Wasn't What You Think!", *The Sam Noble Oklahoma Museum of Natural History*, 21 April 2009. \[[MP4](http://www.snomnh.ou.edu/rss/video/darwin_apr2109.mp4)\]
 - Kenneth Miller, "[Darwin, God, & Design---Evolution & the Battle for America's Soul](http://video.nd.edu/263-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.  The book on which this talk draws is *Only a Theory: Evolution and the Battle for America's Soul*, Penguin, New York, 2008. 
 
 ### Contemporary Evolutionary Theory
