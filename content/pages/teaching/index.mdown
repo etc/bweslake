@@ -4,4 +4,4 @@ Template: teaching
 
 # Teaching
 
-I have taught at undergraduate and postgraduate level in general philosophy of science, philosophy of biology, philosophy of cognitive science, and philosophy of mind.  I also regularly co-teach an interdisciplinary class on the history and philosophy of the relationship between science and religion.  In addition to class syllabi, I maintain links to multimedia resources for the various areas in which I teach [here](./teaching/resources).
+I have taught at undergraduate and postgraduate level in general philosophy of science, philosophy of biology, philosophy of cognitive science, and philosophy of mind.  I also regularly co-teach an interdisciplinary class on the history and philosophy of the relationship between science and religion.  In addition to class syllabi, I maintain links to multimedia resources for the various areas in which I teach [here](./resources).
