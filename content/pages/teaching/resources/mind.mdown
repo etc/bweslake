@@ -17,6 +17,9 @@ This is (going to be) a collection of multimedia resources on philosophy of mind
 
 - John Searle, "[Minds, Brains and Science](http://www.bbc.co.uk/programmes/p00gq1fk/episodes/player)", *Reith Lectures*, 1984.
 
-### Perception
+### Consciousness
 
-Alva Noë, "[Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness](http://www.youtube.com/watch?v=af3Vq-C1ck8)", presented at Google, San Francisco, 16 April 2009.
+- Alva Noë, "[Out of Our Heads: Why You Are Not Your Brain, and Other Lessons from the Biology of Consciousness](http://www.youtube.com/watch?v=af3Vq-C1ck8)", presented at Google, San Francisco, 16 April 2009.
+- Ned Block, "Inattentional Blindness and the Nature of Consciousness", *The Arnold Pfeffer Center for Neuropsychoanalysis*, 7 February 2009. \[[PART 1](http://www.viddler.com/explore/npsa/videos/3/)\]\[[PART 2](http://www.viddler.com/explore/npsa/videos/4/)\]
+- Hakwan Lau, "[Sensory Awareness and Perceptual Certainty](http://consciousnessonline.wordpress.com/2010/02/19/sensory-awareness-and-perceptual-certainty/)", *NYU Perception Workshop*, 31 October 2009. With commentary by Ned Block, David Rosenthal, and David Chalmers.
+- Derek Ball, "[The New New Mysterianism](http://consciousnessonline.wordpress.com/2009/02/20/the-new-new-mysterianism/)", *The Online Consciousness Conference*, 20 February 2009. With commentary by David Papineau and James Dow.
