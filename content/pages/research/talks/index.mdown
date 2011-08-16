@@ -8,12 +8,13 @@ Template: talks
 ### Upcoming ###
 
 16–17 August 2011  
-"Causation, Counterfactual Dependence, and the Transition Problem"
+"Causation, Counterfactual Dependence, and the Transition Problem" \[[<span class="small">SLIDES</span>][transition]\]  
 *Temporal Asymmetry* \[[<span class="small">DETAILS</span>][1]\]  
 [Monash University][2]
 
  [1]: http://timechance2011.wordpress.com/
  [2]: http://arts.monash.edu.au/philosophy/
+ [transition]: http://bweslake.s3.amazonaws.com/research/talks/transition_slides.pdf
 
 19–20 August 2011  
 Invited Participant  
