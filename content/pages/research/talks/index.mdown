@@ -7,13 +7,8 @@ Template: talks
 
 ### Upcoming ###
 
-19–20 August 2011  
-Invited Participant  
-*Chance and the Principal Principle* \[[<span class="small">DETAILS</span>][1]\]  
-[Monash University][2]
-
 31 August 2011  
-*TBD*  
+"A Partial Theory of Actual Causation"  
 Philosophy Colloquium \[[<span class="small">DETAILS</span>][3]\]  
 [University of Sydney][4]
 
@@ -21,6 +16,11 @@ Philosophy Colloquium \[[<span class="small">DETAILS</span>][3]\]
  [4]: http://sydney.edu.au/arts/philosophy/
 
 ### Previous ###
+
+19–20 August 2011  
+Invited Participant  
+*Chance and the Principal Principle* \[[<span class="small">DETAILS</span>][1]\]  
+[Monash University][2]
 
 16–17 August 2011  
 "Causation, Counterfactual Dependence, and the Transition Problem" \[[<span class="small">SLIDES</span>][transition]\]  
