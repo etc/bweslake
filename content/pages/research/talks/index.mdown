@@ -5,17 +5,16 @@ Template: talks
 
 # Talks
 
-### Upcoming ###
+### Previous ###
 
 31 August 2011  
-"A Partial Theory of Actual Causation"  
+"A Partial Theory of Actual Causation" \[[<span class="small">HANDOUT</span>][part]\]  
 Philosophy Colloquium \[[<span class="small">DETAILS</span>][3]\]  
 [University of Sydney][4]
 
  [3]: http://usydseminars.blogspot.com/
  [4]: http://sydney.edu.au/arts/philosophy/
-
-### Previous ###
+ [part]: http://bweslake.s3.amazonaws.com/research/talks/ac_handout.pdf
 
 19–20 August 2011  
 Invited Participant  

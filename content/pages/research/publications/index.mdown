@@ -26,16 +26,18 @@ Template: research
  [12]: http://www.yale.edu/philos/people/north_jill.html
  [13]: http://users.ox.ac.uk/~mert0130/
  [14]: ../../
+
 ### Papers
 
+"Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA, *forthcoming*.
   
-Weslake, Brad. 2010. “Explanatory Depth”, in *Philosophy of Science*, Vol. 77, No. 2, April 2010, pp. 273–294. \[[<span class="small">DOI</span>][15]\] \[[<span class="small">PDF</span>][16]\] \[[<span class="small">PhilPapers</span>][17]\]
+“Explanatory Depth”, in *Philosophy of Science*, Vol. 77, No. 2, April 2010, pp. 273–294. \[[<span class="small">DOI</span>][15]\] \[[<span class="small">PDF</span>][16]\] \[[<span class="small">PhilPapers</span>][17]\]
 
  [15]: http://dx.doi.org/10.1086/651316
  [16]: http://bweslake.s3.amazonaws.com/research/papers/weslake_depth.pdf
  [17]: http://philpapers.org/rec/WESED
 
-[Price, Huw][price] and Weslake, Brad. 2009. “The Time-Asymmetry of Causation”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, pp. 414–443. \[[<span class="small">OUP</span>][19]\] \[[<span class="small">PhilSci</span>][20]\] \[[<span class="small">PhilPapers</span>][21]\]
+[Price, Huw][price] and Weslake, Brad, “The Time-Asymmetry of Causation”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, pp. 414–443. \[[<span class="small">OUP</span>][19]\] \[[<span class="small">PhilSci</span>][20]\] \[[<span class="small">PhilPapers</span>][21]\]
 
  [19]: http://www.oup.com/us/catalog/general/subject/Philosophy/Metaphysics/?view=usa&ci=9780199279739
  [20]: http://philsci-archive.pitt.edu/archive/00004475/ "Download via the PhilSci archive"
@@ -45,7 +47,7 @@ Weslake, Brad. 2010. “Explanatory Depth”, in *Philosophy of Science*, Vol. 7
  [hitchcock]: http://www.hss.caltech.edu/people/cricky/profile "Chris Hitchcock"
  [menzies]: http://www.phil.mq.edu.au/staff/menzies.htm "Peter Menzies"
 
-Weslake, Brad. 2006. “Common Causes and The Direction of Causation”, in *Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August 2006, pp. 239–257. \[[<span class="small">DOI</span>][22]\] \[[<span class="small">PhilSci</span>][23]\] \[[<span class="small">PhilPapers</span>][24]\]
+“Common Causes and The Direction of Causation”, in *Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August 2006, pp. 239–257. \[[<span class="small">DOI</span>][22]\] \[[<span class="small">PhilSci</span>][23]\] \[[<span class="small">PhilPapers</span>][24]\]
 
  [22]: http://dx.doi.org/10.1007/s11023-006-9042-2
  [23]: http://philsci-archive.pitt.edu/archive/00002792/ "Download via the PhilSci archive"
@@ -56,13 +58,13 @@ Weslake, Brad. 2006. “Common Causes and The Direction of Causation”, in *Min
 ### Reviews
 
   
-Weslake, Brad. 2006. “Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136–140. \[[<span class="small">DOI</span>][25]\] \[[<span class="small">PhilPapers</span>][26]\] \[[<span class="small">PDF</span>][27]\]
+“Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136–140. \[[<span class="small">DOI</span>][25]\] \[[<span class="small">PhilPapers</span>][26]\] \[[<span class="small">PDF</span>][27]\]
 
  [25]: http://dx.doi.org/10.1080/00048400600571935
  [26]: http://philpapers.org/rec/WESU
  [27]: http://bweslake.s3.amazonaws.com/research/papers/weslake_review_woodward.pdf
 
-Weslake, Brad. 2004. “Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004. \[[<span class="small">HTML</span>][28]\] \[[<span class="small">PhilPapers</span>][29]\] \[[<span class="small">PDF</span>][30]\]
+“Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004. \[[<span class="small">HTML</span>][28]\] \[[<span class="small">PhilPapers</span>][29]\] \[[<span class="small">PDF</span>][30]\]
 
  [28]: http://www.mhnet.org/books/books.php?type=de&id=2411
  [29]: http://philpapers.org/rec/WESROU
@@ -71,18 +73,18 @@ Weslake, Brad. 2004. “Review of *Understanding Phenomenal Consciousness*”, i
 ### Encyclopaedia Entries
 
   
-Weslake, Brad. 2010. “Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash University Publishing, Clayton, 2010. \[[<span class="small">HTML</span>][31]\]  
+“Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash University Publishing, Clayton, 2010. \[[<span class="small">HTML</span>][31]\]  
 
 
  [31]: http://books.publishing.monash.edu/apps/bookworm/view/A+Companion+to+Philosophy+in+Australia+and+New+Zealand/56/xhtml/chapter03.html#chapter03sec03
 
-Weslake, Brad. 2006. “Causation”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][33]\] \[[<span class="small">PDF</span>][34]\]
+“Causation”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][33]\] \[[<span class="small">PDF</span>][34]\]
 
  [32]: http://www.us.oup.com/us/catalog/general/subject/Philosophy/?view=usa&ci=9780340900284
  [33]: http://philpapers.org/rec/WESC
  [34]: http://bweslake.s3.amazonaws.com/research/papers/weslake_essentials_causation.pdf
 
-Weslake, Brad. 2006. “Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 283–284. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][35]\] \[[<span class="small">PDF</span>][36]\]
+“Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 283–284. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][35]\] \[[<span class="small">PDF</span>][36]\]
 
  [35]: http://philpapers.org/rec/WEST
  [36]: http://bweslake.s3.amazonaws.com/research/papers/weslake_essentials_time.pdf

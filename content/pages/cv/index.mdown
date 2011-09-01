@@ -67,8 +67,11 @@ Philosophy of Mind
 
 ### papers published
 
+<div class="noteleft"><em>forthcoming</em></div>
+"Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA, *forthcoming*.
+
 <div class="noteleft">2010</div>
-Weslake, Brad. “Explanatory Depth”, in *Philosophy of Science*,
+“Explanatory Depth”, in *Philosophy of Science*,
 Vol. 77, No. 2, April 2010, pp. 273–294.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1086/651316>
 
@@ -86,7 +89,7 @@ Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
  [menzies]: http://www.phil.mq.edu.au/staff/menzies.htm "Peter Menzies"
 
 <div class="noteleft">2006</div>
-Weslake, Brad. “Common Causes and The Direction of Causation”, in
+“Common Causes and The Direction of Causation”, in
 *Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special
 Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
 2006, pp. 239–257.  
@@ -98,7 +101,7 @@ Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
 
 ### papers under review
 
-Weslake, Brad. “Exclusion Excluded”.  
+“Exclusion Excluded”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>
 
 ### papers in preparation
@@ -109,13 +112,11 @@ Weslake, Brad. “Exclusion Excluded”.
 ### encyclopædia entries
 
 <div class="noteleft">2010</div>
-Weslake, Brad. “Causation”, in Graham Oppy and Nick Trakakis
-(Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash
+“Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash
 ePress, Melbourne, 2010.
 
 <div class="noteleft">2006</div>
-Weslake, Brad. “Causation”, “Time”, in Martin Cohen (Ed),
-*Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp.
+“Causation”, “Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp.
 44–45, 283–284.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesc>  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/west>
@@ -123,20 +124,17 @@ Weslake, Brad. “Causation”, “Time”, in Martin Cohen (Ed),
 ### reviews
 
 <div class="noteleft">2006</div>
-Weslake, Brad. “Review: *Making Things Happen*”, in *Australasian
-Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136-140.  
+“Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136-140.  
 <span class="sc">uri</span>:
 <http://dx.doi.org/10.1080/00048400600571935>
 
 <div class="noteleft">2004</div>
-Weslake, Brad. “Review: *Understanding Phenomenal
-Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29
-November 2004.  
+“Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
 
 ## Presentations
 <div class="noteleft">2011</div>
-- Philosophy Colloquium, University of Sydney, 31 August 2011.
+- "A Partial Theory of Actual Causation", Philosophy Colloquium, University of Sydney, 31 August 2011.
 - "Causation, Counterfactual Dependence, and the Transition Problem", *Temporal Asymmetries Conference*, Monash University, 17–18 August 2011.
 
 <div class="noteleft">2010</div>
