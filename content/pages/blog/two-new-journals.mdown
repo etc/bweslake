@@ -1,0 +1,32 @@
+Template: article
+Title: Brad Weslake &bull; Two New Journals
+Categories: journals, news
+Author: Brad Weslake
+Date: 9 September 2011
+Summary: Two interesting new journals have recently been announced.  Unfortunately, only one is an open access journal.
+
+# Two New Journals
+
+Prompted by a [recent article][monbiotarticle] by [George Monbiot][monbiot], there has again been a [flurry of discussion][flurry] about the academic journal publishing industry.  The present model, which is dominated by commercial presses, is transparently ridiculous.  Academics do all of the most important work involved in producing journals.  They produce the content, referee the content, and manage the editorial process.  The presses, on the other hand, manage the relatively mechanical tasks of copy-editing, typesetting and distribution.  Academics are paid nothing for this, but the presses charge what often amount to exorbitant fees to university libraries in return for access.  In sum, we work for free to produce a product that we then buy at often enormous cost.
+
+It is clear that the solution to this is to run journals as not-for-profit entities, with all content available for free online.  While this dramatically lowers the price of distribution, it does not lower the costs involved in producing a journal to zero.  One model then is to have university libraries subsidise these costs as a step towards a future nicely described by the [mission][mission] of [*Philosophers' Imprint*][imprint]:
+
+> There is a possible future in which academic libraries no longer spend millions of dollars purchasing, binding, housing, and repairing printed journals, because they have assumed the role of publishers, cooperatively disseminating the results of academic research for free, via the Internet. Each library could bear the cost of publishing some of the world's scholarly output, since it would be spared the cost of buying its own copy of any scholarship published in this way. The results of academic research would then be available without cost to all users of the Internet, including students and teachers in developing countries, as well as members of the general public.
+
+All academics should be doing what they can to support this publishing model, and others like it.  [*Philosophers' Imprint*][imprint] is itself an existence proof that a very good journal of this type can be established in a surprisingly short period of time.
+
+In this context, it is disappointing that *Thought*, a new journal established by the [Northern Institute of Philosophy][nip], which otherwise promises to be excellent, will be [published by Wiley-Blackwell][thought].  As I see it, for a brand new journal there is overwhelming reason to go for an open-access model rather than a commercial publisher.  Also disappointing, from a more personal perspective, is that the journal will begin with no philosophy of science subcategory.  Nevertheless, there has long been a need for another high quality venue for short articles to compete with *Analysis*, and gripes about the publishing model and areas aside, *Thought* promises to fit the bill perfectly.
+
+More promising from a publishing standpoint is the approach taken by the also newly announced [*Journal of Causal Inference*][jci], which will be published for free online by [The Berkeley Electronic Press][bep].  Perhaps even more so than *Thought*, *JCI* will meet a clear and pressing need.  There is an emerging literature on causation that cross-cuts a number of different disciplines, including philosophy, computer science, psychology, law, and economics.  Far too much of this literature has proceeded in parallel rather than in dialogue, and it is the laudable aim of *JCI* to provide a forum for these inter-disciplinary connections to be made.
+
+I'm presently putting the final touches on a paper that would fit perfectly in *JCI*, were it not in my short-term professional interests to go with a more established venue.  For this reason it's especially important that senior scholars help to establish the reputations of new open-access journals by sending their best work there.  Hopefully by the time I'm myself at that stage, there will be many more to choose from.
+
+[monbiot]: http://www.monbiot.com/
+[monbiotarticle]: http://www.guardian.co.uk/commentisfree/2011/aug/29/academic-publishers-murdoch-socialist
+[flurry]: http://www.newappsblog.com/2011/08/academic-publishing-economic-parasitism.html
+[mission]: http://www.philosophersimprint.org/about.html
+[imprint]: http://www.philosophersimprint.org/
+[nip]: http://www.abdn.ac.uk/philosophy/nip/index.php
+[thought]: http://www.abdn.ac.uk/philosophy/nip/news/newsitem?id=39
+[jci]: http://www.bepress.com/jci/
+[bep]: http://www.bepress.com/
