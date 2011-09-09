@@ -1,34 +1,29 @@
-GIT
-  remote: git://github.com/gma/nesta.git
-  revision: 57c0e293aad0aa7cb930a46ccdd318bd5e5cfcee
+GEM
+  remote: http://rubygems.org/
   specs:
-    nesta (0.9.5)
+    RedCloth (4.2.8)
+    haml (3.1.3)
+    maruku (0.6.0)
+      syntax (>= 1.0.0)
+    nesta (0.9.10)
       RedCloth (~> 4.2)
       haml (~> 3.1)
       maruku (>= 0.6.0)
       sass (~> 3.1)
       shotgun (>= 0.8)
-      sinatra (= 1.1.2)
-
-GEM
-  remote: http://rubygems.org/
-  specs:
-    RedCloth (4.2.7)
-    haml (3.1.2)
-    maruku (0.6.0)
-      syntax (>= 1.0.0)
-    rack (1.3.1)
-    sass (3.1.4)
+      sinatra (= 1.2.6)
+    rack (1.3.2)
+    sass (3.1.7)
     shotgun (0.9)
       rack (>= 1.0)
-    sinatra (1.1.2)
+    sinatra (1.2.6)
       rack (~> 1.1)
-      tilt (~> 1.2)
+      tilt (>= 1.2.2, < 2.0)
     syntax (1.0.0)
-    tilt (1.3.2)
+    tilt (1.3.3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  nesta!
+  nesta (= 0.9.10)
