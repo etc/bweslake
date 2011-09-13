@@ -8,6 +8,7 @@ Summary: A survey of accounts of scientific explanation from the logical positiv
 ## Graduate Seminar, Fall 2007
 
 > The word *explanation* occurs so continually and holds so important a place in philosophy, that a little time spent in fixing the meaning of it will be profitably employed. —John Stuart Mill.
+
 ### Details ###
 
 Course Code: PHL552  

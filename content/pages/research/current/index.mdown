@@ -13,6 +13,7 @@ Template: research
  [2]: http://philpapers.org/rec/WESEE
 
 > I argue that an independently attractive account of causation and causal explanation provides a principled resolution of the exclusion problem. 
+
 ### In Progress ###
 
 “A Partial Theory of Actual Causation” \[*available on request*\]

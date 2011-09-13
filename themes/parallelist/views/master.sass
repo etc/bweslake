@@ -178,7 +178,7 @@ div#container
   div#content
     position: relative
     background: #fff
-
+  
   footer.branding
     margin: 0
     padding: 0
@@ -279,6 +279,28 @@ article
     code
       padding: 0
 
+  // Indent embedded lists
+  ul li ul li, ol li ol li
+    margin-left: 1.25em
+
+  // FOOTNOTES
+  // Don't underline superscripted footnote links
+  sup a
+    text-decoration: none
+
+  div.footnotes
+    // Don't put a blank line between footnotes
+    ol li p
+      margin-bottom: 0 
+
+    // Add a H4 style heading to the footnotes
+    ol:before
+      @include adjust-font-size(.75 * $h4-scale, 1, 0)
+      font-weight: 300
+      letter-spacing: 0.1em
+      text-transform: uppercase
+      content: "NOTES"
+  
   footer
     border-top: $border-style
     p.meta
@@ -311,6 +333,7 @@ section.articles
       ol li a
         margin: 0
         text-align: top
+
   header[role=main] h1
     @include adjust-font-size($h1-scale, 1.5, 0.5)
   header h1

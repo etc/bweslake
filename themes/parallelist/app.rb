@@ -11,7 +11,8 @@ module Nesta
     # use Rack::Static, :urls => ["/parallelist"], :root => "themes/parallelist/public"
 
     helpers do
-      # Add new helpers here.
+      # Use Kramdown for Markdown processing.
+      Tilt.prefer Tilt::KramdownTemplate
     end
 
     # Add new routes here.
