@@ -14,7 +14,7 @@ Philosophy Colloquium \[[<span class="small">DETAILS</span>][3]\]
 
  [3]: http://usydseminars.blogspot.com/
  [4]: http://sydney.edu.au/arts/philosophy/
- [part]: http://bweslake.s3.amazonaws.com/research/talks/ac_handout.pdf
+ [part]: http://goo.gl/ja0gF
 
 19–20 August 2011  
 Invited Participant  
@@ -28,7 +28,7 @@ Invited Participant
 
  [1]: http://timechance2011.wordpress.com/
  [2]: http://arts.monash.edu.au/philosophy/
- [transition]: http://bweslake.s3.amazonaws.com/research/talks/transition_slides.pdf
+ [transition]: http://goo.gl/8U5iq
 
 3 December 2010  
 “A Tangled History: On Science and Religion” (with [H. Allen Orr][5]) \[[<span class="small">SLIDES</span>][6]\]  
@@ -36,7 +36,7 @@ Phelps Colloquium Series \[[<span class="small">DETAILS</span>][7]\]
 [University of Rochester][8]
 
  [5]: http://www.rochester.edu/College/bio/professors/orr.html
- [6]: http://bweslake.s3.amazonaws.com/research/talks/tangled_slides.pdf
+ [6]: http://goo.gl/8eR8D
  [7]: http://www.rochester.edu/provost/phelps_colloquium.html
  [8]: http://www.rochester.edu/
 
@@ -53,7 +53,7 @@ Graduate seminar *Advanced Ecology and Evolutionary Biology* \[[<span class="sma
 Philosophy Colloquium \[[<span class="small">DETAILS</span>][12]\]  
 [University of Nevada, Las Vegas][13]
 
- [11]: http://bweslake.s3.amazonaws.com/research/talks/fundamentalism_slides.pdf
+ [11]: http://goo.gl/dHS4E
  [12]: http://liberalarts.unlv.edu/Philosophy/colloquia.htm
  [13]: http://liberalarts.unlv.edu/Philosophy/
 
@@ -90,17 +90,17 @@ Symposium on Causation, Laws, and Natural Kinds
 *Neuroscience Cluster Annual Retreat* \[[<span class="small">DETAILS</span>][24]\] \[[<span class="small">POSTER</span>][25]\]  
 [University of Rochester][8]
 
- [23]: http://bweslake.s3.amazonaws.com/research/talks/retreat_slides.pdf
+ [23]: http://goo.gl/h554o
  [24]: http://www.urmc.rochester.edu/neuroscience/retreat/
- [25]: http://bweslake.s3.amazonaws.com/research/talks/retreat_poster.pdf
+ [25]: http://goo.gl/gz21L
 
 13-14 May 2009  
 “Initial Conditions, Laws and Explanation” \[[<span class="small">HANDOUT</span>][26]\] \[[<span class="small">SLIDES</span>][27]\]  
 *Workshop on the Philosophical Foundations of Statistical Mechanics* \[[<span class="small">DETAILS</span>][28]\]  
 [Rutgers Center for Philosophy and the Sciences][17]
 
- [26]: http://bweslake.s3.amazonaws.com/research/talks/iclaws_handout.pdf
- [27]: http://bweslake.s3.amazonaws.com/research/talks/iclaws_slides.pdf
+ [26]: http://goo.gl/qqmDZ
+ [27]: http://goo.gl/IuRwd
  [28]: http://fas-philosophy.rutgers.edu/hdemarest/StatMech.html
 
 2 May 2009  
@@ -108,5 +108,5 @@ Symposium on Causation, Laws, and Natural Kinds
 *Mellon Metaphysics Workshop*  
 [Cornell University][30]
 
- [29]: http://bweslake.s3.amazonaws.com/research/talks/relativism_handout.pdf
+ [29]: http://goo.gl/FUBbN
  [30]: http://www.arts.cornell.edu/phil/

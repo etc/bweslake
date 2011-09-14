@@ -9,8 +9,8 @@ Template: research
 
 “Exclusion Excluded” \[[<span class="small">PDF</span>][1]\] \[[<span class="small">PhilPapers</span>][2]\]
 
- [1]: http://bweslake.s3.amazonaws.com/research/papers/weslake_exclusion.pdf
- [2]: http://philpapers.org/rec/WESEE
+ [1]: http://goo.gl/udoXh
+ [2]: http://goo.gl/TIII1
 
 > I argue that an independently attractive account of causation and causal explanation provides a principled resolution of the exclusion problem. 
 

@@ -34,7 +34,7 @@ Template: research
 “Explanatory Depth”, in *Philosophy of Science*, Vol. 77, No. 2, April 2010, pp. 273–294. \[[<span class="small">DOI</span>][15]\] \[[<span class="small">PDF</span>][16]\] \[[<span class="small">PhilPapers</span>][17]\]
 
  [15]: http://dx.doi.org/10.1086/651316
- [16]: http://bweslake.s3.amazonaws.com/research/papers/weslake_depth.pdf
+ [16]: http://goo.gl/O7WJN
  [17]: http://philpapers.org/rec/WESED
 
 [Price, Huw][price] and Weslake, Brad, “The Time-Asymmetry of Causation”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, pp. 414–443. \[[<span class="small">OUP</span>][19]\] \[[<span class="small">PhilSci</span>][20]\] \[[<span class="small">PhilPapers</span>][21]\]
@@ -51,7 +51,7 @@ Template: research
 
  [22]: http://dx.doi.org/10.1007/s11023-006-9042-2
  [23]: http://philsci-archive.pitt.edu/archive/00002792/ "Download via the PhilSci archive"
- [24]: http://philpapers.org/rec/WESCCA
+ [24]: http://goo.gl/KOgLr
  [haenni]: http://haenni.shorturl.com/ "Rolf Haenni"
  [hartmann]: http://stephanhartmann.org/ "Stephan Hartmann"
 
@@ -61,14 +61,14 @@ Template: research
 “Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136–140. \[[<span class="small">DOI</span>][25]\] \[[<span class="small">PhilPapers</span>][26]\] \[[<span class="small">PDF</span>][27]\]
 
  [25]: http://dx.doi.org/10.1080/00048400600571935
- [26]: http://philpapers.org/rec/WESU
- [27]: http://bweslake.s3.amazonaws.com/research/papers/weslake_review_woodward.pdf
+ [26]: http://goo.gl/VEUQp
+ [27]: http://goo.gl/htj6S
 
 “Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004. \[[<span class="small">HTML</span>][28]\] \[[<span class="small">PhilPapers</span>][29]\] \[[<span class="small">PDF</span>][30]\]
 
  [28]: http://www.mhnet.org/books/books.php?type=de&id=2411
- [29]: http://philpapers.org/rec/WESROU
- [30]: http://bweslake.s3.amazonaws.com/research/papers/weslake_review_robinson.pdf
+ [29]: http://goo.gl/ZfGY0
+ [30]: http://goo.gl/3TwnF
 
 ### Encyclopaedia Entries
 
@@ -81,10 +81,10 @@ Template: research
 “Causation”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][33]\] \[[<span class="small">PDF</span>][34]\]
 
  [32]: http://www.us.oup.com/us/catalog/general/subject/Philosophy/?view=usa&ci=9780340900284
- [33]: http://philpapers.org/rec/WESC
- [34]: http://bweslake.s3.amazonaws.com/research/papers/weslake_essentials_causation.pdf
+ [33]: http://goo.gl/gYbLm
+ [34]: http://goo.gl/pG1SM
 
 “Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 283–284. \[[<span class="small">OUP</span>][32]\] \[[<span class="small">PhilPapers</span>][35]\] \[[<span class="small">PDF</span>][36]\]
 
- [35]: http://philpapers.org/rec/WEST
- [36]: http://bweslake.s3.amazonaws.com/research/papers/weslake_essentials_time.pdf
+ [35]: http://goo.gl/4hsXe
+ [36]: http://goo.gl/oKbVS
