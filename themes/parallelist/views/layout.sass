@@ -20,6 +20,8 @@ $narrow-sidebar-width: grid-width(6)
 
 $sidebar-left: grid-left(9)
 
+$fill-width: grid-width(10)
+
 @media screen and (min-width: 30em)
   header[role=banner]
     nav.primary
@@ -54,6 +56,14 @@ $sidebar-left: grid-left(9)
     div#content
       width: $content-width
       float: left
+      padding: 1px 0
+
+      ol, ul
+        margin-left: 0
+
+    div#fillcontent
+      float: left
+      width: $fill-width
       padding: 1px 0
 
       ol, ul

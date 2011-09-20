@@ -1,0 +1,88 @@
+Title: Brad Weslake &bull; Maldini
+Categories: research/resources
+Summary: %p Maldini is a plugin for Nesta to generate citations and reference lists from BibTeX files.
+Template: resources
+
+- bib = Nesta::Plugin::Maldini::Bibliography.new('http://bweslake.org/attachments/maldini.bib')
+
+%heading
+  %h1 Maldini
+
+:markdown
+  ## Overview
+
+  Maldini is a citation and bibliography plugin for [Nesta][nesta].  It allows citations and reference lists to be automatically generated from [BibTeX][bibtex] files, using a syntax analogous to the commands used for the same purpose in [LaTeX][latex]. It is intended to streamline the workflow of those who write content both in [LaTeX][latex] and for the web.  It is also intended as an advertisement for [Nesta][nesta] itself, particularly for academics.
+  
+  ## The Idea
+  
+  Suppose I am writing a paper on a topic, and wish to produce content both for the paper and for a series of blog posts on related topics.  If I am writing the paper in LaTeX, I should be keeping track of the references relevant to my paper in a bibliography management program such as [BibDesk][bibdesk], which stores those references in a BibTeX file.  The idea behind Maldini is simple: when I write content for my blog, I shouldn't have to manually copy and paste those references and their corresponding citations.  There are at least four reasons for this:
+  
+  1. Bibliographic information should be maintained in a single place, so that errors can be corrected once and then automatically propagated elsewhere.
+  2. Producing reference information for web content should be both *simple* and *rigorous*. It should be simpler to produce a citation than copying and pasting the reference in full from somewhere else, and the reference produced should have the same rigour as in any other academic context.
+  3. Reference lists should be *consistently formatted* to a common standard.
+  4. Reference lists should *only contain things that have been cited*.
+  
+  ## Present Status
+  
+  The initial release of Maldini (0.0.1) makes some initial progress towards addressing these demands.  It includes the following features:
+
+  #### Multiple Citation Styles
+
+  Maldini provides the following citation styles, modeled on their [biblatex][biblatex] equivalents: `textcite`, `citeauthor`, `parencite`, and `fullcite` (examples of these styles can be seen below).
+
+  #### Multiple BibTeX Entry Types
+
+  Maldini supports the following BibTeX entry types: `article`, `book`, `inbook`, `incollection`, and `inproceedings` (others, including `unpublished` and `phdthesis`, are coming soon).
+
+  #### Automatic Reference List Generation
+
+  Maldini automatically generates reference lists that include all and only references cited with `textcite`, `parencite`, or `fullcite`.
+
+  #### Automatic Sorting
+
+  Maldini currently sorts the reference list by surname, then first name, then year.  So for example #{bib.textcite('smith_2005')} is listed prior to #{bib.textcite('smith_2007b')}, which is listed prior to #{bib.textcite('smith_2008a')}.
+
+  ## Call for Collaboration
+  
+  As it stands, Maldini is little more than a proof-of-concept. There are *many* ways in which it should be improved, from the integrity of the existing code to the implementation of additional features.  The source for Maldini is hosted as a public [Github repository][maldinigithub], which contains a [README][maldinireadme] specifying outstanding issues and a wishlist of future improvements. Any help with the project would be appreciated, from user feedback to development collaboration.
+
+  ## Announcements
+
+  New versions of Maldini will be announced both on my [blog][blog] and on the Nesta [mailing list][nestalist].
+
+  ## Usage
+  
+  At present, Maldini is implemented in terms of a class, `Maldini::Bibliography`, which provides a set of public methods with syntax modeled on [biblatex][biblatex] (chosen because it is rapidly becoming the LaTeX standard for interacting with BibTeX files).  The list of public methods can be seen in the Maldini [README][maldinireadme].
+  
+  ## Demonstration
+  
+  This page is itself a demonstration of Maldini in action.  The source from which it is generated can be browsed [here][src], and the BibTeX file it employs can be browsed [here][maldinibib]. Here are some citation examples, with a mix of citation style and BibTeX entry types:
+      
+  - Citation style `textcite`, entry type `article`: #{bib.textcite('hitchcock_2001b')}.
+  - Citation style `textcite`, entry type `book`: #{bib.textcite('collins_hall_paul_book_2004')}.
+  - Citation style `textcite`, entry type `inbook`: #{bib.textcite('fraassen_1989b')}.
+  - Citation style `textcite`, entry type `incollection`: #{bib.textcite('halpern_2001')}.
+  - Citation style `parencite`, entry type `article`: #{bib.parencite('mcdermott_2002')}.
+  - Citation style `citeauthor`, entry type `book`: #{bib.citeauthor('collins_hall_paul_book_2004')}.
+  - Citation style `textcite`, entry type `inproceedings`: #{bib.textcite('cartwright_1989a')}.
+  - Citation style `fullcite`, entry type `book`: #{bib.fullcite('woodward_2003')}.
+
+  And here is the corresponding reference list, which is automatically generated by Maldini:
+
+  #### References
+      
+  #{bib.printbibliography()}
+  
+  *Updated: 20 September 2011*
+  
+  [bibdesk]: http://bibdesk.sourceforge.net/
+  [biblatex]: http://ctan.math.utah.edu/ctan/tex-archive/help/Catalogue/entries/biblatex.html
+  [bibtex]: http://en.wikipedia.org/wiki/BibTeX
+  [blog]: http://bweslake.org/blog/
+  [latex]: http://www.latex-project.org/
+  [maldinibib]: https://github.com/etc/bweslake/blob/master/content/attachments/maldini.bib
+  [maldinigithub]: https://github.com/etc/nesta-plugin-maldini
+  [maldinireadme]: https://github.com/etc/nesta-plugin-maldini#readme
+  [nesta]: http://nestacms.com/
+  [nestalist]: http://nestacms.com/support
+  [src]: https://github.com/etc/bweslake/blob/master/content/pages/research/resources/maldini.haml
