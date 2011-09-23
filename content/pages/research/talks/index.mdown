@@ -5,6 +5,15 @@ Template: talks
 
 # Talks
 
+### Upcoming ###
+
+4-7 April 2012  
+Commentary on a paper by Carolina Sartorio  
+Pacific APA \[[<span class="small">DETAILS</span>][pacific2012]\]  
+Seattle  
+
+[pacific2012]: http://apa-pacific.org/current/
+
 ### Previous ###
 
 31 August 2011  

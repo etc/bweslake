@@ -133,6 +133,9 @@ ePress, Melbourne, 2010.
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
 
 ## Presentations
+<div class="noteleft">2012</div>
+- Commentary on a paper by Carolina Sartorio, Pacific APA, 4-7 April 2012.
+
 <div class="noteleft">2011</div>
 - "A Partial Theory of Actual Causation", Philosophy Colloquium, University of Sydney, 31 August 2011.
 - "Causation, Counterfactual Dependence, and the Transition Problem", *Temporal Asymmetries Conference*, Monash University, 17–18 August 2011.
@@ -296,4 +299,4 @@ Department of Philosophy
 University of Sydney  
 [dbm@mail.usyd.edu.au](mailto:dbm@mail.usyd.edu.au)    
 
-*Updated*: 21 July 2011
+*Updated*: 23 September 2011
