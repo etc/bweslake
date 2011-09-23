@@ -1,8 +1,7 @@
 source 'http://rubygems.org'
 
-gem 'nesta', :git => 'git://github.com/gma/nesta.git'
-# gem 'nesta', '0.9.11'
-# gem 'nesta'
+gem 'nesta', '0.9.11'
+# gem 'nesta', :git => 'git://github.com/gma/nesta.git'
 gem 'rdiscount', '~> 1.6.8'
 gem 'kramdown', '0.13.3'
 # gem 'nesta-plugin-maldini'
