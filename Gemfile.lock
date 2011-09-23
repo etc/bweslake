@@ -1,3 +1,11 @@
+GIT
+  remote: git://github.com/etc/nesta-plugin-maldini.git
+  revision: 73860ce0a06f2bb818aaf3beb53e8c3aef953d41
+  specs:
+    nesta-plugin-maldini (0.0.1)
+      bibtex-ruby (>= 1.3.12)
+      nesta (>= 0.9.11)
+
 GEM
   remote: http://rubygems.org/
   specs:
@@ -17,9 +25,6 @@ GEM
       sass (~> 3.1)
       shotgun (>= 0.8)
       sinatra (= 1.2.6)
-    nesta-plugin-maldini (0.0.1)
-      bibtex-ruby (>= 1.3.12)
-      nesta (>= 0.9.11)
     rack (1.3.3)
     rdiscount (1.6.8)
     sass (3.1.7)
@@ -37,5 +42,5 @@ PLATFORMS
 DEPENDENCIES
   kramdown (= 0.13.3)
   nesta (= 0.9.11)
-  nesta-plugin-maldini
+  nesta-plugin-maldini!
   rdiscount (~> 1.6.8)
