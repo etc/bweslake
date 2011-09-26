@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/etc/nesta-plugin-maldini.git
-  revision: 73860ce0a06f2bb818aaf3beb53e8c3aef953d41
+  revision: cdb81ce6cade77f258bd6bac527b4214d9a54091
   specs:
     nesta-plugin-maldini (0.0.1)
       bibtex-ruby (>= 1.3.12)
@@ -10,7 +10,7 @@ GEM
   remote: http://rubygems.org/
   specs:
     RedCloth (4.2.8)
-    bibtex-ruby (1.3.12)
+    bibtex-ruby (2.0.0)
       latex-decode (>= 0.0.3)
       multi_json (~> 1.0)
     haml (3.1.3)
