@@ -8,11 +8,12 @@ Template: talks
 ### Upcoming ###
 
 4-7 April 2012  
-Commentary on a paper by Carolina Sartorio  
+Commentary on a paper by [Carolina Sartorio][carolina]  
 Pacific APA \[[<span class="small">DETAILS</span>][pacific2012]\]  
 Seattle  
 
-[pacific2012]: http://apa-pacific.org/current/
+[carolina]: http://www.u.arizona.edu/~sartorio/ "Carolina Sartorio"
+[pacific2012]: http://apa-pacific.org/current/ "Pacific APA"
 
 ### Previous ###
 
