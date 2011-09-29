@@ -72,6 +72,7 @@ Template: research
 
 ### Encyclopaedia Entries
 
+“Regularity Theories of Causation”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford, *forthcoming*.
   
 “Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash University Publishing, Clayton, 2010. \[[<span class="small">HTML</span>][31]\]  
 
