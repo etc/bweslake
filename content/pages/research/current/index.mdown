@@ -9,17 +9,31 @@ Template: research
 
 “Exclusion Excluded” \[[<span class="small">PDF</span>][1]\] \[[<span class="small">PhilPapers</span>][2]\]
 
- [1]: http://goo.gl/udoXh
- [2]: http://goo.gl/TIII1
-
 > I argue that an independently attractive account of causation and causal explanation provides a principled resolution of the exclusion problem. 
+
+“A Partial Theory of Actual Causation” \[[<span class="small">PDF</span>][3]\] \[[<span class="small">PhilPapers</span>][4]\]
+
+> One part of the true theory of actual causation is a set of conditions responsible for eliminating all of the non-causes of an effect that can be discerned at the level of counterfactual structure.  I defend a proposal for this part of the theory.
 
 ### In Progress ###
 
-“A Partial Theory of Actual Causation” \[*available on request*\]
+“Causation, Counterfactual Dependence, and the Transition Problem”
 
-> Theories of actual causation in the structural equations framework have problems with cases of trumping, switching and voting. I defend (part of) a theory of actual causation that gets the right results in each of these cases. 
+> I identify a general problem for theories of the temporal asymmetry of counterfactual dependence, and argue that solving the problem requires giving up on the idea that the asymmetry of dependence is an intrinsic feature of a situation.
 
-“Statistical Mechanical Imperialism” \[*coming soon*\]
+“Difference-Making, Closure and Exclusion”
+
+> In an important series of recent papers, Peter Menzies has defended a striking set of theses about the nature of causation involving supervenient properties.  From a general principle concerning difference-making, Menzies has argued that: i) whether or not supervenient properties are causally excluded by subvenient properties or *vice versa* is an empirical matter; and ii) in a wide range of empirically ordinary cases, supervenient properties causally exclude subvenient properties.  If this is right, it follows that the world is not causally closed, and therefore that popular “compatibilist” forms of non-reductive physicalism are false.  In this paper I critically examine the general difference-making principle adopted by Menzies, and argue for an alternative principle that does not have these consequences.
+
+“Proportionality, Contrast and Explanation”
+
+> I explore the connections between the idea that causes must be proportional to their effects, the idea that causation is contrastive, and the idea that more general explanations are superior in one respect to less general explanations.
+
+“Statistical Mechanical Imperialism”
 
 > I argue against the claim, advanced by David Albert and Barry Loewer, that all non-fundamental laws can be derived from those required to underwrite the second law of thermodynamics.
+
+[1]: http://goo.gl/udoXh
+[2]: http://goo.gl/TIII1
+[3]: http://goo.gl/vi3fv
+[4]: http://goo.gl/mH6hh
