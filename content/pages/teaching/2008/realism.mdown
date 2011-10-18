@@ -127,7 +127,7 @@ Summary: An examination of inference to the best explanation as it figures in re
 
 <p>Lipton (Chapter 11).</p>
 
-<p><a href="http://www.fecundity.com/pmagnus/">Magnus, P. D.</a> and <a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 2004. &ldquo;Realist Ennui and the Base Rate Fallacy&rdquo;, in <em>Philosophy of Science</em>, Vol. 71, No. 3, July 2004, pp. 320&ndash;338. [<a href="http://zuihitsu.org/protected/magnus_callender_ennui.pdf">PDF</a>]</p>
+<p><a href="http://www.fecundity.com/pmagnus/">Magnus, P. D.</a> and <a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 2004. &ldquo;Realist Ennui and the Base Rate Fallacy&rdquo;, in <em>Philosophy of Science</em>, Vol. 71, No. 3, July 2004, pp. 320&ndash;338. [<a href="http://reductioland.net/zuihitsu/protected/magnus_callender_ennui.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 

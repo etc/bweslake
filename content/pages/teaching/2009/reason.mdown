@@ -96,7 +96,7 @@ Summary: An introduction to the epistemology of science.
 <a name="l2"> </a>
 <p><strong>Lecture Two (Wednesday 21 January)</strong></p>
 
-<p><a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1963. &ldquo;Science: Conjectures and Refutations&rdquo;, in <em>Conjectures and Refutations</em>, Routledge, Kegan Paul, London, pp. 33&ndash;58. [<a href="http://zuihitsu.org/protected/popper.pdf">PDF</a>]</p>
+<p><a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1963. &ldquo;Science: Conjectures and Refutations&rdquo;, in <em>Conjectures and Refutations</em>, Routledge, Kegan Paul, London, pp. 33&ndash;58. [<a href="http://reductioland.net/zuihitsu/protected/popper.pdf">PDF</a>]</p>
 
 <blockquote class="note">Sections &sect;1&ndash;&sect;3 are compulsory, the rest is optional.</blockquote>
 
@@ -105,19 +105,19 @@ Summary: An introduction to the epistemology of science.
 </p>
 
 <p><em>Research Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1974. &ldquo;The &lsquo;Corroboration&rsquo; of Theories&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 221&ndash;240. [<a href="http://zuihitsu.org/protected/putnam_corroboration.pdf">PDF</a>]</p>
+<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1974. &ldquo;The &lsquo;Corroboration&rsquo; of Theories&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 221&ndash;240. [<a href="http://reductioland.net/zuihitsu/protected/putnam_corroboration.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Putnam, Hilary. 1975. <em>Mathematics, Matter, and Method</em>, Philosophical Papers, Vol. 1, Cambridge University Press, Cambridge, pp. 250&ndash;269; and Boyd, Richard, Philip Gasper, and J. D. Trout (Eds). 1991. <em>The Philosophy of Science</em>, 3rd Edition, MIT Press, Cambridge MA, pp. 121&ndash;136; and Sklar, Lawrence. 2000. <em>Bayesian and Non-Inductive Methods</em>, The Philosophy of Science: A Collection of Essays, Vol. 5, Garland, Hamden CT, pp. 225&ndash;245.</blockquote>
 
 <a name="l3"> </a>
 <p><strong>Lecture Three (Monday 26 January)</strong></p>
 
-<p><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1970. &ldquo;Logic of Discovery or Psychology of Research?&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 1&ndash;22. [<a href="http://zuihitsu.org/protected/kuhn_logic_or_psychology.pdf">PDF</a>]</p>
+<p><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1970. &ldquo;Logic of Discovery or Psychology of Research?&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 1&ndash;22. [<a href="http://reductioland.net/zuihitsu/protected/kuhn_logic_or_psychology.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Thomas S. Kuhn, <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 266&ndash;292; and in Schilpp, Paul Arthur, <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Volume 14, Open Court, La Salle, pp. 798&ndash;819.</blockquote>
 
 <p><em>Optional</em><br>
-<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1970. &ldquo;Normal Science and its Dangers&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 51&ndash;58. [<a href="http://zuihitsu.org/protected/popper_reply_kuhn.pdf">PDF</a>]</p>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1970. &ldquo;Normal Science and its Dangers&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 51&ndash;58. [<a href="http://reductioland.net/zuihitsu/protected/popper_reply_kuhn.pdf">PDF</a>]</p>
 
 <p><a href="http://www.phil.vt.edu/HTML/people/mayodeborah.html">Mayo, Deborah G</a>. 1996. &ldquo;Ducks, Rabbits, and Normal Science: Recasting the Kuhn's-Eye View of Popper's Demarcation of Science&rdquo;, in <em>The British Journal for the Philosophy of Science</em>, Vol. 47, No. 2, June 1996, pp. 271&ndash;290. [<a href="http://dx.doi.org/10.1093/bjps/47.2.271">URI</a>]</p>
 
@@ -129,9 +129,9 @@ Summary: An introduction to the epistemology of science.
 <blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7.  This lecture is also available as an <a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience48.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
 
 <p><em>Optional</em><br>
-<a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. [<a href="http://zuihitsu.org/protected/lakatos_falsification_methodology.pdf">PDF</a>]</p>
+<a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. [<a href="http://reductioland.net/zuihitsu/protected/lakatos_falsification_methodology.pdf">PDF</a>]</p>
 
-<p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. [<a href="http://zuihitsu.org/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</p>
+<p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. [<a href="http://reductioland.net/zuihitsu/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</p>
 
 <a name="l5"> </a>
 <p><strong>Lecture Five (Monday 2 February)</strong></p>
@@ -145,7 +145,7 @@ Summary: An introduction to the epistemology of science.
 <a name="l6"> </a>
 <p><strong>Lecture Six (Wednesday 4 February)</strong></p>
 
-<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. [<a href="http://zuihitsu.org/protected/laudan_demise.pdf">PDF</a>]</p>
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. [<a href="http://reductioland.net/zuihitsu/protected/laudan_demise.pdf">PDF</a>]</p>
 
 <blockquote class="note">
 Reprinted in Ruse, Michael, <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 1988; and  Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method, and Evidence</em>, Westview Press, Boulder CO, 1996.</blockquote>
@@ -222,7 +222,7 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 <a name="l13"> </a>
 <p><strong>Lecture Thirteen (Monday 2 March)</strong></p>
 
-<p><a href="http://philosophy.ucsd.edu/faculty/doppelt/">Doppelt, Gerald</a>. 1978. &ldquo;Kuhn's Epistemological Relativism: An Interpretation and Defense&rdquo;, in <em>Inquiry</em>, Vol. 21, No. 1&ndash;4. Spring, pp. 33&ndash;86. [<a href="http://zuihitsu.org/protected/doppelt_kuhn_relativism.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.ucsd.edu/faculty/doppelt/">Doppelt, Gerald</a>. 1978. &ldquo;Kuhn's Epistemological Relativism: An Interpretation and Defense&rdquo;, in <em>Inquiry</em>, Vol. 21, No. 1&ndash;4. Spring, pp. 33&ndash;86. [<a href="http://reductioland.net/zuihitsu/protected/doppelt_kuhn_relativism.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Jack W. Meiland and Michael Kransz, <em>Relativism: Cognitive and Moral</em>, University of Notre Dame Press, Notre Dame, 1982, 113&ndash;146.</blockquote>
 
@@ -236,7 +236,7 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 <a name="l15"> </a>
 <p><strong>Lecture Fifteen (Monday 16 March)</strong></p>
 
-<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. &ldquo;Standards of Success&rdquo;, in <em>Science and Relativism: Some Key Controversies in the Philosophy of Science</em>, University Of Chicago Press, Chicago, 1990, pp. 93&ndash;120 [<a href="http://zuihitsu.org/protected/laudan_standards.pdf">PDF</a>].</p>
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. &ldquo;Standards of Success&rdquo;, in <em>Science and Relativism: Some Key Controversies in the Philosophy of Science</em>, University Of Chicago Press, Chicago, 1990, pp. 93&ndash;120 [<a href="http://reductioland.net/zuihitsu/protected/laudan_standards.pdf">PDF</a>].</p>
 
 <p><em>Optional</em></p>
 
@@ -245,11 +245,11 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 <a name="l16"> </a>
 <p><strong>Lecture Sixteen (Wednesday 18 March)</strong></p>
 
-<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;Epistemic Relativism Defended&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 58&ndash;80. [<a href="http://zuihitsu.org/protected/boghossian_fear_knowledge_5.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;Epistemic Relativism Defended&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 58&ndash;80. [<a href="http://reductioland.net/zuihitsu/protected/boghossian_fear_knowledge_5.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 
-<p><a href="http://historyweb.ucsd.edu/pages/people/faculty%20pages/RWestman.html">Westman, Robert S</a>. 1986. &ldquo;The Copernicans and the Churches&rdquo;, in David C. Lindberg and Ronald L. Numbers (Eds), <em>God and Nature: Historical Essays on the Encounter between Christianity and Science</em>, University of California Press, Berkeley, pp. 76&ndash;113. [<a href="http://zuihitsu.org/protected/westman_copernicans.pdf">PDF</a>]</p>
+<p><a href="http://historyweb.ucsd.edu/pages/people/faculty%20pages/RWestman.html">Westman, Robert S</a>. 1986. &ldquo;The Copernicans and the Churches&rdquo;, in David C. Lindberg and Ronald L. Numbers (Eds), <em>God and Nature: Historical Essays on the Encounter between Christianity and Science</em>, University of California Press, Berkeley, pp. 76&ndash;113. [<a href="http://reductioland.net/zuihitsu/protected/westman_copernicans.pdf">PDF</a>]</p>
 
 <blockquote class="note">Abridged version reprinted in Hellyer, Marcus. 2003. <em>The Scientific Revolution: The Essential Readings</em>, Blackwell, Malden MA, pp. 46&ndash;71.</blockquote>
 
@@ -260,12 +260,12 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 <a name="l17"> </a>
 <p><strong>Lecture Seventeen (Monday 23 March)</strong></p>
 
-<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;Epistemic Relativism Rejected&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 81&ndash;94. [<a href="http://zuihitsu.org/protected/boghossian_fear_knowledge_6.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;Epistemic Relativism Rejected&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 81&ndash;94. [<a href="http://reductioland.net/zuihitsu/protected/boghossian_fear_knowledge_6.pdf">PDF</a>]</p>
 
 <a name="l18"> </a>
 <p><strong>Lecture Eighteen (Wednesday 25 March)</strong></p>
 
-<p><a href="http://www.ucl.ac.uk/philosophy/academic-research/staff-mk.htm">Kalderon, Mark Eli</a>. 2009. &ldquo;Epistemic Relativism&rdquo;, in <em>Philosophical Review</em>, Vol. 118, No. 2, April 2009, pp. 225&ndash;240. [<a href="http://zuihitsu.org/protected/kalderon_reply_boghossian.pdf">PDF</a>]</p>
+<p><a href="http://www.ucl.ac.uk/philosophy/academic-research/staff-mk.htm">Kalderon, Mark Eli</a>. 2009. &ldquo;Epistemic Relativism&rdquo;, in <em>Philosophical Review</em>, Vol. 118, No. 2, April 2009, pp. 225&ndash;240. [<a href="http://reductioland.net/zuihitsu/protected/kalderon_reply_boghossian.pdf">PDF</a>]</p>
 
 <p><em>Special Event</em></p>
 
@@ -276,44 +276,44 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 
 <p><em>Optional</em>
 
-<p><a href="http://web.princeton.edu/sites/philosph/bios/rosen.htm">Rosen, Gideon</a>. 2007. &ldquo;The Case against Epistemic Relativism: Reflections on Chapter 6 of Fear of Knowledge&rdquo;, in <em>Episteme</em>, Vol. 4, No. 1, February 2007, pp. 10&ndash;29. [<a href="http://zuihitsu.org/protected/rosen_on_boghossian.pdf">PDF</a>]</p>
+<p><a href="http://web.princeton.edu/sites/philosph/bios/rosen.htm">Rosen, Gideon</a>. 2007. &ldquo;The Case against Epistemic Relativism: Reflections on Chapter 6 of Fear of Knowledge&rdquo;, in <em>Episteme</em>, Vol. 4, No. 1, February 2007, pp. 10&ndash;29. [<a href="http://reductioland.net/zuihitsu/protected/rosen_on_boghossian.pdf">PDF</a>]</p>
 
-<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. 2007. &ldquo;The Case against Epistemic Relativism: Replies to Rosen and Neta&rdquo;, in <em>Episteme</em>, Vol. 4, No. 1, February 2007, pp. 49&ndash;65. [<a href="http://zuihitsu.org/protected/boghossian_reply_rosen_neta.pdf">PDF</a>]</p></p>
+<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. 2007. &ldquo;The Case against Epistemic Relativism: Replies to Rosen and Neta&rdquo;, in <em>Episteme</em>, Vol. 4, No. 1, February 2007, pp. 49&ndash;65. [<a href="http://reductioland.net/zuihitsu/protected/boghossian_reply_rosen_neta.pdf">PDF</a>]</p></p>
 
 <blockquote class="note">Read &ldquo;Reply to Rosen&rdquo;, &sect;&sect;I&ndash;XIII.</blockquote>
 
 <a name="l20"> </a>
 <p><strong>Lecture Twenty (Wednesday 1 April)</strong></p>
 
-<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;The Paradox Resolved&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 95&ndash;110. [<a href="http://zuihitsu.org/protected/boghossian_fear_knowledge_7.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;The Paradox Resolved&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 95&ndash;110. [<a href="http://reductioland.net/zuihitsu/protected/boghossian_fear_knowledge_7.pdf">PDF</a>]</p>
 
 <a name="l21"> </a>
 <p><strong>Lecture Twenty One (Monday 6 April)</strong></p>
 
-<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;Epistemic Reasons and the Explanation of Belief&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 111&ndash;128. [<a href="http://zuihitsu.org/protected/boghossian_fear_knowledge_8.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.fas.nyu.edu/object/paulboghossian.html">Boghossian, Paul A</a>. &ldquo;Epistemic Reasons and the Explanation of Belief&rdquo; in <em>Fear of Knowledge: Against Relativism and Constructivism</em>, Oxford University Press, Oxford, 2006, pp. 111&ndash;128. [<a href="http://reductioland.net/zuihitsu/protected/boghossian_fear_knowledge_8.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 
-<p><a href="http://www.sps.ed.ac.uk/staff/science_studies/bloor_david">Bloor, David</a>. 1991. &ldquo;The Strong Programme in the Sociology of Knowledge&rdquo;, in <em>Knowledge and Social Imagery</em>, University of Chicago Press, Chicago, 2<sup>nd</sup> Ed, 1991, pp. 3&ndash;23. [<a href="http://zuihitsu.org/protected/bloor_strong_programme.pdf">PDF</a>]</p>
+<p><a href="http://www.sps.ed.ac.uk/staff/science_studies/bloor_david">Bloor, David</a>. 1991. &ldquo;The Strong Programme in the Sociology of Knowledge&rdquo;, in <em>Knowledge and Social Imagery</em>, University of Chicago Press, Chicago, 2<sup>nd</sup> Ed, 1991, pp. 3&ndash;23. [<a href="http://reductioland.net/zuihitsu/protected/bloor_strong_programme.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Yuri Balashov and Alex Rosenberg, <em>Philosophy of Science: Contemporary Readings</em>, Routledge, London, pp. 438&ndash;458.</blockquote>
 
-<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1981. &ldquo;The Pseudo-Science of Science?&rdquo;, in <em>Philosophy of the Social Sciences</em>, Vol. 11, No. 2, June 1981, pp. 173&ndash;198. [<a href="http://zuihitsu.org/protected/laudan_pseudoscience_science.pdf">PDF</a>]</p>
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1981. &ldquo;The Pseudo-Science of Science?&rdquo;, in <em>Philosophy of the Social Sciences</em>, Vol. 11, No. 2, June 1981, pp. 173&ndash;198. [<a href="http://reductioland.net/zuihitsu/protected/laudan_pseudoscience_science.pdf">PDF</a>]</p>
 
 <a name="l22"> </a>
 <p><strong>Lecture Twenty Two (Wednesday 8 April)</strong></p>
 
-<p><a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould">Gould, Stephen Jay</a>. 1981. &ldquo;Measuring Heads: Paul Broca and the Heyday of Craniology&rdquo;, in <em>The Mismeasure of Man</em>, Norton, New York, 1981, pp. 105&ndash;141. [<a href="http://zuihitsu.org/protected/gould_craniology.pdf">PDF</a>]</p>
+<p><a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould">Gould, Stephen Jay</a>. 1981. &ldquo;Measuring Heads: Paul Broca and the Heyday of Craniology&rdquo;, in <em>The Mismeasure of Man</em>, Norton, New York, 1981, pp. 105&ndash;141. [<a href="http://reductioland.net/zuihitsu/protected/gould_craniology.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
 <a href="http://www.newyorker.com/magazine/contributors/ian_parker">Parker, Ian</a>. 2007. &ldquo;Swingers&rdquo;, in <em>The New Yorker</em>, 30 July 2007, pp. 48&ndash;61. [<a href="http://www.newyorker.com/reporting/2007/07/30/070730fa_fact_parker?printable=true">URI</a>]</p>
 
-<p><a href="http://mypage.iu.edu/~ealloyd/">Lloyd, Elisabeth A.</a>. &ldquo;Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality&rdquo;, in <em>Philosophical Studies</em>, Vol. 69, No. 2&ndash;3, March 1993, pp. 139&ndash;153. [<a href="http://zuihitsu.org/protected/lloyd_pretheoretical.pdf">PDF</a>]</p>
+<p><a href="http://mypage.iu.edu/~ealloyd/">Lloyd, Elisabeth A.</a>. &ldquo;Pre-Theoretical Assumptions in Evolutionary Explanations of Female Sexuality&rdquo;, in <em>Philosophical Studies</em>, Vol. 69, No. 2&ndash;3, March 1993, pp. 139&ndash;153. [<a href="http://reductioland.net/zuihitsu/protected/lloyd_pretheoretical.pdf">PDF</a>]</p>
 
 <a name="l23"> </a>
 <p><strong>Lecture Twenty Three (Monday 13 April)</strong></p>
 
-<p><a href="http://web.utk.edu/~philosop/staff/douglas.html">Douglas, Heather</a>. 2007. &ldquo;Rejecting the Ideal of Value Free Science&rdquo;, in Harold Kincaid, John Dupr&eacute;, and Alison Wylie (Eds) <em>Value-Free Science? Ideals and Illusions</em>, Oxford University Press, Oxford, pp. 120&ndash;139. [<a href="http://zuihitsu.org/protected/douglas_rejecting_value_free_science.pdf">PDF</a>]</p>
+<p><a href="http://web.utk.edu/~philosop/staff/douglas.html">Douglas, Heather</a>. 2007. &ldquo;Rejecting the Ideal of Value Free Science&rdquo;, in Harold Kincaid, John Dupr&eacute;, and Alison Wylie (Eds) <em>Value-Free Science? Ideals and Illusions</em>, Oxford University Press, Oxford, pp. 120&ndash;139. [<a href="http://reductioland.net/zuihitsu/protected/douglas_rejecting_value_free_science.pdf">PDF</a>]</p>
 
 <p><em>Optional Reading</em></p>
 
@@ -322,7 +322,7 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 <a name="l24"> </a>
 <p><strong>Lecture Twenty Four (Wednesday 15 April)</strong></p>
 
-<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 2007. &ldquo;Evidence and Value Freedom&rdquo;, in Harold Kincaid, John Dupr&eacute;, and Alison Wylie (Eds) <em>Value-Free Science? Ideals and Illusions</em>, Oxford University Press, Oxford, pp. 109&ndash;119. [<a href="http://zuihitsu.org/protected/sober_evidence_value_freedom.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 2007. &ldquo;Evidence and Value Freedom&rdquo;, in Harold Kincaid, John Dupr&eacute;, and Alison Wylie (Eds) <em>Value-Free Science? Ideals and Illusions</em>, Oxford University Press, Oxford, pp. 109&ndash;119. [<a href="http://reductioland.net/zuihitsu/protected/sober_evidence_value_freedom.pdf">PDF</a>]</p>
 
 <a name="l25"> </a>
 <p><strong>Lecture Twenty Five (Monday 20 April)</strong></p>
@@ -340,7 +340,7 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Believing Where We Cannot Prove&rdquo;, in <em>Abusing Science: The Case Against Creationism</em>, MIT Press, Cambridge MA, pp. 30&ndash;54. [<a href="http://zuihitsu.org/protected/kitcher_believing.pdf">PDF</a>]</p>
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Believing Where We Cannot Prove&rdquo;, in <em>Abusing Science: The Case Against Creationism</em>, MIT Press, Cambridge MA, pp. 30&ndash;54. [<a href="http://reductioland.net/zuihitsu/protected/kitcher_believing.pdf">PDF</a>]</p>
 
 <p><a href="http://fitelson.org/">Fitelson, Branden</a>. 2005. &ldquo;Some Remarks on the &ldquo;Intelligent Design&rdquo; Controversy&rdquo;, unpublished draft. [<a href="http://fitelson.org/id.pdf">PDF</a>]</p>
 
@@ -359,7 +359,7 @@ pp. 17&ndash;32. [<a href="http://dx.doi.org/10.2307/2214339">URI</a>]</p>
 
 <p><a href="http://bradleymonton.com/">Monton, Bradley</a>. &ldquo;Is Intelligent Design Science? Dissecting the Dover Decision&rdquo;, unpublished draft. [<a href="http://philsci-archive.pitt.edu/archive/00002583/">URI</a>]</p>
 
-<p><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, forthcoming in <em>Synthese</em>. [<a href="http://zuihitsu.org/protected/pennock_demarcation_revisited.pdf">PDF</a>]</p>
+<p><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, forthcoming in <em>Synthese</em>. [<a href="http://reductioland.net/zuihitsu/protected/pennock_demarcation_revisited.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 

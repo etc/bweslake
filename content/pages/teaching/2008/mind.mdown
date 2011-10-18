@@ -115,7 +115,7 @@ Available <a href="http://bweslake.s3.amazonaws.com/teaching/2008/mind/resources
 <a name="l3"> </a>
 <p><strong>Lecture Three (Wednesday 10 September)</strong></p>
 
-<p><a href="http://www.faculty.ucr.edu/~eschwitz/">Schwitzgebel, Eric</a>, &ldquo;The Unreliability of Naive Introspection&rdquo;, in <em>Philosophical Review</em>, Vol. 117, No. 2, April 2008, pp. 245&ndash;273. [<a href="http://zuihitsu.org/protected/schwitzgebel_unreliability.pdf">PDF</a>]</p>
+<p><a href="http://www.faculty.ucr.edu/~eschwitz/">Schwitzgebel, Eric</a>, &ldquo;The Unreliability of Naive Introspection&rdquo;, in <em>Philosophical Review</em>, Vol. 117, No. 2, April 2008, pp. 245&ndash;273. [<a href="http://reductioland.net/zuihitsu/protected/schwitzgebel_unreliability.pdf">PDF</a>]</p>
 
 <blockquote class="note">A (much) less optimistic view than Kim concerning the prospects for an epistemological mark of the mental.</blockquote>
 
@@ -160,7 +160,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 <a name="l7"> </a>
 <p><strong>Lecture Seven (Wednesday 24 September)</strong></p>
 
-<p><a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1965. &ldquo;Brains and Behavior&rdquo;, in R. J. Butler (Ed), <em>Analytical Philosophy</em>, Second Series, Oxford University Press, Oxford, pp. 1&ndash;19. [<a href="http://zuihitsu.org/protected/putnam_brains_behavior.pdf">PDF</a>]</p>
+<p><a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1965. &ldquo;Brains and Behavior&rdquo;, in R. J. Butler (Ed), <em>Analytical Philosophy</em>, Second Series, Oxford University Press, Oxford, pp. 1&ndash;19. [<a href="http://reductioland.net/zuihitsu/protected/putnam_brains_behavior.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Hilary Putnam, <em>Mind, Language and Reality</em>, Philosophical Papers, Volume II, Cambridge University Press, Cambridge, 1975, pp. 325&ndash;341.  Also reprinted in David J. Chalmers, <em>Philosophy of Mind: Classical and Contemporary Readings</em>, Oxford University Press, Oxford, 2002, pp. 45&ndash;54.</blockquote>
 
@@ -174,7 +174,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 <p>Kim (2005, Chapter 4).</p>
 
 <p><em>Optional Reading</em></p>
-<p><a href="http://www.arts.adelaide.edu.au/humanities/philosophy/utplace.html">Place, Ullin T</a>. 1956. &ldquo;Is Consciousness a Brain Process?&rdquo;, in <em>British Journal of Psychology</em>, Vol. 47, No. 1, February 1956, pp. 44&ndash;50. [<a href="http://zuihitsu.org/protected/place_consciousness_brain_process.pdf">PDF</a>]</p>
+<p><a href="http://www.arts.adelaide.edu.au/humanities/philosophy/utplace.html">Place, Ullin T</a>. 1956. &ldquo;Is Consciousness a Brain Process?&rdquo;, in <em>British Journal of Psychology</em>, Vol. 47, No. 1, February 1956, pp. 44&ndash;50. [<a href="http://reductioland.net/zuihitsu/protected/place_consciousness_brain_process.pdf">PDF</a>]</p>
 
 <a name="l9"> </a>
 <p><strong>Lecture Nine (Wednesday 1 October)</strong></p>
@@ -237,7 +237,7 @@ Issues in the Foundations of Psychology</em>, Minnesota Studies in the Philosoph
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://dingo.sbs.arizona.edu/~snichols/">Nichols, Shaun</a> and <a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1992. &ldquo;Folk Psychology: Simulation or Tacit Theory?&rdquo;, in <em>Mind and Language</em>, Vol. 7, No. 1&ndash;2, March 1992, pp. 35&ndash;71. [<a href="http://zuihitsu.org/protected/stich_nichols_simulation_theory.pdf">PDF</a>]</p>
+<p><a href="http://dingo.sbs.arizona.edu/~snichols/">Nichols, Shaun</a> and <a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1992. &ldquo;Folk Psychology: Simulation or Tacit Theory?&rdquo;, in <em>Mind and Language</em>, Vol. 7, No. 1&ndash;2, March 1992, pp. 35&ndash;71. [<a href="http://reductioland.net/zuihitsu/protected/stich_nichols_simulation_theory.pdf">PDF</a>]</p>
 
 <a name="l15"> </a>
 <p><strong>Lecture Fifteen (Monday 27 October)</strong></p>
@@ -255,15 +255,15 @@ Issues in the Foundations of Psychology</em>, Minnesota Studies in the Philosoph
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1981. &ldquo;True Believers: The Intentional Strategy and Why it Works&rdquo;, in Anthony F. Heath (Ed), <em>Scientific Explanation: Papers Based on Herbert Spencer Lectures Given in the University of Oxford</em>, Oxford University Press, Oxford, 1981, pp. 53&ndash;75. [<a href="http://zuihitsu.org/protected/dennett_true_believers.pdf">PDF</a>]</p>
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1981. &ldquo;True Believers: The Intentional Strategy and Why it Works&rdquo;, in Anthony F. Heath (Ed), <em>Scientific Explanation: Papers Based on Herbert Spencer Lectures Given in the University of Oxford</em>, Oxford University Press, Oxford, 1981, pp. 53&ndash;75. [<a href="http://reductioland.net/zuihitsu/protected/dennett_true_believers.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in his <em>The Intentional Stance</em>, MIT Press, Cambridge MA, pp. 13&ndash;42; in Stephen Stich and Ted A. Warfield (Eds), <em>Mental Representation: A Reader</em>, Basil Blackwell, Oxford, 1994, pp. 312&ndash;331; and William G. Lycan (Ed), <em>Mind and Cognition: An Anthology</em>, 2<sup>nd</sup> Edition, Blackwell, Malden MA, 1999, pp. 75&ndash;86.</blockquote>
 
-<p><a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1981. &ldquo;Dennett on Intentional Systems&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 39&ndash;62. [<a href="http://zuihitsu.org/protected/stich_dennett_on_intentional_systems.pdf">PDF</a>]</p>
+<p><a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1981. &ldquo;Dennett on Intentional Systems&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 39&ndash;62. [<a href="http://reductioland.net/zuihitsu/protected/stich_dennett_on_intentional_systems.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in John I. Biro and Robert W. Shahan (Eds), <em>Mind, Brain, and Function</em>, University of Oklahoma Press, Norman OK, 1982, pp. 39&ndash;62; and William G. Lycan (Ed), <em>Mind and Cognition: An Anthology</em>, 2<sup>nd</sup> Edition, Blackwell, Malden MA, 1999, pp. 87&ndash;99.</blockquote>
 
-<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. &ldquo;Making Sense of Ourselves&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 63&ndash;81. [<a href="http://zuihitsu.org/protected/dennett_reply_stich.pdf">PDF</a>]</p>
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. &ldquo;Making Sense of Ourselves&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 63&ndash;81. [<a href="http://reductioland.net/zuihitsu/protected/dennett_reply_stich.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in John I. Biro and Robert W. Shahan (Eds), <em>Mind, Brain, and Function</em>, University of Oklahoma Press, Norman OK, 1982, pp. 63&ndash;81; and, with reflections, in his <em>The Intentional Stance</em>, MIT Press, Cambridge MA, pp. 83&ndash;102.</blockquote>
 
@@ -294,7 +294,7 @@ Issues in the Foundations of Psychology</em>, Minnesota Studies in the Philosoph
 
 <p><a href="http://web.mit.edu/philos/www/byrne.html">Byrne, Alex</a>. 1998. &ldquo;Interpretivism&rdquo;, in Roberto Casati and Christine Tappolet (Ed), <em>European Review of Philosophy</em>, CSLI, Stanford, pp. 199&ndash;223. [<a href="http://mit.edu/abyrne/www/Interpretivism.html">URI</a>]</p>
 
-<p><a href="http://spot.colorado.edu/~rupertr/">Rupert, Robert D</a>. 2008. &ldquo;Causal Theories of Mental Content&rdquo;, in <em>Philosophy Compass</em>, Vol. 3, No. 2, March 2008, pp. 353&ndash;380. [<a href="http://zuihitsu.org/protected/rupert_causal_theories_content.pdf">PDF</a>]</p>
+<p><a href="http://spot.colorado.edu/~rupertr/">Rupert, Robert D</a>. 2008. &ldquo;Causal Theories of Mental Content&rdquo;, in <em>Philosophy Compass</em>, Vol. 3, No. 2, March 2008, pp. 353&ndash;380. [<a href="http://reductioland.net/zuihitsu/protected/rupert_causal_theories_content.pdf">PDF</a>]</p>
 
 <a name="l20"> </a>
 <p><strong>Lecture Twenty (Wednesday 12 November)</strong></p>

@@ -76,7 +76,7 @@ reading and meet for an additional discussion section.</p>
 <a name="l2"> </a>
 <p><strong>Lecture Two (Wednesday 21 January)</strong></p>
 
-<p><a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. [<a href="http://zuihitsu.org/protected/hempel_aspects_i-ii.pdf">PDF</a>]</p>
+<p><a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. [<a href="http://reductioland.net/zuihitsu/protected/hempel_aspects_i-ii.pdf">PDF</a>]</p>
 
 <blockquote class="note">Sections &sect;1&ndash;&sect;2 to be read for this class.</blockquote>
 
@@ -93,12 +93,12 @@ reading and meet for an additional discussion section.</p>
 <a name="l4"> </a>
 <p><strong>Lecture Four (Wednesday 28 January)</strong></p>
 
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. [<a href="http://zuihitsu.org/protected/woodward_background.pdf">PDF</a>]</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. [<a href="http://reductioland.net/zuihitsu/protected/woodward_background.pdf">PDF</a>]</p>
 
 <a name="l5"> </a>
 <p><strong>Lecture Five (Monday 2 February)</strong></p>
 
-<p><a href="http://query.nytimes.com/gst/fullpage.html?res=9E02E1DC1338F937A35756C0A9679C8B63">Salmon, Wesley C</a>. 1989. &ldquo;Four Decades of Scientific Explanation&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 3-219. [<a href="http://zuihitsu.org/protected/salmon_four_decades.pdf">PDF</a>]</p>
+<p><a href="http://query.nytimes.com/gst/fullpage.html?res=9E02E1DC1338F937A35756C0A9679C8B63">Salmon, Wesley C</a>. 1989. &ldquo;Four Decades of Scientific Explanation&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 3-219. [<a href="http://reductioland.net/zuihitsu/protected/salmon_four_decades.pdf">PDF</a>]</p>
 
 <blockquote class="note">Sections &sect;2.4&ndash;&sect;3.1 to be read for this class (&sect;3.2 is optional).</blockquote>
 
@@ -110,12 +110,12 @@ reading and meet for an additional discussion section.</p>
 <a name="l7"> </a>
 <p><strong>Lecture Seven (Monday 9 February)</strong></p>
 
-<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. [<a href="http://zuihitsu.org/protected/lewis_causal_explanation.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. [<a href="http://reductioland.net/zuihitsu/protected/lewis_causal_explanation.pdf">PDF</a>]</p>
 
 <a name="l8"> </a>
 <p><strong>Lecture Eight (Wednesday 11 February)</strong></p>
 
-<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. [<a href="http://zuihitsu.org/protected/sober_equilibrium_explanation.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. [<a href="http://reductioland.net/zuihitsu/protected/sober_equilibrium_explanation.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
 Kuorikoski, Jaakko. 2007. &ldquo;Explaining with Equilibria&rdquo;, in Johannes Persson and Petri Ylikoski (Eds), <em>Rethinking Explanation</em>, Boston Studies in the Philosophy of Science, Vol. 252, Springer, New York, pp. 149&ndash;162. [<a href="http://www.helsinki.fi/filosofia/tint/publications/kuorikoski,%20explainingwithequilibria.pdf">PDF</a>]</p>
@@ -123,22 +123,22 @@ Kuorikoski, Jaakko. 2007. &ldquo;Explaining with Equilibria&rdquo;, in Johannes 
 <a name="l9"> </a>
 <p><strong>Lecture Nine (Monday 16 February)</strong></p>
 
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. [<a href="http://zuihitsu.org/protected/woodward_hitchcock_i.pdf">PDF</a>]</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. [<a href="http://reductioland.net/zuihitsu/protected/woodward_hitchcock_i.pdf">PDF</a>]</p>
 
 <a name="l10"> </a>
 <p><strong>Lecture Ten (Wednesday 18 February)</strong></p>
 
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. [<a href="http://zuihitsu.org/protected/woodward_hitchcock_ii.pdf">PDF</a>]</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. [<a href="http://reductioland.net/zuihitsu/protected/woodward_hitchcock_ii.pdf">PDF</a>]</p>
 
 <a name="l11"> </a>
 <p><strong>Lecture Eleven (Monday 23 February)</strong></p>
 
-<p><a href="http://www.rochester.edu/college/faculty/bweslake/">Weslake, Brad</a>. 2009. &ldquo;Explanatory Depth&rdquo;. [<a href="http://zuihitsu.org/protected/weslake_depth.pdf">PDF</a>]</p>
+<p><a href="http://www.rochester.edu/college/faculty/bweslake/">Weslake, Brad</a>. 2009. &ldquo;Explanatory Depth&rdquo;. [<a href="http://reductioland.net/zuihitsu/protected/weslake_depth.pdf">PDF</a>]</p>
 
 <a name="l12"> </a>
 <p><strong>Lecture Twelve (Wednesday 25 February)</strong></p>
 
-<p><a href="http://plato.stanford.edu/entries/ayer/">Ayer, Alfred Jules</a>. 1956. &ldquo;What is a Law of Nature?&rdquo;, in <em>Revue Internationale de Philosophie</em>, Vol. 10, No. 2, pp. 144&ndash;165. [<a href="http://zuihitsu.org/protected/ayer_law_nature.pdf">PDF</a>]</p>
+<p><a href="http://plato.stanford.edu/entries/ayer/">Ayer, Alfred Jules</a>. 1956. &ldquo;What is a Law of Nature?&rdquo;, in <em>Revue Internationale de Philosophie</em>, Vol. 10, No. 2, pp. 144&ndash;165. [<a href="http://reductioland.net/zuihitsu/protected/ayer_law_nature.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in his <em>The Concept of a Person and Other Essays</em>, Macmillan, London, 1963, 209&ndash;234 and Martin Curd and Jan A. Cover (Eds), <em>Philosophy of Science: The Central Issues</em>, W. W. Norton, New York, 1998, pp. 808&ndash;825 and Michael Tooley (Ed), <em>Laws of Nature, Causation, and Supervenience</em>, Metaphysics, Vol 1, Garland, New York, pp. 52&ndash;73.</blockquote>
 
@@ -149,7 +149,7 @@ Kuorikoski, Jaakko. 2007. &ldquo;Explaining with Equilibria&rdquo;, in Johannes 
 <a name="l13"> </a>
 <p><strong>Lecture Thirteen (Monday 2 March)</strong></p>
 
-<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. [<a href="http://zuihitsu.org/protected/psillos_regularity.pdf">PDF</a>]</p>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. [<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
 <a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1983. &ldquo;New Work for a Theory of Universals&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 61, No. 4, December 1983, pp. 343&ndash;377. [<a href="http://dx.doi.org/10.1080/00048408312341131">URI</a>]</p>
@@ -157,9 +157,9 @@ Kuorikoski, Jaakko. 2007. &ldquo;Explaining with Equilibria&rdquo;, in Johannes 
 <blockquote class="note">It is pp. 365&ndash;368 that is relevant to our discussion.</blockquote>
 
 <p><a href="http://danielnolanphil.googlepages.com/home">Nolan, Daniel</a>. 2005. &ldquo;Laws of Nature and Physical Necessity&rdquo;, in <em>David Lewis</em>, McGill-Queen's University 
-Press, Montreal, pp. 81&ndash;89. [<a href="http://zuihitsu.org/protected/nolan_lewis_laws.pdf">PDF</a>]</p>
+Press, Montreal, pp. 81&ndash;89. [<a href="http://reductioland.net/zuihitsu/protected/nolan_lewis_laws.pdf">PDF</a>]</p>
 
-<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Ideal Science: David Lewis's Account of Laws&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 40&ndash;64. [<a href="http://zuihitsu.org/protected/van_fraassen_symmetry_1-3.pdf">PDF</a>]</p>
+<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Ideal Science: David Lewis's Account of Laws&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 40&ndash;64. [<a href="http://reductioland.net/zuihitsu/protected/van_fraassen_symmetry_1-3.pdf">PDF</a>]</p>
 
 <a name="l14"> </a>
 <p><strong>Lecture Fourteen (Wednesday 4 March)</strong></p>
@@ -167,16 +167,16 @@ Press, Montreal, pp. 81&ndash;89. [<a href="http://zuihitsu.org/protected/nolan_
 <p><a href="http://fds.duke.edu/db/aas/Philosophy/faculty/dretske">Dretske, Fred I</a>. 1977. &ldquo;Laws of Nature&rdquo;, in <em>Philosophy of Science</em>, Vol. 44, No. 2, June 1977, pp. 248&ndash;268. [<a href="http://links.jstor.org/sici?sici=0031-8248%28197706%2944%3A2%3C248%3ALON%3E2.0.CO%3B2-B">URI</a>]</p>
 
 <p><em>Optional</em><br>
-<a href="http://spot.colorado.edu/~tooley/">Tooley, Michael</a>. 1977. &ldquo;The Nature of Laws&rdquo;, in <em>Canadian Journal of Philosophy</em>, Vol. 7, No. 4, December 1977, pp. 667&ndash;698. [<a href="http://zuihitsu.org/protected/tooley_laws.pdf">PDF</a>]</p>
+<a href="http://spot.colorado.edu/~tooley/">Tooley, Michael</a>. 1977. &ldquo;The Nature of Laws&rdquo;, in <em>Canadian Journal of Philosophy</em>, Vol. 7, No. 4, December 1977, pp. 667&ndash;698. [<a href="http://reductioland.net/zuihitsu/protected/tooley_laws.pdf">PDF</a>]</p>
 
-<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Universals: Laws Grounded in Nature&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 94&ndash;128. [<a href="http://zuihitsu.org/protected/van_fraassen_symmetry_5.pdf">PDF</a>]</p>
+<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Universals: Laws Grounded in Nature&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 94&ndash;128. [<a href="http://reductioland.net/zuihitsu/protected/van_fraassen_symmetry_5.pdf">PDF</a>]</p>
 
 <p><em>Spring Break</em></p>
 
 <a name="l15"> </a>
 <p><strong>Lecture Fifteen (Monday 16 March)</strong></p>
 
-<p><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. [<a href="http://zuihitsu.org/protected/maudlin_modest_proposal.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. [<a href="http://reductioland.net/zuihitsu/protected/maudlin_modest_proposal.pdf">PDF</a>]</p>
 
 <a name="l16"> </a>
 <p><strong>Lecture Sixteen (Wednesday 18 March)</strong></p>
@@ -230,7 +230,7 @@ Press, Montreal, pp. 81&ndash;89. [<a href="http://zuihitsu.org/protected/nolan_
 
 <blockquote class="note">Reprinted in Elliott Sober, <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3<sup>rd</sup> Edition, MIT Press, Cambridge MA, 2006, pp. 249&ndash;260.</blockquote>
 
-<p><a href="http://fds.duke.edu/db/aas/Philosophy/rbrandon">Brandon, Robert N</a>. 2006. &ldquo;The Principle of Drift: Biology's First Law&rdquo;, in <em>Journal of Philosophy</em>, Vol. 103, No. 7, pp. 319&ndash;335. [<a href="http://zuihitsu.org/protected/brandon_drift_law.pdf">PDF</a>]</p>
+<p><a href="http://fds.duke.edu/db/aas/Philosophy/rbrandon">Brandon, Robert N</a>. 2006. &ldquo;The Principle of Drift: Biology's First Law&rdquo;, in <em>Journal of Philosophy</em>, Vol. 103, No. 7, pp. 319&ndash;335. [<a href="http://reductioland.net/zuihitsu/protected/brandon_drift_law.pdf">PDF</a>]</p>
 
 <a name="l21"> </a>
 <p><strong>Lecture Twenty One (Monday 6 April)</strong></p>
@@ -257,7 +257,7 @@ Press, Montreal, pp. 81&ndash;89. [<a href="http://zuihitsu.org/protected/nolan_
 <p><strong>Lecture Twenty Four (Wednesday 15 April)</strong></p>
 
 <p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1974. &ldquo;Special Sciences (Or: The Disunity of Science as a Working Hypothesis)&rdquo;, in <em>Synthese</em>, 
-Vol. 28, No. 2, October 1974, pp. 97&ndash;115. [<a href="http://zuihitsu.org/protected/fodor_special_sciences.pdf">PDF</a>]</p>
+Vol. 28, No. 2, October 1974, pp. 97&ndash;115. [<a href="http://reductioland.net/zuihitsu/protected/fodor_special_sciences.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, 1980, Vol. 1, pp. 120&ndash;133; Jerry A. Fodor, <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, 1983, pp. 127&ndash;145; Paul K. Moser and J. D. Trout (Eds), <em>Contemporary Materialism: A Reader</em>, Routledge, London, 1995, pp. 53&ndash;67; and Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 395&ndash;410.</blockquote>
 
@@ -275,7 +275,7 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. [<a href="http://zuihitsu.org/pr
 <a name="l26"> </a>
 <p><strong>Lecture Twenty Six (Wednesday 22 April)</strong></p>
 
-<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds), <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. [<a href="http://zuihitsu.org/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</p>
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds), <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. [<a href="http://reductioland.net/zuihitsu/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 

@@ -87,7 +87,7 @@ Summary: A survey course on the metaphysics of science.
 <p><strong>Meeting Two (Wednesday 8 September)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. <span class="small">[<a href="http://zuihitsu.org/protected/hempel_aspects_i-ii.pdf">PDF</a>]</span></p>
+<a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/hempel_aspects_i-ii.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;1&ndash;&sect;2.</blockquote>
 
@@ -95,31 +95,31 @@ Summary: A survey course on the metaphysics of science.
 <p><strong>Meeting Three (Monday 13 September)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. <span class="small">[<a href="http://zuihitsu.org/protected/woodward_background.pdf">PDF</a>]</span></p>
+<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_background.pdf">PDF</a>]</span></p>
 
 <a name="l4"> </a>
 <p><strong>Meeting Four (Wednesday 15 September)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. <span class="small">[<a href="http://zuihitsu.org/protected/lewis_causal_explanation.pdf">PDF</a>]</span></p>
+<a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lewis_causal_explanation.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://zuihitsu.org/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
+<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;8.1&ndash;&sect;8.4.</blockquote>
 
-<p><a href="http://en.wikipedia.org/wiki/Peter_Lipton">Lipton, Peter</a>. 2010. &ldquo;Causation and Explanation&rdquo;, in Helen Beebee, Christopher Hitchcock, and Peter Menzies (Eds), <em>The Oxford Handbook of Causation</em>, Oxford University Press, Oxford, pp. 619&ndash;631. <span class="small">[<a href="http://zuihitsu.org/protected/lipton_causation_and_explanation.pdf">PDF</a>]</span></p>
+<p><a href="http://en.wikipedia.org/wiki/Peter_Lipton">Lipton, Peter</a>. 2010. &ldquo;Causation and Explanation&rdquo;, in Helen Beebee, Christopher Hitchcock, and Peter Menzies (Eds), <em>The Oxford Handbook of Causation</em>, Oxford University Press, Oxford, pp. 619&ndash;631. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lipton_causation_and_explanation.pdf">PDF</a>]</span></p>
 
 <a name="l5"> </a>
 <p><strong>Meeting Five (Monday 20 September)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. <span class="small">[<a href="http://zuihitsu.org/protected/sober_equilibrium_explanation.pdf">PDF</a>]</span></p>
+<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_equilibrium_explanation.pdf">PDF</a>]</span></p>
 
 <a name="l6"> </a>
 <p><strong>Meeting Six (Wednesday 22 September)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1989. &ldquo;Explanatory Unification and the Causal Structure of the World&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 410&ndash;505. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_unification_causal_structure_excerpts.pdf">EXCERPTS PDF</a>] [<a href="http://zuihitsu.org/protected/kitcher_unification_causal_structure.pdf">FULL PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1989. &ldquo;Explanatory Unification and the Causal Structure of the World&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 410&ndash;505. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_unification_causal_structure_excerpts.pdf">EXCERPTS PDF</a>] [<a href="http://reductioland.net/zuihitsu/protected/kitcher_unification_causal_structure.pdf">FULL PDF</a>]</span></p>
 
 <blockquote class="note">Excerpted in Balashov, Yuri and Alexander Rosenberg. 2002. <em>Philosophy of Science: Contemporary Readings</em>, Routledge, London, pp. 71&ndash;91. Excerpts are mandatory, full paper optional.</blockquote>
 
@@ -127,7 +127,7 @@ Summary: A survey course on the metaphysics of science.
 <p><strong>Meeting Seven (Monday 27 September)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://zuihitsu.org/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
+<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;8.5&ndash;&sect;8.11.</blockquote>
 
@@ -153,7 +153,7 @@ Summary: A survey course on the metaphysics of science.
 <a name="l11"> </a>
 <p><strong>Meeting Eleven (Wednesday 13 October)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://en.wikipedia.org/wiki/Frank_Cameron_Jackson">Jackson, Frank</a> and <a href="http://www.princeton.edu/~ppettit/">Philip Pettit</a>. 1992. &ldquo;In Defense of Explanatory Ecumenism&rdquo;, in <em>Economics and Philosophy</em>, Vol. 8, No. 1, April 1992, pp. 1&ndash;21. <span class="small">[<a href="http://zuihitsu.org/protected/jackson_pettit_explanatory_ecumenism.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://en.wikipedia.org/wiki/Frank_Cameron_Jackson">Jackson, Frank</a> and <a href="http://www.princeton.edu/~ppettit/">Philip Pettit</a>. 1992. &ldquo;In Defense of Explanatory Ecumenism&rdquo;, in <em>Economics and Philosophy</em>, Vol. 8, No. 1, April 1992, pp. 1&ndash;21. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/jackson_pettit_explanatory_ecumenism.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Jackson, Frank, Philip Pettit, and Michael Smith. 2004. <em>Mind, Morality, and Explanation: Selected Collaborations</em>, Oxford University Press, Oxford, pp. 163&ndash;186.</blockquote>
 
@@ -188,7 +188,7 @@ Summary: A survey course on the metaphysics of science.
 <p><strong>Meeting Fourteen (Monday 25 October)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://zuihitsu.org/protected/psillos_regularity.pdf">PDF</a>]</span></p>
+<a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;5.1&ndash;&sect;5.5.</blockquote>
 
@@ -196,11 +196,11 @@ Summary: A survey course on the metaphysics of science.
 <p><strong>Meeting Fifteen (Wednesday 27 October)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://zuihitsu.org/protected/psillos_regularity.pdf">PDF</a>]</span></p>
+<a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;5.6&ndash;&sect;5.7.</blockquote>
 
-<p><em>Secondary Reading</em><br><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 1996. &ldquo;Humean Supervenience&rdquo;, in <em>Philosophical Topics</em>, Vol. 24, No. 1, Spring 1996, pp. 101&ndash;127. <span class="small">[<a href="http://zuihitsu.org/protected/loewer_humean_supervenience.pdf">PDF</a>]</span></p>
+<p><em>Secondary Reading</em><br><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 1996. &ldquo;Humean Supervenience&rdquo;, in <em>Philosophical Topics</em>, Vol. 24, No. 1, Spring 1996, pp. 101&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/loewer_humean_supervenience.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted  in Carroll, John W (Ed). 2004. <em>Readings on Laws of Nature</em>, University of Pittsburgh Press, Pittsburgh, pp. 176&ndash;206.</blockquote>
 
@@ -209,7 +209,7 @@ Summary: A survey course on the metaphysics of science.
 
 <p><em>Primary Reading</em><br><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 2004. &ldquo;Measures, Explanations and the Past: Should &lsquo;Special&rsquo; Initial Conditions be Explained?&rdquo;, in <em>British Journal for the Philosophy of Science</em>, Vol. 55, No. 2, pp. 195&ndash;217. <span class="small">[<a href="http://dx.doi.org/10.1093/bjps/55.2.195">URI</a>]</span></p>
 
-<p><a href="http://www.unc.edu/~jtrosap/">Roberts, John T</a>. 2008. &ldquo;The Law-Governed World-Picture&rdquo;, in <em>The Law-Governed Universe</em>, Oxford University Press, Oxford, pp. 1&ndash;44. <span class="small">[<a href="http://zuihitsu.org/protected/roberts_law_governed_picture.pdf">PDF</a>]</span></p>
+<p><a href="http://www.unc.edu/~jtrosap/">Roberts, John T</a>. 2008. &ldquo;The Law-Governed World-Picture&rdquo;, in <em>The Law-Governed Universe</em>, Oxford University Press, Oxford, pp. 1&ndash;44. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/roberts_law_governed_picture.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;1.1&ndash;&sect;1.6.</blockquote>
 
@@ -233,7 +233,7 @@ Summary: A survey course on the metaphysics of science.
 <a name="l19"> </a>
 <p><strong>Meeting Nineteen (Wednesday 10 November)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. <span class="small">[<a href="http://zuihitsu.org/protected/maudlin_modest_proposal.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/maudlin_modest_proposal.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
 <a href="http://www.uark.edu/depts/philinfo/ward.html">Ward, Barry</a>. 2007. &ldquo;Laws, Explanation, Governing, and Generation&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 85, No. 4, December 2007, pp. 537&ndash;552. <span class="small">[<a href="http://dx.doi.org/10.1080/00048400701654853">URI</a>]</span></p>
@@ -251,7 +251,7 @@ Summary: A survey course on the metaphysics of science.
 <p><strong>Meeting Twenty One (Wednesday 17 November)</strong></p>
 
 <p><em>Primary Reading</em><br><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1974. &ldquo;Special Sciences (Or: The Disunity of Science as a Working Hypothesis)&rdquo;, in <em>Synthese</em>, 
-Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="http://zuihitsu.org/protected/fodor_special_sciences.pdf">PDF</a>]</span></p>
+Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/fodor_special_sciences.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, 1980, Vol. 1, pp. 120&ndash;133; Jerry A. Fodor, <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, 1983, pp. 127&ndash;145; Paul K. Moser and J. D. Trout (Eds), <em>Contemporary Materialism: A Reader</em>, Routledge, London, 1995, pp. 53&ndash;67; and Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 395&ndash;410.</blockquote>
 
@@ -269,7 +269,7 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 
 <p><em>Primary Reading</em><br><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2009. &ldquo;Why is There Anything Except Physics?&rdquo;, in <em>Synthese</em>, Vol. 170, No. 2, September 2009, pp. 217&ndash;233. <span class="small">[<a href="http://dx.doi.org/10.1007/s11229-009-9580-2">URI</a>]</span></p>
 
-<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds) <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. <span class="small">[<a href="http://zuihitsu.org/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</span></p>
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds) <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 1997. &ldquo;What Is &lsquo;The Problem of the Direction of Time&rsquo;?&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association Part II: Symposia Papers, December 1997, pp. S223&ndash;S234. <span class="small">[<a href="http://www.jstor.org/pss/188405">URI</a>]</span></p>
 
@@ -288,7 +288,7 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 <p><em>Primary Reading</em><br><a href="http://www.strevens.org/">Strevens, Michael</a>. 2008. &ldquo;Physically Contingent Laws and Counterfactual Support&rdquo;, in <em>Philosophers' Imprint</em>, Vol. 8, No. 8, August 2008, pp. 1&ndash;20. <span class="small">[<a href="http://hdl.handle.net/2027/spo.3521354.0008.008">URI</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://www.fas.harvard.edu/~phildept/hall.html">Hall, Ned</a>. 2005. &ldquo;Causation and Ceteris Paribus Laws&rdquo;, in <em>The Harvard Review of Philosophy</em>, Vol. 13, No. 1, Spring 2005, pp. 80&ndash;99. <span class="small">[<a href="http://zuihitsu.org/protected/hall_causation_ceteris_paribus_laws.pdf">PDF</a>]</span></p>
+<a href="http://www.fas.harvard.edu/~phildept/hall.html">Hall, Ned</a>. 2005. &ldquo;Causation and Ceteris Paribus Laws&rdquo;, in <em>The Harvard Review of Philosophy</em>, Vol. 13, No. 1, Spring 2005, pp. 80&ndash;99. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/hall_causation_ceteris_paribus_laws.pdf">PDF</a>]</span></p>
 
 <a name="l26"> </a>
 <p><strong>Meeting Twenty Six (Wednesday 8 December)</strong></p>

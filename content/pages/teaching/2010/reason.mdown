@@ -99,7 +99,7 @@ examples and examine the scientific credentials of intelligent design as a case 
 </p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1963. &ldquo;Science: Conjectures and Refutations&rdquo;, in <em>Conjectures and Refutations</em>, Routledge, Kegan Paul, London, pp. 33&ndash;58. <span class="small">[<a href="http://zuihitsu.org/protected/popper.pdf">PDF</a>]</span></p>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1963. &ldquo;Science: Conjectures and Refutations&rdquo;, in <em>Conjectures and Refutations</em>, Routledge, Kegan Paul, London, pp. 33&ndash;58. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/popper.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Sections &sect;1&ndash;&sect;3 are compulsory, the rest is optional.</blockquote>
 
@@ -107,12 +107,12 @@ examples and examine the scientific credentials of intelligent design as a case 
 <p><strong>Lecture Three (Monday 25 January)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1970. &ldquo;Logic of Discovery or Psychology of Research?&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 1&ndash;22. <span class="small">[<a href="http://zuihitsu.org/protected/kuhn_logic_or_psychology.pdf">PDF</a>]</span></p>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1970. &ldquo;Logic of Discovery or Psychology of Research?&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 1&ndash;22. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kuhn_logic_or_psychology.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Thomas S. Kuhn, <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 266&ndash;292; and in Schilpp, Paul Arthur, <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Volume 14, Open Court, La Salle, pp. 798&ndash;819.</blockquote>
 
 <p><em>Secondary Reading</em><br/>
-<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1970. &ldquo;Normal Science and its Dangers&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 51&ndash;58. <span class="small">[<a href="http://zuihitsu.org/protected/popper_reply_kuhn.pdf">PDF</a>]</span></p>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1970. &ldquo;Normal Science and its Dangers&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 51&ndash;58. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/popper_reply_kuhn.pdf">PDF</a>]</span></p>
 
 <p><a href="http://www.phil.vt.edu/HTML/people/mayodeborah.html">Mayo, Deborah G</a>. 1996. &ldquo;Ducks, Rabbits, and Normal Science: Recasting the Kuhn's-Eye View of Popper's Demarcation of Science&rdquo;, in <em>The British Journal for the Philosophy of Science</em>, Vol. 47, No. 2, June 1996, pp. 271&ndash;290. <span class="small">[<a href="http://dx.doi.org/10.1093/bjps/47.2.271">URI</a>]</span></p>
 
@@ -120,7 +120,7 @@ examples and examine the scientific credentials of intelligent design as a case 
 <p><strong>Lecture Four (Wednesday 27 January)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1974. &ldquo;The &lsquo;Corroboration&rsquo; of Theories&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 221&ndash;240. <span class="small">[<a href="http://zuihitsu.org/protected/putnam_corroboration.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1974. &ldquo;The &lsquo;Corroboration&rsquo; of Theories&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 221&ndash;240. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/putnam_corroboration.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Putnam, Hilary. 1975. <em>Mathematics, Matter, and Method</em>, Philosophical Papers, Vol. 1, Cambridge University Press, Cambridge, pp. 250&ndash;269; and Boyd, Richard, Philip Gasper, and J. D. Trout (Eds). 1991. <em>The Philosophy of Science</em>, 3rd Edition, MIT Press, Cambridge MA, pp. 121&ndash;136; and Sklar, Lawrence. 2000. <em>Bayesian and Non-Inductive Methods</em>, The Philosophy of Science: A Collection of Essays, Vol. 5, Garland, Hamden CT, pp. 225&ndash;245.</blockquote>
 
@@ -132,9 +132,9 @@ examples and examine the scientific credentials of intelligent design as a case 
 <blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7.  This lecture is also available as an <a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscience48.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
 
 <p><em>Secondary Reading</em><br/>
-<a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. <span class="small">[<a href="http://zuihitsu.org/protected/lakatos_falsification_methodology.pdf">PDF</a>]</span></p>
+<a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lakatos_falsification_methodology.pdf">PDF</a>]</span></p>
 
-<p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. <span class="small">[<a href="http://zuihitsu.org/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</span></p>
+<p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</span></p>
 
 <a name="l6"> </a>
 <p><strong>Lecture Six (Wednesday 3 February)</strong></p>
@@ -150,7 +150,7 @@ examples and examine the scientific credentials of intelligent design as a case 
 <p><strong>Lecture Seven (Monday 8 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. <span class="small">[<a href="http://zuihitsu.org/protected/laudan_demise.pdf">PDF</a>]</span></p>
+<a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/laudan_demise.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">
 Reprinted in Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method, and Evidence</em>, Westview Press, Boulder CO, 1996, pp. 210&ndash;222; and in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008, pp. 312&ndash;330.</blockquote>
@@ -165,20 +165,20 @@ Reprinted in Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method
 <p><strong>Lecture Eight (Wednesday 10 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1974. &ldquo;Darwinism as a Metaphysical Research Programme&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 133&ndash;143. <span class="small">[<a href="http://zuihitsu.org/protected/popper_darwin_metaphysics.pdf">PDF</a>]</span></p>
+<a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1974. &ldquo;Darwinism as a Metaphysical Research Programme&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 133&ndash;143. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/popper_darwin_metaphysics.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Balashov, Yuri and Alexander Rosenberg (Eds). 2002. <em>Philosophy of Science: Contemporary Readings</em>, Routledge, London, pp. 302&ndash;304; and in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008, pp. 105&ndash;115.</blockquote>
 
-<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Believing Where We Cannot Prove&rdquo;, in <em>Abusing Science: The Case Against Creationism</em>, MIT Press, Cambridge MA, pp. 30&ndash;54. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_believing.pdf">PDF</a>]</span></p>
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1982. &ldquo;Believing Where We Cannot Prove&rdquo;, in <em>Abusing Science: The Case Against Creationism</em>, MIT Press, Cambridge MA, pp. 30&ndash;54. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_believing.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br/>
-<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1985. &ldquo;Darwin's Achievement&rdquo;, in Nicholas Rescher (Ed), <em>Reason and Rationality in Natural Science</em>, University Press of America, Lanham MD, pp. 127&ndash;189. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_darwin_achievement.pdf">PDF</a>]</span></p>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1985. &ldquo;Darwin's Achievement&rdquo;, in Nicholas Rescher (Ed), <em>Reason and Rationality in Natural Science</em>, University Press of America, Lanham MD, pp. 127&ndash;189. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_darwin_achievement.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <em>The Advancement of Science: Science without Legend, Objectivity without Illusions</em>, Oxford University Press, Oxford, 1993, pp. 11&mdash;57; <em>In Mendel's Mirror: Philosophical Reflections on Biology</em>, Oxford University Press, Oxford, 2003, pp. 45&ndash;93; and in Marc Lange (Ed), <em>Philosophy of Science: An Anthology</em>, Blackwell, Malden MA, 2006, pp. 154&mdash;188.</blockquote>
 
-<p><a href="http://darwin-online.org.uk/">Darwin, Charles</a>. &ldquo;Struggle for Existence&rdquo; and &ldquo;Natural Selection&rdquo;, in <em>On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</em>, John Murray, London, 1<sup>st</sup> Ed, 1859, Chapters 3 and 4, pp. 60&ndash;79 and 80&ndash;130. <span class="small">[<a href="http://zuihitsu.org/protected/darwin_origin_3_4.pdf">PDF</a>]</span></p>
+<p><a href="http://darwin-online.org.uk/">Darwin, Charles</a>. &ldquo;Struggle for Existence&rdquo; and &ldquo;Natural Selection&rdquo;, in <em>On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</em>, John Murray, London, 1<sup>st</sup> Ed, 1859, Chapters 3 and 4, pp. 60&ndash;79 and 80&ndash;130. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/darwin_origin_3_4.pdf">PDF</a>]</span></p>
 
-<p><a href="http://www.languages.utah.edu/?module=facultyDetails&amp;personId=131&amp;orgId=300">Plutynski, Anya</a> and <a href="http://www.bio.upenn.edu/faculty/ewens/">Warren J. Ewens</a>. &ldquo;Population Genetics&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and Jessica Pfeifer (Eds), <em>The Philosophy of Science: An Encyclopedia</em>, Routledge, New York, 2005, pp. 578&ndash;585. <span class="small">[<a href="http://zuihitsu.org/protected/plutynski_ewens_population_genetics.pdf">PDF</a>]</span></p>
+<p><a href="http://www.languages.utah.edu/?module=facultyDetails&amp;personId=131&amp;orgId=300">Plutynski, Anya</a> and <a href="http://www.bio.upenn.edu/faculty/ewens/">Warren J. Ewens</a>. &ldquo;Population Genetics&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and Jessica Pfeifer (Eds), <em>The Philosophy of Science: An Encyclopedia</em>, Routledge, New York, 2005, pp. 578&ndash;585. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/plutynski_ewens_population_genetics.pdf">PDF</a>]</span></p>
 
 <p><em>Multimedia</em><br/>
 Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> present an overview of Darwin's theory <a href="http://sackler.nasmediaonline.org/2009/darwin/elliot_sober/elliot_sober.html">here</a>. The paper on which this talk is based is:</p>
@@ -189,7 +189,7 @@ Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sobe
 <p><strong>Lecture Nine (Monday 15 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a>, &ldquo;Irreducible Complexity: Obstacle to Darwinian Evolution&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 352&ndash;370. <span class="small">[<a href="http://zuihitsu.org/protected/behe_irreducible_complexity.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a>, &ldquo;Irreducible Complexity: Obstacle to Darwinian Evolution&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 352&ndash;370. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/behe_irreducible_complexity.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://www.duke.edu/~alexrose/">Rosenberg, Alexander</a> and <a href="http://org.buffalo.edu/rarp/arp_vita.html">Robert Arp</a>. 2010. <em>Philosophy of Biology: An Anthology</em>, Blackwell, Malden MA, pp. 427&ndash;438.</blockquote>
 
@@ -200,7 +200,7 @@ Watch <a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a> pr
 <p><strong>Lecture Ten (Wednesday 17 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a>, &ldquo;The Flagellum Unspun: The Collapse of &ldquo;Irreducible Complexity&rdquo;&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 81&ndash;97. <span class="small">[<a href="http://zuihitsu.org/protected/miller_flagellum_unspun.pdf">PDF</a>]</span></p>
+<a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a>, &ldquo;The Flagellum Unspun: The Collapse of &ldquo;Irreducible Complexity&rdquo;&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 81&ndash;97. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/miller_flagellum_unspun.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://www.duke.edu/~alexrose/">Rosenberg, Alexander</a> and <a href="http://org.buffalo.edu/rarp/arp_vita.html">Robert Arp</a>. 2010. <em>Philosophy of Biology: An Anthology</em>, Blackwell, Malden MA, pp. 439&ndash;449.</blockquote>
 
@@ -220,7 +220,7 @@ Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present
 <blockquote class="note">Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008, pp. 495&ndash;505.</blockquote>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2003. &ldquo;The Design Argument&rdquo;, in Neil A. Manson (Ed), <em>God and Design: The Teleological Argument and Modern Science</em>, Routledge, London, pp. 25&ndash;53. <span class="small">[<a href="http://zuihitsu.org/protected/sober_design_argument_dembski.pdf">PDF</a>]</span></p>
+<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2003. &ldquo;The Design Argument&rdquo;, in Neil A. Manson (Ed), <em>God and Design: The Teleological Argument and Modern Science</em>, Routledge, London, pp. 25&ndash;53. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_design_argument_dembski.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 98&ndash;129; and in Mann, William E (Ed). 2005. <em>The Blackwell Guide to the Philosophy of Religion</em>, Blackwell, Malden MA, pp. 117&ndash;147.</blockquote>
 
@@ -233,9 +233,9 @@ Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present
 <p><strong>Lecture Thirteen (Monday 1 March)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://bradleymonton.com/">Monton, Bradley</a>. 2009. &ldquo;Why It Is Legitimate to Treat Intelligent Design as Science&rdquo;, in <em>Seeking God in Science: An Atheist Defends Intelligent Design</em>, Broadview, Peterborough ON, Chapter 2, pp. 47&ndash;74. <span class="small">[<a href="http://zuihitsu.org/protected/monton_is_id_science.pdf">PDF</a>]</span></p>
+<a href="http://bradleymonton.com/">Monton, Bradley</a>. 2009. &ldquo;Why It Is Legitimate to Treat Intelligent Design as Science&rdquo;, in <em>Seeking God in Science: An Atheist Defends Intelligent Design</em>, Broadview, Peterborough ON, Chapter 2, pp. 47&ndash;74. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/monton_is_id_science.pdf">PDF</a>]</span></p>
 
-<p><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, forthcoming in <em>Synthese</em>. <span class="small">[<a href="http://zuihitsu.org/protected/pennock_demarcation_revisited.pdf">PDF</a>]</span></p>
+<p><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, forthcoming in <em>Synthese</em>. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/pennock_demarcation_revisited.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">
 Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008.</blockquote>
@@ -281,7 +281,7 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 <blockquote class="note">Section IX.</blockquote>
 
 <p><em>Secondary Reading</em><br/>
-<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1977. &ldquo;Objectivity, Value Judgment, and Theory Choice&rdquo;, in <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 320&ndash;339. <span class="small">[<a href="http://zuihitsu.org/protected/kuhn_objectivity.pdf">PDF</a>]</span></p>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1977. &ldquo;Objectivity, Value Judgment, and Theory Choice&rdquo;, in <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 320&ndash;339. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kuhn_objectivity.pdf">PDF</a>]</span></p>
 
 <a name="l18"> </a>
 <p><strong>Lecture Eighteen (Monday 29 March)</strong></p>
@@ -349,7 +349,7 @@ and <a href="http://huss.exeter.ac.uk/sociology/staff/mueller-wille/">Staffan M&
 <p><strong>Lecture Twenty Five (Wednesday 21 April)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>. 1985. &ldquo;On Conceptual Change in Biology: The Case of the Gene&rdquo;, in David J. Depew and Bruce H. Weber (Eds), <em>Evolution at a Crossroads: The New Biology and the New Philosophy of Science</em>, MIT Press, Cambridge MA, pp. 21&ndash;42. <span class="small">[<a href="http://zuihitsu.org/protected/burian_conceptual_change_biology_gene.pdf">PDF</a>]</span></p>
+<a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>. 1985. &ldquo;On Conceptual Change in Biology: The Case of the Gene&rdquo;, in David J. Depew and Bruce H. Weber (Eds), <em>Evolution at a Crossroads: The New Biology and the New Philosophy of Science</em>, MIT Press, Cambridge MA, pp. 21&ndash;42. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/burian_conceptual_change_biology_gene.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>. 2005. <em>The Epistemology of Development, Evolution, and Genetics</em>, Cambridge University 
 Press, Cambridge, pp. 126&ndash;144.</blockquote>
@@ -358,12 +358,12 @@ Press, Cambridge, pp. 126&ndash;144.</blockquote>
 <p><strong>Lecture Twenty Six (Monday 26 April)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://www.uni-konstanz.de/FuF/Philo/Philosophie/philosophie/273-0-weber-marcel.html">Weber, Marcel</a>. 2005. &ldquo;Reference and Conceptual Change: Out of Mendel's Garden?&rdquo;, in <em>Philosophy of Experimental Biology</em>, Cambridge University Press, Cambridge, pp. 188&ndash;228. <span class="small">[<a href="http://zuihitsu.org/protected/weber_reference_conceptual_change.pdf">PDF</a>] [<a href="http://zuihitsu.org/protected/weber_reference_conceptual_change_notes.pdf">Notes</a>] [<a href="http://zuihitsu.org/protected/weber_experimental_biology_references.pdf">References</a>]</span></p>
+<a href="http://www.uni-konstanz.de/FuF/Philo/Philosophie/philosophie/273-0-weber-marcel.html">Weber, Marcel</a>. 2005. &ldquo;Reference and Conceptual Change: Out of Mendel's Garden?&rdquo;, in <em>Philosophy of Experimental Biology</em>, Cambridge University Press, Cambridge, pp. 188&ndash;228. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/weber_reference_conceptual_change.pdf">PDF</a>] [<a href="http://reductioland.net/zuihitsu/protected/weber_reference_conceptual_change_notes.pdf">Notes</a>] [<a href="http://reductioland.net/zuihitsu/protected/weber_experimental_biology_references.pdf">References</a>]</span></p>
 
 <a name="l27"> </a>
 <p><strong>Lecture Twenty Seven (Wednesday 28 April)</strong></p>
 
 <p><em>Primary Reading</em><br/>
-<a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>, <a href="http://www.artsci.uc.edu/collegedepts/philosophy/fac_staff/profile_details.aspx?ePID=MjcyNDQ%3D">Robert C. Richardson</a>, and Wim J. Van der Steen. 1996. &ldquo;Against Generality: Meaning in Genetics and Philosophy&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 27, No. 1, March 1996, pp. 1&ndash;29. <span class="small">[<a href="http://zuihitsu.org/protected/burian_against_generality.pdf">PDF</a>]</span></p>
+<a href="http://www.phil.vt.edu/Burian/">Burian, Richard M</a>, <a href="http://www.artsci.uc.edu/collegedepts/philosophy/fac_staff/profile_details.aspx?ePID=MjcyNDQ%3D">Robert C. Richardson</a>, and Wim J. Van der Steen. 1996. &ldquo;Against Generality: Meaning in Genetics and Philosophy&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 27, No. 1, March 1996, pp. 1&ndash;29. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/burian_against_generality.pdf">PDF</a>]</span></p>
 
 *Updated*: 20 April 2010

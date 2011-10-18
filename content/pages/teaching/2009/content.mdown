@@ -30,11 +30,11 @@ Summary: A reading group run in conjunction with *Philosophy of Mind*, focusing 
 <a name="l1"> </a>
 <p><strong>Meeting One (Tuesday 15 September)</strong></p>
 
-<p><a href="http://pantheon.yale.edu/~tgendler/">Gendler, Tamar Szab&oacute;</a>. 2008a. &ldquo;Alief and Belief&rdquo;, in <em>Journal of Philosophy</em>, Vol. 105, No. 10, October 2008, pp. 634&ndash;663. <span class="small">[<a href="http://zuihitsu.org/protected/gendler_alief.pdf">PDF</a>]</span></p>
+<p><a href="http://pantheon.yale.edu/~tgendler/">Gendler, Tamar Szab&oacute;</a>. 2008a. &ldquo;Alief and Belief&rdquo;, in <em>Journal of Philosophy</em>, Vol. 105, No. 10, October 2008, pp. 634&ndash;663. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/gendler_alief.pdf">PDF</a>]</span></p>
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://pantheon.yale.edu/~tgendler/">Gendler, Tamar Szab&oacute;</a>. 2008b. &ldquo;Alief in Action (and Reaction)&rdquo;, in <em>Mind and Language</em>, Vol. 23, No. 5, November 2008, pp. 552&ndash;585. <span class="small">[<a href="http://zuihitsu.org/protected/gendler_alief_action.pdf">PDF</a>]</span></p>
+<p><a href="http://pantheon.yale.edu/~tgendler/">Gendler, Tamar Szab&oacute;</a>. 2008b. &ldquo;Alief in Action (and Reaction)&rdquo;, in <em>Mind and Language</em>, Vol. 23, No. 5, November 2008, pp. 552&ndash;585. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/gendler_alief_action.pdf">PDF</a>]</span></p>
 
 <p><em>See Also</em></p>
 
@@ -59,7 +59,7 @@ Press, Cambridge MA, 1983, pp. 177&ndash;203; Rosenthal, David M (Ed). 1991. <em
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://philosophy.fas.nyu.edu/object/hartryfield">Field, Hartry</a>. 1978. &ldquo;Mental Representation&rdquo;, in <em>Erkenntnis</em>, Vol. 13, No. 1, January 1978, pp. 9&ndash;61. <span class="small">[<a href="http://zuihitsu.org/protected/field_mental_representation.pdf">PDF</a>]</span></p>
+<p><a href="http://philosophy.fas.nyu.edu/object/hartryfield">Field, Hartry</a>. 1978. &ldquo;Mental Representation&rdquo;, in <em>Erkenntnis</em>, Vol. 13, No. 1, January 1978, pp. 9&ndash;61. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/field_mental_representation.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted with postscript in Block, Ned (Ed). 1981. <em>Readings in Philosophy of Psychology</em>, Vol. 2, Harvard University Press, Cambridge MA, pp. 78&ndash;116; in Stich, Stephen, and Ted A. Warfield. 1994. <em>Mental Representation: A Reader</em>, Basil Blackwell, Oxford, pp. 34&ndash;78; and with an updated 
 postscript in <em>Truth and the Absence of Fact</em>, Oxford University Press, Oxford, 2001, pp. 30&ndash;67.</blockquote>
@@ -75,12 +75,12 @@ postscript in <em>Truth and the Absence of Fact</em>, Oxford University Press, O
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://www.clas.wayne.edu/unit-faculty-detail.asp?FacultyID=66">McKinsey, Michael</a>. 2001. &ldquo;The Semantic Basis of Externalism&rdquo;, in Joseph Keim Campbell, Michael O'Rourke, and David Shier (Eds), <em>Meaning and Truth: Investigations in Philosophical Semantics</em>, Seven Bridges Press, New York, pp. 34&ndash;52. <span class="small">[<a href="http://zuihitsu.org/protected/mckinsey_semantic_basis.pdf">PDF</a>]</span></p>
+<p><a href="http://www.clas.wayne.edu/unit-faculty-detail.asp?FacultyID=66">McKinsey, Michael</a>. 2001. &ldquo;The Semantic Basis of Externalism&rdquo;, in Joseph Keim Campbell, Michael O'Rourke, and David Shier (Eds), <em>Meaning and Truth: Investigations in Philosophical Semantics</em>, Seven Bridges Press, New York, pp. 34&ndash;52. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/mckinsey_semantic_basis.pdf">PDF</a>]</span></p>
 
 <a name="l5"> </a>
 <p><strong>Meeting Five (Tuesday 10 November)</strong></p>
 
-<p><a href="http://www.jimpryor.net/">Pryor, James</a>. 2007. &ldquo;What's Wrong With McKinsey-Style Reasoning?&rdquo;, in Sanford C. Goldberg (Ed), <em>Internalism and Externalism in Semantics and Epistemology</em>, Oxford University Press, Oxford, pp. 177&ndash;200. [<a href="http://zuihitsu.org/protected/pryor_mckinsey.pdf">PDF</a>]</p>
+<p><a href="http://www.jimpryor.net/">Pryor, James</a>. 2007. &ldquo;What's Wrong With McKinsey-Style Reasoning?&rdquo;, in Sanford C. Goldberg (Ed), <em>Internalism and Externalism in Semantics and Epistemology</em>, Oxford University Press, Oxford, pp. 177&ndash;200. [<a href="http://reductioland.net/zuihitsu/protected/pryor_mckinsey.pdf">PDF</a>]</p>
 
 <a name="l6"> </a>
 <p><strong>Meeting Six (Tuesday 17 November)</strong></p>
@@ -92,7 +92,7 @@ postscript in <em>Truth and the Absence of Fact</em>, Oxford University Press, O
 <a name="l7"> </a>
 <p><strong>Meeting Seven (Tuesday 1 December)</strong></p>
 
-<p><a href="http://www.philosophy.ucla.edu/index.php/user-profile-one/userprofile/burge">Burge, Tyler</a>. &ldquo;Reply: Intentional Properties and Causation&rdquo;, in Macdonald, Cynthia and Graham Macdonald (Eds),  <em>Philosophy of Psychology</em>, Debates on Psychological Explanation, Vol. 1, Oxford University Press, Oxford, 1995. [<a href="http://zuihitsu.org/protected/burge_intentional_properties_causation.pdf">PDF</a>]</p>
+<p><a href="http://www.philosophy.ucla.edu/index.php/user-profile-one/userprofile/burge">Burge, Tyler</a>. &ldquo;Reply: Intentional Properties and Causation&rdquo;, in Macdonald, Cynthia and Graham Macdonald (Eds),  <em>Philosophy of Psychology</em>, Debates on Psychological Explanation, Vol. 1, Oxford University Press, Oxford, 1995. [<a href="http://reductioland.net/zuihitsu/protected/burge_intentional_properties_causation.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in <em>Foundations of Mind</em>, Philosophical Essays, Vol. 2, Oxford University Press, Oxford, 2007, pp. 334&ndash;343.</blockquote>
 

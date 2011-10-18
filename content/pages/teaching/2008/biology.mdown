@@ -80,13 +80,13 @@ Summary: An introductory reading course on philosophy of biology, run in collabo
 <a name="l8"> </a>
 <p><strong>Meeting Eight (Wednesday 12 November)</strong></p>
 
-<p>Lloyd, Elisabeth A. and Gould, Stephen Jay. 1993. &ldquo;Species Selection on Variability&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 90, No. 2, January 1993, pp. 595&ndash;599. [<a href="http://zuihitsu.org/protected/lloyd_gould_variability.pdf"><span class="small">PDF</span></a>]</p>
+<p>Lloyd, Elisabeth A. and Gould, Stephen Jay. 1993. &ldquo;Species Selection on Variability&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 90, No. 2, January 1993, pp. 595&ndash;599. [<a href="http://reductioland.net/zuihitsu/protected/lloyd_gould_variability.pdf"><span class="small">PDF</span></a>]</p>
 
 <p><em>Optional</em></p>
 
 <p>Lloyd, Elisabeth A. 2005. &ldquo;Units and Levels of Selection&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University Press, Stanford, 2005. [<a href="http://plato.stanford.edu/entries/selection-units/"><span class="small">URI</span></a>]</p>
 
-<p>Gould, Stephen Jay and Lloyd, Elisabeth A. 1999. &ldquo;Individuality and Adaptation Across Levels of Selection: How Shall We Name and Generalize the Unit of Darwinism?&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 96, No. 21, October 1999, pp. 11904&ndash;11909. [<a href="http://zuihitsu.org/protected/gould_lloyd_units.pdf"><span class="small">PDF</span></a>]</p>
+<p>Gould, Stephen Jay and Lloyd, Elisabeth A. 1999. &ldquo;Individuality and Adaptation Across Levels of Selection: How Shall We Name and Generalize the Unit of Darwinism?&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 96, No. 21, October 1999, pp. 11904&ndash;11909. [<a href="http://reductioland.net/zuihitsu/protected/gould_lloyd_units.pdf"><span class="small">PDF</span></a>]</p>
 
 <a name="l9"> </a>
 <p><strong>Meeting Nine (Wednesday 19 November)</strong></p>

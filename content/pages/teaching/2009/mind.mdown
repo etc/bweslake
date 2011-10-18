@@ -112,7 +112,7 @@ Available <a href="http://bweslake.s3.amazonaws.com/teaching/2009/mind/resources
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://www.faculty.ucr.edu/~eschwitz/">Schwitzgebel, Eric</a>, &ldquo;The Unreliability of Naive Introspection&rdquo;, in <em>Philosophical Review</em>, Vol. 117, No. 2, April 2008, pp. 245&ndash;273. [<a href="http://zuihitsu.org/protected/schwitzgebel_unreliability.pdf">PDF</a>]</p>
+<p><a href="http://www.faculty.ucr.edu/~eschwitz/">Schwitzgebel, Eric</a>, &ldquo;The Unreliability of Naive Introspection&rdquo;, in <em>Philosophical Review</em>, Vol. 117, No. 2, April 2008, pp. 245&ndash;273. [<a href="http://reductioland.net/zuihitsu/protected/schwitzgebel_unreliability.pdf">PDF</a>]</p>
 
 <blockquote class="note">A (much) less optimistic view than Kim concerning the prospects for an epistemological mark of the mental.</blockquote>
 
@@ -129,7 +129,7 @@ Available <a href="http://bweslake.s3.amazonaws.com/teaching/2009/mind/resources
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://www.rochester.edu/College/faculty/alyssaney/">Ney, Alyssa</a>. 2008. &ldquo;Defining Physicalism&rdquo;, in <em>Philosophy Compass</em>, Vol. 3, No. 5, September 2008, pp. 1033&ndash;1048. [<a href="http://zuihitsu.org/protected/ney_defining_physicalism.pdf">PDF</a>]</p>
+<p><a href="http://www.rochester.edu/College/faculty/alyssaney/">Ney, Alyssa</a>. 2008. &ldquo;Defining Physicalism&rdquo;, in <em>Philosophy Compass</em>, Vol. 3, No. 5, September 2008, pp. 1033&ndash;1048. [<a href="http://reductioland.net/zuihitsu/protected/ney_defining_physicalism.pdf">PDF</a>]</p>
 
 <a name="l4"> </a>
 <p><strong>Lecture Four (Wednesday 16 September)</strong></p>
@@ -149,7 +149,7 @@ Available <a href="http://bweslake.s3.amazonaws.com/teaching/2009/mind/resources
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://web.princeton.edu/sites/philosph/bios/garber.htm">Garber, Daniel</a>. 1983. &ldquo;Understanding Interaction: What Descartes Should Have Told Elisabeth&rdquo;, in <em>Southern Journal of Philosophy</em>, Vol. 21, Supplement, 1983, pp. 15-32. [<a href="http://zuihitsu.org/protected/garber_descartes_elizabeth.pdf">PDF</a>]</p> 
+<p><a href="http://web.princeton.edu/sites/philosph/bios/garber.htm">Garber, Daniel</a>. 1983. &ldquo;Understanding Interaction: What Descartes Should Have Told Elisabeth&rdquo;, in <em>Southern Journal of Philosophy</em>, Vol. 21, Supplement, 1983, pp. 15-32. [<a href="http://reductioland.net/zuihitsu/protected/garber_descartes_elizabeth.pdf">PDF</a>]</p> 
 
 <blockquote class="note">Reprinted in his <em>Descartes Embodied: Reading Cartesian Philosophy Through Cartesian Science</em>, Cambridge University Press, Cambridge, 2001, pp. 168-188.  This version is available online through our library.  If you are on campus, <a href="http://site.ebrary.com/lib/rochester/Doc?id=10014992">this</a> is a direct link.  You will then need to navigate to p. 168 with the "Go To Page Number" button.</blockquote>
 
@@ -168,7 +168,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 <a name="l7"> </a>
 <p><strong>Lecture Seven (Monday 28 September)</strong></p>
 
-<p><a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1965. &ldquo;Brains and Behavior&rdquo;, in R. J. Butler (Ed), <em>Analytical Philosophy</em>, Second Series, Oxford University Press, Oxford, pp. 1&ndash;19. [<a href="http://zuihitsu.org/protected/putnam_brains_behavior.pdf">PDF</a>]</p>
+<p><a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1965. &ldquo;Brains and Behavior&rdquo;, in R. J. Butler (Ed), <em>Analytical Philosophy</em>, Second Series, Oxford University Press, Oxford, pp. 1&ndash;19. [<a href="http://reductioland.net/zuihitsu/protected/putnam_brains_behavior.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Hilary Putnam, <em>Mind, Language and Reality</em>, Philosophical Papers, Volume II, Cambridge University Press, Cambridge, 1975, pp. 325&ndash;341.  Also reprinted in David J. Chalmers, <em>Philosophy of Mind: Classical and Contemporary Readings</em>, Oxford University Press, Oxford, 2002, pp. 45&ndash;54.</blockquote>
 
@@ -189,7 +189,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 
 <p><a href="http://arts.monash.edu.au/philosophy/staff/jsmart.php">Smart, J. J. C</a>. 2007. &ldquo;The Identity Theory of Mind&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford. [<a href="http://plato.stanford.edu/entries/mind-identity/">URI</a>]</p>
 
-<p><a href="http://homepages.uc.edu/~polgertw/">Polger, Thomas W</a>. 2009. &ldquo;Identity Theories&rdquo;, in <em>Philosophy Compass</em>, Vol. 4, No. 5, September 2009, pp. 822&ndash;834. [<a href="http://zuihitsu.org/protected/polger_identity_theories.pdf">PDF</a>]</p>
+<p><a href="http://homepages.uc.edu/~polgertw/">Polger, Thomas W</a>. 2009. &ldquo;Identity Theories&rdquo;, in <em>Philosophy Compass</em>, Vol. 4, No. 5, September 2009, pp. 822&ndash;834. [<a href="http://reductioland.net/zuihitsu/protected/polger_identity_theories.pdf">PDF</a>]</p>
 
 <a name="l9"> </a>
 <p><strong>Lecture Nine (Monday 12 October)</strong></p>
@@ -198,7 +198,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1980. &ldquo;Mad Pain and Martian Pain&rdquo;, in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, Vol. 1, pp. 216&ndash;222. [<a href="http://zuihitsu.org/protected/lewis_mad_martian_pain.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1980. &ldquo;Mad Pain and Martian Pain&rdquo;, in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, Vol. 1, pp. 216&ndash;222. [<a href="http://reductioland.net/zuihitsu/protected/lewis_mad_martian_pain.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted with postscript in <em>Philosophical Papers</em>, Oxford University Press, Oxford, 1983, Vol. I, pp. 122&ndash;132.</blockquote>
 
@@ -209,7 +209,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1967.  &ldquo;Psychological Predicates&rdquo;, in Capitan, William H., and Daniel Davy Merrill, <em>Art, Mind, and Religion</em>, University of Pittsburgh Press, Pittsburgh, pp. 37&ndash;48. [<a href="http://zuihitsu.org/protected/putnam_nature_mental_states.pdf">PDF</a>]</p>
+<p><a href="http://www.fas.harvard.edu/~phildept/putnam.html">Putnam, Hilary</a>. 1967.  &ldquo;Psychological Predicates&rdquo;, in Capitan, William H., and Daniel Davy Merrill, <em>Art, Mind, and Religion</em>, University of Pittsburgh Press, Pittsburgh, pp. 37&ndash;48. [<a href="http://reductioland.net/zuihitsu/protected/putnam_nature_mental_states.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted as &ldquo;The Nature of Mental States&rdquo;, in his <em>Mind, Language and Reality</em>, Volume II, Philosophical Papers, Cambridge University Press, Cambridge, 1975, pp. 429&ndash;440; in in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, Vol. 1, pp. 223&ndash;231; and in O'Connor, Timothy and David Robb (Eds), <em>Philosophy of Mind: Contemporary Readings</em>, Routledge, London, 2003, pp. 210&ndash;221.</blockquote>
 
@@ -220,7 +220,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 <a name="l11"> </a>
 <p><strong>Lecture Eleven (Monday 19 October)</strong></p>
 
-<p><a href="http://socrates.berkeley.edu/~jsearle/">Searle, John R</a>. 1980. &ldquo;Minds, Brains, and Programs&rdquo;, in <em>Behavioral and Brain Sciences</em>, Vol. 3, No. 3, pp. 417&ndash;457. [<a href="http://zuihitsu.org/protected/searle_minds_brains_programs.pdf">PDF</a>]</p>
+<p><a href="http://socrates.berkeley.edu/~jsearle/">Searle, John R</a>. 1980. &ldquo;Minds, Brains, and Programs&rdquo;, in <em>Behavioral and Brain Sciences</em>, Vol. 3, No. 3, pp. 417&ndash;457. [<a href="http://reductioland.net/zuihitsu/protected/searle_minds_brains_programs.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Rosenthal, David M (Ed). 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 509&ndash;519; Haugeland, John (Ed). 1997. <em>Mind Design II: Philosophy, Psychology, Artificial Intelligence</em>, 2nd Ed, MIT Press, Cambridge MA, pp. 183&ndash;204; and O'Connor, Timothy and David Robb (Eds), <em>Philosophy of Mind: Contemporary Readings</em>, Routledge, London, 2003, pp. 332&ndash;352.</blockquote>
 
@@ -250,7 +250,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 1978. &ldquo;Troubles with Functionalism&rdquo;, in C. Wade Savage (Ed.), <em>Perception and Cognition: Issues in the Foundations of Psychology</em>, Minnesota Studies in the Philosophy of Science, Volume 9, University of Minnesota Press, Minneapolis, pp. 261&ndash;326. [<a href="http://zuihitsu.org/protected/block_troubles_functionalism.pdf">PDF</a>]</p>
+<p><a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 1978. &ldquo;Troubles with Functionalism&rdquo;, in C. Wade Savage (Ed.), <em>Perception and Cognition: Issues in the Foundations of Psychology</em>, Minnesota Studies in the Philosophy of Science, Volume 9, University of Minnesota Press, Minneapolis, pp. 261&ndash;326. [<a href="http://reductioland.net/zuihitsu/protected/block_troubles_functionalism.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Goldman, Alvin I (Ed). 1993. <em>Readings in Philosophy and Cognitive Science</em>, MIT Press, Cambridge MA, pp. 231&ndash;253; in O'Connor, Timothy and David Robb (Eds), <em>Philosophy of Mind: Contemporary Readings</em>, Routledge, London, 2003, pp. 222&ndash;233; and in Ned Block, <em>Consciousness, Function, and Representation</em>, Collected Papers, Vol. 1, MIT Press, Cambridge MA, 2007, pp. 63&ndash;102.</blockquote>
 
@@ -268,11 +268,11 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 <a name="l16"> </a>
 <p><strong>Lecture Sixteen (Monday 9 November)</strong></p>
 
-<p><a href="http://dingo.sbs.arizona.edu/~snichols/">Nichols, Shaun</a>. 2002. &ldquo;Folk Psychology&rdquo;, in Lynn Nadel (Ed), <em>Encyclopedia of Cognitive Science</em>, Nature Publishing Group, London, 2002, pp. 134&ndash;140. [<a href="http://zuihitsu.org/protected/nichols_folk_psychology.pdf">PDF</a>]</p>
+<p><a href="http://dingo.sbs.arizona.edu/~snichols/">Nichols, Shaun</a>. 2002. &ldquo;Folk Psychology&rdquo;, in Lynn Nadel (Ed), <em>Encyclopedia of Cognitive Science</em>, Nature Publishing Group, London, 2002, pp. 134&ndash;140. [<a href="http://reductioland.net/zuihitsu/protected/nichols_folk_psychology.pdf">PDF</a>]</p>
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://dingo.sbs.arizona.edu/~snichols/">Nichols, Shaun</a> and <a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1992. &ldquo;Folk Psychology: Simulation or Tacit Theory?&rdquo;, in <em>Mind and Language</em>, Vol. 7, No. 1&ndash;2, March 1992, pp. 35&ndash;71. [<a href="http://zuihitsu.org/protected/stich_nichols_simulation_theory.pdf">PDF</a>]</p>
+<p><a href="http://dingo.sbs.arizona.edu/~snichols/">Nichols, Shaun</a> and <a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1992. &ldquo;Folk Psychology: Simulation or Tacit Theory?&rdquo;, in <em>Mind and Language</em>, Vol. 7, No. 1&ndash;2, March 1992, pp. 35&ndash;71. [<a href="http://reductioland.net/zuihitsu/protected/stich_nichols_simulation_theory.pdf">PDF</a>]</p>
 
 <a name="l17"> </a>
 <p><strong>Lecture Seventeen (Wednesday 11 November)</strong></p>
@@ -290,15 +290,15 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1981. &ldquo;True Believers: The Intentional Strategy and Why it Works&rdquo;, in Anthony F. Heath (Ed), <em>Scientific Explanation: Papers Based on Herbert Spencer Lectures Given in the University of Oxford</em>, Oxford University Press, Oxford, 1981, pp. 53&ndash;75. [<a href="http://zuihitsu.org/protected/dennett_true_believers.pdf">PDF</a>]</p>
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1981. &ldquo;True Believers: The Intentional Strategy and Why it Works&rdquo;, in Anthony F. Heath (Ed), <em>Scientific Explanation: Papers Based on Herbert Spencer Lectures Given in the University of Oxford</em>, Oxford University Press, Oxford, 1981, pp. 53&ndash;75. [<a href="http://reductioland.net/zuihitsu/protected/dennett_true_believers.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in his <em>The Intentional Stance</em>, MIT Press, Cambridge MA, pp. 13&ndash;42; in Stephen Stich and Ted A. Warfield (Eds), <em>Mental Representation: A Reader</em>, Basil Blackwell, Oxford, 1994, pp. 312&ndash;331; and William G. Lycan (Ed), <em>Mind and Cognition: An Anthology</em>, 2<sup>nd</sup> Edition, Blackwell, Malden MA, 1999, pp. 75&ndash;86.</blockquote>
 
-<p><a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1981. &ldquo;Dennett on Intentional Systems&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 39&ndash;62. [<a href="http://zuihitsu.org/protected/stich_dennett_on_intentional_systems.pdf">PDF</a>]</p>
+<p><a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1981. &ldquo;Dennett on Intentional Systems&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 39&ndash;62. [<a href="http://reductioland.net/zuihitsu/protected/stich_dennett_on_intentional_systems.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in John I. Biro and Robert W. Shahan (Eds), <em>Mind, Brain, and Function</em>, University of Oklahoma Press, Norman OK, 1982, pp. 39&ndash;62; and William G. Lycan (Ed), <em>Mind and Cognition: An Anthology</em>, 2<sup>nd</sup> Edition, Blackwell, Malden MA, 1999, pp. 87&ndash;99.</blockquote>
 
-<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. &ldquo;Making Sense of Ourselves&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 63&ndash;81. [<a href="http://zuihitsu.org/protected/dennett_reply_stich.pdf">PDF</a>]</p>
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. &ldquo;Making Sense of Ourselves&rdquo;, in <em>Philosophical Topics</em>, Vol. 12, No. 1, Spring 1981, pp. 63&ndash;81. [<a href="http://reductioland.net/zuihitsu/protected/dennett_reply_stich.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in John I. Biro and Robert W. Shahan (Eds), <em>Mind, Brain, and Function</em>, University of Oklahoma Press, Norman OK, 1982, pp. 63&ndash;81; and, with reflections, in his <em>The Intentional Stance</em>, MIT Press, Cambridge MA, pp. 83&ndash;102.</blockquote>
 
@@ -318,7 +318,7 @@ Philosophy of Mind</em>, Blackwell, Oxford, pp. 132&ndash;140. [<a href="http://
 
 <p><em>Optional Reading</em></p>
 
-<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1988. &ldquo;What Experience Teaches&rdquo;, in <em>Proceedings of the Russellian Society</em>, Vol. 13, pp. 29&ndash;57. [<a href="http://zuihitsu.org/protected/lewis_what_experience_teaches.pdf">PDF</a>]</p>
+<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1988. &ldquo;What Experience Teaches&rdquo;, in <em>Proceedings of the Russellian Society</em>, Vol. 13, pp. 29&ndash;57. [<a href="http://reductioland.net/zuihitsu/protected/lewis_what_experience_teaches.pdf">PDF</a>]</p>
 
 <blockquote class="note">Reprinted in Lycan, William G (Ed). 1990. <em>Mind and Cognition: A Reader</em>, Basil Blackwell, Cambridge MA, pp. 499&ndash;519; Block, Ned, Owen J. Flanagan, and G&uuml;ven G&uuml;zeldere (Eds). 1997. <em>The Nature of Consciousness: Philosophical Debates</em>, MIT Press, Cambridge MA, pp. 579&ndash;596; Lewis, David. 1999. <em>Papers in Metaphysics and Epistemology</em>, Cambridge University Press, Cambridge, pp. 262&ndash;290; David J. Chalmers, <em>Philosophy of Mind: Classical and Contemporary Readings</em>, Oxford University Press, Oxford, 2002, pp. 281&ndash;294; and O'Connor, Timothy and David Robb (Eds), <em>Philosophy of Mind: Contemporary Readings</em>, Routledge, London, 2003, pp. 467&ndash;490.</blockquote>
 

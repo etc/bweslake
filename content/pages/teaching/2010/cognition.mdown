@@ -83,12 +83,12 @@ Summary: An introduction to the philosophy of cognitive science, focusing on phi
 <p><strong>Lecture Two (Wednesday 20 January)</strong></p>
 
 <p><em>Introductory Reading</em><br>
-<a href="http://philosophy.uchicago.edu/faculty/haugeland.html">Haugeland, John</a>. 1981. &ldquo;Semantic Engines: An Introduction to Mind Design&rdquo;, in <em>Mind Design: Philosophy, Psychology, and Artificial Intelligence</em>, MIT Press, Cambridge MA, pp. 1&ndash;34. <span class="small">[<a href="http://zuihitsu.org/protected/haugeland_semantic_engines.pdf">PDF</a>]</span></p>
+<a href="http://philosophy.uchicago.edu/faculty/haugeland.html">Haugeland, John</a>. 1981. &ldquo;Semantic Engines: An Introduction to Mind Design&rdquo;, in <em>Mind Design: Philosophy, Psychology, and Artificial Intelligence</em>, MIT Press, Cambridge MA, pp. 1&ndash;34. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/haugeland_semantic_engines.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Cummins, Robert and Denise Dellarosa Cummins (Eds). 2000. <em>Minds, Brains, Computers: The Foundations of Cognitive Science</em>, Blackwell, Malden MA, pp. 34&ndash;50.</blockquote>
 
 <p><em>Primary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/David_Marr_(neuroscientist)">Marr, David</a>. 1982. &ldquo;The Philosophy and the Approach&rdquo;, in <em>Vision: A Computational Investigation into the Human Representation and Processing of Visual Information</em>, W. H. Freeman, San Francisco, pp. 8&ndash;38. <span class="small">[<a href="http://zuihitsu.org/protected/marr_vision_selections.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/David_Marr_(neuroscientist)">Marr, David</a>. 1982. &ldquo;The Philosophy and the Approach&rdquo;, in <em>Vision: A Computational Investigation into the Human Representation and Processing of Visual Information</em>, W. H. Freeman, San Francisco, pp. 8&ndash;38. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/marr_vision_selections.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in No&euml;, Alva and Evan T. Thompson. 2002. <em>Vision and Mind: Selected Readings in the Philosophy of Perception</em>, MIT Press, Cambridge MA, pp. 229&ndash;265.</blockquote>
 
@@ -98,9 +98,9 @@ Summary: An introduction to the philosophy of cognitive science, focusing on phi
 <h3>Section I: Internalism and Externalism Introduced</h3>
 
 <p><em>Overview</em><br>
-<a href="http://en.wikipedia.org/wiki/Kim_Sterelny">Sterelny, Kim</a>. 1990. &ldquo;Individualism&rdquo; in <em>The Representational Theory of Mind: An Introduction</em>, Basil Blackwell, Oxford, pp. 81&ndash;110. <span class="small">[<a href="http://zuihitsu.org/protected/sterelny_individualism.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Kim_Sterelny">Sterelny, Kim</a>. 1990. &ldquo;Individualism&rdquo; in <em>The Representational Theory of Mind: An Introduction</em>, Basil Blackwell, Oxford, pp. 81&ndash;110. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sterelny_individualism.pdf">PDF</a>]</span></p>
 
-<blockquote class="note">Also useful is <a href="http://www.arts.ualberta.ca/~raw/">Wilson, Robert A</a>. 2003. &ldquo;Individualism&rdquo;, in <a href="http://www.rci.rutgers.edu/~stich/">Stephen Stich</a> and Ted A. Warfield (Eds), <em>The Blackwell Guide to Philosophy of Mind</em>, Blackwell, Malden MA, pp. 256&ndash;287. <span class="small">[<a href="http://zuihitsu.org/protected/wilson_individualism_blackwell.pdf">PDF</a>]</span></blockquote>
+<blockquote class="note">Also useful is <a href="http://www.arts.ualberta.ca/~raw/">Wilson, Robert A</a>. 2003. &ldquo;Individualism&rdquo;, in <a href="http://www.rci.rutgers.edu/~stich/">Stephen Stich</a> and Ted A. Warfield (Eds), <em>The Blackwell Guide to Philosophy of Mind</em>, Blackwell, Malden MA, pp. 256&ndash;287. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/wilson_individualism_blackwell.pdf">PDF</a>]</span></blockquote>
 
 <a name="l3"> </a>
 <p><strong>Lecture Three (Monday 25 January)</strong></p>
@@ -109,12 +109,12 @@ Summary: An introduction to the philosophy of cognitive science, focusing on phi
 <a href="http://www.hku.hk/philodep/joelau/">Lau, Joe</a> and Max Deutsch. 2008. &ldquo;Externalism About Mental Content&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford. <span class="small">[<a href="http://plato.stanford.edu/entries/content-externalism/">URI</a>]</span></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1975. &ldquo;The Meaning of &ldquo;Meaning&rdquo; &rdquo;, in Keith Gunderson (Ed), <em>Language, Mind, and Knowledge</em>, Minnesota Studies in the Philosophy of Science, Vol. 7, University of Minnesota Press, Minneapolis, pp. 131&ndash;193. <span class="small">[<a href="http://zuihitsu.org/protected/putnam_meaning_meaning.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1975. &ldquo;The Meaning of &ldquo;Meaning&rdquo; &rdquo;, in Keith Gunderson (Ed), <em>Language, Mind, and Knowledge</em>, Minnesota Studies in the Philosophy of Science, Vol. 7, University of Minnesota Press, Minneapolis, pp. 131&ndash;193. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/putnam_meaning_meaning.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Putnam, Hilary. 1975. <em>Mind, Language and Reality</em>, Philosophical Papers, Vol. II, Cambridge University Press, Cambridge, pp. 215&ndash;271; and in Pessin, Andrew and Sanford Goldberg (Eds). 1996. <em>The Twin Earth Chronicles: Twenty Years of Reflection on Hilary Putnam's &ldquo;The Meaning of &lsquo;Meaning&rsquo; &rdquo;</em>, M. E. Sharpe, Armonk NY, pp. 3&ndash;52.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://www.philosophy.ucla.edu/index.php/user-profile-one/userprofile/burge">Burge, Tyler</a>. 1979. &ldquo;Individualism and the Mental&rdquo;, in Peter A. French, Jr.,Theodore E. Uehling, and Howard K. Wettstein (Eds), <em>Studies in Metaphysics</em>, Midwest Studies in Philosophy, Vol. 4, No. 1, University of Minnesota Press, Minneapolis, pp. 73&ndash;121. <span class="small">[<a href="http://zuihitsu.org/protected/burge_individualism_mental_reprinted.pdf">PDF</a>]</span></p>
+<a href="http://www.philosophy.ucla.edu/index.php/user-profile-one/userprofile/burge">Burge, Tyler</a>. 1979. &ldquo;Individualism and the Mental&rdquo;, in Peter A. French, Jr.,Theodore E. Uehling, and Howard K. Wettstein (Eds), <em>Studies in Metaphysics</em>, Midwest Studies in Philosophy, Vol. 4, No. 1, University of Minnesota Press, Minneapolis, pp. 73&ndash;121. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/burge_individualism_mental_reprinted.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Rosenthal, David M. 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 536&ndash;567; Ludlow, Peter and Norah Martin (Eds). 1998. <em>Externalism and Self-Knowledge</em>, CSLI Publications, Stanford, pp. 21&ndash;84; and Burge, Tyler. 2007. <em>Foundations of Mind</em>, Philosophical Essays, Vol. 2, Oxford University Press, Oxford, pp. 100&ndash;150.</blockquote>
 
@@ -127,12 +127,12 @@ Summary: An introduction to the philosophy of cognitive science, focusing on phi
 <p><strong>Lecture Five (Monday 1 February)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="https://netfiles.uiuc.edu/rcummins/www/HomePage/Cummins.html">Cummins, Robert</a>. 1991. &ldquo;Methodological Reflections on Belief&rdquo;, in Radu J. Bogdan (Ed), <em>Mind and Common Sense: Philosophical Essays on Common Sense Psychology</em>, Cambridge University Press, Cambridge, pp. 53&ndash;70. <span class="small">[<a href="http://zuihitsu.org/protected/cummins_methodological_reflections.pdf">PDF</a>]</span></p>
+<a href="https://netfiles.uiuc.edu/rcummins/www/HomePage/Cummins.html">Cummins, Robert</a>. 1991. &ldquo;Methodological Reflections on Belief&rdquo;, in Radu J. Bogdan (Ed), <em>Mind and Common Sense: Philosophical Essays on Common Sense Psychology</em>, Cambridge University Press, Cambridge, pp. 53&ndash;70. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/cummins_methodological_reflections.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Cummins, Robert. 2010. <em>The World in the Head</em>, Oxford University Press, Oxford, pp. 67&ndash;85.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://ruccs.rutgers.edu/faculty/loar.html">Loar, Brian</a>. 1988. &ldquo;Social Content and Psychological Content&rdquo;, in Robert H. Grimm and Daniel D. Merrill (Eds), <em>Contents of Thought</em>, University of Arizona Press, Tucson, pp. 99&ndash;110. <span class="small">[<a href="http://zuihitsu.org/protected/loar_social_content_psychological_content.pdf">PDF</a>]</span></p>
+<a href="http://ruccs.rutgers.edu/faculty/loar.html">Loar, Brian</a>. 1988. &ldquo;Social Content and Psychological Content&rdquo;, in Robert H. Grimm and Daniel D. Merrill (Eds), <em>Contents of Thought</em>, University of Arizona Press, Tucson, pp. 99&ndash;110. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/loar_social_content_psychological_content.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Rosenthal, David M (Ed). 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 568&ndash;577; Pessin, Andrew and Sanford Goldberg (Eds). 1996. <em>The Twin Earth Chronicles: Twenty Years of Reflection on 
 Hilary Putnam's &ldquo;The Meaning of &lsquo;Meaning&rsquo; &rdquo;</em>, M. E. Sharpe, Armonk NY, pp. 180&ndash;191; and Beakley, Brian and Peter Ludlow (Eds). 2006. <em>The Philosophy of Mind: Classical Problems/Contemporary Issues</em>, 2nd edition, MIT Press, Cambridge MA, pp. 623&ndash;634.</blockquote>
@@ -141,7 +141,7 @@ Hilary Putnam's &ldquo;The Meaning of &lsquo;Meaning&rsquo; &rdquo;</em>, M. E. 
 <p><strong>Lecture Six (Wednesday 3 February)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1979. &ldquo;Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology&rdquo;, in <em>Behavioral and Brain Sciences</em>, Vol. 3, No. 1, March 1979, pp. 63&ndash;73. <span class="small">[<a href="http://zuihitsu.org/protected/fodor_methodological_solipsism_considered_as_a_research_strategy.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1979. &ldquo;Methodological Solipsism Considered as a Research Strategy in Cognitive Psychology&rdquo;, in <em>Behavioral and Brain Sciences</em>, Vol. 3, No. 1, March 1979, pp. 63&ndash;73. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/fodor_methodological_solipsism_considered_as_a_research_strategy.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Fodor, Jerry A. 1983. <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, pp. 225&ndash;253; Boyd, Richard, Philip Gasper, and J. D. Trout (Eds). 1991. <em>The Philosophy of Science</em>, MIT Press, Cambridge MA, 3rd Ed, pp. 651&ndash;670; Rosenthal, David M. 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 485&ndash;498; and Beakley, Brian and Peter Ludlow (Eds). 2006. <em>The Philosophy of Mind: Classical Problems/Contemporary Issues</em>, MIT Press, Cambridge MA, 2nd Ed, pp. 575&ndash;596.</blockquote>
 
@@ -154,10 +154,10 @@ Hilary Putnam's &ldquo;The Meaning of &lsquo;Meaning&rsquo; &rdquo;</em>, M. E. 
 Watch <a href="http://socrates.berkeley.edu/~noe/">Alva No&euml;</a> present an overview of his work on perception and consciousness <a href="http://www.youtube.com/watch?v=af3Vq-C1ck8">here</a>.</p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://socrates.berkeley.edu/~noe/">No&euml;, Alva</a>. 2004. &ldquo;The Enactive Approach to Perception: An Introduction&rdquo;, in <em>Action in Perception</em>, MIT Press, Cambridge MA, Chapter 1, pp. 1&ndash;34. <span class="small">[<a href="http://mitpress.mit.edu/books/chapters/0262140888chap1.pdf">PDF</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/noe_introduction_enactive_notes.pdf">Notes</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/noe_action_in_perception_references.pdf">References</a>]</span>
+<a href="http://socrates.berkeley.edu/~noe/">No&euml;, Alva</a>. 2004. &ldquo;The Enactive Approach to Perception: An Introduction&rdquo;, in <em>Action in Perception</em>, MIT Press, Cambridge MA, Chapter 1, pp. 1&ndash;34. <span class="small">[<a href="http://mitpress.mit.edu/books/chapters/0262140888chap1.pdf">PDF</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_introduction_enactive_notes.pdf">Notes</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_action_in_perception_references.pdf">References</a>]</span>
 </p>
 
-<p><em>Secondary Reading</em><br><a href="http://en.wikipedia.org/wiki/J._J._Gibson">Gibson, James J</a>. 1972. &ldquo;A Theory of Direct Visual Perception&rdquo;, in Joseph R. Royce and William W. Rozeboom (Eds), <em>The Psychology of Knowing</em>, Gordon and Breach, New York, pp. 215&mdash;240. <span class="small">[<a href="http://zuihitsu.org/protected/gibson_theory_direct_perception.pdf">PDF</a>]</span></p>
+<p><em>Secondary Reading</em><br><a href="http://en.wikipedia.org/wiki/J._J._Gibson">Gibson, James J</a>. 1972. &ldquo;A Theory of Direct Visual Perception&rdquo;, in Joseph R. Royce and William W. Rozeboom (Eds), <em>The Psychology of Knowing</em>, Gordon and Breach, New York, pp. 215&mdash;240. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/gibson_theory_direct_perception.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in No&euml;, Alva and Evan T. Thompson. 2002. <em>Vision and Mind: Selected Readings in the Philosophy of Perception</em>, MIT Press, Cambridge MA, pp. 77&ndash;89.</blockquote>
 
@@ -165,20 +165,20 @@ Watch <a href="http://socrates.berkeley.edu/~noe/">Alva No&euml;</a> present an 
 <p><strong>Lecture Eight (Wednesday 10 February)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://socrates.berkeley.edu/~noe/">No&euml;, Alva</a>. 2004. &ldquo;Pictures in Mind&rdquo;, in <em>Action in Perception</em>, MIT Press, Cambridge MA, Chapter 2, pp. 35&ndash;73. <span class="small">[<a href="http://zuihitsu.org/protected/noe_pictures_mind.pdf">PDF</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/noe_pictures_mind_notes.pdf">Notes</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/noe_action_in_perception_references.pdf">References</a>]</span>
+<a href="http://socrates.berkeley.edu/~noe/">No&euml;, Alva</a>. 2004. &ldquo;Pictures in Mind&rdquo;, in <em>Action in Perception</em>, MIT Press, Cambridge MA, Chapter 2, pp. 35&ndash;73. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_pictures_mind.pdf">PDF</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_pictures_mind_notes.pdf">Notes</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_action_in_perception_references.pdf">References</a>]</span>
 </p>
 
-<p><em>Secondary Reading</em><br><a href="http://www.cs.utexas.edu/~dana/">Ballard, Dana H</a>. 1991. &ldquo;Animate Vision&rdquo;, in <em>Artificial Intelligence</em>, Vol. 48, No. 1, February 1991, pp. 57&ndash;86. <span class="small">[<a href="http://zuihitsu.org/protected/ballard_animate_vision.pdf">PDF</a>]</span></p>
+<p><em>Secondary Reading</em><br><a href="http://www.cs.utexas.edu/~dana/">Ballard, Dana H</a>. 1991. &ldquo;Animate Vision&rdquo;, in <em>Artificial Intelligence</em>, Vol. 48, No. 1, February 1991, pp. 57&ndash;86. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/ballard_animate_vision.pdf">PDF</a>]</span></p>
 
 <a name="l9"> </a>
 <p><strong>Lecture Nine (Monday 15 February)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://www.centenary.edu/philosophy/aizawa">Aizawa, Kenneth</a>. 2007. &ldquo;Understanding the Embodiment of Perception&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 104, No. 1, January 2007, pp. 5&ndash;25. <span class="small">[<a href="http://zuihitsu.org/protected/aizawa_embodied_perception.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://www.centenary.edu/philosophy/aizawa">Aizawa, Kenneth</a>. 2007. &ldquo;Understanding the Embodiment of Perception&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 104, No. 1, January 2007, pp. 5&ndash;25. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/aizawa_embodied_perception.pdf">PDF</a>]</span></p>
 
 <a name="l10"> </a>
 <p><strong>Lecture Ten (Wednesday 17 February)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://www.centenary.edu/philosophy/aizawa">Aizawa, Kenneth</a>. &ldquo;No&euml;'s Strong and Weak Enactivism&rdquo;, <em>forthcoming</em>. <span class="small">[<a href="http://zuihitsu.org/protected/aizawa_strong_weak_enactivism.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://www.centenary.edu/philosophy/aizawa">Aizawa, Kenneth</a>. &ldquo;No&euml;'s Strong and Weak Enactivism&rdquo;, <em>forthcoming</em>. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/aizawa_strong_weak_enactivism.pdf">PDF</a>]</span></p>
 
 <a name="l11"> </a>
 <p><strong>Lecture Eleven (Monday 22 February)</strong></p>
@@ -186,10 +186,10 @@ Watch <a href="http://socrates.berkeley.edu/~noe/">Alva No&euml;</a> present an 
 <p><em>No&euml; and Aizawa, continued.</em></p>
 
 <p><em>Optional Reading</em><br>
-<a href="http://socrates.berkeley.edu/~noe/">No&euml;, Alva</a>. 2004. &ldquo;Brain in Mind: A Conclusion&rdquo;, in <em>Action in Perception</em>, MIT Press, Cambridge MA, Chapter 7, pp. 209&ndash;231. <span class="small">[<a href="http://zuihitsu.org/protected/noe_brain_mind.pdf">PDF</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/noe_brain_mind_notes.pdf">Notes</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/noe_action_in_perception_references.pdf">References</a>]</span>
+<a href="http://socrates.berkeley.edu/~noe/">No&euml;, Alva</a>. 2004. &ldquo;Brain in Mind: A Conclusion&rdquo;, in <em>Action in Perception</em>, MIT Press, Cambridge MA, Chapter 7, pp. 209&ndash;231. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_brain_mind.pdf">PDF</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_brain_mind_notes.pdf">Notes</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/noe_action_in_perception_references.pdf">References</a>]</span>
 </p>
 
-<p><a href="http://spot.colorado.edu/~rupertr/">Rupert, Robert D</a>. 2009. &ldquo;Principles of Demarcation&rdquo; and &ldquo;Extended Cognition and Extended Experience&rdquo;, in <em>Cognitive Systems and the Extended Mind</em>, Oxford University Press, Oxford, Chapter 2 and Chapter 8, Section 6, pp. 15&ndash;35 and 170&ndash;176. <span class="small">[<a href="http://zuihitsu.org/protected/rupert_selections.pdf">PDF</a>]</span></p>
+<p><a href="http://spot.colorado.edu/~rupertr/">Rupert, Robert D</a>. 2009. &ldquo;Principles of Demarcation&rdquo; and &ldquo;Extended Cognition and Extended Experience&rdquo;, in <em>Cognitive Systems and the Extended Mind</em>, Oxford University Press, Oxford, Chapter 2 and Chapter 8, Section 6, pp. 15&ndash;35 and 170&ndash;176. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/rupert_selections.pdf">PDF</a>]</span></p>
 
 <a name="aizawa"> </a>
 <p><strong>Aizawa Visit (Monday&ndash;Tuesday 22&ndash;23 February)</strong></p>
@@ -203,7 +203,7 @@ Watch <a href="http://socrates.berkeley.edu/~noe/">Alva No&euml;</a> present an 
 <a name="l12"> </a>
 <p><strong>Lecture Twelve (Wednesday 24 February)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1976. &ldquo;Autonomous Psychology and the Belief-Desire Thesis&rdquo;, in <em>The Monist</em>, Vol. 61, No. 2, June 1976, pp. 201&ndash;227. <span class="small">[<a href="http://zuihitsu.org/protected/stich_autonomous_psychology.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://www.rci.rutgers.edu/~stich/">Stich, Stephen</a>. 1976. &ldquo;Autonomous Psychology and the Belief-Desire Thesis&rdquo;, in <em>The Monist</em>, Vol. 61, No. 2, June 1976, pp. 201&ndash;227. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/stich_autonomous_psychology.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Rosenthal, David M (Ed). 1991. <em>The Nature of Mind</em>, Oxford University Press, Oxford, pp. 590&ndash;600; Goldman, Alvin I (Ed). 1993. <em>Readings in Philosophy and Cognitive Science</em>, MIT 
 Press, Cambridge MA, pp. 699&ndash;718; and Lycan, William G. and Jesse J. Prinz (Eds). 2008. <em>Mind and Cognition: An Anthology</em>, Blackwell, Malden MA, 3rd Ed. </blockquote>
@@ -216,7 +216,7 @@ Press, Cambridge MA, pp. 699&ndash;718; and Lycan, William G. and Jesse J. Prinz
 <blockquote class="note">Reprinted in Boyd, Richard, Philip Gasper, and J. D. Trout (Eds). 1991. <em>The Philosophy of Science</em>, MIT Press, Cambridge MA, 3rd Ed, pp. 671&ndash;686.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a>. 2005. &ldquo;The Motor Theory of Speech Perception&rdquo;, in <em>Seeing, Doing, and Knowing: A Philosophical Theory of Sense Perception</em>, Oxford University Press, Oxford, pp. 214&ndash;222. <span class="small">[<a href="http://zuihitsu.org/protected/matthen_motor_theory.pdf">PDF</a>]</span></p>
+<a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a>. 2005. &ldquo;The Motor Theory of Speech Perception&rdquo;, in <em>Seeing, Doing, and Knowing: A Philosophical Theory of Sense Perception</em>, Oxford University Press, Oxford, pp. 214&ndash;222. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/matthen_motor_theory.pdf">PDF</a>]</span></p>
 
 <a name="exam"> </a>
 <p><strong>Exam (Wednesday 3 March)</strong></p>
@@ -259,20 +259,20 @@ Press, Cambridge MA, pp. 719&ndash;744; and Burge, Tyler. 2007. <em>Foundations 
 <p><strong>Lecture Eighteen (Monday 29 March)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.philosophy.uconn.edu/department/millikan/">Millikan, Ruth Garrett</a>. 1993. &ldquo;What Is Behavior? A Philosophical Essay on Ethology and Individualism in Psychology, Part 1&rdquo;, in <em>White Queen Psychology and Other Essays for Alice</em>, MIT Press, Cambridge MA, pp. 135&ndash;150. <span class="small">[<a href="http://zuihitsu.org/protected/millikan_ethology_individualism_i.pdf">PDF</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/millikan_white_queen_psychology_references.pdf">References</a>]</span></p>
+<a href="http://www.philosophy.uconn.edu/department/millikan/">Millikan, Ruth Garrett</a>. 1993. &ldquo;What Is Behavior? A Philosophical Essay on Ethology and Individualism in Psychology, Part 1&rdquo;, in <em>White Queen Psychology and Other Essays for Alice</em>, MIT Press, Cambridge MA, pp. 135&ndash;150. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/millikan_ethology_individualism_i.pdf">PDF</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/millikan_white_queen_psychology_references.pdf">References</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/Kim_Sterelny">Sterelny, Kim</a>. 1990. &ldquo;Animals and Individualism&rdquo;, in Philip P. Hanson (Ed), <em>Information, Language and Cognition</em>, Vancouver Studies in Cognitive Science, Vol. 1, University of British Columbia Press, Vancouver, pp. 323&ndash;339. <span class="small">[<a href="http://zuihitsu.org/protected/sterelny_animals_individualism.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Kim_Sterelny">Sterelny, Kim</a>. 1990. &ldquo;Animals and Individualism&rdquo;, in Philip P. Hanson (Ed), <em>Information, Language and Cognition</em>, Vancouver Studies in Cognitive Science, Vol. 1, University of British Columbia Press, Vancouver, pp. 323&ndash;339. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sterelny_animals_individualism.pdf">PDF</a>]</span></p>
 
-<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1983. &ldquo;Intentional Systems in Cognitive Ethology: The &ldquo;Panglossian Paradigm&rdquo; Defended&rdquo;, in <em>Behavioral and Brain Sciences</em>, Vol. 6, No. 3, September 1983, pp. 343&ndash;355. <span class="small">[<a href="http://zuihitsu.org/protected/dennett_panglossian_ethology.pdf">PDF</a>]</span></p>
+<p><a href="http://ase.tufts.edu/cogstud/incbios/dennettd/dennettd.htm">Dennett, Daniel C</a>. 1983. &ldquo;Intentional Systems in Cognitive Ethology: The &ldquo;Panglossian Paradigm&rdquo; Defended&rdquo;, in <em>Behavioral and Brain Sciences</em>, Vol. 6, No. 3, September 1983, pp. 343&ndash;355. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/dennett_panglossian_ethology.pdf">PDF</a>]</span></p>
 
-<blockquote class="note">Reprinted with postscript in <em>The Intentional Stance</em>, MIT Press, Cambridge MA, 1987, pp. 237&ndash;286. <span class="small">[<a href="http://zuihitsu.org/protected/dennett_panglossian_ethology_postscript.pdf">Postscript PDF</a>]</span></blockquote>
+<blockquote class="note">Reprinted with postscript in <em>The Intentional Stance</em>, MIT Press, Cambridge MA, 1987, pp. 237&ndash;286. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/dennett_panglossian_ethology_postscript.pdf">Postscript PDF</a>]</span></blockquote>
 
 <a name="l19"> </a>
 <p><strong>Lecture Nineteen (Wednesday 31 March)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.philosophy.uconn.edu/department/millikan/">Millikan, Ruth Garrett</a>. 1993. &ldquo;The Green Grass Growing All Around: A Philosophical Essay on Ethology and Individualism in Psychology, Part 2&rdquo;, in <em>White Queen Psychology and Other Essays for Alice</em>, MIT Press, Cambridge MA, pp. 151&ndash;170. <span class="small">[<a href="http://zuihitsu.org/protected/millikan_ethology_individualism_ii.pdf">PDF</a>]</span> <span class="small">[<a href="http://zuihitsu.org/protected/millikan_white_queen_psychology_references.pdf">References</a>]</span></p>
+<a href="http://www.philosophy.uconn.edu/department/millikan/">Millikan, Ruth Garrett</a>. 1993. &ldquo;The Green Grass Growing All Around: A Philosophical Essay on Ethology and Individualism in Psychology, Part 2&rdquo;, in <em>White Queen Psychology and Other Essays for Alice</em>, MIT Press, Cambridge MA, pp. 151&ndash;170. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/millikan_ethology_individualism_ii.pdf">PDF</a>]</span> <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/millikan_white_queen_psychology_references.pdf">References</a>]</span></p>
 
 <a name="l20"> </a>
 <p><strong>Lecture Twenty (Monday 5 April)</strong></p>
@@ -308,7 +308,7 @@ Press, Cambridge MA, pp. 719&ndash;744; and Burge, Tyler. 2007. <em>Foundations 
 <p><strong>Lecture Twenty Three (Wednesday 14 April)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://artsci.wustl.edu/~jlbermud/">Berm&uacute;dez, Jos&eacute; Luis</a>. 1995. &ldquo;Nonconceptual Content: From Perceptual Experience to Subpersonal Computational States&rdquo;, in <em>Mind and Language</em>, Vol. 10, No. 4, December 1995, pp. 333&ndash;369. <span class="small">[<a href="http://zuihitsu.org/protected/bermudez_nonconceptual_content.pdf">PDF</a>]</span></p>
+<a href="http://artsci.wustl.edu/~jlbermud/">Berm&uacute;dez, Jos&eacute; Luis</a>. 1995. &ldquo;Nonconceptual Content: From Perceptual Experience to Subpersonal Computational States&rdquo;, in <em>Mind and Language</em>, Vol. 10, No. 4, December 1995, pp. 333&ndash;369. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/bermudez_nonconceptual_content.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Gunther, York H (Ed). 2003. <em>Essays on Nonconceptual Content</em>, MIT Press, Cambridge MA, pp. 183&ndash;216.</blockquote>
 
@@ -316,7 +316,7 @@ Press, Cambridge MA, pp. 719&ndash;744; and Burge, Tyler. 2007. <em>Foundations 
 <p><strong>Lecture Twenty Four (Monday 19 April)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.columbia.edu/cu/philosophy/fac-bios/peacocke/faculty.html">Peacocke, Christopher</a>. 1992. &ldquo;Scenarios, Concepts and Perception&rdquo;, in Tim Crane (Ed), <em>The Contents of Experience: Essays on Perception</em>, Cambridge University Press, Cambridge, pp. 105&ndash;135. <span class="small">[<a href="http://zuihitsu.org/protected/peacocke_scenarios_concepts_perception.pdf">PDF</a>]</span></p>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/peacocke/faculty.html">Peacocke, Christopher</a>. 1992. &ldquo;Scenarios, Concepts and Perception&rdquo;, in Tim Crane (Ed), <em>The Contents of Experience: Essays on Perception</em>, Cambridge University Press, Cambridge, pp. 105&ndash;135. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/peacocke_scenarios_concepts_perception.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Gunther, York H (Ed). 2003. <em>Essays on Nonconceptual Content</em>, MIT Press, Cambridge MA, pp. 107&ndash;132.</blockquote>
 
@@ -324,12 +324,12 @@ Press, Cambridge MA, pp. 719&ndash;744; and Burge, Tyler. 2007. <em>Foundations 
 <p><strong>Lecture Twenty Five (Wednesday 21 April)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://artsci.wustl.edu/~jlbermud/">Berm&uacute;dez, Jos&eacute; Luis</a>. 1994. &ldquo;Peacocke's Argument Against the Autonomy of Nonconceptual Representational Content&rdquo;, in <em>Mind and Language</em>, Vol. 9, No. 4, December, pp. 402&ndash;418. <span class="small">[<a href="http://zuihitsu.org/protected/bermudez_on_peacocke.pdf">PDF</a>]</span></p>
+<a href="http://artsci.wustl.edu/~jlbermud/">Berm&uacute;dez, Jos&eacute; Luis</a>. 1994. &ldquo;Peacocke's Argument Against the Autonomy of Nonconceptual Representational Content&rdquo;, in <em>Mind and Language</em>, Vol. 9, No. 4, December, pp. 402&ndash;418. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/bermudez_on_peacocke.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Gunther, York H (Ed). 2003. <em>Essays on Nonconceptual Content</em>, MIT Press, Cambridge MA, pp. 293&ndash;307.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://www.columbia.edu/cu/philosophy/fac-bios/peacocke/faculty.html">Peacocke, Christopher</a>. 1994. &ldquo;Non-conceptual Content: Kinds, Rationales and Relations&rdquo;, in <em>Mind and Language</em>, Vol. 9, No. 4, December, pp. 419&ndash;430. <span class="small">[<a href="http://zuihitsu.org/protected/peacocke_reply_bermudez_ps.pdf">PDF</a>]</span></p>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/peacocke/faculty.html">Peacocke, Christopher</a>. 1994. &ldquo;Non-conceptual Content: Kinds, Rationales and Relations&rdquo;, in <em>Mind and Language</em>, Vol. 9, No. 4, December, pp. 419&ndash;430. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/peacocke_reply_bermudez_ps.pdf">PDF</a>]</span></p>
 
 <a name="l26"> </a>
 <p><strong>Lecture Twenty Six (Monday 26 April)</strong></p>

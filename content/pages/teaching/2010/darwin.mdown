@@ -135,13 +135,13 @@ September)**
 
 #### Overviews
 
-- [Wilson, David B](http://www.history.iastate.edu/wilson.shtml). 2000. “The Historiography of Science and Religion,” in Gary B. Ferngren (Ed), *The History of Science and Religion in the Western Tradition: An Encyclopedia*, Garland Reference Library of the Humanities, Vol. 1833, Garland, 2000, pp. 2–11. \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/wilson_historiography.pdf)\]
+- [Wilson, David B](http://www.history.iastate.edu/wilson.shtml). 2000. “The Historiography of Science and Religion,” in Gary B. Ferngren (Ed), *The History of Science and Religion in the Western Tradition: An Encyclopedia*, Garland Reference Library of the Humanities, Vol. 1833, Garland, 2000, pp. 2–11. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/wilson_historiography.pdf)\]
   
   > Reprinted in Gary B. Ferngren (Ed), *Science and Religion: A
   > Historical Introduction*, Johns Hopkins University Press,
   > Baltimore MD, 2002, pp. 13–29.
 
-- [Russell, Colin A](http://en.wikipedia.org/wiki/Colin_A._Russell). “The Conflict of Science and Religion,” in Ferngren (2000, pp. 12–17). \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/russell_conflict_thesis.pdf)\]
+- [Russell, Colin A](http://en.wikipedia.org/wiki/Colin_A._Russell). “The Conflict of Science and Religion,” in Ferngren (2000, pp. 12–17). \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/russell_conflict_thesis.pdf)\]
   
   > Reprinted in Ferngren (2002, pp. 3–12).
 
@@ -160,7 +160,7 @@ September)**
         \[[<span class="small">HTML</span>](http://cscs.umich.edu/~crshalizi/White/)\]
         \[[<span class="small">GOOGLE</span>](http://books.google.com/books?id=AUgtAAAAYAAJ)\]
         \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=843582)\]
-    -   [Hooykaas, Reijer J](http://en.wikipedia.org/wiki/Reijer_Hooykaas). 1972. *Religion and the Rise of Modern Science*, William B. Eerdmans, Grand Rapids MI, 1972, Introduction and Chapter 1, pp. xi–28. \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/hooykaas.pdf)\]
+    -   [Hooykaas, Reijer J](http://en.wikipedia.org/wiki/Reijer_Hooykaas). 1972. *Religion and the Rise of Modern Science*, William B. Eerdmans, Grand Rapids MI, 1972, Introduction and Chapter 1, pp. xi–28. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/hooykaas.pdf)\]
         \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=1297803)\]
 
 #### Secondary Reading
@@ -169,7 +169,7 @@ September)**
     Dixon, Geoffrey Cantor, and Stephen Pumfrey (Eds), *Science and
     Religion: New Historical Perspectives*, Cambridge University Press,
     Cambridge, pp. 283–298.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/cantor_conflict.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/cantor_conflict.pdf)\]
 - [Stark, Rodney](http://en.wikipedia.org/wiki/Rodney_Stark). 2003. “God's *Handiwork*: The Religious Origins of Science”, in *For the Glory of God: How Monotheism Led to Reformations, Science, Witch-Hunts, and the End of Slavery*, Princeton University Press, Princeton, pp. 121–200.
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=4566012)\]
 
@@ -177,12 +177,12 @@ September)**
     > Rodney. 2003. “False Conflict: Christianity is Not Only Compatible
     > With Science—It Created It”, in *The American Enterprise*, Vol.
     > 14, October/November 2003, pp. 27–33.
-    > \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/stark_false_conflict.pdf)\]
+    > \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/stark_false_conflict.pdf)\]
 
 -   [Efron, Noah](http://www.sts-biu.org/view-stu.asp?studentid=2). 2009. “That Christianity Gave Birth to Modern Science”, in Ronald L.
     Numbers (Ed), *Galileo Goes to Jail and Other Myths about Science
     and Religion*, Harvard University Press, Cambridge MA, pp. 79–89.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/efron_myth.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/efron_myth.pdf)\]
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=4169771)\]
 
 ### II. The Scientific Revolution
@@ -195,7 +195,7 @@ September)**
     Religion”, in Ronald L. Numbers (Ed), *Galileo Goes to Jail and
     Other Myths about Science and Religion*, Harvard University Press,
     Cambridge MA, pp. 90–98.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/osler_myth.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/osler_myth.pdf)\]
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=4169771)\]
 
 #### Primary Reading
@@ -213,11 +213,11 @@ September)**
 
 -   [Osler, Margaret J](http://en.wikipedia.org/wiki/Margaret_J._Osler). 2010. “Religion and the Changing Historiography of the Scientific
     Revolution,” in Dixon, Cantor, and Pumfrey (2010, pp. 87–110).
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/osler_changing.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/osler_changing.pdf)\]
 -   [Henry, John][henry]. 2010. “Religion and The Scientific Revolution”, in Peter Harrison
     (Ed), *The Cambridge Companion to Science and Religion*, Cambridge
     University Press, Cambridge, pp. 39–58.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/henry_religion_revolution.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/henry_religion_revolution.pdf)\]
 
   [henry]: http://en.wikipedia.org/wiki/John_Henry_(historian)
 
@@ -230,7 +230,7 @@ September)**
 -   Morgan, John. 2000. “Puritanism and Science”, in Wilbur Applebaum
     (Ed), *Encyclopedia of the Scientific Revolution: From Copernicus to
     Newton*, Garland, New York, pp. 840–843.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/morgan_puritanism_science.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/morgan_puritanism_science.pdf)\]
 
 #### Primary Reading
 
@@ -250,7 +250,7 @@ September)**
     History and the Emblematic World View”, in David C. Lindberg and
     Robert S. Westman (Eds), *Reappraisals of the Scientific
     Revolution*, Cambridge University Press, Cambridge, pp. 303–333.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/ashworth_emblematic_worldview.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/ashworth_emblematic_worldview.pdf)\]
 
     > Reprinted in Hellyer, Marcus (Ed). 2003. *The Scientific
     > Revolution: The Essential Readings*, Blackwell, Malden MA, pp.
@@ -270,7 +270,7 @@ October)**
 -   [Harrison,
     Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm). 2006. “The Bible and the Emergence of Modern Science”, in *Science
     and Christian Belief*, Vol. 18, No. 2, pp. 115–132.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/harrison_bible_emergence.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/harrison_bible_emergence.pdf)\]
 
 ### V. The Mechanical Philosophy and The Foster Thesis
 
@@ -297,7 +297,7 @@ October)**
 -   [Ashworth Jr., William
     B](http://cas.umkc.edu/history/faculty/ashworth.asp). 2003.
     “Christianity and the Mechanistic Universe,” in Lindberg and Numbers (2003), pp. 61–84.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/ashworth_christianity_mechanistic.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/ashworth_christianity_mechanistic.pdf)\]
 
 ### VI. The Enlightenment and the Rise of Secular Culture
 
@@ -314,12 +314,12 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
 
 -   [Outram, Dorinda](http://www.rochester.edu/college/his/faculty/outram/). 2005. “Science and the Enlightenment: God's Order and Man's Understanding,” and “The Rise of Modern Paganism? Religion and the Enlightenment”, in *The Enlightenment*, Cambridge University Press, Cambridge, Second Edition, pp. 93–125.
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=2984591)\]
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/outram.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/outram.pdf)\]
 -   [Broman, Thomas H](http://histsci.wisc.edu/people/faculty/broman.shtml). 2003.
     “Matter, Force, and the Christian Worldview in the Enlightenment,” in Lindberg and Numbers (2003), pp. 85–110.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/broman_matter_force.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/broman_matter_force.pdf)\]
 -   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2010. “Science and Secularization”, in Harrison (2010), pp. 103–123.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/brooke_science_secularization.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/brooke_science_secularization.pdf)\]
 
 ### VII. Natural Theology and Design Arguments before Darwin
 
@@ -329,7 +329,7 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
 
 #### Overviews
 
--   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2000. “Natural Theology”, in Ferngren (2000, pp. 67–74). \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/brooke_natural_theology.pdf)\]
+-   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2000. “Natural Theology”, in Ferngren (2000, pp. 67–74). \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/brooke_natural_theology.pdf)\]
 
     > Reprinted in Ferngren (2002, pp. 163–175).
 
@@ -343,7 +343,7 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
     and [Cantor, Geoffrey](http://en.wikipedia.org/wiki/Geoffrey_Cantor). 1998. “Section III: Having Designs on Nature”, in *Reconstructing Nature: The Engagement of Science and Religion*, T. and T. Clark, Edinburgh, pp. 139–243. \[[<span class="small">URI</span>](http://bit.ly/asxnIf)\]
 -   [Bowler, Peter J](http://en.wikipedia.org/wiki/Peter_J._Bowler). 1977. “Darwinism and the Argument from Design: Suggestions for a Reevaluation”, in *Journal of the History of Biology*, Vol. 10, No. 1, March 1977, pp. 29–43.
     \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00126093)\]
--   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2008. “Intelligent Design”, in *Evidence and Evolution: The Logic Behind the Science*, Cambridge University Press, Cambridge, pp. 109–188. \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/sober_intelligent_design.pdf)\]
+-   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2008. “Intelligent Design”, in *Evidence and Evolution: The Logic Behind the Science*, Cambridge University Press, Cambridge, pp. 109–188. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/sober_intelligent_design.pdf)\]
 
 > Focus on Sections §§2.1–2.13.
 
@@ -371,7 +371,7 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
 -   [Rappaport, Rhoda](http://history.vassar.edu/faculty/emeriti/rappaport.html). 1978. “Geology and Orthodoxy: The Case of Noah's Flood in Eighteenth-Century Thought”, in *The British Journal for the History of Science*, Vol. 11, No. 1, March 1978, pp. 1–18.
     \[[<span class="small">URI</span>](http://www.jstor.org/stable/4025604)\]
 -   [Browne, Janet](http://en.wikipedia.org/wiki/Janet_Browne). 2003. “Noah's Flood, the Ark, and the Shaping of Early Modern Natural History”, in Lindberg and Numbers (2003, pp. 111–138).
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/browne_noah.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/browne_noah.pdf)\]
 -   [Augustine](http://plato.stanford.edu/entries/augustine/), *The Confessions*, Book XIII, “The Days of Creation and the Prophecy of the Church”.
 
 ### IX. Darwin: The Person
@@ -403,11 +403,11 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
 
 #### Secondary Reading
 
--   [Roberts, Jon H](http://www.bu.edu/history/roberts.pdf). 2010. “Religious Reactions to Darwin”, in Harrison (2010, pp. 80–102). \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/roberts_religious_reactions_darwin.pdf)\]
+-   [Roberts, Jon H](http://www.bu.edu/history/roberts.pdf). 2010. “Religious Reactions to Darwin”, in Harrison (2010, pp. 80–102). \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/roberts_religious_reactions_darwin.pdf)\]
 -   [Moore, James R](http://www.open.ac.uk/Arts/history/moore.shtml). 1979. “Part I: Historians and Historiography”, in *The Post-Darwinian Controversies: A Study of the Protestant Struggle to Come to Terms with Darwinism in Britain and America*, Cambridge University Press, Cambridge, pp. 17–122.
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=3195)\]
 -   [Turner, Frank M](http://www.yale.edu/history/faculty/turner_f.html). 2010. “The late Victorian conflict of science and religion as an event in nineteenth-century intellectual and cultural history,” in Dixon, Cantor, and Pumfrey (2010, pp. 87–110).
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/turner_late_victorian_conflict.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/turner_late_victorian_conflict.pdf)\]
 
 ### XI. Darwin: Evolution, Naturalism and Chance
 
@@ -425,7 +425,7 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
 #### Secondary Reading
 
 -   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Replaying Life's Tape”, in *Journal of Philosophy*, Vol. 103, No. 7, pp. 336–362.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/beatty_life_tape.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/beatty_life_tape.pdf)\]
 
 ### XII. Darwin: One Hundred and Fifty Years Later
 
@@ -435,32 +435,32 @@ Visit from [Professor Dorinda Outram](http://www.rochester.edu/college/his/facul
 
 -   Brooke (1991, Postscript).
 -   [Dawkins, Richard](http://en.wikipedia.org/wiki/Richard_Dawkins). 2006. “Why There Almost Certainly is No God”, in *The God Delusion*, Bantam, London, pp. 111–160.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/dawkins_no_god.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/dawkins_no_god.pdf)\]
 -   [Robinson, Marilynne](http://en.wikipedia.org/wiki/Marilynne_Robinson). 2006. “Hysterical Scientism: The Ecstasy of Richard Dawkins”, in *Harper's*, November 2006, pp. 83–88.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/robinson_review_dawkins.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/robinson_review_dawkins.pdf)\]
 -   [Kitcher, Philip](http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html). 2007. “A Mess of Pottage”, in *Living with Darwin: Evolution, Design, and the Future of Faith*, Oxford University Press, Oxford,
     pp. 117–166.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/kitcher_mess_pottage.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/kitcher_mess_pottage.pdf)\]
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=3454426)\]
 
 #### Secondary Reading
 
 -   [Eliot, T. S](http://en.wikipedia.org/wiki/T._S._Eliot). 1928. “The Humanism of Irving Babbitt”, in *The Forum*, Vol. 80, July 1928, pp. 37–44.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/eliot_humanism_of_irving_babbitt.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/eliot_humanism_of_irving_babbitt.pdf)\]
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/search?searchArg=Selected%20Essays,%201917-1932&searchCode=TALL&recCount=50&searchType=1)\]
 
     > Reprinted in Eliot, T. S. 1932. *Selected Essays, 1917–1932*,
     > Faber and Faber, London.
 
 -   [Eliot, T. S](http://en.wikipedia.org/wiki/T._S._Eliot). 1929. “Second Thoughts on Humanism”, in *The New Adelphi*, Vol. 2, No. 4, June-August 1929, pp. 304–310.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/eliot_second_thoughts_on_humanism.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/eliot_second_thoughts_on_humanism.pdf)\]
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/search?searchArg=Selected%20Essays,%201917-1932&searchCode=TALL&recCount=50&searchType=1)\]
 
     > Reprinted in Eliot, T. S. 1932. *Selected Essays, 1917–1932*,
     > Faber and Faber, London.
 
 -   Jordan, Jeff. 1994. “Religious Experience and Naturalistic Explanations”, in *Sophia*, Vol. 33, No. 1, pp. 58–73.
-    \[[<span class="small">PDF</span>](http://zuihitsu.org/protected/jordan_religious_experience.pdf)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/jordan_religious_experience.pdf)\]
 
     > Reprinted in Pojman, Louis P. and Michael Rea. 2012. *Philosophy
     > of Religion: An Anthology*, 6th Ed, Wadsworth, Belmont CA.

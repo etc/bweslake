@@ -32,7 +32,7 @@ Summary: A unit on philosophy of biology for a four-course sequence providing co
 
 <p><strong>Tuesday 30 November</strong></p>
 
-<p><em>Introductory Reading</em><br><a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a>. 2007. &ldquo;Natural Selection&rdquo;, in <a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a> (Eds), <em>Philosophy of Biology</em>, Handbook of the Philosophy of Science, Vol. 3, Elsevier, Amsterdam, pp. 111&ndash;127. <span class="small">[<a href="http://zuihitsu.org/protected/stephens_natural_selection.pdf">PDF</a>]</span></p>
+<p><em>Introductory Reading</em><br><a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a>. 2007. &ldquo;Natural Selection&rdquo;, in <a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a> (Eds), <em>Philosophy of Biology</em>, Handbook of the Philosophy of Science, Vol. 3, Elsevier, Amsterdam, pp. 111&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/stephens_natural_selection.pdf">PDF</a>]</span></p>
 
 <p><em>Primary Reading</em><br><a href="http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileID=1762">Walsh, Denis M</a>. 1998. &ldquo;The Scope of Selection: Sober and Neander on What Natural Selection Explains&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 76, No. 2, June 1998, pp. 250&ndash;264. <span class="small">[<a href="http://dx.doi.org/10.1080/00048409812348391">URI</a>]</span></p>
 
@@ -49,7 +49,7 @@ No. 2, March 2005, pp. 329&ndash;342. <span class="small">[<a href="http://dx.do
 
 <p><em>Primary Reading</em><br>
 <a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/fodor.html">Fodor, Jerry A</a>. and <a href="http://management.eller.arizona.edu/faculty/mpiattelli-palmarini.asp">Massimo Piattelli-Palmarini</a>. 2010. <em>What Darwin Got Wrong</em>, Farrar, Straus and Giroux, 
-New York, Chapters 6&ndash;7, pp. 95&ndash;138. <span class="small">[<a href="http://zuihitsu.org/protected/fodor_6_7.pdf">PDF</a>]</span></p>
+New York, Chapters 6&ndash;7, pp. 95&ndash;138. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/fodor_6_7.pdf">PDF</a>]</span></p>
 
 <p><a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2010. &ldquo;Natural Selection, Causality, and Laws: What Fodor and Piatelli-Palmarini Got Wrong&rdquo;, in <em>Philosophy of Science</em>, Vol. 77, No. 4, October 2010, pp. 594&ndash;607. <span class="small">[<a href="http://dx.doi.org/10.1086/656020">URI</a>]</span></p>
 
@@ -63,14 +63,14 @@ New York, Chapters 6&ndash;7, pp. 95&ndash;138. <span class="small">[<a href="ht
 
 <blockquote class="note">Revised version published as &ldquo;Units and Levels of Selection&rdquo;, in David L. Hull and Michael Ruse (Eds), <em>The Cambridge Companion to the Philosophy of Biology</em>, Cambridge University Press, Cambridge, 2007, pp. 44&ndash;65.</blockquote>
 
-<p><a href="http://www.bristol.ac.uk/philosophy/department/staff/so.html">Okasha, Samir</a>. 2008. &ldquo;Units and Levels of Selection&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and <a href="http://www.hum.utah.edu/philosophy/?module=facultyDetails&amp;personId=131&amp;orgId=300">Anya Plutynski</a> (Eds), <em>A Companion to the Philosophy of Biology</em>, Blackwell, Malden MA, pp. 138&ndash;156. <span class="small">[<a href="http://zuihitsu.org/protected/okasha_units_levels_selection.pdf">PDF</a>]</span></p>
+<p><a href="http://www.bristol.ac.uk/philosophy/department/staff/so.html">Okasha, Samir</a>. 2008. &ldquo;Units and Levels of Selection&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and <a href="http://www.hum.utah.edu/philosophy/?module=facultyDetails&amp;personId=131&amp;orgId=300">Anya Plutynski</a> (Eds), <em>A Companion to the Philosophy of Biology</em>, Blackwell, Malden MA, pp. 138&ndash;156. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/okasha_units_levels_selection.pdf">PDF</a>]</span></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/George_C._Williams">Williams, George C</a>. 1966. <em>Adaptation and Natural Selection</em>, Princeton University Press, Princeton. <span class="small">[<a href="http://zuihitsu.org/protected/williams_excerpts.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/George_C._Williams">Williams, George C</a>. 1966. <em>Adaptation and Natural Selection</em>, Princeton University Press, Princeton. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/williams_excerpts.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Excerpts from <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> (Ed). 2006. <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3rd Ed, MIT Press, Cambridge MA, pp. 79&ndash;98.</blockquote>
 
-<p><a href="http://evolution.binghamton.edu/dswilson/">Wilson, David Sloan</a>. 1989. &ldquo;Levels of Selection: An Alternative to Individualism in Biology and the Human Sciences&rdquo;, in <em>Social Networks</em>, Vol. 11, No. 3, September 1989, pp. 257&ndash;272. <span class="small">[<a href="http://zuihitsu.org/protected/wilson_levels.pdf">PDF</a>]</span></p>
+<p><a href="http://evolution.binghamton.edu/dswilson/">Wilson, David Sloan</a>. 1989. &ldquo;Levels of Selection: An Alternative to Individualism in Biology and the Human Sciences&rdquo;, in <em>Social Networks</em>, Vol. 11, No. 3, September 1989, pp. 257&ndash;272. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/wilson_levels.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> (Ed). 2006. <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3rd Ed, MIT Press, Cambridge MA, pp. 92&ndash;98.</blockquote>
 

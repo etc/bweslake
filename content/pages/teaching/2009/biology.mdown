@@ -102,14 +102,14 @@ the reading that you found unclear or confusing.</li>
 Sober (Chapter 1, &ldquo;What Is Evolutionary Theory?&rdquo;).</p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1985. &ldquo;Darwin's Achievement&rdquo;, in Nicholas Rescher (Ed), <em>Reason and Rationality in Natural Science</em>, University Press of America, Lanham MD, pp. 127&ndash;189. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_darwin_achievement.pdf">PDF</a>]</span></p>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1985. &ldquo;Darwin's Achievement&rdquo;, in Nicholas Rescher (Ed), <em>Reason and Rationality in Natural Science</em>, University Press of America, Lanham MD, pp. 127&ndash;189. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_darwin_achievement.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <em>The Advancement of Science: Science without Legend, Objectivity without Illusions</em>, Oxford University Press, Oxford, 1993, pp. 11&mdash;57; <em>In Mendel's Mirror: Philosophical Reflections on Biology</em>, Oxford University Press, Oxford, 2003, pp. 45&ndash;93; and in Marc Lange (Ed), <em>Philosophy of Science: An Anthology</em>, Blackwell, Malden MA, 2006, pp. 154&mdash;188.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://darwin-online.org.uk/">Darwin, Charles</a>. &ldquo;Struggle for Existence&rdquo; and &ldquo;Natural Selection&rdquo;, in <em>On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</em>, John Murray, London, 1<sup>st</sup> Ed, 1859, Chapters 3 and 4, pp. 60&ndash;79 and 80&ndash;130. <span class="small">[<a href="http://zuihitsu.org/protected/darwin_origin_3_4.pdf">PDF</a>]</span></p>
+<a href="http://darwin-online.org.uk/">Darwin, Charles</a>. &ldquo;Struggle for Existence&rdquo; and &ldquo;Natural Selection&rdquo;, in <em>On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life</em>, John Murray, London, 1<sup>st</sup> Ed, 1859, Chapters 3 and 4, pp. 60&ndash;79 and 80&ndash;130. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/darwin_origin_3_4.pdf">PDF</a>]</span></p>
 
-<p><a href="http://www.languages.utah.edu/?module=facultyDetails&amp;personId=131&amp;orgId=300">Plutynski, Anya</a> and <a href="http://www.bio.upenn.edu/faculty/ewens/">Warren J. Ewens</a>. &ldquo;Population Genetics&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and Jessica Pfeifer (Eds), <em>The Philosophy of Science: An Encyclopedia</em>, Routledge, New York, 2005, pp. 578&ndash;585. <span class="small">[<a href="http://zuihitsu.org/protected/plutynski_ewens_population_genetics.pdf">PDF</a>]</span></p>
+<p><a href="http://www.languages.utah.edu/?module=facultyDetails&amp;personId=131&amp;orgId=300">Plutynski, Anya</a> and <a href="http://www.bio.upenn.edu/faculty/ewens/">Warren J. Ewens</a>. &ldquo;Population Genetics&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and Jessica Pfeifer (Eds), <em>The Philosophy of Science: An Encyclopedia</em>, Routledge, New York, 2005, pp. 578&ndash;585. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/plutynski_ewens_population_genetics.pdf">PDF</a>]</span></p>
 
 <p><em>Multimedia</em><br>
 Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> present an overview of Darwin's theory <a href="http://sackler.nasmediaonline.org/2009/darwin/elliot_sober/elliot_sober.html">here</a>. The paper on which this talk is based is:</p>
@@ -123,7 +123,7 @@ Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sobe
 Sober (Chapter 2, &ldquo;Creationism&rdquo;).</p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>, &ldquo;Intelligent Design&rdquo; in <em>Evidence and Evolution: The Logic Behind the Science</em>, Cambridge University Press, Cambridge, 2008. <span class="small">[<a href="http://zuihitsu.org/protected/sober_intelligent_design.pdf">PDF</a>] [<a href="http://zuihitsu.org/protected/sober_evidence_and_evolution_the_logic_behind_the_science_references.pdf">References</a>]</span></p>
+<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>, &ldquo;Intelligent Design&rdquo; in <em>Evidence and Evolution: The Logic Behind the Science</em>, Cambridge University Press, Cambridge, 2008. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_intelligent_design.pdf">PDF</a>] [<a href="http://reductioland.net/zuihitsu/protected/sober_evidence_and_evolution_the_logic_behind_the_science_references.pdf">References</a>]</span></p>
 
 <blockquote class="note">For today, read Sections 2.1&ndash;2.15 (Section 2.14 may be skipped).</blockquote>
 
@@ -147,7 +147,7 @@ Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present
 
 <h3>Section II: Natural Selection</h3>
 
-<p><em>Overview</em><br><a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a>. 2007. &ldquo;Natural Selection&rdquo;, in <a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a> (Eds), <em>Philosophy of Biology</em>, Handbook of the Philosophy of Science, Vol. 3, Elsevier, Amsterdam, pp. 111&ndash;127. <span class="small">[<a href="http://zuihitsu.org/protected/stephens_natural_selection.pdf">PDF</a>]</span></p>
+<p><em>Overview</em><br><a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a>. 2007. &ldquo;Natural Selection&rdquo;, in <a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a> (Eds), <em>Philosophy of Biology</em>, Handbook of the Philosophy of Science, Vol. 3, Elsevier, Amsterdam, pp. 111&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/stephens_natural_selection.pdf">PDF</a>]</span></p>
 
 <a name="l5"> </a>
 <p><strong>Lecture Five (Monday 21 September)</strong></p>
@@ -167,7 +167,7 @@ No. 2, March 2005, pp. 329&ndash;342. <span class="small">[<a href="http://dx.do
 Sober (Chapter 3, &ldquo;Fitness&rdquo;).</p>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://fds.duke.edu/db/aas/Philosophy/rbrandon">Brandon, Robert N</a>. 1978. &ldquo;Adaptation and Evolutionary Theory&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 9, No. 3, September 1978, pp. 181&ndash;206. <span class="small">[<a href="http://zuihitsu.org/protected/brandon_adaptation_evolution.pdf">PDF</a>]</span></p>
+<a href="http://fds.duke.edu/db/aas/Philosophy/rbrandon">Brandon, Robert N</a>. 1978. &ldquo;Adaptation and Evolutionary Theory&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 9, No. 3, September 1978, pp. 181&ndash;206. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/brandon_adaptation_evolution.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://www.duke.edu/~alexrose/">Rosenberg, Alexander</a> and <a href="http://org.buffalo.edu/rarp/arp_vita.html">Robert Arp</a>. 2010. <em>Philosophy of Biology: An Anthology</em>, Blackwell, Malden MA, pp. 103&ndash;120.</blockquote>
 
@@ -179,7 +179,7 @@ Sober (Chapter 3, &ldquo;Fitness&rdquo;).</p>
 <p><strong>Lecture Seven (Monday 28 September)</strong></p>
 
 <p><em>Primary Reading</em><br>
-<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>, &ldquo;The Two Faces of Fitness&rdquo;, in <a href="http://www.science.mcmaster.ca/Biology/faculty/singh/singh.htm">Rama Shankar Singh</a> and <a href="http://www.cs.phs.uoa.gr/en/staff/krimbas.html">Costas B. Krimbas</a> and <a href="http://www.umb.edu/academics/cla/dept/polisci/DianePaul.html">Diane B. Paul</a> and <a href="http://www.philosophy.ubc.ca/faculty/beatty/">John H. Beatty</a> (Eds), <em>Thinking about Evolution: Historical, Philosophical, and Political Perspectives</em>, Cambridge University Press, Cambridge, 2000, pp. 309&mdash;321.<span class="small">[<a href="http://zuihitsu.org/protected/sober_two_faces_fitness.pdf">PDF</a>]</span></p> 
+<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>, &ldquo;The Two Faces of Fitness&rdquo;, in <a href="http://www.science.mcmaster.ca/Biology/faculty/singh/singh.htm">Rama Shankar Singh</a> and <a href="http://www.cs.phs.uoa.gr/en/staff/krimbas.html">Costas B. Krimbas</a> and <a href="http://www.umb.edu/academics/cla/dept/polisci/DianePaul.html">Diane B. Paul</a> and <a href="http://www.philosophy.ubc.ca/faculty/beatty/">John H. Beatty</a> (Eds), <em>Thinking about Evolution: Historical, Philosophical, and Political Perspectives</em>, Cambridge University Press, Cambridge, 2000, pp. 309&mdash;321.<span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_two_faces_fitness.pdf">PDF</a>]</span></p> 
 
 <blockquote class="note">Reprinted in <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> (Ed). 2006. <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3rd Ed, MIT Press, Cambridge MA, pp. 25&ndash;40.</blockquote>
 
@@ -199,7 +199,7 @@ Reference Environment&rdquo;, in <em>Synthese</em>, Vol. 166, No. 1, January 200
 <a name="l8"> </a>
 <p><strong>Lecture Eight (Wednesday 7 October)</strong></p>
 
-<p><em>Primary Reading</em><br><a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://web.missouri.edu/~ariewa/">Ariew, Andr&eacute;</a> 2002. &ldquo;Two Ways of Thinking about Fitness and Natural Selection&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 99, No. 2, February 2002, pp. 55&ndash;83. <span class="small">[<a href="http://zuihitsu.org/protected/matthen_ariew_two_concepts_fitness.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://web.missouri.edu/~ariewa/">Ariew, Andr&eacute;</a> 2002. &ldquo;Two Ways of Thinking about Fitness and Natural Selection&rdquo;, in <em>The Journal of Philosophy</em>, Vol. 99, No. 2, February 2002, pp. 55&ndash;83. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/matthen_ariew_two_concepts_fitness.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
 <a href="http://www.chairs-chaires.gc.ca/chairholders-titulaires/profile-eng.aspx?profileID=1762">Walsh, Denis M</a>, <a href="http://www.hps.cam.ac.uk/people/lewens/">Tim Lewens</a>, and <a href="http://web.missouri.edu/~ariewa/">Ariew, Andr&eacute;</a>. 2002. &ldquo;The Trials of Life: Natural Selection and Random Drift&rdquo;, in <em>Philosophy of Science</em>, Vol. 69, No. 3, September 2002, pp. 429&ndash;446. <span class="small">[<a href="http://dx.doi.org/10.1086/342454">URI</a>]</span></p>
@@ -261,7 +261,7 @@ See the commentaries by <a href="http://en.wikipedia.org/wiki/Daniel_Dennett">Da
 <p><strong>Lecture Fourteen (Monday 2 November)</strong></p>
 
 <p><em>Introductory Reading</em><br>
-<a href="http://www.hps.cam.ac.uk/people/lewens/">Tim Lewens</a>. 2007. &ldquo;Functions&rdquo;, in <a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a> (Eds), <em>Philosophy of Biology</em>, Handbook of the Philosophy of Science, Vol. 3, Elsevier, Amsterdam, pp. 525&ndash;547. <span class="small">[<a href="http://zuihitsu.org/protected/lewens_functions.pdf">PDF</a>]</span></p>
+<a href="http://www.hps.cam.ac.uk/people/lewens/">Tim Lewens</a>. 2007. &ldquo;Functions&rdquo;, in <a href="http://web.mac.com/mohanmatthen/Site/Mohan_Matthen.html">Matthen, Mohan</a> and <a href="http://www.philosophy.ubc.ca/research/">Stephens, Christopher</a> (Eds), <em>Philosophy of Biology</em>, Handbook of the Philosophy of Science, Vol. 3, Elsevier, Amsterdam, pp. 525&ndash;547. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lewens_functions.pdf">PDF</a>]</span></p>
 
 <p><em>Primary Reading</em><br>
 <a href="http://www.people.fas.harvard.edu/~pgs/">Godfrey-Smith, Peter</a>. 1993. &ldquo;Functions: Consensus Without Unity&rdquo;, in <em>Pacific Philosophical Quarterly</em>, Vol. 74, No. 3, September 1993, pp. 196&ndash;208.  <span class="small">[<a href="http://www.people.fas.harvard.edu/~pgs/PGSFunctions1993PPQ.pdf">PDF</a>]</span>
@@ -270,11 +270,11 @@ See the commentaries by <a href="http://en.wikipedia.org/wiki/Daniel_Dennett">Da
 <blockquote class="note">Reprinted in <a href="http://en.wikipedia.org/wiki/David_Hull">Hull, David L</a>. and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds). 1998. <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, pp. 258&ndash;279; and in  <a href="http://www.niu.edu/phil/~buller/research.shtml">Buller, David J</a>. 1999. <em>Function, Selection, and Design</em>, State University of New York Press, Albany NY, pp. 185&ndash;198.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1993. &ldquo;Function and Design&rdquo;, Peter A. French, Theodore E. Uehling Jr., and Howard K. Wettstein (Eds), <em>Philosophy of Science</em>, Vol. 18, Midwest Studies in Philosophy, University of Notre Dame Press, Notre Dame, pp. 379&ndash;397. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_function_design.pdf">PDF</a>]</span></p>
+<a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1993. &ldquo;Function and Design&rdquo;, Peter A. French, Theodore E. Uehling Jr., and Howard K. Wettstein (Eds), <em>Philosophy of Science</em>, Vol. 18, Midwest Studies in Philosophy, University of Notre Dame Press, Notre Dame, pp. 379&ndash;397. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_function_design.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://mypage.iu.edu/~colallen/">Allen, Colin</a>, <a href="http://literati.net/Bekoff/">Marc Bekoff</a>, and <a href="http://www.people.fas.harvard.edu/~glauder/lauder.htm">George V. Lauder</a> (Eds). 1997. <em>Nature's Purposes: Analyses of Function and Design in Biology</em>, MIT Press, Cambridge MA, pp. 479&ndash;504; <a href="http://en.wikipedia.org/wiki/David_Hull">Hull, David L</a>. and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds). 1998. <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, pp. 258&ndash;279; <a href="http://www.niu.edu/phil/~buller/research.shtml">Buller, David J</a>. 1999. <em>Function, Selection, and Design</em>, State University of New York Press, Albany NY, pp. 159&ndash;184; and <a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 2003. <em>In Mendel's Mirror: Philosophical Reflections on Biology</em>, Oxford University Press, Oxford, pp. 159&ndash;176.</blockquote>
 
-<p><a href="http://www.uhh.hawaii.edu/~ronald/">Amundson, Ron</a> and <a href="http://www.people.fas.harvard.edu/~glauder/lauder.htm">George V. Lauder</a>. 1994. &ldquo;Function without Purpose&rdquo;, in <em>Biology and Philosophy</em>, Vol. 9, No. 4, October 1994, pp. 443&ndash;469. <span class="small">[<a href="http://zuihitsu.org/protected/lauder_amundson_function_purpose.pdf">PDF</a>]</span></p>
+<p><a href="http://www.uhh.hawaii.edu/~ronald/">Amundson, Ron</a> and <a href="http://www.people.fas.harvard.edu/~glauder/lauder.htm">George V. Lauder</a>. 1994. &ldquo;Function without Purpose&rdquo;, in <em>Biology and Philosophy</em>, Vol. 9, No. 4, October 1994, pp. 443&ndash;469. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lauder_amundson_function_purpose.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://en.wikipedia.org/wiki/David_Hull">Hull, David L</a>. and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds). 1998. <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, pp. 227&ndash;257.</blockquote>
 
@@ -290,7 +290,7 @@ See the commentaries by <a href="http://en.wikipedia.org/wiki/Daniel_Dennett">Da
 
 <blockquote class="note">Revised version published as &ldquo;Units and Levels of Selection&rdquo;, in David L. Hull and Michael Ruse (Eds), <em>The Cambridge Companion to the Philosophy of Biology</em>, Cambridge University Press, Cambridge, 2007, pp. 44&ndash;65.</blockquote>
 
-<p><a href="http://www.bristol.ac.uk/philosophy/department/staff/so.html">Okasha, Samir</a>. 2008. &ldquo;Units and Levels of Selection&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and <a href="http://www.hum.utah.edu/philosophy/?module=facultyDetails&amp;personId=131&amp;orgId=300">Anya Plutynski</a> (Eds), <em>A Companion to the Philosophy of Biology</em>, Blackwell, Malden MA, pp. 138&ndash;156. <span class="small">[<a href="http://zuihitsu.org/protected/okasha_units_levels_selection.pdf">PDF</a>]</span></p>
+<p><a href="http://www.bristol.ac.uk/philosophy/department/staff/so.html">Okasha, Samir</a>. 2008. &ldquo;Units and Levels of Selection&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and <a href="http://www.hum.utah.edu/philosophy/?module=facultyDetails&amp;personId=131&amp;orgId=300">Anya Plutynski</a> (Eds), <em>A Companion to the Philosophy of Biology</em>, Blackwell, Malden MA, pp. 138&ndash;156. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/okasha_units_levels_selection.pdf">PDF</a>]</span></p>
 
 <p><em>Primary Reading</em><br>
 Sober (Chapter 4, &ldquo;The Units of Selection Problem&rdquo;).</p>
@@ -328,17 +328,17 @@ Sober (Chapter 4, &ldquo;The Units of Selection Problem&rdquo;).</p>
 
 <p><em>Introductory Reading</em><br>
 <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 1996. &ldquo;Evolution and Optimality: Feathers, Bowling Balls, and the Thesis of Adaptationism&rdquo;, 
-in <em>Philosophic Exchange</em>, Vol. 26, pp. 41&ndash;57. <span class="small">[<a href="http://zuihitsu.org/protected/sober_evolution_optimality.pdf">PDF</a>]</span></p>
+in <em>Philosophic Exchange</em>, Vol. 26, pp. 41&ndash;57. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_evolution_optimality.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Excerpted as &ldquo;Six Sayings About Adaptationism&rdquo;, in <a href="http://en.wikipedia.org/wiki/David_Hull">Hull, David L</a>. and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds). 1998. <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, pp. 72&ndash;86. </blockquote>
 
-<p><a href="http://www.people.fas.harvard.edu/~pgs/">Peter Godfrey-Smith</a>, and <a href="http://www.santafe.edu/~wilkins/">Jon F. Wilkins</a>. 2008. &ldquo;Adaptationism&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and <a href="http://www.hum.utah.edu/philosophy/?module=facultyDetails&amp;personId=131&amp;orgId=300">Anya Plutynski</a> (Eds), <em>A Companion to the Philosophy of Biology</em>, Blackwell, Malden MA, pp. 186&ndash;202. <span class="small">[<a href="http://zuihitsu.org/protected/godfrey-smith_adaptationism.pdf">PDF</a>]</span></p>
+<p><a href="http://www.people.fas.harvard.edu/~pgs/">Peter Godfrey-Smith</a>, and <a href="http://www.santafe.edu/~wilkins/">Jon F. Wilkins</a>. 2008. &ldquo;Adaptationism&rdquo;, in <a href="http://uts.cc.utexas.edu/~philsci/sarkar/main.html">Sahotra Sarkar</a> and <a href="http://www.hum.utah.edu/philosophy/?module=facultyDetails&amp;personId=131&amp;orgId=300">Anya Plutynski</a> (Eds), <em>A Companion to the Philosophy of Biology</em>, Blackwell, Malden MA, pp. 186&ndash;202. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/godfrey-smith_adaptationism.pdf">PDF</a>]</span></p>
 
 <p><em>Primary Reading</em><br>
 Sober (Chapter 5, &ldquo;Adaptationism&rdquo;).</p>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould">Gould, Stephen Jay</a>, and <a href="http://en.wikipedia.org/wiki/Richard_Lewontin">Richard C. Lewontin</a>. 1979. &ldquo;The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme&rdquo;, in <em>Proceedings of the Royal Society of London Series B: Biological Sciences</em>, Vol. 205, No. 1161, 21 September 1979, pp. 581&ndash;598. <span class="small">[<a href="http://zuihitsu.org/protected/gould_lewontin_spandrels.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Stephen_Jay_Gould">Gould, Stephen Jay</a>, and <a href="http://en.wikipedia.org/wiki/Richard_Lewontin">Richard C. Lewontin</a>. 1979. &ldquo;The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme&rdquo;, in <em>Proceedings of the Royal Society of London Series B: Biological Sciences</em>, Vol. 205, No. 1161, 21 September 1979, pp. 581&ndash;598. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/gould_lewontin_spandrels.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> (Ed). 2006. <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3rd Ed, MIT Press, Cambridge MA, pp. 79&ndash;98.</blockquote>
 
@@ -349,7 +349,7 @@ Sober (Chapter 5, &ldquo;Adaptationism&rdquo;).</p>
 <p><em>Multimedia</em><br>
 Watch <a href="http://en.wikipedia.org/wiki/Daniel_Dennett">Daniel C. Dennett</a> claim that nature is full of optimal design in an interview at the <a href="http://symposium.cshlp.org/">Cold Spring Harbor Laboratory Symposium</a>. <span class="small">[<a href="http://mediacentral.cshl.edu/symp09/dennettscott.mov">mov</a>, ~220mb]</span></p>
 
-<blockquote class="note">Dennett's ideas on this topic are most fully spelled out in his <em>Darwin's Dangerous Idea: Evolution and the Meanings of Life</em>, Simon and Schuster, New York, 1995.  See especially the passage &ldquo;Searching for Quality&rdquo;, pp. 229-261 <span class="small">[<a href="http://zuihitsu.org/protected/dennett_searching_for_quality.pdf">PDF</a>]</span>.  For a critical review, see <a href="http://www.rochester.edu/College/BIO/professors/orr.html">Orr, H. Allen</a>. 1996. &ldquo;Dennett's Strange Idea&rdquo;, in <em>Boston Review</em>, Vol. 21, No. 3, Summer 1996. <span class="small">[<a href="http://www.bostonreview.net/BR21.3/Orr.html">URI</a>]</span></blockquote>
+<blockquote class="note">Dennett's ideas on this topic are most fully spelled out in his <em>Darwin's Dangerous Idea: Evolution and the Meanings of Life</em>, Simon and Schuster, New York, 1995.  See especially the passage &ldquo;Searching for Quality&rdquo;, pp. 229-261 <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/dennett_searching_for_quality.pdf">PDF</a>]</span>.  For a critical review, see <a href="http://www.rochester.edu/College/BIO/professors/orr.html">Orr, H. Allen</a>. 1996. &ldquo;Dennett's Strange Idea&rdquo;, in <em>Boston Review</em>, Vol. 21, No. 3, Summer 1996. <span class="small">[<a href="http://www.bostonreview.net/BR21.3/Orr.html">URI</a>]</span></blockquote>
 
 <h3>Section III: Genetics and Development</h3>
 
@@ -386,7 +386,7 @@ Mendelian Genetics&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of th
 
 <blockquote class="note">Reprinted in <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a> (Ed). 2006. <em>Conceptual Issues in Evolutionary Biology: An Anthology</em>, 3rd Ed, MIT Press, Cambridge MA, pp. 301&ndash;324.</blockquote>
 
-<p><a href="https://www.msu.edu/~steel/">Steel, Daniel</a>. 2004. &ldquo;Can a Reductionist be a Pluralist?&rdquo;, in <em>Biology and Philosophy</em>, Vol. 19, No. 1, January 2004, pp. 55&ndash;73. <span class="small">[<a href="http://zuihitsu.org/protected/steel_reduction_pluralism.pdf">PDF</a>]</span></p>
+<p><a href="https://www.msu.edu/~steel/">Steel, Daniel</a>. 2004. &ldquo;Can a Reductionist be a Pluralist?&rdquo;, in <em>Biology and Philosophy</em>, Vol. 19, No. 1, January 2004, pp. 55&ndash;73. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/steel_reduction_pluralism.pdf">PDF</a>]</span></p>
 
 <a name="l20"> </a>
 <p><strong>Lecture Twenty (Monday 23 November)</strong></p>
@@ -404,7 +404,7 @@ Mendelian Genetics&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of th
 
 <blockquote class="note">Reprinted in <a href="http://www.hsph.harvard.edu/faculty/richard-levins/">Levins, Richard</a> and <a href="http://en.wikipedia.org/wiki/Richard_Lewontin">Richard C. Lewontin</a>. 1985. <em>The Dialectical Biologist</em>, Harvard University Press, Cambridge MA, pp. 109&ndash;122 and in <em>International Journal of Epidemiology</em>, Vol. 35, No. 3, June 2006, pp. 520&ndash;525.</blockquote>
 
-<p><a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 1995. &ldquo;How Heritability Misleads About Race&rdquo;, in <em>Cognition</em>, Vol. 56, No. 2, August 1995, pp. 99&ndash;128. <span class="small">[<a href="http://zuihitsu.org/protected/block_heritability_race.pdf">PDF</a>]</span></p>
+<p><a href="http://www.nyu.edu/gsas/dept/philo/faculty/block/">Block, Ned</a>. 1995. &ldquo;How Heritability Misleads About Race&rdquo;, in <em>Cognition</em>, Vol. 56, No. 2, August 1995, pp. 99&ndash;128. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/block_heritability_race.pdf">PDF</a>]</span></p>
 
 <p><em>No Class (Wednesday 25 November)</em></p>
 
@@ -422,10 +422,10 @@ Mendelian Genetics&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of th
 <blockquote class="note">Reprinted in <a href="http://en.wikipedia.org/wiki/David_Hull">Hull, David L</a>. and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds). 1998. <em>The Philosophy of Biology</em>, Oxford University Press, Oxford, pp. 117&ndash;145.</blockquote>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://en.wikipedia.org/wiki/Kim_Sterelny">Sterelny, Kim</a>, <a href="http://www.clemson.edu/caah/philosophy/faculty/smith.html">Kelly C. Smith</a>, and <a href="http://www.giantflightlessbirds.com/">Michael Dickison</a>. 1996. &ldquo;The Extended Replicator&rdquo;, in <em>Biology and Philosophy</em>, Vol. 11, No. 3, July 1996, pp. 377&ndash;403. <span class="small">[<a href="http://zuihitsu.org/protected/sterelny_extended_replicator.pdf">PDF</a>]</span></p>
+<a href="http://en.wikipedia.org/wiki/Kim_Sterelny">Sterelny, Kim</a>, <a href="http://www.clemson.edu/caah/philosophy/faculty/smith.html">Kelly C. Smith</a>, and <a href="http://www.giantflightlessbirds.com/">Michael Dickison</a>. 1996. &ldquo;The Extended Replicator&rdquo;, in <em>Biology and Philosophy</em>, Vol. 11, No. 3, July 1996, pp. 377&ndash;403. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sterelny_extended_replicator.pdf">PDF</a>]</span></p>
 
 <p><a href="http://paul.representinggenes.org/">Griffiths, Paul E</a>. and <a href="http://www.psych.auckland.ac.nz/people/Gray/Russell.htm">Russell D. Gray</a>. 1997. &ldquo;Replicator II &mdash; Judgement Day&rdquo;, in <em>Biology and Philosophy</em>, 
-Vol. 12, No. 4, October 1997, pp. 471&ndash;492. <span class="small">[<a href="http://zuihitsu.org/protected/griffiths_gray_replicator_ii.pdf">PDF</a>]</span></p>
+Vol. 12, No. 4, October 1997, pp. 471&ndash;492. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/griffiths_gray_replicator_ii.pdf">PDF</a>]</span></p>
 
 <p><em>Multimedia</em><br>
 Watch or listen to <a href="http://en.wikipedia.org/wiki/Richard_Lewontin">Richard C. Lewontin</a> lecture on his conception of the relationship between genes, organisms and environments <a href="http://www.youtube.com/watch?v=we4ZzjKxFHM">here</a>.</p>
@@ -440,7 +440,7 @@ Watch or listen to <a href="http://en.wikipedia.org/wiki/Richard_Lewontin">Richa
 <p><em>Presentation</em><br>Jake</p>
 
 <p><em>Primary Reading</em><br>
-Kitcher, Philip. 2000. &ldquo;Battling the Undead: How (and How Not) to Resist Genetic Determinism&rdquo;, in <a href="http://www.science.mcmaster.ca/Biology/faculty/singh/singh.htm">Rama Shankar Singh</a> and <a href="http://www.cs.phs.uoa.gr/en/staff/krimbas.html">Costas B. Krimbas</a> and <a href="http://www.umb.edu/academics/cla/dept/polisci/DianePaul.html">Diane B. Paul</a> and <a href="http://www.philosophy.ubc.ca/faculty/beatty/">John H. Beatty</a> (Eds), <em>Thinking about Evolution: Historical, Philosophical, and Political Perspectives</em>, Cambridge University Press, Cambridge, 2000, pp. 396&ndash;414. <span class="small">[<a href="http://zuihitsu.org/protected/kitcher_battling_undead.pdf">PDF</a>]</span></p>
+Kitcher, Philip. 2000. &ldquo;Battling the Undead: How (and How Not) to Resist Genetic Determinism&rdquo;, in <a href="http://www.science.mcmaster.ca/Biology/faculty/singh/singh.htm">Rama Shankar Singh</a> and <a href="http://www.cs.phs.uoa.gr/en/staff/krimbas.html">Costas B. Krimbas</a> and <a href="http://www.umb.edu/academics/cla/dept/polisci/DianePaul.html">Diane B. Paul</a> and <a href="http://www.philosophy.ubc.ca/faculty/beatty/">John H. Beatty</a> (Eds), <em>Thinking about Evolution: Historical, Philosophical, and Political Perspectives</em>, Cambridge University Press, Cambridge, 2000, pp. 396&ndash;414. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_battling_undead.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
 Oyama, Susan. 2000. &ldquo;Causal Democracy and Causal Contributions in Developmental Systems Theory&rdquo;, in <em>Philosophy of Science</em>, Vol. 67, Supplement, pp. S332&ndash;S347. <span class="small">[<a href="http://www.jstor.org/stable/188679">URI</a>]</span></p>
@@ -455,10 +455,10 @@ Watch or listen to <a href="http://www.yale.edu/eeb/stearns/">Stephen C. Stearns
 
 <p><em>Presentation</em><br>Robert</p>
 
-<p><em>Primary Reading</em><br><a href="https://apps.cla.umn.edu/directory/profiles/ckwaters">C. Kenneth Waters</a>. 2007. &ldquo;Causes that Make a Difference&rdquo;, in <em>Journal of Philosophy</em>, Vol. 104, No. 11, November 2007, pp. 551&ndash;579. <span class="small">[<a href="http://zuihitsu.org/protected/waters_causes_make_difference.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br><a href="https://apps.cla.umn.edu/directory/profiles/ckwaters">C. Kenneth Waters</a>. 2007. &ldquo;Causes that Make a Difference&rdquo;, in <em>Journal of Philosophy</em>, Vol. 104, No. 11, November 2007, pp. 551&ndash;579. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/waters_causes_make_difference.pdf">PDF</a>]</span></p>
 
 <p><em>Secondary Reading</em><br>
-<a href="http://www.hss.caltech.edu/people/jwoodwar/profile">Woodward, James</a>. 2006. &ldquo;Sensitive and Insensitive Causation&rdquo;, in <em>The Philosophical Review</em>, Vol. 115, No. 1, January 2006, pp. 1&ndash;50. <span class="small">[<a href="http://zuihitsu.org/protected/woodward_sensitive_causation.pdf">PDF</a>]</span></p>
+<a href="http://www.hss.caltech.edu/people/jwoodwar/profile">Woodward, James</a>. 2006. &ldquo;Sensitive and Insensitive Causation&rdquo;, in <em>The Philosophical Review</em>, Vol. 115, No. 1, January 2006, pp. 1&ndash;50. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_sensitive_causation.pdf">PDF</a>]</span></p>
 
 <p><a href="http://www.hss.caltech.edu/people/jwoodwar/profile">Woodward, James</a>. 2009. &ldquo;Causation in Biology: Stability, Specificity, and the Choice of Levels of Explanation&rdquo;. <span class="small">[<a href="http://philsci-archive.pitt.edu/archive/00004813/">URI</a>]</span></p>
 
@@ -466,11 +466,11 @@ Watch or listen to <a href="http://www.yale.edu/eeb/stearns/">Stephen C. Stearns
 <p><strong>Lecture Twenty Four (Wednesday 9 December)</strong></p>
 
 <p><em>Introductory Reading</em><br>
-<a href="http://richarddawkins.net/">Dawkins, Richard</a>. 1998. &ldquo;The &ldquo;Information Challenge&rdquo;&rdquo;, in <em>The Skeptic</em>, Vol. 18, No. 4, pp. 21&ndash;25. <span class="small">[<a href="http://zuihitsu.org/protected/dawkins_information_challenge.pdf">PDF</a>]</span></p>
+<a href="http://richarddawkins.net/">Dawkins, Richard</a>. 1998. &ldquo;The &ldquo;Information Challenge&rdquo;&rdquo;, in <em>The Skeptic</em>, Vol. 18, No. 4, pp. 21&ndash;25. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/dawkins_information_challenge.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in <a href="https://www.msu.edu/~pennock5/">Pennock, Robert T</a> (Ed). 2001. <em>Intelligent Design Creationism and Its Critics: Philosophical, Theological and Scientific Perspectives</em>, MIT Press, Cambridge MA, pp. 617&ndash;632 and <a href="http://richarddawkins.net/">Dawkins, Richard</a>. 2003. <em>A Devil's Chaplain: Reflections on Hope, Lies, Science, and Love</em>, Houghton Mifflin, Boston, pp. 91&ndash;103.</blockquote>
 
-<p><a href="http://www.people.fas.harvard.edu/~pgs/">Peter Godfrey-Smith</a>. 2007. &ldquo;Information in Biology&rdquo;, in David L. Hull and Michael Ruse (Eds), <em>The Cambridge Companion to the Philosophy of Biology</em>, Cambridge University Press, Cambridge, 2007, pp. 103&ndash;119. <span class="small">[<a href="http://zuihitsu.org/protected/godfrey-smith_information_biology.pdf">PDF</a>]</span></p>
+<p><a href="http://www.people.fas.harvard.edu/~pgs/">Peter Godfrey-Smith</a>. 2007. &ldquo;Information in Biology&rdquo;, in David L. Hull and Michael Ruse (Eds), <em>The Cambridge Companion to the Philosophy of Biology</em>, Cambridge University Press, Cambridge, 2007, pp. 103&ndash;119. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/godfrey-smith_information_biology.pdf">PDF</a>]</span></p>
 
 <p><em>Primary Reading</em><br>
 <a href="http://paul.representinggenes.org/">Griffiths, Paul E</a>. 2001. &ldquo;Genetic Information: A Metaphor in Search of a Theory&rdquo;, in <em>Philosophy of Science</em>, Vol. 68, No. 3, September 2001, pp. 394&ndash;412. <span class="small">[<a href="http://www.jstor.org/stable/3080926">URI</a>]</span></p>

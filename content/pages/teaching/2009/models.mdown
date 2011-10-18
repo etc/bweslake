@@ -30,13 +30,13 @@ Summary: A reading course on models and idealisation, focusing on their role in 
 <a name="l1"> </a>
 <p><strong>Meeting One (Thursday 22 January)</strong></p>
 
-<p><a href="http://www.oberlin.edu/faculty/mthomson-jones/">Jones, Martin R</a>. 2005. &ldquo;Idealization and Abstraction: A Framework&rdquo;, in Martin R. Jones and Nancy Cartwright (Eds), <em>Idealization XII: Correcting the Model: Idealization and Abstraction in the Sciences</em>, Poznan Studies in the Philosophy of the Sciences and the Humanities, Rodopi, Amsterdam, pp. 173&ndash;218. [<a href="http://zuihitsu.org/protected/jones_idealisation_abstraction_framework.pdf">PDF</a>]</p>
+<p><a href="http://www.oberlin.edu/faculty/mthomson-jones/">Jones, Martin R</a>. 2005. &ldquo;Idealization and Abstraction: A Framework&rdquo;, in Martin R. Jones and Nancy Cartwright (Eds), <em>Idealization XII: Correcting the Model: Idealization and Abstraction in the Sciences</em>, Poznan Studies in the Philosophy of the Sciences and the Humanities, Rodopi, Amsterdam, pp. 173&ndash;218. [<a href="http://reductioland.net/zuihitsu/protected/jones_idealisation_abstraction_framework.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 
-<p><a href="http://en.wikipedia.org/wiki/Ernan_McMullin">McMullin, Ernan</a>. 1985. &ldquo;Galilean Idealization&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 16, No. 3, September 1985, pp. 247&ndash;273. [<a href="http://zuihitsu.org/protected/mcmullin_galilean_idealisation.pdf">PDF</a>]</p>
+<p><a href="http://en.wikipedia.org/wiki/Ernan_McMullin">McMullin, Ernan</a>. 1985. &ldquo;Galilean Idealization&rdquo;, in <em>Studies In History and Philosophy of Science Part A</em>, Vol. 16, No. 3, September 1985, pp. 247&ndash;273. [<a href="http://reductioland.net/zuihitsu/protected/mcmullin_galilean_idealisation.pdf">PDF</a>]</p>
 
-<p><a href="http://www.phil.upenn.edu/~weisberg/">Weisberg, Michael</a>. 2007. &ldquo;Three Kinds of Idealization&rdquo;, in <em>Journal of Philosophy</em>, Vol. 104, No. 12, December 2007, pp. 639&ndash;659. [<a href="http://zuihitsu.org/protected/weisberg_three_kinds_idealisation.pdf">PDF</a>]</p>
+<p><a href="http://www.phil.upenn.edu/~weisberg/">Weisberg, Michael</a>. 2007. &ldquo;Three Kinds of Idealization&rdquo;, in <em>Journal of Philosophy</em>, Vol. 104, No. 12, December 2007, pp. 639&ndash;659. [<a href="http://reductioland.net/zuihitsu/protected/weisberg_three_kinds_idealisation.pdf">PDF</a>]</p>
 
 <a name="l2"> </a>
 <p><strong>Meeting Two (Thursday 29 January)</strong></p>
@@ -64,7 +64,7 @@ Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell. 2003. <em>Ceteris
 <a name="l5"> </a>
 <p><strong>Meeting Five (Thursday 26 February)</strong></p>
 
-<p><a href="http://www.bu.edu/philo/faculty/abokulich.html">Bokulich, Alisa</a>. 2007. &ldquo;How Scientific Models Can Explain&rdquo;, paper presented at <em>Models and Simulations 2</em>, Tilburg Center for Logic and Philosophy of Science, October 2007. [<a href="http://zuihitsu.org/protected/bokulich_models_explanation.pdf">PDF</a>]</p>
+<p><a href="http://www.bu.edu/philo/faculty/abokulich.html">Bokulich, Alisa</a>. 2007. &ldquo;How Scientific Models Can Explain&rdquo;, paper presented at <em>Models and Simulations 2</em>, Tilburg Center for Logic and Philosophy of Science, October 2007. [<a href="http://reductioland.net/zuihitsu/protected/bokulich_models_explanation.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 
@@ -76,9 +76,9 @@ Philosophy of Science</em>, Vol. 59, No. 2, June 2008, pp. 217&ndash;235. [<a hr
 <a name="l6"> </a>
 <p><strong>Meeting Six (Thursday 19 March)</strong></p>
 
-<p><a href="http://www.people.fas.harvard.edu/~pgs/">Godfrey-Smith, Peter</a>. 2009. &ldquo;Models and Fictions in Science&rdquo;, in <em>Philosophical Studies</em>, Vol. 143, No. 1, March 2009, pp. 101&ndash;116. [<a href="http://zuihitsu.org/protected/godfrey-smith_models_fictions.pdf">PDF</a>]</p>
+<p><a href="http://www.people.fas.harvard.edu/~pgs/">Godfrey-Smith, Peter</a>. 2009. &ldquo;Models and Fictions in Science&rdquo;, in <em>Philosophical Studies</em>, Vol. 143, No. 1, March 2009, pp. 101&ndash;116. [<a href="http://reductioland.net/zuihitsu/protected/godfrey-smith_models_fictions.pdf">PDF</a>]</p>
 
-<p><a href="http://faculty.washington.edu/afine/">Fine, Arthur</a>. 2009. &ldquo;Science Fictions: Comment on Godfrey-Smith&rdquo;, in <em>Philosophical Studies</em>, Vol. 143, No. 1, March 2009, pp. 117&ndash;125. [<a href="http://zuihitsu.org/protected/fine_on_godfrey-smith.pdf">PDF</a>]</p>
+<p><a href="http://faculty.washington.edu/afine/">Fine, Arthur</a>. 2009. &ldquo;Science Fictions: Comment on Godfrey-Smith&rdquo;, in <em>Philosophical Studies</em>, Vol. 143, No. 1, March 2009, pp. 117&ndash;125. [<a href="http://reductioland.net/zuihitsu/protected/fine_on_godfrey-smith.pdf">PDF</a>]</p>
 
 <a name="l7"> </a>
 <p><strong>Meeting Seven (Thursday 26 March)</strong></p>
@@ -140,11 +140,11 @@ Reprinted as &ldquo;The Path from Data to Theory&rdquo; in Jarrett Leplin (Ed). 
 
 <p><a href="http://www.uah.edu/njones/">Jones, Nicholaos</a>. 2007. &ldquo;Resolving the Bayesian Problem of Idealization&rdquo;, paper presented at the LSE-Pitt Conference <em>Confirmation, Induction and Science</em>, London, March 2007. [<a href="http://philsci-archive.pitt.edu/archive/00003101/">URI</a>]</p>
 
-<p><a href="http://www.stcloudstate.edu/philosophy/faculty.asp">Shaffer, Michael J</a>. 2009. &ldquo;The Empirical Confirmation of Idealized Theories&rdquo;, unpublished draft&mdash;thanks to Mike for the copy and permission to post here. [<a href="http://zuihitsu.org/protected/shaffer_confirmation_idealised_theories.pdf">PDF</a>]</p>
+<p><a href="http://www.stcloudstate.edu/philosophy/faculty.asp">Shaffer, Michael J</a>. 2009. &ldquo;The Empirical Confirmation of Idealized Theories&rdquo;, unpublished draft&mdash;thanks to Mike for the copy and permission to post here. [<a href="http://reductioland.net/zuihitsu/protected/shaffer_confirmation_idealised_theories.pdf">PDF</a>]</p>
 
 <p><em>Optional</em></p>
 
-<p><a href="http://www.phil.metu.edu.tr/erdinc-sayan/">Sayan, Erdinç</a>. 2005. &ldquo;Idealizations and Approximations in Science, and the Bayesian Theory of Confirmation&rdquo;, in Gürol Irzik and Güven Güzeldere (Eds), <em>Turkish Studies in the History and Philosophy of Science</em>, Boston Studies in the Philosophy of Science, Vol. 244, Springer, Dordrecht, pp. 103&ndash;112. [<a href="http://zuihitsu.org/protected/sayan_bayesian_idealisation.pdf">PDF</a>]</p>
+<p><a href="http://www.phil.metu.edu.tr/erdinc-sayan/">Sayan, Erdinç</a>. 2005. &ldquo;Idealizations and Approximations in Science, and the Bayesian Theory of Confirmation&rdquo;, in Gürol Irzik and Güven Güzeldere (Eds), <em>Turkish Studies in the History and Philosophy of Science</em>, Boston Studies in the Philosophy of Science, Vol. 244, Springer, Dordrecht, pp. 103&ndash;112. [<a href="http://reductioland.net/zuihitsu/protected/sayan_bayesian_idealisation.pdf">PDF</a>]</p>
 
 <p><img src="http://bweslake.s3.amazonaws.com/images/bad_credit.jpg" alt="Bad Credit, from http://tsilli.com/"></p>
 

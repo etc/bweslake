@@ -72,7 +72,7 @@ reading and meet for an additional discussion section.</p>
 <a name="l2"> </a>
 <p><strong>Lecture Two (Wednesday 23 January)</strong></p>
 
-<p><a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. [<a href="http://zuihitsu.org/protected/hempel_aspects_i-ii.pdf">PDF</a>]</p>
+<p><a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. [<a href="http://reductioland.net/zuihitsu/protected/hempel_aspects_i-ii.pdf">PDF</a>]</p>
 
 <blockquote class="note">Sections &sect;1&ndash;&sect;2 to be read for this class.</blockquote>
 
@@ -89,7 +89,7 @@ reading and meet for an additional discussion section.</p>
 <a name="l4"> </a>
 <p><strong>Lecture Four (Wednesday 30 January)</strong></p>
 
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. [<a href="http://zuihitsu.org/protected/woodward_background.pdf">PDF</a>]</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. [<a href="http://reductioland.net/zuihitsu/protected/woodward_background.pdf">PDF</a>]</p>
 
 <a name="l5"> </a>
 <p><strong>Lecture Five (Monday 4 February)</strong></p>
@@ -109,7 +109,7 @@ reading and meet for an additional discussion section.</p>
 <p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. [<a href="http://socrates.berkeley.edu/%7Efitelson/290/lewis_ce.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
-<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. [<a href="http://zuihitsu.org/protected/sober_equilibrium_explanation.pdf">PDF</a>]</p>
+<a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. [<a href="http://reductioland.net/zuihitsu/protected/sober_equilibrium_explanation.pdf">PDF</a>]</p>
 
 <a name="l8"> </a>
 <p><strong>Lecture Eight (Wednesday 13 February)</strong></p>
@@ -119,12 +119,12 @@ reading and meet for an additional discussion section.</p>
 <a name="l9"> </a>
 <p><strong>Lecture Nine (Monday 18 February)</strong></p>
 
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. [<a href="http://zuihitsu.org/protected/woodward_hitchcock_i.pdf">PDF</a>]</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. [<a href="http://reductioland.net/zuihitsu/protected/woodward_hitchcock_i.pdf">PDF</a>]</p>
 
 <a name="l10"> </a>
 <p><strong>Lecture Ten (Wednesday 20 February)</strong></p>
 
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. [<a href="http://zuihitsu.org/protected/woodward_hitchcock_ii.pdf">PDF</a>]</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. [<a href="http://reductioland.net/zuihitsu/protected/woodward_hitchcock_ii.pdf">PDF</a>]</p>
 
 <a name="l11"> </a>
 <p><strong>Lecture Eleven (Monday 25 February)</strong></p>
@@ -137,7 +137,7 @@ reading and meet for an additional discussion section.</p>
 <a name="l12"> </a>
 <p><strong>Lecture Twelve (Wednesday 27 February)</strong></p>
 
-<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. [<a href="http://zuihitsu.org/protected/psillos_regularity.pdf">PDF</a>]</p>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. [<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
 <a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1983. &ldquo;New Work for a Theory of Universals&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 61, No. 4, December 1983, pp. 343&ndash;377. [<a href="http://dx.doi.org/10.1080/00048408312341131">URI</a>]</p>
@@ -155,17 +155,17 @@ reading and meet for an additional discussion section.</p>
 <p><a href="http://fds.duke.edu/db/aas/Philosophy/faculty/dretske">Dretske, Fred I</a>. 1977. &ldquo;Laws of Nature&rdquo;, in <em>Philosophy of Science</em>, Vol. 44, No. 2, June 1977, pp. 248&ndash;268. [<a href="http://links.jstor.org/sici?sici=0031-8248%28197706%2944%3A2%3C248%3ALON%3E2.0.CO%3B2-B">URI</a>]</p>
 
 <p><em>Optional</em><br>
-<a href="http://spot.colorado.edu/~tooley/">Tooley, Michael</a>. 1977. &ldquo;The Nature of Laws&rdquo;, in <em>Canadian Journal of Philosophy</em>, Vol. 7, No. 4, December 1977, pp. 667&ndash;698. [<a href="http://zuihitsu.org/protected/tooley_laws.pdf">PDF</a>]</p>
+<a href="http://spot.colorado.edu/~tooley/">Tooley, Michael</a>. 1977. &ldquo;The Nature of Laws&rdquo;, in <em>Canadian Journal of Philosophy</em>, Vol. 7, No. 4, December 1977, pp. 667&ndash;698. [<a href="http://reductioland.net/zuihitsu/protected/tooley_laws.pdf">PDF</a>]</p>
 
 <a name="l15"> </a>
 <p><strong>Lecture Fifteen (Monday 17 March)</strong></p>
 
-<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Ideal Science: David Lewis's Account of Laws&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 40&ndash;64. [<a href="http://zuihitsu.org/protected/van_fraassen_symmetry_1-3.pdf">PDF</a>]</p>
+<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Ideal Science: David Lewis's Account of Laws&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 40&ndash;64. [<a href="http://reductioland.net/zuihitsu/protected/van_fraassen_symmetry_1-3.pdf">PDF</a>]</p>
 
 <a name="l16"> </a>
 <p><strong>Lecture Sixteen (Wednesday 19 March)</strong></p>
 
-<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Universals: Laws Grounded in Nature&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 94&ndash;128. [<a href="http://zuihitsu.org/protected/van_fraassen_symmetry_5.pdf">PDF</a>]</p>
+<p><a href="http://www.princeton.edu/~fraassen/"> Van Fraassen, Bas C</a>. 1989. &ldquo;Universals: Laws Grounded in Nature&rdquo;, in <em>Laws and Symmetry</em>, Oxford University Press, Oxford, 1989, pp. 94&ndash;128. [<a href="http://reductioland.net/zuihitsu/protected/van_fraassen_symmetry_5.pdf">PDF</a>]</p>
 
 <blockquote class="note">&sect;5 is optional.</blockquote>
 
@@ -175,7 +175,7 @@ reading and meet for an additional discussion section.</p>
 <p><a href="http://www.uark.edu/depts/philinfo/ward.html"> Ward, Barry</a>. 2007. &ldquo;Laws, Explanation, Governing, and Generation&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 85, No. 4, December 2007, pp. 537&ndash;552. [<a href="http://dx.doi.org/10.1080/00048400701654853">URI</a>]</p>
 
 <p><em>Optional</em><br>
-<a href="http://www.tc.umn.edu/~giere/">Giere, Ronald N.</a>. 1995. &ldquo;The Skeptical Perspective: Science Without Laws of Nature&rdquo;, in Friedel Weinert (Ed), <em>Laws of Nature: Essays on the Philosophical, Scientific and Historical Dimensions</em>, de Gruyter, Berlin, 1995, pp. 120&ndash;138. [<a href="http://zuihitsu.org/protected/giere_no_laws.pdf">PDF</a>]</p>
+<a href="http://www.tc.umn.edu/~giere/">Giere, Ronald N.</a>. 1995. &ldquo;The Skeptical Perspective: Science Without Laws of Nature&rdquo;, in Friedel Weinert (Ed), <em>Laws of Nature: Essays on the Philosophical, Scientific and Historical Dimensions</em>, de Gruyter, Berlin, 1995, pp. 120&ndash;138. [<a href="http://reductioland.net/zuihitsu/protected/giere_no_laws.pdf">PDF</a>]</p>
 
 <a name="l18"> </a>
 <p><strong>Lecture Eighteen (Wednesday 26 March)</strong></p>
@@ -188,7 +188,7 @@ reading and meet for an additional discussion section.</p>
 <a name="l19"> </a>
 <p><strong>Lecture Nineteen (Monday 1 April)</strong></p>
 
-<p><a href="http://special.lib.umn.edu/findaid/xml/uarc00480.xml">Maxwell, Grover</a>. 1962. &ldquo;The Ontological Status of Theoretical Entities&rdquo;, in Herbert Feigl and Grover Maxwell (Eds), <em>Scientific Explanation, Space, and Time</em>, Minnesota Studies in the Philosophy of Science, Vol. 3, University of Minnesota Press, Minneapolis, 1962, pp. 3&ndash;15. [<a href="http://zuihitsu.org/protected/maxwell_ontolog_status.pdf">PDF</a>]</p>
+<p><a href="http://special.lib.umn.edu/findaid/xml/uarc00480.xml">Maxwell, Grover</a>. 1962. &ldquo;The Ontological Status of Theoretical Entities&rdquo;, in Herbert Feigl and Grover Maxwell (Eds), <em>Scientific Explanation, Space, and Time</em>, Minnesota Studies in the Philosophy of Science, Vol. 3, University of Minnesota Press, Minneapolis, 1962, pp. 3&ndash;15. [<a href="http://reductioland.net/zuihitsu/protected/maxwell_ontolog_status.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
 <a href="http://web.gc.cuny.edu/philosophy/people/devitt/devitt.html">Devitt, Michael</a>. 2005. &ldquo;Scientific Realism&rdquo;, in Frank Jackson and Michael Smith (Eds), <em>The Oxford Handbook of Contemporary Philosophy</em>, Oxford University Press, Oxford, 2005, pp. 767&ndash; 791. [<a href="http://web.gc.cuny.edu/Philosophy/people/devitt/scient.pdf">PDF</a>]</p>
@@ -199,7 +199,7 @@ reading and meet for an additional discussion section.</p>
 <p><a href="http://www.princeton.edu/~fraassen/">Van Fraassen, Bas C</a>. 1980. &ldquo;Arguments Concerning Scientific Realism&rdquo;, in <em>The Scientific Image</em>, Clarendon Press, Oxford, 1980, pp. 6&ndash;40. [<a href="http://socrates.berkeley.edu/~fitelson/290/vanfraassen_acsr.pdf">PDF</a>]</p>
 
 <p><em>Optional</em><br>
-<a href="http://www.otago.ac.nz/philosophy/Staff/alan_musgrave.html">Musgrave, Alan</a>. 1985. &ldquo;Realism versus Constructive Empiricism&rdquo;, in Paul M. Churchland and Clifford A. Hooker (Eds), <em>Images of Science: Essays on Realism and Empiricism, With a Reply from Bas C. van Fraassen</em>, University of Chicago Press, Chicago, 1985, pp. 118&ndash; 131. [<a href="http://zuihitsu.org/protected/musgrave_realism_versus.pdf">PDF</a>]</p>
+<a href="http://www.otago.ac.nz/philosophy/Staff/alan_musgrave.html">Musgrave, Alan</a>. 1985. &ldquo;Realism versus Constructive Empiricism&rdquo;, in Paul M. Churchland and Clifford A. Hooker (Eds), <em>Images of Science: Essays on Realism and Empiricism, With a Reply from Bas C. van Fraassen</em>, University of Chicago Press, Chicago, 1985, pp. 118&ndash; 131. [<a href="http://reductioland.net/zuihitsu/protected/musgrave_realism_versus.pdf">PDF</a>]</p>
 
 <a name="l21"> </a>
 <p><strong>Lecture Twenty One (Monday 8 April)</strong></p>
