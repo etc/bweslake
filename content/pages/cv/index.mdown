@@ -192,6 +192,8 @@ ePress, Melbourne, 2010.
 
 ### graduate
 
+- Perception (Reading Course),
+[2012](http://bweslake.org/teaching/2012/perception/).  
 - Philosophy of Biology (Guest Lectures in Department of Biology),
 [2010](http://bweslake.org/teaching/2010/biology/).  
 - Causation and Counterfactuals (Reading Course),
@@ -208,7 +210,8 @@ ePress, Melbourne, 2010.
 
 - Darwin and Religion (with [H. Allen
 Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
-[2010](http://bweslake.org/teaching/2010/darwin/).  
+[2010](http://bweslake.org/teaching/2010/darwin/),  
+[2012](http://bweslake.org/teaching/2012/darwin/).  
 - Philosophy of Cognitive Science,
 [2010](http://bweslake.org/teaching/2010/cognition/).  
 - Philosophy of Biology,
