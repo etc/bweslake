@@ -101,12 +101,10 @@ Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
 ### papers under review
 
 “Exclusion Excluded”.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
 
-### papers in preparation
-
-“A Partial Theory of Actual Causation”, *available on request*.  
-“Statistical Mechanical Imperialism”, *in progress*.
+“A Partial Theory of Actual Causation”.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>
 
 ### encyclopædia entries
 
@@ -239,7 +237,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 ### dissertation committees
 
-<div class="noteleft"><span class="sc">abd</span></div>
+<div class="noteleft"><span class="sc">2011</span></div>
 <div><a href="http://sites.google.com/site/kevinmccain/home">Kevin McCain</a> <span class="sc">phd</span></div>
 <div class="noteleft">2011</div>
 <div>Hannah Oh <span class="sc">phd</span></div>
@@ -258,6 +256,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Philosophical Quarterly*  
 *Philosophical Studies*  
 *Philosophy of Science*  
+*Ratio*  
 *Social Epistemology*  
 *Synthese*  
 *Theoria*  
@@ -273,4 +272,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 29 September 2011
+*Updated*: 24 October 2011
