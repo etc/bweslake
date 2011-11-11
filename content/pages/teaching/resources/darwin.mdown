@@ -17,6 +17,10 @@ This is a collection of multimedia resources on the history and philosophy of th
 
 ### History of Science and Religion ###
 
+#### Middle Ages ####
+
+- James Hannam, "Science and the Church in the Middle Ages", *Royal Society*, 18 March 2011. \[[MP3](http://downloads.royalsociety.org/audio/hannam.mp3)\] \[[M4V](http://downloads.royalsociety.org/video/hannam.m4v)\]
+
 #### Galileo ####
 
 - David Lindberg, "[The Florentine Heretic? Galileo, the Church, and the Cosmos](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_82)", *The Faraday Institute for Science and Religion*, 24 July 2006.
@@ -25,8 +29,13 @@ This is a collection of multimedia resources on the history and philosophy of th
 #### Newton ####
 
 - Iliffe, Robert. "[Newton, Science and Religion](http://www.st-edmunds.cam.ac.uk/faraday/Multimedia.php?Mode=Add&ItemID=Item_Multimedia_332)", *The Faraday Institute for Science and Religion*, 20 October 2009.
+- Iliffe, Robert. "Sir Isaac Newton, Science, and Unorthodox Theology", *Royal Society*, 17 October 2008. \[[MP3](http://downloads.royalsociety.org/audio/Newton.mp3)\]
 
 ### History of Biology ###
+
+#### Joseph Hooker ####
+
+- Jim Endersby, "Smashing species: Joseph Hooker and Victorian science", *Royal Society*, 9 October 2010. \[[MP3](http://downloads.royalsociety.org/audio/hooker.mp3)\]
 
 #### Natural Theology ####
 
@@ -41,6 +50,7 @@ This is a collection of multimedia resources on the history and philosophy of th
 - Robert J. Richards, "[Darwin's Place in the History of Thought: A Reevaluation](http://sackler.nasmediaonline.org/2009/darwin/robert_richards/robert_richards.html)", presented at *In the Light of Evolution III: Two Centuries of Darwin*, Arnold and Mabel Beckman Center, Irvine, CA, 15-17 January 2009.  The paper on which this talk is based is Robert J. Richards, "Darwin's Place in the History of Thought: A Reevaluation", in *Proceedings of the National Academy of Sciences*, Vol. 106, Supplement 1, June 2009, pp. 10056--10060. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901111106">URI</a>]</span>
 - Peter Bowler, "[Imagining a World Without Darwin](http://video.nd.edu/254-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
 - Robert J. Richards, "['All that is most beautiful': Darwin's Theory of Morality and Its Normative Validity](http://video.nd.edu/271-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.
+- Paul White. "Whose Darwin is the true Darwin?", *Royal Society*, 30 March 2007. \[[MP3](http://downloads.royalsociety.org/audio/Darwin.mp3)\]
 
 #### America ###
 
