@@ -15,6 +15,10 @@ Template: research
 
 > One part of the true theory of actual causation is a set of conditions responsible for eliminating all of the non-causes of an effect that can be discerned at the level of counterfactual structure.  I defend a proposal for this part of the theory.
 
+“Proportionality, Contrast and Explanation” \[[<span class="small">PDF</span>][5]\] \[[<span class="small">PhilPapers</span>][6]\]
+
+> I explore the connections between the idea that causes must be proportional to their effects, the idea that causation is contrastive, and the idea that more general explanations are superior in one respect to less general explanations.
+
 ### In Progress ###
 
 “Causation, Counterfactual Dependence, and the Transition Problem”
@@ -25,10 +29,6 @@ Template: research
 
 > In an important series of recent papers, Peter Menzies has defended a striking set of theses about the nature of causation involving supervenient properties.  From a general principle concerning difference-making, Menzies has argued that: i) whether or not supervenient properties are causally excluded by subvenient properties or *vice versa* is an empirical matter; and ii) in a wide range of empirically ordinary cases, supervenient properties causally exclude subvenient properties.  If this is right, it follows that the world is not causally closed, and therefore that popular “compatibilist” forms of non-reductive physicalism are false.  In this paper I critically examine the general difference-making principle adopted by Menzies, and argue for an alternative principle that does not have these consequences.
 
-“Proportionality, Contrast and Explanation”
-
-> I explore the connections between the idea that causes must be proportional to their effects, the idea that causation is contrastive, and the idea that more general explanations are superior in one respect to less general explanations.
-
 “Statistical Mechanical Imperialism”
 
 > I argue against the claim, advanced by David Albert and Barry Loewer, that all non-fundamental laws can be derived from those required to underwrite the second law of thermodynamics.
@@ -37,3 +37,5 @@ Template: research
 [2]: http://goo.gl/TIII1
 [3]: http://goo.gl/vi3fv
 [4]: http://goo.gl/mH6hh
+[5]: http://goo.gl/iAB3v
+[6]: http://goo.gl/O1g9L
