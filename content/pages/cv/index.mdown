@@ -104,7 +104,10 @@ Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
 
 “A Partial Theory of Actual Causation”.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
+
+“Proportionality, Contrast and Explanation”.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
 
 ### encyclopædia entries
 
