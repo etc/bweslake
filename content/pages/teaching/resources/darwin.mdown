@@ -86,7 +86,16 @@ This is a collection of multimedia resources on the history and philosophy of th
 #### Evolutionary Explanations of Belief ####
 
 - Paul Griffiths and John Wilkins, "[Are Evolutionary Explanations of Religion Debunking Explanations?](http://video.nd.edu/260-darwin-in-the-21st-century-nature-humanity-and-god)", presented at *Darwin in the 21st Century: Nature, Humanity, and God*, Reilly Center for Science, Technology and Values, Notre Dame, 1-3 November 2009.  This talk is based on the following two papers:
-  -  Griffiths, Paul E, and John S. Wilkins. "When do evolutionary explanations of belief debunk belief?", in Phillip R. Sloan (Ed), *Darwin in the 21st Century: Nature, Humanity, and God*, Notre Dame University Press, Notre Dame, *forthcoming*.
+  -  Griffiths, Paul E, and John S. Wilkins. "[When do evolutionary explanations of belief debunk belief?](http://philsci-archive.pitt.edu/5314/)", in Phillip R. Sloan (Ed), *Darwin in the 21st Century: Nature, Humanity, and God*, Notre Dame University Press, Notre Dame, *forthcoming*.
   - Wilkins, John S., and Paul E. Griffiths. "Evolutionary debunking arguments in three domains: Fact, value, and religion", in James Maclaurin and Gregory W. Dawes (Eds), *A New Science of Religion*, University of Chicago Press, Chicago, *forthcoming*.
+
+#### Ethics and Evolution ####
+
+- Interview with Philip Kitcher, *Think Atheist Radio Show*, Episode 38, 11 December 2011. \[[MP3](http://www.blogtalkradio.com/thinkatheist/2011/12/12/episode-38-dr-philip-kitcher-dec-11-2011.mp3)\]
+
+#### Evolution and Naturalism ####
+
+- Alvin Plantinga, "[God and Evolution: Where the Conflict Really Lies](http://blpr.org/lectures/2011-lecture-series/god-and-evolution-where-conflict-really-lies)", Western Washington University, 10 May 2010.
+- Alvin Plantinga, "[Does Science Show That Miracles Can't Happen?](http://blpr.org/lectures/2011-lecture-series/may-12th-guest-lecturer-alvin-plantinga)", Western Washington University, 12 May 2010.
 
 [sober]: http://philosophy.wisc.edu/sober/ "Elliot Sober"
