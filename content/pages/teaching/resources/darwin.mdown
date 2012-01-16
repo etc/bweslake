@@ -15,6 +15,10 @@ Taxa](http://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
 
 This is a collection of multimedia resources on the history and philosophy of the interaction between science and religion, with a particular focus on Darwin.  They are primarily designed to be a resource for a class on these topics, for example the one I teach with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html) (see syllabus from [2010](../2010/darwin), [2012](../2012/darwin)).  Please [contact me](mailto:bradley.weslake@rochester.edu) with suggestions or broken links.
 
+### Introductions ###
+
+- Oliver Lewis interviews Peter Harrison for *Interviews with Oxonians*, 22 October 2008. \[[MP3](http://media.podcasts.ox.ac.uk/oucs/oxonian_interviews/harrison-medium-audio.mp3)\]
+
 ### History of Science and Religion ###
 
 #### Middle Ages ####
