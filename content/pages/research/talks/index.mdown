@@ -7,6 +7,14 @@ Template: talks
 
 ### Upcoming ###
 
+15 March 2012  
+"A Partial Theory of Actual Causation"   
+*Work in Progress Seminar* \[[<span class="small">DETAILS</span>][wip]\]  
+[MIT][mit]
+
+[mit]: http://www.mit.edu/~philos/ "MIT Philosophy"
+[wip]: http://www.mit.edu/~philos/wipseminar.html "MIT Work in Progress Seminar"
+
 4-7 April 2012  
 Commentary on a paper by [Carolina Sartorio][carolina]  
 Pacific APA \[[<span class="small">DETAILS</span>][pacific2012]\]  
