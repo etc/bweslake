@@ -32,7 +32,7 @@ Taxa](http://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
 </thead>
 
 <tbody>
-<tr><td>H. Allen Orr</td><td>Professor</td><td><a href="mailto:allen.orr@rochester.edu">allen.orr@rochester.edu</a></td><td>342 <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=hutchison+hall&amp;sll=43.126813,-77.630832&amp;sspn=0.004424,0.009645&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=Hutchison+Hall,+Rochester,+Monroe,+New+York+14620&amp;ll=43.126468,-77.62948&amp;spn=0.004424,0.009645&amp;z=17">Hutchison Hall</a></td><td><em>TBD</em></td></tr>
+<tr><td>H. Allen Orr</td><td>Professor</td><td><a href="mailto:allen.orr@rochester.edu">allen.orr@rochester.edu</a></td><td>342 <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=hutchison+hall&amp;sll=43.126813,-77.630832&amp;sspn=0.004424,0.009645&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=Hutchison+Hall,+Rochester,+Monroe,+New+York+14620&amp;ll=43.126468,-77.62948&amp;spn=0.004424,0.009645&amp;z=17">Hutchison Hall</a></td><td>Wednesdays 3:30pm–4:30pm</td></tr>
 
 <tr><td>Brad Weslake</td><td>Professor</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>519 <a href="http://maps.google.com/maps?q=lattimore+rochester+ny&amp;hl=en&amp;ll=43.128015,-77.630435&amp;spn=0.002357,0.004817&amp;sll=43.128132,-77.630586&amp;sspn=0.000495,0.000759&amp;t=m&amp;vpsrc=6&amp;view=map&amp;ftid=0x89d6b4c8025b4b67:0xcf5200c361a4de93&amp;ftt=3394&amp;geocode=FfgUkgIdmHNf-w&amp;hnear=Lattimore+Hall,+Rochester,+New+York+14627&amp;z=18&iwloc=A">Lattimore Hall</a></td><td>Thursdays 4pm–5pm</td></tr>
 </tbody>
