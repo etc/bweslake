@@ -23,7 +23,29 @@ Seattle
 [carolina]: http://www.u.arizona.edu/~sartorio/ "Carolina Sartorio"
 [pacific2012]: http://apa-pacific.org/current/ "Pacific APA"
 
+28-29 June 2012  
+*TBD*  
+[Semantics and Pragmatics of Ceteris Paribus Conditions][cp]    
+Düsseldorf
+
+  [cp]: http://www.clde.uni-koeln.de/?page_id=981 "Semantics and Pragmatics of Ceteris Paribus Conditions"
+
 ### Previous ###
+
+15 February 2012  
+"Science and Religion in the Scientific Revolution"  
+Interfaith Chapel  
+[University of Rochester][8]
+
+12 February 2012  
+"Was Darwin a Materialist?" \[[<span class="small">SLIDES</span>][dmatter]\]  
+[Darwin Day][dday] Lecture  
+[Rochester Secular Student Alliance][rssa]  
+[University of Rochester][8]
+
+  [rssa]: https://sa.rochester.edu/clubs/RSSA/ "Rochester Secular Student Alliance"
+  [dday]: http://darwinday.org/ "Darwin Day"
+  [dmatter]: http://goo.gl/KzVLl
 
 31 August 2011  
 "A Partial Theory of Actual Causation" \[[<span class="small">HANDOUT</span>][part]\]  
