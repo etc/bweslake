@@ -69,14 +69,14 @@ This course is an introduction to the epistemological side of philosophy of scie
 <p><table class="assess">
 <thead></thead>
 <tbody>
-<tr><td>First Paper:  </td><td>Wednesday 7 March </td><td></td></tr>
+<tr><td>First Paper:  </td><td>Wednesday 21 March </td><td>Questions [<a href="http://goo.gl/b5AYb">PDF</a>]</td></tr>
 <tr><td>Second Paper:  </td><td>Wednesday 2 May </td><td></td></tr>
 <tr><td>Reading Summaries:  </td><td>At <em>the beginning</em> of each associated class, <em>with no exceptions</em></td></tr>
 </tbody>
 </table>
 </p>
 
-<p>Essay guidelines [<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</p>
+<p>Essay guidelines [<a href="http://goo.gl/jrx25">PDF</a>]</p>
 
 <a name="schedule"> </a>
 <h3>Schedule</h3>
