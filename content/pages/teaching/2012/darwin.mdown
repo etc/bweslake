@@ -274,7 +274,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### VI. Natural Theology and Design Arguments before Darwin
 
-**Meeting Thirteen (Monday 5 March) and Meeting Fourteen (Wednesday 7 March)**
+**Meeting Thirteen (Monday 5 March), Meeting Fourteen (Wednesday 7 March) and Meeting Fifteen (Monday 19 March)**
 
 *Lectures: Design Arguments Old and New (Weslake)*
 
@@ -286,7 +286,11 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 #### Primary Reading
 
--   Brooke (1991, Chapter 6).
+- Brooke (1991, Chapter 6).
+- Hume, David. 1779. *Dialogues Concerning Natural Religion*. \[[<span class="small">GOOGLE</span>](http://books.google.com/books?id=BGoRAAAAYAAJ)\]
+\[[<span class="small">PDF</span>](http://www.earlymoderntexts.com/pdf/humedial.pdf)\]
+
+    > Focus on Sections 1–4, 8 and 12.
 
 #### Secondary Reading
 
@@ -296,11 +300,11 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
     \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00126093)\]
 -   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2008. “Intelligent Design”, in *Evidence and Evolution: The Logic Behind the Science*, Cambridge University Press, Cambridge, pp. 109–188. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/sober_intelligent_design.pdf)\]
 
-> Focus on Sections §§2.1–2.13.
+> Focus on Sections 2.1–2.13.
 
 ### VII. Darwin: The Theory
 
-**Meeting Fifteen (Monday 19 March), Meeting Sixteen (Wednesday 21 March) and Meeting Seventeen (Monday 26 March)**
+**Meeting Sixteen (Wednesday 21 March) and Meeting Seventeen (Monday 26 March)**
 
 *Lectures: Evolutionary Theory Old and New (Orr)*
 
@@ -310,20 +314,6 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
     \[[<span class="small">URI</span>](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=text&vpageseq=1)\]
 
     > Reprinted in Secord (2008).
-
-####  Primary Reading (Geology, Deep Time and Biblical Interpretation before Darwin)
-
--   Brooke (1991, Chapter 7).
-
-#### Secondary Reading (Geology, Deep Time and Biblical Interpretation before Darwin)
-
--   [Rudwick, Martin J. S](http://en.wikipedia.org/wiki/Martin_J._S._Rudwick). 1986. “The
-    Shape and Meaning of Earth History”, in Lindberg and Numbers (1986, pp. 296–321).
--   [Rappaport, Rhoda](http://history.vassar.edu/faculty/emeriti/rappaport.html). 1978. “Geology and Orthodoxy: The Case of Noah's Flood in Eighteenth-Century Thought”, in *The British Journal for the History of Science*, Vol. 11, No. 1, March 1978, pp. 1–18.
-    \[[<span class="small">URI</span>](http://www.jstor.org/stable/4025604)\]
--   [Browne, Janet](http://en.wikipedia.org/wiki/Janet_Browne). 2003. “Noah's Flood, the Ark, and the Shaping of Early Modern Natural History”, in Lindberg and Numbers (2003, pp. 111–138).
-    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/browne_noah.pdf)\]
--   [Augustine](http://plato.stanford.edu/entries/augustine/), *The Confessions*, Book XIII, “The Days of Creation and the Prophecy of the Church”.
 
 ### VIII. Darwin: The Person
 
