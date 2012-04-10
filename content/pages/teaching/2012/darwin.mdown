@@ -46,8 +46,8 @@ sciences. Instructor permission is required; please [contact Professor Weslake](
 
 ### Announcements
 
-- There will be a special class session on the afternoon of **Thursday 19 April** with [James G. Lennox](http://www.hps.pitt.edu/profile/lennox.php), Professor of History and Philosophy of Science at the University of Pittsburgh.
-- Professor [William FitzPatrick](http://www.rochester.edu/college/phl/fitzpatrick/) from the  Philosophy Department will be visiting the class in late April to talk with us about [evolutionary debunking arguments](http://dx.doi.org/10.1111/j.1747-9991.2010.00320.x).
+- There will be a special class session on **Thursday 19 April** with [James G. Lennox](http://www.hps.pitt.edu/profile/lennox.php), Professor of History and Philosophy of Science at the University of Pittsburgh.  We will meet in Morey 504 at 4pm–6pm.  
+- Professor [William FitzPatrick](http://www.rochester.edu/college/phl/fitzpatrick/) from the  Philosophy Department will be visiting the class on **Monday 30 April** to talk with us about [evolutionary debunking arguments](http://dx.doi.org/10.1111/j.1747-9991.2010.00320.x).
 - Professor Orr will be away for Meetings Six and Seven (8 and 13 Febraury).
 - Professor Weslake will be away for Meeting Twenty (4 April).
 
@@ -350,7 +350,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 -   [Turner, Frank M](http://www.yale.edu/history/faculty/turner_f.html). 2010. “The late Victorian conflict of science and religion as an event in nineteenth-century intellectual and cultural history,” in Dixon, Cantor, and Pumfrey (2010, pp. 87–110).
     \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/turner_late_victorian_conflict.pdf)\]
 
-### X. Darwin: Evolution, Naturalism and Chance
+### X. Darwin: Evolution, Naturalism and Chance I
 
 **Meeting Twenty One (Monday 9 April) and Meeting Twenty Two
 (Wednesday 11 April)**
@@ -367,9 +367,40 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 -   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Replaying Life's Tape”, in *Journal of Philosophy*, Vol. 103, No. 7, pp. 336–362.
     \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/beatty_life_tape.pdf)\]
 
-### XI. Darwin: One Hundred and Fifty Years Later
+### XI. Darwin: Evolution, Naturalism and Chance II
 
-**Meeting Twenty Three (Monday 16 April) and Meeting Twenty Four (Wednesday 18 April) and Meeting Twenty Five (Monday 23 April) and Meeting Twenty Six (Wednesday 25 April) and Meeting Twenty Seven (Monday 30 April) and Meeting Twenty Eight (Wednesday 2 May)**
+**Meeting Twenty Three (Monday 16 April) and Meeting Twenty Four (Wednesday 18 April) and Meeting Twenty Five (Thursday 19 April, Morey 504 at 4pm–6pm)**
+
+#### Primary Reading
+
+- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 2010. “The Darwin/Gray Correspondence 1857–1869: An Intelligent Discussion about Chance and Design”, in *Perspectives on Science*, Vol. 18, No. 4, Winter 2010, pp. 456–479. \[[<span class="small">URI</span>](http://dx.doi.org/ 10.1162/POSC_a_00018)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_the darwin-gray_correspondence_1857–1869.pdf)\]
+
+#### Secondary Reading
+
+- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1993. “Darwin was a Teleologist”, in *Biology and Philosophy*, Vol. 8, No. 4, Oct. 1993, pp. 409–421. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00857687)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_darwin_teleologist.pdf)\]
+- [Michael T. Ghiselin](http://research.calacademy.org/izg/staff/mghiselin). 1994. “Darwin’s Language may Seem Teleological, but his Thinking is Another Matter”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 489–492. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF 00850377)\]
+- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1994. “Teleology by Another Name: A Reply to Ghiselin”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 493–495. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00850378)\]
+
+### XII. Darwin: Evolutionary Debunking Arguments ###
+
+**Meeting Twenty Six (Monday 23 April) and Meeting Twenty Seven (Wednesday 25 April) and Meeting Twenty Eight (Monday 30 April)**
+
+#### Overviews
+
+- [Mason, Kelby](https://sites.google.com/site/kelbymason/). 2010. “Debunking Arguments and the Genealogy of Religion and Morality”, in *Philosophy Compass*, Vol. 5, No. 9, Sept. 2010, pp. 770–778. \[[<span class="small">URI</span>](http://dx.doi.org/10.1111/j.1747-9991.201 0.00320.x)\]
+
+#### Secondary Reading
+
+- [Griffiths, Paul E](http://paul.representinggenes.org/). and [John S. Wilkins](http://evolvingthoughts.net/). *forthcoming*. “When Do
+Evolutionary Explanations of Belief Debunk Belief?”, in Phillip R. Sloan,
+Gerald McKenny, and Kathleen Eggleson (Eds), *Darwin in the
+21st Century: Nature, Humanity, and God*, University of Notre Dame Press,
+Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5314/)\]
+- [Kelly James Clark](http://www.calvin.edu/academic/philosophy/faculty/clark/) and [Justin L. Barrett](http://www.fuller.edu/Academics/Faculty/Faculty-Members/Barrett,-Justin-L-.aspx). 2011. “Reidian Religious Epistemology and the Cognitive Science of Religion”, in *Journal of the American Academy of Religion*, Vol. 79, No. 3, Sept. 2011, pp. 639–675. \[[<span class="small">URI</span>](http://dx.doi.org/10.1093/jaarel/lfr008)\]
+
+### XIII. Darwin: One Hundred and Fifty Years Later ###
+
+**Meeting Twenty Nine (Wednesday 2 May)**
 
 #### Primary Reading
 
@@ -386,4 +417,4 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 16 January 2012
+*Updated*: 10 April 2012
