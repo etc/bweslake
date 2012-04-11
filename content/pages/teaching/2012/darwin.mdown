@@ -373,6 +373,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 #### Primary Reading
 
+- [The Darwin–Gray Correspondence](./darwin_gray).
 - [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 2010. “The Darwin/Gray Correspondence 1857–1869: An Intelligent Discussion about Chance and Design”, in *Perspectives on Science*, Vol. 18, No. 4, Winter 2010, pp. 456–479. \[[<span class="small">URI</span>](http://dx.doi.org/ 10.1162/POSC_a_00018)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_the darwin-gray_correspondence_1857–1869.pdf)\]
 
 #### Secondary Reading
