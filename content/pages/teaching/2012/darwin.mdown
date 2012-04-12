@@ -379,8 +379,8 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 #### Secondary Reading
 
 - [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1993. “Darwin was a Teleologist”, in *Biology and Philosophy*, Vol. 8, No. 4, Oct. 1993, pp. 409–421. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00857687)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_darwin_teleologist.pdf)\]
-- [Michael T. Ghiselin](http://research.calacademy.org/izg/staff/mghiselin). 1994. “Darwin’s Language may Seem Teleological, but his Thinking is Another Matter”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 489–492. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF 00850377)\]
-- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1994. “Teleology by Another Name: A Reply to Ghiselin”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 493–495. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00850378)\]
+- [Michael T. Ghiselin](http://research.calacademy.org/izg/staff/mghiselin). 1994. “Darwin’s Language may Seem Teleological, but his Thinking is Another Matter”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 489–492. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF 00850377)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/ghiselin_darwin's language may seem.pdf)\]
+- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1994. “Teleology by Another Name: A Reply to Ghiselin”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 493–495. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00850378)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_teleology by another name.pdf)\]
 
 ### XII. Darwin: Evolutionary Debunking Arguments ###
 
