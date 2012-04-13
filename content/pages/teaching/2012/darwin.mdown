@@ -371,16 +371,9 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 **Meeting Twenty Three (Monday 16 April) and Meeting Twenty Four (Wednesday 18 April) and Meeting Twenty Five (Thursday 19 April, Morey 504 at 4pm–6pm)**
 
-#### Primary Reading
+#### Reading Schedule
 
-- [The Darwin–Gray Correspondence](./darwin-gray).
-- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 2010. “The Darwin/Gray Correspondence 1857–1869: An Intelligent Discussion about Chance and Design”, in *Perspectives on Science*, Vol. 18, No. 4, Winter 2010, pp. 456–479. \[[<span class="small">URI</span>](http://dx.doi.org/ 10.1162/POSC_a_00018)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_the darwin-gray_correspondence_1857–1869.pdf)\]
-
-#### Secondary Reading
-
-- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1993. “Darwin was a Teleologist”, in *Biology and Philosophy*, Vol. 8, No. 4, Oct. 1993, pp. 409–421. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00857687)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_darwin_teleologist.pdf)\]
-- [Michael T. Ghiselin](http://research.calacademy.org/izg/staff/mghiselin). 1994. “Darwin’s Language may Seem Teleological, but his Thinking is Another Matter”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 489–492. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF 00850377)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/ghiselin_darwin's language may seem.pdf)\]
-- [Lennox, James G](http://www.hps.pitt.edu/profile/lennox.php). 1994. “Teleology by Another Name: A Reply to Ghiselin”, in *Biology and Philosophy*, Vol. 9, No. 4, Oct. 1994, pp. 493–495. \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00850378)\] \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/lennox_teleology by another name.pdf)\]
+- See supplement on [The Darwin–Gray Correspondence](./darwin-gray).
 
 ### XII. Darwin: Evolutionary Debunking Arguments ###
 
