@@ -383,6 +383,10 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 - [Mason, Kelby](https://sites.google.com/site/kelbymason/). 2010. “Debunking Arguments and the Genealogy of Religion and Morality”, in *Philosophy Compass*, Vol. 5, No. 9, Sept. 2010, pp. 770–778. \[[<span class="small">URI</span>](http://dx.doi.org/10.1111/j.1747-9991.201 0.00320.x)\]
 
+#### Primary Reading
+
+- [Boyer, Pascal](http://artsci.wustl.edu/~pboyer/). 2005. “Gods and the Mental Instincts That Create Them”, in James D. Proctor (Ed), *Science, Religion, and the Human Experience*, Oxford University Press, Oxford, pp. 237–259. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/boyer_gods_and_mental_instincts.pdf)\]
+
 #### Secondary Reading
 
 - [Griffiths, Paul E](http://paul.representinggenes.org/). and [John S. Wilkins](http://evolvingthoughts.net/). *forthcoming*. “When Do
@@ -411,4 +415,4 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 13 April 2012
+*Updated*: 16 April 2012
