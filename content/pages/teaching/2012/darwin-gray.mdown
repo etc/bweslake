@@ -30,7 +30,7 @@ This is a supplement to [Darwin and Religion](./darwin), listing readings for th
 #### Secondary Reading
 
 - Letters [4056](http://www.darwinproject.ac.uk/entry-4056), [4196](http://www.darwinproject.ac.uk/entry-4196), and [4234](http://www.darwinproject.ac.uk/entry-4234).
-- Asa Gray, “[Review of Charles Darwin, *Variation of Animals and Plants under Domestication*](http://goo.gl/Js7eA)”, in *The Nation*, Vol. 6, 19 March 1868, pp. 234–236.
+- Asa Gray, “[Review of Charles Darwin, *Variation of Animals and Plants under Domestication*](../resources/gray-review-variation)”, in *The Nation*, Vol. 6, 19 March 1868, pp. 234–236.
 - Letters [6167](http://www.darwinproject.ac.uk/entry-6167), [6206](http://www.darwinproject.ac.uk/entry-6206).
 
 ### Meeting Twenty Five (Thursday 19 April, Morey 504 at 4pm–6pm)
