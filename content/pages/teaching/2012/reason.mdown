@@ -333,7 +333,7 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 <a name="l24"> </a>
 <p><strong>Lecture Twenty Four (Wednesday 18 April)</strong></p>
 
-<p><a href="http://www.as.miami.edu/phi/lewis/index.htm">Lewis, Peter J</a>. 2001. &ldquo;Why The Pessimistic Induction Is A Fallacy&rdquo;, in <em> Synthese</em>, Vol. 129, No. 3, December 2001, pp. 371&ndash;380. <span class="small">[<a href="http://dx.doi.org/10.1023/A:1013139410613">URI</a>]</span></p>
+<p><a href="http://www.as.miami.edu/phi/lewis/index.htm">Lewis, Peter J</a>. 2001. &ldquo;Why The Pessimistic Induction Is A Fallacy&rdquo;, in <em> Synthese</em>, Vol. 129, No. 3, December 2001, pp. 371&ndash;380. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lewis_pessimistic_induction.pdf">PDF</a>]</span></p>
 
 <a name="l25"> </a>
 <p><strong>Lecture Twenty Five (Monday 23 April)</strong></p>
