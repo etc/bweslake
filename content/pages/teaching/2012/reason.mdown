@@ -338,8 +338,12 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 <a name="l25"> </a>
 <p><strong>Lecture Twenty Five (Monday 23 April)</strong></p>
 
+<p>Jarrett Leplin. 2004. “A Theory’s Predictive Success Can Warrant Belief in the Unobservable Entities it Postulates”, in Christopher Hitchcock (Ed) <em>Contemporary Debates in Philosophy of Science</em>, Blackwell, Malden MA, pp. 117–132. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/leplin_theory_success.pdf">PDF</a>]</span></p>
+
 <a name="l26"> </a>
 <p><strong>Lecture Twenty Six (Wednesday 25 April)</strong></p>
+
+<p>André Kukla and Joel Walmsley. 2004. “A Theory’s Predictive Success does not Warrant Belief in the Unobservable Entities it Postulates”, in Christopher Hitchcock (Ed) <em>Contemporary Debates in Philosophy of Science</em>, Blackwell, Malden MA, pp. 133–148. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kukla_theory_success.pdf">PDF</a>]</span></p>
 
 <a name="l27"> </a>
 <p><strong>Lecture Twenty Seven (Monday 30 April)</strong></p>
@@ -347,4 +351,4 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 <a name="l28"> </a>
 <p><strong>Lecture Twenty Seven (Wednesday 2 May)</strong></p>
 
-*Updated*: 17 April 2012
+*Updated*: 22 April 2012
