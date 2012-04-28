@@ -348,7 +348,9 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 <a name="l27"> </a>
 <p><strong>Lecture Twenty Seven (Monday 30 April)</strong></p>
 
+<p><a href="http://www.lps.uci.edu/lps_bios/stanford">P. Kyle Stanford</a>. 2000. “An Antirealist Explanation of the Success of Science”, in <em>Philosophy of Science</em>, Vol. 67, No. 2, June 2000, pp. 266–284. <span class="small">[<a href="http://dx.doi.org/10.1086/392775">URI</a>]</span> </p>
+
 <a name="l28"> </a>
 <p><strong>Lecture Twenty Seven (Wednesday 2 May)</strong></p>
 
-*Updated*: 22 April 2012
+*Updated*: 28 April 2012
