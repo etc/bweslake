@@ -76,7 +76,7 @@ Due dates:
 <table class="assess">
 <tbody>
 <tr><td>First Paper:  </td><td>Wednesday 7 March</td></tr>
-<tr><td>Second Paper:  </td><td>Wednesday 2 May</td></tr>
+<tr><td>Second Paper:  </td><td>Sunday 6 May</td></tr>
 <tr><td>Reading Summaries:  </td><td>At the beginning of the first class for each section, <em>with no exceptions</em></td></tr>
 </tbody>
 </table>
@@ -416,4 +416,4 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 16 April 2012
+*Updated*: 29 April 2012
