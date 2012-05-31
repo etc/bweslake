@@ -67,10 +67,13 @@ Philosophy of Mind
 ### papers published
 
 <div class="noteleft"><em>forthcoming</em></div>
-"Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA, *forthcoming*.
+"Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford, *forthcoming*.
+“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford.
+
+<div class="noteleft"><em>forthcoming</em></div>
+[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *Philosophical Issues in Biology Education*, Springer, Dordrecht.
 
 <div class="noteleft">2010</div>
 “Explanatory Depth”, in *Philosophy of Science*,
@@ -88,6 +91,7 @@ Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
  [beebee]: http://www.birmingham.ac.uk/staff/profiles/philosophy/beebee-helen.aspx "Helen Beebee"
  [price]: http://homepage.mac.com/huw.price/index.html "Huw Price"
  [hitchcock]: http://www.hss.caltech.edu/people/cricky/profile "Chris Hitchcock"
+ [mccain]: https://sites.google.com/site/kevinmccain/home "Kevin McCain"
  [menzies]: http://www.phil.mq.edu.au/staff/menzies.htm "Peter Menzies"
 
 <div class="noteleft">2006</div>
@@ -116,6 +120,9 @@ Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Regularity Theories of Causation”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford, *forthcoming*.
+
+<div class="noteleft"><em>forthcoming</em></div>
+“Scientific Explanation”, in Duncan Pritchard (Ed), *Oxford Bibliographies in Philosophy*, Oxford University Press, Oxford.
 
 <div class="noteleft">2010</div>
 “Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash
@@ -298,4 +305,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 25 May 2012
+*Updated*: 31 May 2012
