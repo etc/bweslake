@@ -8,11 +8,35 @@ Template: talks
 ### Upcoming ###
 
 28-29 June 2012  
-*TBD*  
+“Statistical Mechanical Imperialism”  
 [Semantics and Pragmatics of Ceteris Paribus Conditions][cp]    
 Düsseldorf
 
-  [cp]: http://www.clde.uni-koeln.de/?page_id=981 "Semantics and Pragmatics of Ceteris Paribus Conditions"
+  [cp]: http://www.phil-fak.uni-duesseldorf.de/ceteris-paribus "Semantics and Pragmatics of Ceteris Paribus Conditions"
+
+1-6 July 2012  
+“Statistical Mechanical Imperialism”  
+[Australasian Association of Philosophy][aap]  
+Wollongong
+
+16 August 2012  
+*TBA*  
+[Thursday Seminar Series][thursday], [ANU][anu]  
+Canberra
+
+27-30 December 2012  
+Session on Metaphysical Grounding  
+Eastern APA  
+Atlanta
+
+30 January-3 February 2013  
+Comments on [Ned Hall][ned]  
+Tucson
+
+[aap]: http://www.aap-conferences.org.au/ "Australasian Association of Philosophy"
+[ned]: http://www.fas.harvard.edu/~phildept/hall.html "Ned Hall"
+[thursday]: http://philrsss.anu.edu.au/regular-seminars/seminars "Thursday Seminars"
+[anu]: http://philrsss.anu.edu.au/ "ANU Philosophy"
 
 ### Previous ###
 
