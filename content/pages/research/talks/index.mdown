@@ -7,13 +7,6 @@ Template: talks
 
 ### Upcoming ###
 
-28-29 June 2012  
-“Statistical Mechanical Imperialism”  
-[Semantics and Pragmatics of Ceteris Paribus Conditions][cp]    
-Düsseldorf
-
-  [cp]: http://www.phil-fak.uni-duesseldorf.de/ceteris-paribus "Semantics and Pragmatics of Ceteris Paribus Conditions"
-
 1-6 July 2012  
 “Statistical Mechanical Imperialism”  
 [Australasian Association of Philosophy][aap]  
@@ -39,6 +32,13 @@ Tucson
 [anu]: http://philrsss.anu.edu.au/ "ANU Philosophy"
 
 ### Previous ###
+
+28-29 June 2012  
+“Statistical Mechanical Imperialism”  
+[Semantics and Pragmatics of Ceteris Paribus Conditions][cp]    
+Düsseldorf
+
+  [cp]: http://www.phil-fak.uni-duesseldorf.de/ceteris-paribus "Semantics and Pragmatics of Ceteris Paribus Conditions"
 
 4-7 April 2012  
 Commentary on a paper by [Carolina Sartorio][carolina]  
