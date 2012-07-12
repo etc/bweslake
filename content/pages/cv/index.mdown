@@ -89,7 +89,7 @@ Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
 <span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/4475/>
 
  [beebee]: http://www.birmingham.ac.uk/staff/profiles/philosophy/beebee-helen.aspx "Helen Beebee"
- [price]: http://homepage.mac.com/huw.price/index.html "Huw Price"
+ [price]: http://prce.hu/w/ "Huw Price"
  [hitchcock]: http://www.hss.caltech.edu/people/cricky/profile "Chris Hitchcock"
  [mccain]: https://sites.google.com/site/kevinmccain/home "Kevin McCain"
  [menzies]: http://www.phil.mq.edu.au/staff/menzies.htm "Peter Menzies"
