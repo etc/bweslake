@@ -7,15 +7,15 @@ Template: talks
 
 ### Upcoming ###
 
-1-6 July 2012  
-“Statistical Mechanical Imperialism”  
-[Australasian Association of Philosophy][aap]  
-Wollongong
-
 16 August 2012  
-*TBA*  
+“Difference-Making, Closure and Exclusion”    
 [Thursday Seminar Series][thursday], [ANU][anu]  
 Canberra
+
+23 August 2012  
+“Difference-Making, Closure and Exclusion”  
+Causation Workshop, [Macquarie University][macquarie]  
+Sydney
 
 27-30 December 2012  
 Session on Metaphysical Grounding  
@@ -30,8 +30,14 @@ Tucson
 [ned]: http://www.fas.harvard.edu/~phildept/hall.html "Ned Hall"
 [thursday]: http://philrsss.anu.edu.au/regular-seminars/seminars "Thursday Seminars"
 [anu]: http://philrsss.anu.edu.au/ "ANU Philosophy"
-
+[macquarie]: http://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/department_of_philosophy/ "Macquarie University Philosophy"
+    
 ### Previous ###
+
+1-6 July 2012  
+“Statistical Mechanical Imperialism”  
+[Australasian Association of Philosophy][aap]  
+Wollongong
 
 28-29 June 2012  
 “Statistical Mechanical Imperialism”  

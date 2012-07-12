@@ -77,7 +77,7 @@ Philosophy of Mind
 
 <div class="noteleft">2010</div>
 “Explanatory Depth”, in *Philosophy of Science*,
-Vol. 77, No. 2, April 2010, pp. 273–294.  
+<span class="sc">vol</span>. 77, <span class="sc">no</span>. 2, <span class="sc">apr</span> 2010, pp. 273–294.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1086/651316>
 
 <div class="noteleft">2009</div>
@@ -97,7 +97,7 @@ Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
 <div class="noteleft">2006</div>
 “Common Causes and The Direction of Causation”, in
 *Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special
-Issue on Causality, Uncertainty and Ignorance*, Vol. 16, No. 3, August
+Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16, <span class="sc">no</span>. 3, <span class="sc">aug</span>
 2006, pp. 239–257.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1007/s11023-006-9042-2>  
 <span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/2792/>
@@ -137,12 +137,12 @@ ePress, Melbourne, 2010.
 ### reviews
 
 <div class="noteleft">2006</div>
-“Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, Vol. 84, No. 1, March 2006, pp. 136-140.  
+“Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140.  
 <span class="sc">uri</span>:
 <http://dx.doi.org/10.1080/00048400600571935>
 
 <div class="noteleft">2004</div>
-“Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, Vol. 8, No. 49, 29 November 2004.  
+“Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
 
 ## research groups
@@ -152,68 +152,66 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 
 ## presentations
 <div class="noteleft">2013</div>
-- Comments on Ned Hall, Tucson, 30 January-3 February 2013.
+- Comments on Ned Hall, Tucson, 30 <span class="sc">jan</span>-3 <span class="sc">feb</span> 2013.
 
 <div class="noteleft">2012</div>
-- Session on Metaphysical Grounding, *Eastern APA*, Atlanta, 27-30 December.
-- “Statistical Mechanical Imperialism”, *Australasian Association of Philosophy*, Wollongong, 1-6 July.
-
-<blockquote>Also presented at *Semantics and Pragmatics of Ceteris Paribus Conditions*, Düsseldorf, 28-29 June.</blockquote>
-
-- “Comments on Carolina Sartorio, *Who Killed the Thirsty Traveler? And Other Mysteries in Causation in the Law*”, *Pacific APA*, 4-7 April.
-- “A Partial Theory of Actual Causation”, *Work in Progress Seminar*, MIT, 15 March.
+- Session on Metaphysical Grounding, *Eastern APA*, Atlanta, 27-30 <span class="sc">dec</span>.
+- “Difference-Making, Closure and Exclusion”, Causation Workshop, Macquarie University, 23 <span class="sc">aug</span>.
+- “Difference-Making, Closure and Exclusion”, Thursday Seminar Series, ANU, 16 <span class="sc">aug</span>.
+- “Statistical Mechanical Imperialism”, *Australasian Association of Philosophy*, Wollongong, 1-6 <span class="sc">jul</span>.
+- “Statistical Mechanical Imperialism”, <em>Semantics and Pragmatics of Ceteris Paribus Conditions</em>, Düsseldorf, 28-29 <span class="sc">jun</span>.
+- “Comments on Carolina Sartorio, *Who Killed the Thirsty Traveler? And Other Mysteries in Causation in the Law*”, *Pacific APA*, 4-7 <span class="sc">apr</span>.
+- “A Partial Theory of Actual Causation”, *Work in Progress Seminar*, MIT, 15 <span class="sc">mar</span>.
 
 <div class="noteleft">2011</div>
-- “A Partial Theory of Actual Causation”, Philosophy Colloquium, University of Sydney, 31 August.
-- “Causation, Counterfactual Dependence, and the Transition Problem”, *Temporal Asymmetries Conference*, Monash University, 17–18 August.
+- “A Partial Theory of Actual Causation”, Philosophy Colloquium, University of Sydney, 31 <span class="sc">aug</span>.
+- “Causation, Counterfactual Dependence, and the Transition Problem”, *Temporal Asymmetries Conference*, Monash University, 17–18 <span class="sc">aug</span>.
 
 <div class="noteleft">2010</div>
-- “A Tangled History: On Science and Religion” (with [H. Allen     Orr](http://www.rochester.edu/College/bio/professors/orr.html)), *Phelps Colloquium Series*, University of Rochester, 3 December.
-- “Against Explanatory Fundamentalism”, Philosophy Colloquium, University of Nevada, Las Vegas, 8 October.
+- “A Tangled History: On Science and Religion” (with [H. Allen     Orr](http://www.rochester.edu/College/bio/professors/orr.html)), *Phelps Colloquium Series*, University of Rochester, 3 <span class="sc">dec</span>.
+- “Against Explanatory Fundamentalism”, Philosophy Colloquium, University of Nevada, Las Vegas, 8 <span class="sc">oct</span>.
 
 <div class="noteleft">2009</div>
-- Symposium on Causation, Laws, and Natural Kinds, *European Philosophy of Science Association*, Vrije Universiteit Amsterdam, 21-24 October.
-- “Explanation in Neuroscience and Folk Psychology”, *Neuroscience Cluster Annual Retreat*, University of Rochester, 22 May.
-- “Initial Conditions, Laws and Explanation”, *Philosophical Issues in Statistical Mechanics*, Center for Philosophy and the Sciences, Rutgers University, 13–14 May.
-- “Causal Relativism”, *Mellon Metaphysics Workshop*, Cornell University, 2 May.
-- “Scientific Models and Explanatory Depth”, *Models and Simulations 3*, University of Virginia, 6–8 March.
-- “Comments on Brad Skow, *The Dynamics of Non-Being*”, *Arizona Ontology Conference*, Tucson, 7–10 January.
+- Symposium on Causation, Laws, and Natural Kinds, *European Philosophy of Science Association*, Vrije Universiteit Amsterdam, 21-24 <span class="sc">oct</span>.
+- “Explanation in Neuroscience and Folk Psychology”, *Neuroscience Cluster Annual Retreat*, University of Rochester, 22 <span class="sc">may</span>.
+- “Initial Conditions, Laws and Explanation”, *Philosophical Issues in Statistical Mechanics*, Center for Philosophy and the Sciences, Rutgers University, 13–14 <span class="sc">may</span>.
+- “Causal Relativism”, *Mellon Metaphysics Workshop*, Cornell University, 2 <span class="sc">may</span>.
+- “Scientific Models and Explanatory Depth”, *Models and Simulations 3*, University of Virginia, 6–8 <span class="sc">mar</span>.
+- “Comments on Brad Skow, *The Dynamics of Non-Being*”, *Arizona Ontology Conference*, Tucson, 7–10 <span class="sc">jan</span>.
 
 <div class="noteleft">2008</div>
-- “Explanatory Depth”, *Australasian Association of Philosophy*, Melbourne, 6–11 July.
-- “Realism and Instrumentalism in Science”, *History and Philosophy of Modern Physics Speaker Series*, University of Rochester, 10 April.
-- “Comments on Thomas Bontly, *Psychological Explanation without Mental Quasation*”, *Pacific APA*, Pasadena, 19–23 March.
-- “Interventionism and Exclusion”, *Mellon Mental Causation Workshop*, Syracuse University, 30 November–1 December.
-
-<blockquote>Also presented at <em>CUNY Cognitive Science Symposium</em>, 14 November 2008.</blockquote>
+- “Interventionism and Exclusion”, *Mellon Mental Causation Workshop*, Syracuse University, 30 <span class="sc">nov</span>–1 <span class="sc">dec</span>.
+- “Interventionism and Exclusion”, <em>CUNY Cognitive Science Symposium</em>, 14 <span class="sc">nov</span>.
+- “Explanatory Depth”, *Australasian Association of Philosophy*, Melbourne, 6–11 <span class="sc">jul</span>.
+- “Realism and Instrumentalism in Science”, *History and Philosophy of Modern Physics Speaker Series*, University of Rochester, 10 <span class="sc">apr</span>.
+- “Comments on Thomas Bontly, *Psychological Explanation without Mental Quasation*”, *Pacific APA*, Pasadena, 19–23 <span class="sc">mar</span>.
 
 <div class="noteleft">2007</div>
-- “Two Varieties of Causal Anti-Realism”, *The Foundations of Physics Group*, University of Maryland College Park, 7 May.
+- “Two Varieties of Causal Anti-Realism”, *The Foundations of Physics Group*, University of Maryland College Park, 7 <span class="sc">may</span>.
+- “Two Problems for Theories of The Asymmetry of Causal Counterfactuals”, *The 2007 Shapiro Conference: Causal and Epistemic Asymmetry*, Brown University, 27–28 <span class="sc">apr</span>.
+- Invited participant to *Workshop on the Foundations of Quantum Mechanics*, Center for Philosophy and the Sciences, Rutgers University, 11–12 <span class="sc">jan</span>.
 
-<blockquote>Also presented at <em>On What There Isn’t: A Mid-Summer Mini-Conference on Metaphysical Anti-Realism</em>, University of Sydney, 28 February 2006; and at <em>The Origins and Functions of Causal Thinking III: Intervention, Time and Physics</em>, University of Sydney, 19 July 2006.</blockquote>
+<div class="noteleft">2006</div>
 
-- “Two Problems for Theories of The Asymmetry of Causal Counterfactuals”, *The 2007 Shapiro Conference: Causal and Epistemic Asymmetry*, Brown University, 27–28 April.
-- Invited participant to *Workshop on the Foundations of Quantum Mechanics*, Center for Philosophy and the Sciences, Rutgers University, 11–12 January.
+- “Two Varieties of Causal Anti-Realism”, <em>The Origins and Functions of Causal Thinking III: Intervention, Time and Physics</em>, University of Sydney, 19 <span class="sc">jul</span>.
+- “Two Varieties of Causal Anti-Realism”, <em>On What There Isn’t: A Mid-Summer Mini-Conference on Metaphysical Anti-Realism</em>, University of Sydney, 28 <span class="sc">feb</span>.
 
 <div class="noteleft">2005</div>
-- “There Is No Problem of Mental Causation”, *The 11th Annual Australasian Postgraduate Philosophy Conference*, Melbourne University, Melbourne, 28–30 September.
-
-<blockquote>Also presented at <em>Postgraduate Work in Progress Seminar</em>, University of Sydney, 30 November.</blockquote>
-
-- “The Past Hypothesis and The Asymmetry of Causal Counterfactuals”, *Philosophy, Probability and Physics*, University of Konstanz, Germany, 7–13 August.
-- “Lewis on The Asymmetry of Causal Counterfactuals”, *Australasian Association of Philosophy*, University of Sydney, 3–8 July.
-- “Just Passing Through: Passage in a Block Universe”, *Presentism and Passage*, Centre for Time, Sydney, 6 May.
+- “There Is No Problem of Mental Causation”, <em>Postgraduate Work in Progress Seminar</em>, University of Sydney, 30 <span class="sc">nov</span>.
+- “There Is No Problem of Mental Causation”, *The 11th Annual Australasian Postgraduate Philosophy Conference*, Melbourne University, Melbourne, 28–30 <span class="sc">sep</span>.
+- “The Past Hypothesis and The Asymmetry of Causal Counterfactuals”, *Philosophy, Probability and Physics*, University of Konstanz, Germany, 7–13 <span class="sc">aug</span>.
+- “Lewis on The Asymmetry of Causal Counterfactuals”, *Australasian Association of Philosophy*, University of Sydney, 3–8 <span class="sc">jul</span>.
+- “Just Passing Through: Passage in a Block Universe”, *Presentism and Passage*, Centre for Time, Sydney, 6 <span class="sc">may</span>.
 
 <div class="noteleft">2004</div>
--  “The Passing of Time, Again”, *The 10th Annual Australasian Postgraduate Philosophy Conference*, Macquarie University, Sydney, 29 September–1 October.
-- “Common Causes and The Direction of Causation”, presented at *Causality, Uncertainty and Ignorance*, University of Konstanz, Germany, 15–21 August.
-
-<blockquote>Also presented at <em>Russellian Society Discussion Group</em>, University of Sydney, 10 August 2004; <em>Postgraduate Mini-Conference in Philosophy</em>, University of Sydney, 24 September 2004.</blockquote>
-
-- “Reply to Maudlin”, *The Origins of Temporal Experience*, Centre for Time, Sydney, 16–17 July.
+-  “The Passing of Time, Again”, *The 10th Annual Australasian Postgraduate Philosophy Conference*, Macquarie University, Sydney, 29 <span class="sc">sep</span>–1 <span class="sc">oct</span>.
+- “Common Causes and The Direction of Causation”, <em>Postgraduate Mini-Conference in Philosophy</em>, University of Sydney, 24 <span class="sc">sep</span>.
+- “Common Causes and The Direction of Causation”, *Causality, Uncertainty and Ignorance*, University of Konstanz, Germany, 15–21 <span class="sc">aug</span>.
+- “Common Causes and The Direction of Causation”, <em>Russellian Society Discussion Group</em>, University of Sydney, 10 <span class="sc">aug</span>.
+- “Reply to Maudlin”, *The Origins of Temporal Experience*, Centre for Time, Sydney, 16–17 <span class="sc">jul</span>.
 
 <div class="noteleft">2003</div>
-- “Explaining Causal Asymmetry”, *The 9th Annual Australasian Postgraduate Philosophy Conference*, University of Tasmania, Hobart, 1–3 October.
+- “Explaining Causal Asymmetry”, *The 9th Annual Australasian Postgraduate Philosophy Conference*, University of Tasmania, Hobart, 1–3 <span class="sc">oct</span>.
 
 ## Teaching &amp; supervision
 
@@ -305,4 +303,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 31 May 2012
+*Updated*: 12 <span class="sc">jul</span> 2012
