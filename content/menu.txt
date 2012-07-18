@@ -1,7 +1,5 @@
 /
 research
-  research/current
-  research/publications
   research/talks
   research/resources
 teaching
