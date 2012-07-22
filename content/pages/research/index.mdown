@@ -21,11 +21,28 @@ Title: Brad Weslake &bull; Research
  [9]: http://www.brown.edu/Departments/Philosophy/facultymember.php?key=13
  [10]: http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=111&Itemid=210
  [11]: http://www.umass.edu/philosophy/faculty/meacham.htm
- [12]: http://www.yale.edu/philos/people/north_jill.html
+ [12]: https://courses.cit.cornell.edu/north/
  [13]: http://users.ox.ac.uk/~mert0130/
  [14]: ../../
 
 ## Papers
+
+“Against Explanatory Fundamentalism”, *in preparation*. \[[<span class="small">SLIDES</span>][fundament]\]  
+
+> According to explanatory fundamentalism, non-fundamental scientific
+explanations are never superior to corresponding fundamental physical
+explanations. In this paper I evaluate the prospects for developing a
+principled rejection of fundamentalism. First, I argue that our
+theories of explanation should be non-fundamentalist. Second, I argue
+for an account of explanatory depth that I claim best explains why
+non-fundamentalism is true. Finally, I consider a difficult problem
+for the account, concerning explanations involving disjunctive
+properties that are intuitively unsatisfactory.  I criticise solutions
+to the problem formulated by Lewis, Woodward, and Strevens and Sober,
+and then defend a solution inspired by an account of non-fundamental
+laws recently defended by Schrenk, Callender and Cohen.
+
+ [fundament]: http://goo.gl/dHS4E
 
 “Exclusion Excluded”, *under review*. \[[<span class="small">PDF</span>][37]\] \[[<span class="small">PhilPapers</span>][38]\]
 
