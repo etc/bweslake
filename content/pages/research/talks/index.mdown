@@ -7,6 +7,16 @@ Template: talks
 
 ### Upcoming ###
 
+11 August 2012  
+“Was Darwin a Materialist?”  
+XII Gathering of Noble Savages  
+Hobart
+
+15 August 2012  
+“Difference-Making, Closure and Exclusion”  
+[Philosophy Seminar][tassieseminar], [University of Tasmania][tassie]  
+Hobart
+
 16 August 2012  
 “Difference-Making, Closure and Exclusion”    
 [Thursday Seminar Series][thursday], [ANU][anu]  
@@ -36,7 +46,9 @@ Tucson
 [thursday]: http://philrsss.anu.edu.au/regular-seminars/seminars "Thursday Seminars"
 [anu]: http://philrsss.anu.edu.au/ "ANU Philosophy"
 [macquarie]: http://www.mq.edu.au/about_us/faculties_and_departments/faculty_of_arts/department_of_philosophy/ "Macquarie University Philosophy"
-    
+[tassieseminar]: http://www.events.utas.edu.au/2012/august/school-of-philosophy-staff-seminar-difference-making,-closure-and-exclusion "University of Tasmania Seminar"
+[tassie]: http://www.utas.edu.au/philosophy/ "University of Tasmania Philosophy"
+
 ### Previous ###
 
 23 July  
