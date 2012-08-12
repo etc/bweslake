@@ -7,11 +7,6 @@ Template: talks
 
 ### Upcoming ###
 
-11 August 2012  
-“Was Darwin a Materialist?”  
-XII Gathering of Noble Savages  
-Hobart
-
 15 August 2012  
 “Difference-Making, Closure and Exclusion”  
 [Philosophy Seminar][tassieseminar], [University of Tasmania][tassie]  
@@ -50,6 +45,11 @@ Tucson
 [tassie]: http://www.utas.edu.au/philosophy/ "University of Tasmania Philosophy"
 
 ### Previous ###
+
+11 August 2012  
+“Was Darwin a Materialist?”  
+XII Gathering of Noble Savages  
+Hobart
 
 23 July  
 “Difference-Making, Closure and Exclusion”  
