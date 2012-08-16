@@ -7,11 +7,6 @@ Template: talks
 
 ### Upcoming ###
 
-16 August 2012  
-“Difference-Making, Closure and Exclusion”    
-[Thursday Seminar Series][thursday], [ANU][anu]  
-Canberra
-
 22 August 2012  
 “Difference-Making, Closure and Exclusion”  
 [Philosophy Colloquium][3], [University of Sydney][4]  
@@ -32,6 +27,11 @@ Comments on [Ned Hall][ned]
 Tucson
 
 ### Previous ###
+
+16 August 2012  
+“Difference-Making, Closure and Exclusion”    
+[Thursday Seminar Series][thursday], [ANU][anu]  
+Canberra
 
 15 August 2012  
 “Difference-Making, Closure and Exclusion”  
