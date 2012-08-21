@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/etc/nesta-plugin-maldini.git
-  revision: d0e750ce1182d14589e17d8dac28f65d620d7bf2
+  revision: a88dce81ff11184b7815660fa8f108b53d9b1cde
   specs:
     nesta-plugin-maldini (0.0.1)
       bibtex-ruby (>= 2.0.0)
