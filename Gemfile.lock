@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/etc/nesta-plugin-maldini.git
-  revision: a6c487d5bfa4d86af31ca212707e913edb98d0c1
+  revision: d0e750ce1182d14589e17d8dac28f65d620d7bf2
   specs:
     nesta-plugin-maldini (0.0.1)
       bibtex-ruby (>= 2.0.0)
@@ -8,38 +8,42 @@ GIT
 
 GIT
   remote: git://github.com/gma/nesta.git
-  revision: 6baf3dec430595a55fa69cd3516582a5d912a393
+  revision: 7d6159852a6d995d0c852947372e6fa3fd5d03b3
   specs:
-    nesta (0.9.11)
+    nesta (0.9.13)
       RedCloth (~> 4.2)
       haml (~> 3.1)
+      rack (~> 1.3)
       rdiscount (~> 1.6)
       sass (~> 3.1)
       shotgun (>= 0.8)
-      sinatra (= 1.2.6)
+      sinatra (~> 1.3)
 
 GEM
   remote: http://rubygems.org/
   specs:
-    RedCloth (4.2.8)
-    bibtex-ruby (2.0.0)
-      latex-decode (>= 0.0.3)
-      multi_json (~> 1.0)
-    haml (3.1.3)
+    RedCloth (4.2.9)
+    bibtex-ruby (2.0.12)
+      latex-decode (>= 0.0.6)
+      multi_json (~> 1.3)
+    haml (3.1.7)
     kramdown (0.13.3)
-    latex-decode (0.0.3)
-      unicode (>= 0.4)
-    multi_json (1.0.3)
-    rack (1.3.4)
+    latex-decode (0.0.12)
+      unicode (~> 0.4)
+    multi_json (1.3.6)
+    rack (1.4.1)
+    rack-protection (1.2.0)
+      rack
     rdiscount (1.6.8)
-    sass (3.1.10)
+    sass (3.2.1)
     shotgun (0.9)
       rack (>= 1.0)
-    sinatra (1.2.6)
-      rack (~> 1.1)
-      tilt (< 2.0, >= 1.2.2)
+    sinatra (1.3.3)
+      rack (>= 1.3.6, ~> 1.3)
+      rack-protection (~> 1.2)
+      tilt (>= 1.3.3, ~> 1.3)
     tilt (1.3.3)
-    unicode (0.4.0)
+    unicode (0.4.3)
 
 PLATFORMS
   ruby
