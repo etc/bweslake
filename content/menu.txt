@@ -4,7 +4,6 @@ research
   research/resources
 teaching
   teaching/2012
-    teaching/2012/causation
     teaching/2012/darwin
     teaching/2012/reason
     teaching/2012/perception
