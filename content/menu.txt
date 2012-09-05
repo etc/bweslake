@@ -8,6 +8,7 @@ teaching
     teaching/2012/darwin
     teaching/2012/reason
     teaching/2012/perception
+    teaching/2012/science
   teaching/2010
     teaching/2010/biology
     teaching/2010/reason
