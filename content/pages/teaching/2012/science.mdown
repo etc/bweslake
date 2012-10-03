@@ -44,8 +44,8 @@ Summary: A survey course on the metaphysics of science.
 <p>Requirements:</p>
 <ul class="assess">
 <li>Fifteen 1&ndash;2 page weekly reading summaries.</li>
-<li>One 5&ndash;7 page research paper, questions to be provided. </li>
-<li>One 8&ndash;10 page research paper, questions to be provided. </li>
+<li>One 6&ndash;8 page research paper. </li>
+<li>One 8&ndash;10 page research paper. </li>
 </ul>
 
 <p>The final grade will be determined approximately as follows:</p>
@@ -63,7 +63,7 @@ Summary: A survey course on the metaphysics of science.
 <table class="assess">
 <tbody>
 <tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
-<tr><td>First Paper:  </td><td>Wednesday 24 October</td><td>Questions [<span class="small">coming</span>]</td></tr>
+<tr><td>First Paper:  </td><td>Wednesday 24 October</td><td>Questions [<span class="small"><a href="http://goo.gl/ivTVV">PDF</a></span>]</td></tr>
 <tr><td>Second Paper:  </td><td>Wednesday 12 December</td><td>Questions [<span class="small">coming</span>]</td></tr>
 </tbody>
 </table>
