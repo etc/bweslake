@@ -196,6 +196,11 @@ Summary: A survey course on the metaphysics of science.
 
 <blockquote class="note">Read Sections &sect;5.1&ndash;&sect;5.5.</blockquote>
 
+<h5>Secondary</h5>
+<p><a href="http://www.unc.edu/~jtrosap/">Roberts, John T</a>. 2008. &ldquo;The Law-Governed World-Picture&rdquo;, in <em>The Law-Governed Universe</em>, Oxford University Press, Oxford, pp. 1&ndash;44. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/roberts_law_governed_picture.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;1.1&ndash;&sect;1.6.</blockquote>
+
 <a name="l15"> </a>
 <h4>Meeting Fifteen (Monday 29 October)</h4>
 
@@ -213,14 +218,7 @@ Summary: A survey course on the metaphysics of science.
 <h4>Meeting Sixteen (Wednesday 31 October)</h4>
 
 <h5>Primary</h5>
-<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 2004. &ldquo;Measures, Explanations and the Past: Should &lsquo;Special&rsquo; Initial Conditions be Explained?&rdquo;, in <em>British Journal for the Philosophy of Science</em>, Vol. 55, No. 2, pp. 195&ndash;217. <span class="small">[<a href="http://dx.doi.org/10.1093/bjps/55.2.195">URI</a>]</span></p>
-
-<p><a href="http://www.unc.edu/~jtrosap/">Roberts, John T</a>. 2008. &ldquo;The Law-Governed World-Picture&rdquo;, in <em>The Law-Governed Universe</em>, Oxford University Press, Oxford, pp. 1&ndash;44. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/roberts_law_governed_picture.pdf">PDF</a>]</span></p>
-
-<blockquote class="note">Read Sections &sect;1.1&ndash;&sect;1.6.</blockquote>
-
-<h5>Secondary</h5>
-<p><a href="http://www.fas.harvard.edu/~phildept/hall.html">Hall, Ned</a>. 2009. &ldquo;Humean Reductionism About Laws of Nature&rdquo;. <span class="small">[<a href="http://philpapers.org/archive/HALHRA.1.pdf">PDF</a>]</span></p>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;Laws as Relations Among Universals&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 159&ndash;177. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</span></p>
 
 <a name="l17"> </a>
 <h4>Meeting Seventeen (Monday 5 November)</h4>
@@ -325,4 +323,4 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 
 <blockquote class="note">Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell (Eds). 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 27&ndash;52.</blockquote>
 
-*Updated*: 5 September 2012
+*Updated*: 30 October 2012
