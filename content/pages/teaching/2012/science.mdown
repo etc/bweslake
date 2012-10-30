@@ -205,7 +205,7 @@ Summary: A survey course on the metaphysics of science.
 <h4>Meeting Fifteen (Monday 29 October)</h4>
 
 <h5>Primary</h5>
-<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</span></p>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_universals.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;5.6&ndash;&sect;5.7.</blockquote>
 
