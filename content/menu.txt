@@ -3,6 +3,9 @@ research
   research/talks
   research/resources
 teaching
+  teaching/2013
+    teaching/2013/darwin
+    teaching/2013/reason
   teaching/2012
     teaching/2012/causation
     teaching/2012/darwin

@@ -1,0 +1,420 @@
+Title: Brad Weslake and H. Allen Orr &bull; Darwin and Religion
+Categories: teaching/2013
+Template: class
+Summary: A course on the interaction of science and religion, focusing on the reception of *The Origin of Species*, co-taught with the evolutionary biologist [H. Allen Orr](http://www.rochester.edu/College/BIO/professors/orr.html "H. Allen Orr").
+
+# Darwin and Religion
+
+## Spring 2013 *with H. Allen Orr*
+&nbsp;
+![Charles Darwin, Diagram of Divergence of
+Taxa](http://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
+
+<blockquote class="caption">Part of Darwin's &ldquo;Diagram of Divergence of Taxa&rdquo;, the only diagram in <em>On The Origin of Species</em>.  For the full diagram see <a href="http://darwin-online.org.uk/content/frameset?viewtype=image&amp;itemID=F373&amp;pageseq=133">here</a>.</blockquote>
+
+### Details
+
+<table class="names">
+<thead>
+<tr><th>Course Code</th><th>Location</th><th> Times</th></tr>
+</thead>
+
+<tbody>
+<tr><td>PHL 256</td><td>218 <a href="http://goo.gl/cBD15">Meliora Hall</a></td><td>Mondays and Wednesdays, 3:25pm to 4:40pm</td></tr>
+</tbody>
+</table>
+
+### Instructors
+
+<table class="names">
+<thead>
+<tr><th>Name</th><th>Role</th><th>Email</th><th>Office</th><th>Consultation Times</th></tr>
+</thead>
+
+<tbody>
+<tr><td>H. Allen Orr</td><td>Professor</td><td><a href="mailto:allen.orr@rochester.edu">allen.orr@rochester.edu</a></td><td>342 <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=hutchison+hall&amp;sll=43.126813,-77.630832&amp;sspn=0.004424,0.009645&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=Hutchison+Hall,+Rochester,+Monroe,+New+York+14620&amp;ll=43.126468,-77.62948&amp;spn=0.004424,0.009645&amp;z=17">Hutchison Hall</a></td><td><em>TBD</em></td></tr>
+
+<tr><td>Brad Weslake</td><td>Professor</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>519 <a href="http://maps.google.com/maps?q=lattimore+rochester+ny&amp;hl=en&amp;ll=43.128015,-77.630435&amp;spn=0.002357,0.004817&amp;sll=43.128132,-77.630586&amp;sspn=0.000495,0.000759&amp;t=m&amp;vpsrc=6&amp;view=map&amp;ftid=0x89d6b4c8025b4b67:0xcf5200c361a4de93&amp;ftt=3394&amp;geocode=FfgUkgIdmHNf-w&amp;hnear=Lattimore+Hall,+Rochester,+New+York+14627&amp;z=18&iwloc=A">Lattimore Hall</a></td><td>Tuesdays 11am–12pm</td></tr>
+</tbody>
+</table>
+
+### Overview
+
+This is a course on the interaction of science and religion, focusing,
+though not exclusively, on the historical background to and reception of *The Origin of Species*. The course will involve equal parts science, history, and philosophy. We will consider topics including the rise of modern science in Judeo-Christian culture, historical attitudes toward biblical literalism, and the challenges posed to religious culture in Europe and America by science, especially the appearance of Darwinism. We will also discuss Darwin's own evolving scientific, philosophical, and religious views and the relevance of Darwinism to ongoing debates over the relationship between science and religion. The course will be very reading-intensive and involve classroom discussion. It is required that students have taken a class in (and ideally be intending to major in) either *Philosophy*, *Religion and Classics*, or one of the natural
+sciences. Instructor permission is required; please [contact Professor Weslake](mailto:bradley.weslake@rochester.edu?subject=Permission%20for%20Darwin%20and%20Religion).
+
+### Announcements
+
+- Professor Weslake will be away for Meeting Four (30 January).
+
+### Assessment
+
+Requirements:
+
+-   Class participation.
+-   Weekly 1–2 page reading summaries.
+-   One 8–10 page research paper.
+-   One 10–12 page research paper.
+
+The final grade will be determined as follows:
+
+<table class="assess">
+<tbody>
+<tr><td>Class participation: </td><td>25% </td></tr>
+<tr><td>Reading Summaries: </td><td>10% </td></tr>
+<tr><td>First Research Paper: </td><td>25% </td></tr>
+<tr><td>Second Research Paper: </td><td>40% </td></tr>
+</tbody>
+</table>
+  
+Due dates:
+
+<table class="assess">
+<tbody>
+<tr><td>First Paper:  </td><td>Wednesday 6 March</td></tr>
+<tr><td>Second Paper:  </td><td>Wednesday 1 May</td></tr>
+<tr><td>Reading Summaries:  </td><td>At the beginning of the first class for each section, <em>with no exceptions</em></td></tr>
+</tbody>
+</table>
+
+#### Academic Honesty
+
+Students must work independently on all written assignments.  Also, any quoted passages must include a citation to the proper source from the literature.  We expect all students to have read the College Honesty Policy, available [here](http://www.rochester.edu/college/honesty/).
+
+### Textbooks
+
+The following textbooks are required. They have not been ordered into
+the bookstore; please order copies from the links below:
+
+> [Brooke, John
+> Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm).
+> 1991. *Science and Religion: Some Historical Perspectives*, Cambridge
+> University Press, Cambridge.
+> \[[<span class="small">AddAll</span>](http://www.addall.com/New/compare.cgi?dispCurr=USD&id=49748&isbn=0521283744&location=10000&state=NY)\]
+
+> [Harrison,
+> Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm).
+> 1998. *The Bible, Protestantism, and the Rise of Natural Science*,
+> Cambridge University Press, Cambridge.
+> \[[<span class="small">AddAll</span>](http://www.addall.com/New/compare.cgi?dispCurr=USD&id=49748&isbn=9780521000963&location=10000&state=NY)\]
+
+> [Darwin, Charles](http://darwin-online.org.uk/). 2008. *Evolutionary
+> Writings: Including the Autobiographies*, James A. Secord (Ed), Oxford
+> University Press, Oxford.
+> \[[<span class="small">AddAll</span>](http://www.addall.com/New/compare.cgi?dispCurr=USD&id=49748&isbn=9780199580149&location=10000&state=NY)\]
+
+### Research
+
+Books placed on reserve can be seen
+[here](http://www.lib.rochester.edu/index.cfm?page=2213&searchtype=rcl&professor=Weslake,%20B&department=Philosophy&course_number=256). Online video and audio resources can be seen [here](http://bweslake.org/teaching/resources/darwin).
+A research guide on the history of science and religion, which will be
+updated as the course progresses, can be downloaded here
+\[[<span class="small">PDF</span>](http://bweslake.s3.amazonaws.com/teaching/2010/darwin/research.pdf)\]. For research assistance, students are encouraged to consult either with us or with
+Eileen Daly, philosophy subject librarian, who maintains a useful set of
+resources [here](http://www.library.rochester.edu/subject/philosophy).
+
+### Schedule
+
+**Meeting One (Wednesday 16 January)**  
+ *Introductory discussion*
+
+### I. Historiography: Conflict and Harmony
+
+*No Class Monday 21 January*  
+**Meeting Two (Wednesday 23 January) and Meeting Three (Monday 28 January)**
+
+#### Overviews
+
+- [Wilson, David B](http://www.history.iastate.edu/wilson.shtml). 2000. “The Historiography of Science and Religion,” in Gary B. Ferngren (Ed), *The History of Science and Religion in the Western Tradition: An Encyclopedia*, Garland Reference Library of the Humanities, Vol. 1833, Garland, 2000, pp. 2–11. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/wilson_historiography.pdf)\]
+  
+  > Reprinted in Gary B. Ferngren (Ed), *Science and Religion: A
+  > Historical Introduction*, Johns Hopkins University Press,
+  > Baltimore MD, 2002, pp. 13–29.
+
+- [Russell, Colin A](http://en.wikipedia.org/wiki/Colin_A._Russell). “The Conflict of Science and Religion,” in Ferngren (2000, pp. 12–17). \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/russell_conflict_thesis.pdf)\]
+  
+  > Reprinted in Ferngren (2002, pp. 3–12).
+
+#### Primary Reading
+
+-   Brooke (1991, Introduction and Chapter 1).
+-   One of the following:  
+    -   [Draper, John William](http://en.wikipedia.org/wiki/John_William_Draper). 1874. *History of the Conflict between Religion and Science*, D.
+        Appleton and Company, New York, Chapters 1–2.
+        \[[<span class="small">HTML</span>](http://etext.virginia.edu/toc/modeng/public/DraHist.html)\]
+        \[[<span class="small">GOOGLE</span>](http://books.google.com/books?id=AvsHAAAAIAAJ)\]
+        \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=843556)\]
+    -   [White, Andrew Dickson](http://en.wikipedia.org/wiki/Andrew_Dickson_White). 1898. *A History of the Warfare of Science with Theology in
+        Christendom*, D. Appleton and Company, New York, Volume 1,
+        Chapter 1, Section 1.
+        \[[<span class="small">HTML</span>](http://cscs.umich.edu/~crshalizi/White/)\]
+        \[[<span class="small">GOOGLE</span>](http://books.google.com/books?id=AUgtAAAAYAAJ)\]
+        \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=843582)\]
+    -   [Hooykaas, Reijer J](http://en.wikipedia.org/wiki/Reijer_Hooykaas). 1972. *Religion and the Rise of Modern Science*, William B. Eerdmans, Grand Rapids MI, 1972, Introduction and Chapter 1, pp. xi–28. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/hooykaas.pdf)\]
+        \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=1297803)\]
+
+#### Secondary Reading
+
+- [Cantor, Geoffrey](http://en.wikipedia.org/wiki/Geoffrey_Cantor). 2010. “What shall we do with the ‘Conflict Thesis’?”, in Thomas
+    Dixon, Geoffrey Cantor, and Stephen Pumfrey (Eds), *Science and
+    Religion: New Historical Perspectives*, Cambridge University Press,
+    Cambridge, pp. 283–298.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/cantor_conflict.pdf)\]
+- [Stark, Rodney](http://en.wikipedia.org/wiki/Rodney_Stark). 2003. “God's *Handiwork*: The Religious Origins of Science”, in *For the Glory of God: How Monotheism Led to Reformations, Science, Witch-Hunts, and the End of Slavery*, Princeton University Press, Princeton, pp. 121–200.
+    \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=4566012)\]
+
+    > For a compressed presentation of this argument see also Stark,
+    > Rodney. 2003. “False Conflict: Christianity is Not Only Compatible
+    > With Science—It Created It”, in *The American Enterprise*, Vol.
+    > 14, October/November 2003, pp. 27–33.
+    > \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/stark_false_conflict.pdf)\]
+
+-   [Efron, Noah](http://www.sts-biu.org/view-stu.asp?studentid=2). 2009. “That Christianity Gave Birth to Modern Science”, in Ronald L.
+    Numbers (Ed), *Galileo Goes to Jail and Other Myths about Science
+    and Religion*, Harvard University Press, Cambridge MA, pp. 79–89.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/efron_myth.pdf)\]
+    \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=4169771)\]
+
+### II. The Scientific Revolution
+
+**Meeting Four (Wednesday 30 January) and Meeting Five (Monday 4 February)**
+
+#### Overviews
+
+-   [Osler, Margaret J](http://en.wikipedia.org/wiki/Margaret_J._Osler). 2009. “That the Scientific Revolution Liberated Science from Religion”, in Ronald L. Numbers (Ed), *Galileo Goes to Jail and Other Myths about Science and Religion*, Harvard University Press, Cambridge MA, pp. 90–98.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/osler_myth.pdf)\]
+    \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?bibId=4169771)\]
+
+#### Primary Reading
+
+-   Brooke (1991, Chapter 2).
+
+#### Secondary Reading
+
+-   [Osler, Margaret J](http://en.wikipedia.org/wiki/Margaret_J._Osler). 2010. “Religion and the Changing Historiography of the Scientific
+    Revolution,” in Dixon, Cantor, and Pumfrey (2010, pp. 87–110).
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/osler_changing.pdf)\]
+-   [Henry, John][henry]. 2010. “Religion and The Scientific Revolution”, in Peter Harrison
+    (Ed), *The Cambridge Companion to Science and Religion*, Cambridge
+    University Press, Cambridge, pp. 39–58.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/henry_religion_revolution.pdf)\]
+
+  [henry]: http://en.wikipedia.org/wiki/John_Henry_(historian)
+
+### III. The Mechanical Philosophy and The Foster Thesis
+
+**Meeting Six (Wednesday 6 February) and Meeting Seven (Monday 11 February)**
+
+#### Primary Reading
+
+-   Brooke (1991, Chapters 3–4).
+
+#### Secondary Reading
+
+-   [Harrison,
+    Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm). 2002. “Voluntarism and Early Modern Science”, in *History of
+    Science*, Vol. 40, No. 1, March 2002, pp. 63–89.
+    \[[<span class="small">URI</span>](http://bit.ly/a2To0j)\]
+-   [Henry, John](http://en.wikipedia.org/wiki/John_Henry_(historian)). 2009. “Voluntarist Theology at the Origins of Modern Science: A
+    Response to Peter Harrison”, in *History of Science*, Vol. 47, No.
+    1, March 2009, pp. 79–113. \[[<span class="small">URI</span>](http://bit.ly/c88ilS)\]
+-   [Harrison,
+    Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm). 2009. “Voluntarism and the Origins of Modern Science: A Reply to
+    John Henry”, in *History of Science*, Vol. 47, No. 2, June 2009, pp.
+    223–231. \[[<span class="small">URI</span>](http://bit.ly/dnr8Zv)\]
+-   [Ashworth Jr., William
+    B](http://cas.umkc.edu/history/faculty/ashworth.asp). 2003.
+    “Christianity and the Mechanistic Universe,” in Lindberg and Numbers (2003), pp. 61–84.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/ashworth_christianity_mechanistic.pdf)\]
+
+### IV. Protestantism and Science: The Harrison Thesis
+
+**Meeting Eight (Wednesday 13 February), Meeting Nine (Monday 18 February) and Meeting Ten (Wednesday 20 February)**
+
+#### Primary Reading
+
+-   Harrison (1998, Introduction and Chapters 1–4).
+
+#### Secondary Reading
+
+-   [Ashworth Jr., William
+    B](http://cas.umkc.edu/history/faculty/ashworth.asp). 1990. “Natural
+    History and the Emblematic World View”, in David C. Lindberg and
+    Robert S. Westman (Eds), *Reappraisals of the Scientific
+    Revolution*, Cambridge University Press, Cambridge, pp. 303–333.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/ashworth_emblematic_worldview.pdf)\]
+
+    > Reprinted in Hellyer, Marcus (Ed). 2003. *The Scientific
+    > Revolution: The Essential Readings*, Blackwell, Malden MA, pp.
+    > 130–156.
+
+-   [Harrison,
+    Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm). 2006. “The Bible and the Emergence of Modern Science”, in *Science
+    and Christian Belief*, Vol. 18, No. 2, pp. 115–132.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/harrison_bible_emergence.pdf)\]
+
+### V. The Enlightenment and the Rise of Secular Culture
+
+**Meeting Eleven (Monday 25 February) and Meeting Twelve (Wednesday 27 February)**
+
+#### Primary Reading
+
+-   Brooke (1991, Chapter 5).
+
+#### Secondary Reading
+
+-   [Outram, Dorinda](http://www.rochester.edu/college/his/faculty/outram/). 2005. “Science and the Enlightenment: God's Order and Man's Understanding,” and “The Rise of Modern Paganism? Religion and the Enlightenment”, in *The Enlightenment*, Cambridge University Press, Cambridge, Second Edition, pp. 93–125.
+    \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=2984591)\]
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/outram.pdf)\]
+-   [Broman, Thomas H](http://histsci.wisc.edu/people/faculty/broman.shtml). 2003.
+    “Matter, Force, and the Christian Worldview in the Enlightenment,” in Lindberg and Numbers (2003), pp. 85–110.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/broman_matter_force.pdf)\]
+-   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2010. “Science and Secularization”, in Harrison (2010), pp. 103–123.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/brooke_science_secularization.pdf)\]
+
+### VI. Natural Theology and Design Arguments before Darwin
+
+**Meeting Thirteen (Monday 4 March), Meeting Fourteen (Wednesday 6 March) and Meeting Fifteen (Monday 11 March)**
+
+*Lectures: Design Arguments Old and New (Weslake)*
+
+#### Overviews
+
+-   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2000. “Natural Theology”, in Ferngren (2000, pp. 67–74). \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/brooke_natural_theology.pdf)\]
+
+    > Reprinted in Ferngren (2002, pp. 163–175).
+
+#### Primary Reading
+
+- Brooke (1991, Chapter 6).
+- Hume, David. 1779. *Dialogues Concerning Natural Religion*. \[[<span class="small">GOOGLE</span>](http://books.google.com/books?id=BGoRAAAAYAAJ)\]
+\[[<span class="small">PDF</span>](http://www.earlymoderntexts.com/pdf/humedial.pdf)\]
+
+    > Focus on Sections 1–4, 8 and 12.
+
+#### Secondary Reading
+
+-   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm)
+    and [Cantor, Geoffrey](http://en.wikipedia.org/wiki/Geoffrey_Cantor). 1998. “Section III: Having Designs on Nature”, in *Reconstructing Nature: The Engagement of Science and Religion*, T. and T. Clark, Edinburgh, pp. 139–243. \[[<span class="small">URI</span>](http://bit.ly/asxnIf)\]
+-   [Bowler, Peter J](http://en.wikipedia.org/wiki/Peter_J._Bowler). 1977. “Darwinism and the Argument from Design: Suggestions for a Reevaluation”, in *Journal of the History of Biology*, Vol. 10, No. 1, March 1977, pp. 29–43.
+    \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/BF00126093)\]
+-   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2008. “Intelligent Design”, in *Evidence and Evolution: The Logic Behind the Science*, Cambridge University Press, Cambridge, pp. 109–188. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/sober_intelligent_design.pdf)\]
+
+> Focus on Sections 2.1–2.13.
+
+### VII. Darwin: The Theory
+
+**Meeting Sixteen (Wednesday 13 March) and Meeting Seventeen (Monday 18 March)**
+
+*Lectures: Evolutionary Theory Old and New (Orr)*
+
+#### Primary Reading (Darwin)
+
+-   [Darwin, Charles](http://darwin-online.org.uk/). 1859. *On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life*, 1st Edition, John Murray, London, Chapters I-IV and Chapter XIV.
+    \[[<span class="small">URI</span>](http://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=text&vpageseq=1)\]
+
+    > Reprinted in Secord (2008).
+
+### VIII. Darwin: The Person
+
+**Meeting Eighteen (Wednesday 20 March) and Meeting Nineteen (Monday 25 March)**
+
+#### Overviews
+
+-   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2010. “Darwin and Religion: Correcting the Caricatures”, in *Science and Education*, Vol. 19, No. 4–5, April–May 2010, pp. 391–405.
+    \[[<span class="small">URI</span>](http://dx.doi.org/10.1007/s11191-009-9211-9)\]
+
+#### Primary Reading
+
+-   “Introduction” and “Autobiographies”, in Secord (2008).
+
+#### Secondary Reading
+
+-   [Sloan, Phillip R](http://www.nd.edu/~psloan/). 2001. “ “The Sense of Sublimity”: Darwin on Nature and Divinity”, in *Osiris*, Vol. 16, Science in Theistic Contexts: Cognitive Dimensions 2001, pp. 251–269. \[[<span class="small">URI</span>](http://www.jstor.org/stable/301988)\]
+-   [Brooke, John Hedley](http://users.ox.ac.uk/~theo0038/biographies/biobrooke.htm). 2009. “Darwin and Victorian Christianity”, in Jonathan Hodge and Gregory Radick (Eds), *The Cambridge Companion to Darwin*, 2nd Ed, Cambridge University Press, Cambridge, pp. 197–218.
+    \[[<span class="small">URI</span>](http://dx.doi.org/10.1017/CCOL9780521884754.009)\]
+
+### IX. Darwin: The Reception
+
+**Meeting Twenty (Wednesday 27 March)**
+
+#### Primary Reading
+
+-   Brooke (1991, Chapter 8).
+
+#### Secondary Reading
+
+-   [Roberts, Jon H](http://www.bu.edu/history/roberts.pdf). 2010. “Religious Reactions to Darwin”, in Harrison (2010, pp. 80–102). \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/roberts_religious_reactions_darwin.pdf)\]
+-   [Moore, James R](http://www.open.ac.uk/Arts/history/moore.shtml). 1979. “Part I: Historians and Historiography”, in *The Post-Darwinian Controversies: A Study of the Protestant Struggle to Come to Terms with Darwinism in Britain and America*, Cambridge University Press, Cambridge, pp. 17–122.
+    \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=3195)\]
+-   [Turner, Frank M](http://www.yale.edu/history/faculty/turner_f.html). 2010. “The late Victorian conflict of science and religion as an event in nineteenth-century intellectual and cultural history,” in Dixon, Cantor, and Pumfrey (2010, pp. 87–110).
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/turner_late_victorian_conflict.pdf)\]
+
+### X. Darwin: Evolution, Naturalism and Chance I
+
+**Meeting Twenty One (Monday 1 April) and Meeting Twenty Two
+(Wednesday 3 April)**
+
+#### Primary Reading
+
+-   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2011. “Evolution without Naturalism”, in Jonathan L. Kvanvig (Ed), *Oxford Studies in Philosophy of Religion*, Oxford University Press, Oxford, Vol. 3, pp. 187–221.
+    \[[<span class="small">PDF</span>](http://philosophy.wisc.edu/sober/Evolution%20without%20naturalism%20dec%202008.pdf)\]
+-   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Chance Variation: Darwin on Orchids”, in *Philosophy of Science*, Vol. 73, No. 5, December 2006, pp. 629–641.
+    \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/518332)\]
+
+#### Secondary Reading
+
+-   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Replaying Life's Tape”, in *Journal of Philosophy*, Vol. 103, No. 7, pp. 336–362.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/beatty_life_tape.pdf)\]
+
+### XI. Darwin: Evolution, Naturalism and Chance II
+
+**Meeting Twenty Three (Monday 8 April)**
+
+#### Reading Schedule
+
+- See supplement on [The Darwin–Gray Correspondence](./darwin-gray).
+
+### XII. Darwin: Evolutionary Debunking Arguments ###
+
+**Meeting Twenty Four (Wednesday 10 April) and Meeting Twenty Five (Monday 15 April) and Meeting Twenty Six (Wednesday 17 April)**
+
+#### Overviews
+
+- [Barrett, Justin L](http://www.fuller.edu/Academics/Faculty/Faculty-Members/Barrett,-Justin-L-.aspx). “Cognitive Science of Religion: What Is It and Why Is It?”, in *Religion Compass*, Vol. 1, No. 6, September 2007, pp. 768–786. \[[<span class="small">URI</span>](http://dx.doi.org/10.1111/j.1749-8171.2007.00042.x)\]
+- [Mason, Kelby](https://sites.google.com/site/kelbymason/). 2010. “Debunking Arguments and the Genealogy of Religion and Morality”, in *Philosophy Compass*, Vol. 5, No. 9, September 2010, pp. 770–778. \[[<span class="small">URI</span>](http://dx.doi.org/10.1111/j.1747-9991.2010.00320.x)\]
+
+#### Primary Reading
+
+- [Boyer, Pascal](http://artsci.wustl.edu/~pboyer/). 2005. “Gods and the Mental Instincts That Create Them”, in James D. Proctor (Ed), *Science, Religion, and the Human Experience*, Oxford University Press, Oxford, pp. 237–259. \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/boyer_gods_and_mental_instincts.pdf)\]
+
+#### Secondary Reading
+
+- [Griffiths, Paul E](http://paul.representinggenes.org/). and [John S. Wilkins](http://evolvingthoughts.net/). *forthcoming*. “When Do
+Evolutionary Explanations of Belief Debunk Belief?”, in Phillip R. Sloan,
+Gerald McKenny, and Kathleen Eggleson (Eds), *Darwin in the
+21st Century: Nature, Humanity, and God*, University of Notre Dame Press,
+Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5314/)\]
+- [Kelly James Clark](http://www.calvin.edu/academic/philosophy/faculty/clark/) and [Justin L. Barrett](http://www.fuller.edu/Academics/Faculty/Faculty-Members/Barrett,-Justin-L-.aspx). 2011. “Reidian Religious Epistemology and the Cognitive Science of Religion”, in *Journal of the American Academy of Religion*, Vol. 79, No. 3, Sept. 2011, pp. 639–675. \[[<span class="small">URI</span>](http://dx.doi.org/10.1093/jaarel/lfr008)\]
+
+### XIII. Darwin: One Hundred and Fifty Years Later ###
+
+**Meeting Twenty Seven (Monday 22 April) and Meeting Twenty Eight (Wednesday 24 April) and Meeting Twenty Nine (Monday 29 April) and Meeting Thirty (Wednesday 1 May)**
+
+#### Primary Reading
+
+-   Brooke (1991, Postscript).
+-   [Kitcher, Philip](http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html). 2007. “A Mess of Pottage”, in *Living with Darwin: Evolution, Design, and the Future of Faith*, Oxford University Press, Oxford,
+    pp. 117–166.
+    \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/kitcher_mess_pottage.pdf)\]
+    \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=3454426)\]
+
+#### Secondary Reading
+
+-   [Harrison, Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm). 2006. ““Science” and “Religion”: Constructing the Boundaries,” in *The Journal of Religion*, Vol. 86, No. 1, January 2006, pp. 81–106.
+    \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/497085)\]
+
+    > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
+
+*Updated*: 15 January 2012

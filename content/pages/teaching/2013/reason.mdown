@@ -1,0 +1,49 @@
+Title: Brad Weslake &bull; Science and Reason
+Categories: teaching/2013
+Template: class
+Summary: An introduction to the epistemology of science.
+
+# Science and Reason
+
+## Spring 2013 ##
+
+<p align="center"><img width="60%" src="http://bweslake.s3.amazonaws.com/images/lavoisier.png" alt="From Lavoisier's Trait&eacute; &eacute;l&eacute;mentaire">
+
+<blockquote class="caption">Lavoisier's experiment to analyze water (boiling in flask A) into its constituents of oxygen and hydrogen by passing the steam through a red-hot glass tube (EF) that contains spirals of beaten iron. The oxygen from the steam combines chemically with the glowing iron, while the released gaseous hydrogen is collected at left; scrupulous weighing verifies the equivalence of water and products. From Lavoisier's <em>Trait&eacute; &eacute;l&eacute;mentaire</em> (1789). Image and caption from <a href="http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&amp;bookkey=176215">here</a>.</blockquote></p>
+
+<h3>Details</h3>
+<a name="details"> </a>
+
+<table class="names">
+<thead>
+<tr><th>Course Code</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL 152</td><td>210 <a href="http://maps.google.com/maps?q=lattimore+rochester+ny&amp;hl=en&amp;ll=43.128015,-77.630435&amp;spn=0.002357,0.004817&amp;sll=43.128132,-77.630586&amp;sspn=0.000495,0.000759&amp;t=m&amp;vpsrc=6&amp;view=map&amp;ftid=0x89d6b4c8025b4b67:0xcf5200c361a4de93&amp;ftt=3394&amp;geocode=FfgUkgIdmHNf-w&amp;hnear=Lattimore+Hall,+Rochester,+New+York+14627&amp;z=18&iwloc=A">Lattimore Hall</a></td><td>Mondays and Wednesdays, 12:30pm to 1:45pm</td></tr>
+</tbody>
+</table>
+
+<a name="instructors"> </a>
+<h3>Instructors</h3>
+<table class="names">
+<thead>
+<tr><th>Name</th><th>Role</th><th>Email</th><th>Office</th><th>Consultation Times</th></tr>
+</thead>
+<tbody>
+<tr><td>Brad Weslake</td><td>Professor</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>519 <a href="http://maps.google.com/maps?q=lattimore+rochester+ny&amp;hl=en&amp;ll=43.128015,-77.630435&amp;spn=0.002357,0.004817&amp;sll=43.128132,-77.630586&amp;sspn=0.000495,0.000759&amp;t=m&amp;vpsrc=6&amp;view=map&amp;ftid=0x89d6b4c8025b4b67:0xcf5200c361a4de93&amp;ftt=3394&amp;geocode=FfgUkgIdmHNf-w&amp;hnear=Lattimore+Hall,+Rochester,+New+York+14627&amp;z=18&iwloc=A">Lattimore Hall</a></td><td>Tuesdays 11am–12pm</td></tr>
+<tr><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+
+### Overview
+This course is an introduction to the epistemological side of philosophy of science, focussing on questions concerning the nature of science. Epistemological questions in the philosophy of science are those concerning the nature of scientific knowledge: Is scientific knowledge different in principle from other forms of knowledge? If so, what makes it different?  Should the history of science be seen as an ever-increasing advance of knowledge, or should we see the historical development of science in some other terms? Given that most scientific theories have turned out to be false, are we justified in believing that our current theories are true?  We will examine these questions through readings drawn from both the history and philosophy of science.
+
+<a name="textbooks"> </a>
+<h3>Textbooks</h3>
+<p>The following textbook is mandatory.  I have not ordered it into the bookstore, as second-hand copies should be very easy to find (see the link below):</p>
+
+<blockquote class="note"><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996. <span class="small">[<a href="http://www3.addall.com/New/compare.cgi?dispCurr=USD&amp;isbn=0226458083&amp;location=10000&amp;state=NY">AddAll</a>]</span></blockquote>
+
+*Updated*: 16 January 2013

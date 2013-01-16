@@ -4,6 +4,7 @@
 
 #narrowsidebar
   %nav.teaching.group
+    - display_menu(Nesta::Menu.for_path('/teaching/2013'), :root => '/teaching/2013', :class => 'teaching/2013', :levels => 2)
     - display_menu(Nesta::Menu.for_path('/teaching/2012'), :root => '/teaching/2012', :class => 'teaching/2012', :levels => 2)
     - display_menu(Nesta::Menu.for_path('/teaching/2010'), :root => '/teaching/2010', :class => 'teaching/2010', :levels => 2)
     - display_menu(Nesta::Menu.for_path('/teaching/2009'), :root => '/teaching/2009', :class => 'teaching/2009', :levels => 2)
