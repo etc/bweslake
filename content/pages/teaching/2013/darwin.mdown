@@ -138,7 +138,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 #### Primary Reading
 
--   Brooke (1991, Introduction and Chapter 1).
+-   Brooke (1991, Introduction and Chapter 1). \[[<span class="small">PDF</span>](http://goo.gl/baouZ)\]
 -   One of the following:  
     -   [Draper, John William](http://en.wikipedia.org/wiki/John_William_Draper). 1874. *History of the Conflict between Religion and Science*, D.
         Appleton and Company, New York, Chapters 1–2.
