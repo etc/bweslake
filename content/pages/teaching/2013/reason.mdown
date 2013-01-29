@@ -112,8 +112,10 @@ This course is an introduction to the epistemological side of philosophy of scie
 
 <p><a href="http://www.phil.vt.edu/HTML/people/mayodeborah.html">Mayo, Deborah G</a>. 1996. &ldquo;Ducks, Rabbits, and Normal Science: Recasting the Kuhn's-Eye View of Popper's Demarcation of Science&rdquo;, in <em>The British Journal for the Philosophy of Science</em>, Vol. 47, No. 2, June 1996, pp. 271&ndash;290. <span class="small">[<a href="http://dx.doi.org/10.1093/bjps/47.2.271">URI</a>]</span></p>
 
+<p><strong>No Class Wednesday 30 January</strong></p>
+
 <a name="l4"> </a>
-<p><strong>Lecture Four (Wednesday 30 January)</strong></p>
+<p><strong>Lecture Four (Monday 4 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://en.wikipedia.org/wiki/Hilary_Putnam">Putnam, Hilary</a>. 1974. &ldquo;The &lsquo;Corroboration&rsquo; of Theories&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 221&ndash;240. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/putnam_corroboration.pdf">PDF</a>]</span></p>
@@ -121,12 +123,12 @@ This course is an introduction to the epistemological side of philosophy of scie
 <blockquote class="note">Reprinted in Putnam, Hilary. 1975. <em>Mathematics, Matter, and Method</em>, Philosophical Papers, Vol. 1, Cambridge University Press, Cambridge, pp. 250&ndash;269; and Boyd, Richard, Philip Gasper, and J. D. Trout (Eds). 1991. <em>The Philosophy of Science</em>, 3rd Edition, MIT Press, Cambridge MA, pp. 121&ndash;136; and Sklar, Lawrence. 2000. <em>Bayesian and Non-Inductive Methods</em>, The Philosophy of Science: A Collection of Essays, Vol. 5, Garland, Hamden CT, pp. 225&ndash;245.</blockquote>
 
 <a name="l5"> </a>
-<p><strong>Lecture Five (Monday 4 February)</strong></p>
+<p><strong>Lecture Five (Wednesday 6 February)</strong></p>
 
 <p><em>Popper, Kuhn and Putnam, continued.</em></p>
 
 <a name="l6"> </a>
-<p><strong>Lecture Six (Wednesday 6 February)</strong></p>
+<p><strong>Lecture Six (Monday 11 February)</strong></p>
 
 <p><em>Primary Reading</em><br/><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974,  pp. 96&ndash;102. <span class="small">[<a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscienceTranscript.htm">URI</a>]</span></p>
 
@@ -138,7 +140,7 @@ This course is an introduction to the epistemological side of philosophy of scie
 <p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</span></p>
 
 <a name="l7"> </a>
-<p><strong>Lecture Seven (Monday 11 February)</strong></p>
+<p><strong>Lecture Seven (Wednesday 13 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://cogsci.uwaterloo.ca/Biographies/pault.html">Thagard, Paul R</a>. 1978. &ldquo;Why Astrology is a Pseudoscience&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Volume One: Contributed Papers, 1978, pp. 223&ndash;234. <span class="small">[<a href="http://links.jstor.org/sici?sici=0270-8647(1978)1978%3C223%3AWAIAP%3E2.0.CO%3B2-W">URI</a>]</span></p>
@@ -148,7 +150,7 @@ This course is an introduction to the epistemological side of philosophy of scie
 </p>
 
 <a name="l8"> </a>
-<p><strong>Lecture Eight (Wednesday 13 February)</strong></p>
+<p><strong>Lecture Eight (Monday 18 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/laudan_demise.pdf">PDF</a>]</span></p>
@@ -163,7 +165,7 @@ Reprinted in Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method
 <h3>Section II: Intelligent Design and the Demarcation Problem</h3>
 
 <a name="l9"> </a>
-<p><strong>Lecture Nine (Monday 18 February)</strong></p>
+<p><strong>Lecture Nine (Wednesday 20 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://plato.stanford.edu/entries/popper/">Popper, Karl</a>. 1974. &ldquo;Darwinism as a Metaphysical Research Programme&rdquo;, in Paul Arthur Schilpp (Ed), <em>The Philosophy of Karl Popper</em>, Library of Living Philosophers, Vol. 14, Open Court, La Salle, pp. 133&ndash;143. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/popper_darwin_metaphysics.pdf">PDF</a>]</span></p>
@@ -187,7 +189,7 @@ Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sobe
 <blockquote class="note"><a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>, &ldquo;Did Darwin Write the <em>Origin</em> Backwards?&rdquo;, in <em>Proceedings of the National Academy of Sciences</em>, Vol. 106, Supplement 1, June 2009, pp. 10048&ndash;10055. <span class="small">[<a href="http://dx.doi.org/10.1073/pnas.0901109106">URI</a>]</span></blockquote>
 
 <a name="l10"> </a>
-<p><strong>Lecture Ten (Wednesday 20 February)</strong></p>
+<p><strong>Lecture Ten (Monday 25 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a>, &ldquo;Irreducible Complexity: Obstacle to Darwinian Evolution&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 352&ndash;370. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/behe_irreducible_complexity.pdf">PDF</a>]</span></p>
@@ -198,7 +200,7 @@ Listen, with slides, to <a href="http://philosophy.wisc.edu/sober/">Elliott Sobe
 Watch <a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a> present a talk on his argument from design at the conference &ldquo;Interpreting Evolution: Scientific and Religious Perspectives&rdquo; (Haverford, 17 June 2001) <a href="http://www.counterbalance.net/perspevo/presmb-frame.html">here</a>.</p>
 
 <a name="l11"> </a>
-<p><strong>Lecture Eleven (Monday 25 February)</strong></p>
+<p><strong>Lecture Eleven (Wednesday 27 February)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a>, &ldquo;The Flagellum Unspun: The Collapse of &ldquo;Irreducible Complexity&rdquo;&rdquo;, in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 81&ndash;97. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/miller_flagellum_unspun.pdf">PDF</a>]</span></p>
@@ -213,7 +215,7 @@ Watch <a href="http://en.wikipedia.org/wiki/Michael_Behe">Michael J. Behe</a> pr
 Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present an overview of the evidence for evolution, criticise the argument from irreducible complexity, and endorse theistic evolutionism <a href="http://media.hhmi.org/hl/06Miller.html">here</a>.</p>
 
 <a name="l12"> </a>
-<p><strong>Lecture Twelve (Wednesday 27 February)</strong></p>
+<p><strong>Lecture Twelve (Monday 4 March)</strong></p>
 
 <p><em>Introductory Reading</em><br/>
 <a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 2007. &ldquo;What Is Wrong With Intelligent Design?&rdquo;, in <em>The Quarterly Review of Biology</em>, Vol. 82, No. 1, March 2007, pp. 3&ndash;8. <span class="small">[<a href="http://philosophy.wisc.edu/sober/what's%20wrong%20with%20id%20qrb%202007.pdf">PDF</a>]</span></p>
@@ -226,12 +228,12 @@ Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present
 <blockquote class="note">Reprinted in William A. Dembski and <a href="http://www.fsu.edu/~philo/new%20site/staff/ruse.htm">Michael Ruse</a> (Eds), <em>Debating Design: From Darwin to DNA</em>, Cambridge University Press, Cambridge, 2004, pp. 98&ndash;129; and in Mann, William E (Ed). 2005. <em>The Blackwell Guide to the Philosophy of Religion</em>, Blackwell, Malden MA, pp. 117&ndash;147.</blockquote>
 
 <a name="l13"> </a>
-<p><strong>Lecture Thirteen (Monday 4 March)</strong></p>
+<p><strong>Lecture Thirteen (Wednesday 6 March)</strong></p>
 
 <p><em>Sober, continued.</em></p>
 
 <a name="l14"> </a>
-<p><strong>Lecture Fourteen (Wednesday 6 March)</strong></p>
+<p><strong>Lecture Fourteen (Monday 18 March)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://bradleymonton.com/">Monton, Bradley</a>. 2009. &ldquo;Why It Is Legitimate to Treat Intelligent Design as Science&rdquo;, in <em>Seeking God in Science: An Atheist Defends Intelligent Design</em>, Broadview, Peterborough ON, Chapter 2, pp. 47&ndash;74. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/monton_is_id_science.pdf">PDF</a>]</span></p>
@@ -244,4 +246,4 @@ Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? Th
 <p><em>Multimedia</em><br/>
 For some of the background on this exchange, see the PBS documentary <em>Judgment Day: Intelligent Design on Trial</em>, available in full <a href="http://www.pbs.org/wgbh/nova/id/program.html">here</a>.</p>
 
-*Updated*: 17 January 2013
+*Updated*: 29 January 2013
