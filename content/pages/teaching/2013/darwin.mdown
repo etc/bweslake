@@ -188,7 +188,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 #### Primary Reading
 
--   Brooke (1991, Chapter 2).
+-   Brooke (1991, Chapter 2). \[[<span class="small">PDF</span>](http://goo.gl/5Q2Zk)\]
 
 #### Secondary Reading
 
@@ -417,4 +417,4 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 15 January 2012
+*Updated*: 29 January 2012
