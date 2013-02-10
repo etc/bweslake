@@ -7,16 +7,30 @@ Template: talks
 
 ### Upcoming ###
 
-27-30 December 2012  
-Session on Metaphysical Grounding  
-Eastern APA  
-Atlanta
+29 March 2013  
+[University of Pittsburgh][pitt]  
+Pittsburgh
 
-30 January-3 February 2013  
-Comments on [Ned Hall][ned]  
-Tucson
+22-23 June 2013  
+[Explanation in Metaphysics][neuchatel]  
+Neuchâtel
+
+[pitt]: http://www.philosophy.pitt.edu/ "Pittsburgh Philosophy"
+[neuchatel]: http://www.facebook.com/event.php?eid=483994068310621 "Explanation in Metaphysics"
 
 ### Previous ###
+
+30 January-3 February 2013  
+“Comments on Ned Hall, *Physical and Metaphysical Modality*”  
+[Back at the Ranch][ranch2013]  
+Tucson
+
+[ranch2013]: http://metaphysicsbackattheranch.web.unc.edu/ "Back at the Ranch"
+
+27-30 December 2012  
+“Comments on Jeff Engelhardt, *The Problem of Second Effects*”  
+Eastern APA  
+Atlanta
 
 23 August 2012  
 “Difference-Making, Closure and Exclusion”  
