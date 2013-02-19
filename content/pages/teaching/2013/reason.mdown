@@ -51,8 +51,8 @@ This course is an introduction to the epistemological side of philosophy of scie
 <p>Requirements:</p>
 <ul class="assess">
 <li>Participation in class and online discussion.</li>
-<li>One 6&ndash;8 page research paper, questions to be provided.</li>
-<li>One 8&ndash;10 page research paper, questions to be provided.</li>
+<li>One 6&ndash;8 page research paper.</li>
+<li>One 8&ndash;10 page research paper.</li>
 </ul>
 
 <p>The final grade will be determined as follows:
@@ -69,7 +69,7 @@ This course is an introduction to the epistemological side of philosophy of scie
 <p><table class="assess">
 <thead></thead>
 <tbody>
-<tr><td>First Paper:  </td><td>Wednesday 6 March </td><td>Questions [<em>coming</em>]</td></tr>
+<tr><td>First Paper:  </td><td>Wednesday 6 March </td><td>Questions <span class="small">[<a href="http://goo.gl/2Jnz7">PDF</a>]</span></td></tr>
 <tr><td>Second Paper:  </td><td>Wednesday 1 May </td><td>Questions [<em>coming</em>]</td></tr>
 </tbody>
 </table>
@@ -246,4 +246,4 @@ Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? Th
 <p><em>Multimedia</em><br/>
 For some of the background on this exchange, see the PBS documentary <em>Judgment Day: Intelligent Design on Trial</em>, available in full <a href="http://www.pbs.org/wgbh/nova/id/program.html">here</a>.</p>
 
-*Updated*: 29 January 2013
+*Updated*: 19 February 2013
