@@ -30,7 +30,7 @@ Summary: An introduction to the epistemology of science.
 <tr><th>Name</th><th>Role</th><th>Email</th><th>Office</th><th>Consultation Times</th></tr>
 </thead>
 <tbody>
-<tr><td>Brad Weslake</td><td>Professor</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>519 <a href="http://maps.google.com/maps?q=lattimore+rochester+ny&amp;hl=en&amp;ll=43.128015,-77.630435&amp;spn=0.002357,0.004817&amp;sll=43.128132,-77.630586&amp;sspn=0.000495,0.000759&amp;t=m&amp;vpsrc=6&amp;view=map&amp;ftid=0x89d6b4c8025b4b67:0xcf5200c361a4de93&amp;ftt=3394&amp;geocode=FfgUkgIdmHNf-w&amp;hnear=Lattimore+Hall,+Rochester,+New+York+14627&amp;z=18&iwloc=A">Lattimore Hall</a></td><td>Tuesdays 11am–12pm</td></tr>
+<tr><td>Brad Weslake</td><td>Professor</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>520 <a href="http://maps.google.com/maps?q=lattimore+rochester+ny&amp;hl=en&amp;ll=43.128015,-77.630435&amp;spn=0.002357,0.004817&amp;sll=43.128132,-77.630586&amp;sspn=0.000495,0.000759&amp;t=m&amp;vpsrc=6&amp;view=map&amp;ftid=0x89d6b4c8025b4b67:0xcf5200c361a4de93&amp;ftt=3394&amp;geocode=FfgUkgIdmHNf-w&amp;hnear=Lattimore+Hall,+Rochester,+New+York+14627&amp;z=18&iwloc=A">Lattimore Hall</a></td><td>Tuesdays 11am–12pm</td></tr>
 <tr><td></td><td></td><td></td><td></td></tr>
 </tbody>
 </table>
