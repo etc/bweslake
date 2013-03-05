@@ -256,7 +256,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### V. The Enlightenment and the Rise of Secular Culture
 
-**Meeting Eleven (Monday 25 February) and Meeting Twelve (Wednesday 27 February)**
+**Meeting Eleven (Monday 25 February)**
 
 #### Primary Reading
 
@@ -275,7 +275,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### VI. Natural Theology and Design Arguments before Darwin
 
-**Meeting Thirteen (Monday 4 March), Meeting Fourteen (Wednesday 6 March) and Meeting Fifteen (Monday 18 March)**
+**Meeting Twelve (Wednesday 27 February), Meeting Thirteen (Monday 4 March), Meeting Fourteen (Wednesday 6 March)**
 
 *Lectures: Design Arguments Old and New (Weslake)*
 
@@ -305,7 +305,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### VII. Darwin: The Theory
 
-**Meeting Sixteen (Wednesday 20 March) and Meeting Seventeen (Monday 25 March)**
+**Meeting Fifteen (Monday 18 March) and Meeting Sixteen (Wednesday 20 March)**
 
 *Lectures: Evolutionary Theory Old and New (Orr)*
 
@@ -318,7 +318,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### VIII. Darwin: The Person
 
-**Meeting Eighteen (Wednesday 20 March) and Meeting Nineteen (Monday 25 March)**
+**Meeting Seventeen (Monday 25 March) and Meeting Eighteen (Wednesday 27 March)**
 
 #### Overviews
 
@@ -337,7 +337,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### IX. Darwin: The Reception
 
-**Meeting Twenty (Wednesday 3 April)**
+**Meeting Nineteen (Monday 1 April)**
 
 #### Primary Reading
 
@@ -353,8 +353,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### X. Darwin: Evolution, Naturalism and Chance I
 
-**Meeting Twenty One (Monday 8 April) and Meeting Twenty Two
-(Wednesday 10 April)**
+**Meeting Twenty (Wednesday 3 April) and Meeting Twenty One (Monday 8 April)**
 
 #### Primary Reading
 
@@ -370,7 +369,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### XI. Darwin: Evolution, Naturalism and Chance II
 
-**Meeting Twenty Three (Monday 15 April)**
+**Meeting Twenty Two (Wednesday 10 April)**
 
 #### Reading Schedule
 
@@ -378,7 +377,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 ### XII. Darwin: Evolutionary Debunking Arguments ###
 
-**Meeting Twenty Four (Wednesday 10 April) and Meeting Twenty Five (Monday 15 April) and Meeting Twenty Six (Wednesday 17 April)**
+**Meeting Twenty Three (Monday 15 April) and Meeting Twenty Four (Wednesday 17 April) and Meeting Twenty Five (Monday 22 April)**
 
 #### Overviews
 
@@ -400,7 +399,7 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
 ### XIII. Darwin: One Hundred and Fifty Years Later ###
 
-**Meeting Twenty Seven (Monday 29 April) and Meeting Twenty Eight (Wednesday 1 May)**
+**Meeting Twenty Six (Wednesday 24 April) and Meeting Twenty Seven (Monday 29 April) and Meeting Twenty Eight (Wednesday 1 May)**
 
 #### Primary Reading
 
@@ -417,4 +416,4 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 29 January 2012
+*Updated*: 4 March 2012
