@@ -52,7 +52,7 @@ laws recently defended by Schrenk, Callender and Cohen.
 
 > One part of the true theory of actual causation is a set of conditions responsible for eliminating all of the non-causes of an effect that can be discerned at the level of counterfactual structure.  I defend a proposal for this part of the theory.
 
-“Proportionality, Contrast and Explanation”, *under review*. \[[<span class="small">PDF</span>][41]\] \[[<span class="small">PhilPapers</span>][42]\]
+“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*, forthcoming. \[[<span class="small">PDF</span>][41]\] \[[<span class="small">PhilPapers</span>][42]\]
 
 > I explore the connections between the idea that causes must be proportional to their effects, the idea that causation is contrastive, and the idea that more general explanations are superior in one respect to less general explanations.
 
