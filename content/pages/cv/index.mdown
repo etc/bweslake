@@ -67,6 +67,10 @@ Philosophy of Mind
 ### papers published
 
 <div class="noteleft"><em>forthcoming</em></div>
+“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
+
+<div class="noteleft"><em>forthcoming</em></div>
 "Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
@@ -112,9 +116,6 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 
 “A Partial Theory of Actual Causation”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
-
-“Proportionality, Contrast and Explanation”.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
 
 ### encyclopædia entries
 
@@ -299,6 +300,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Philosophy of Science*  
 *Ratio*  
 *Social Epistemology*  
+*Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*  
 *Synthese*  
 *Theoria*  
 *Theory and Research in Education*  
@@ -313,4 +315,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 29 <span class="sc">jan</span> 2013
+*Updated*: 26 <span class="sc">mar</span> 2013
