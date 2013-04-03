@@ -358,7 +358,7 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 #### Primary Reading
 
 -   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2011. “Evolution without Naturalism”, in Jonathan L. Kvanvig (Ed), *Oxford Studies in Philosophy of Religion*, Oxford University Press, Oxford, Vol. 3, pp. 187–221.
-    \[[<span class="small">PDF</span>](http://philosophy.wisc.edu/sober/Evolution%20without%20naturalism%20dec%202008.pdf)\]
+    \[[<span class="small">PDF</span>](http://sober.philosophy.wisc.edu/selected-papers/ID-2011-evolution_without_naturalism.pdf)\]
 -   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Chance Variation: Darwin on Orchids”, in *Philosophy of Science*, Vol. 73, No. 5, December 2006, pp. 629–641.
     \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/518332)\]
 
