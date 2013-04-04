@@ -359,11 +359,11 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 
 -   [Elliott Sober](http://philosophy.wisc.edu/sober/). 2011. “Evolution without Naturalism”, in Jonathan L. Kvanvig (Ed), *Oxford Studies in Philosophy of Religion*, Oxford University Press, Oxford, Vol. 3, pp. 187–221.
     \[[<span class="small">PDF</span>](http://sober.philosophy.wisc.edu/selected-papers/ID-2011-evolution_without_naturalism.pdf)\]
--   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Chance Variation: Darwin on Orchids”, in *Philosophy of Science*, Vol. 73, No. 5, December 2006, pp. 629–641.
-    \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/518332)\]
 
 #### Secondary Reading
 
+-   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Chance Variation: Darwin on Orchids”, in *Philosophy of Science*, Vol. 73, No. 5, December 2006, pp. 629–641.
+    \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/518332)\]
 -   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Replaying Life's Tape”, in *Journal of Philosophy*, Vol. 103, No. 7, pp. 336–362.
     \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/beatty_life_tape.pdf)\]
 
@@ -416,4 +416,4 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 22 March 2012
+*Updated*: 4 April 2012
