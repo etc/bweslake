@@ -254,4 +254,92 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 <p><em>Secondary Reading</em><br/>
 <a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2007. &ldquo;Intelligent Design Theory and the Supernatural&mdash;The &ldquo;God or Extra-Terrestrials&rdquo; Reply&rdquo;, in <em>Faith and Philosophy</em>, Vol. 24, No. 1, January 2007, pp. 72&ndash;82. <span class="small">[<a href="http://www.pdcnet.org/collection/authorizedshow?id=faithphil_2007_0024_0001_0072_0082&file_type=pdf&page=1">PDF</a>]</span></p>
 
-*Updated*: 20 March 2013
+<h3>Section III: Conceptual Change</h3>
+
+<a name="l16"> </a>
+<p><strong>Lecture Sixteen (Monday 25 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections I&ndash;IV, pp. 1&ndash;42.</blockquote>
+
+<p><em>Secondary Reading</em><br/></p>
+
+<blockquote class="note">Postscript, Sections 1&ndash;3, pp. 174&ndash;191.</blockquote>
+
+<a name="l17"> </a>
+<p><strong>Lecture Seventeen (Wednesday 27 March)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections V&ndash;VIII, pp. 43&ndash;91.</blockquote>
+
+<a name="l18"> </a>
+<p><strong>Lecture Eighteen (Monday 1 April)</strong></p>
+
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Sections IX&ndash;X, pp. 92&ndash;135.</blockquote>
+
+<a name="l19"> </a>
+<p><strong>Lecture Nineteen (Wednesday 3 April)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. <em>The Structure of Scientific Revolutions</em>, University Of Chicago Press, Chicago, 3<sup>rd</sup> Ed, 1996.</p>
+
+<blockquote class="note">Section XI&ndash;XII, pp. 136&ndash;173.</blockquote>
+
+<a name="l20"> </a>
+<p><strong>Lecture Twenty (Monday 8 April)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1977. &ldquo;Objectivity, Value Judgment, and Theory Choice&rdquo;, in <em>The Essential Tension: Selected Studies in Scientific Tradition and Change</em>, University of Chicago Press, Chicago, 1977, pp. 320&ndash;339. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kuhn_objectivity.pdf">PDF</a>]</span></p>
+
+<a name="l21"> </a>
+<p><strong>Lecture Twenty One (Wednesday 10 April)</strong></p>
+
+<p><em>Primary Reading</em><br/><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1978. &ldquo;Theories, Theorists and Theoretical Change&rdquo;, in <em>The Philosophical Review</em>, Vol. 87, No. 4, October 1978, pp. 519&ndash;547. <span class="small">[<a href="http://dx.doi.org/10.2307/2184458">URI</a>]</span></p>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://plato.stanford.edu/entries/thomas-kuhn/">Kuhn, Thomas S</a>. 1983. &ldquo;Commensurability, Comparability, Communicability&rdquo;, in <em>Proceedings of the Biennial Meeting of the Philosophy of Science Association 1982</em>, Vol. 2, pp. 669-688. <span class="small">[<a href="http://www.jstor.org/stable/192452">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted in his <em>The Road Since Structure: Philosophical Essays</em>, James Conant and John Haugeland (Eds), University of Chicago Press, Chicago, 2000, pp. 669&ndash;688.</blockquote>
+
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1983. &ldquo;Implications of Incommensurability&rdquo;, in <em>Proceedings of the Biennial Meeting of the Philosophy of Science Association 1982</em>, Vol. 2, pp. 689-703. <span class="small">[<a href="http://www.jstor.org/stable/192453">URI</a>]</span></p>
+<a name="l22"> </a>
+
+<a name="l22"> </a>
+<p><strong>Lecture Twenty Two (Monday 15 April)</strong></p>
+
+<p><em>Kitcher, continued.</em></p>
+  
+<h3>Section IV: Realism and Anti-Realism</h3>
+
+<a name="l23"> </a>
+<p><strong>Lecture Twenty Three (Wednesday 17 April)</strong></p>
+
+<p><a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1981. &ldquo;A Confutation of Convergent Realism&rdquo;, in <em>Philosophy of Science</em>, Vol. 48, No. 1, March 1981, pp. 19&ndash;49. <span class="small">[<a href="http://www.jstor.org/stable/187066">URI</a>]</span></p>
+
+<a name="l24"> </a>
+<p><strong>Lecture Twenty Four (Monday 22 April)</strong></p>
+
+<p><a href="http://www.as.miami.edu/phi/lewis/index.htm">Lewis, Peter J</a>. 2001. &ldquo;Why The Pessimistic Induction Is A Fallacy&rdquo;, in <em> Synthese</em>, Vol. 129, No. 3, December 2001, pp. 371&ndash;380. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lewis_pessimistic_induction.pdf">PDF</a>]</span></p>
+
+<a name="l25"> </a>
+<p><strong>Lecture Twenty Five (Wednesday 24 April)</strong></p>
+
+<p>Jarrett Leplin. 2004. “A Theory’s Predictive Success Can Warrant Belief in the Unobservable Entities it Postulates”, in Christopher Hitchcock (Ed) <em>Contemporary Debates in Philosophy of Science</em>, Blackwell, Malden MA, pp. 117–132. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/leplin_theory_success.pdf">PDF</a>]</span></p>
+
+<a name="l26"> </a>
+<p><strong>Lecture Twenty Six (Monday 29 April)</strong></p>
+
+<p>André Kukla and Joel Walmsley. 2004. “A Theory’s Predictive Success does not Warrant Belief in the Unobservable Entities it Postulates”, in Christopher Hitchcock (Ed) <em>Contemporary Debates in Philosophy of Science</em>, Blackwell, Malden MA, pp. 133–148. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kukla_theory_success.pdf">PDF</a>]</span></p>
+
+<a name="l27"> </a>
+<p><strong>Lecture Twenty Seven (Wednesday 1 May)</strong></p>
+
+<p><a href="http://www.lps.uci.edu/lps_bios/stanford">P. Kyle Stanford</a>. 2000. “An Antirealist Explanation of the Success of Science”, in <em>Philosophy of Science</em>, Vol. 67, No. 2, June 2000, pp. 266–284. <span class="small">[<a href="http://dx.doi.org/10.1086/392775">URI</a>]</span> </p>
+
+<p><em>Secondary Reading</em><br/>
+<a href="http://www.lps.uci.edu/lps_bios/stanford">P. Kyle Stanford</a>. 2001. “Refusing the Devil’s Bargain: What Kind of Underdetermination Should We Take Seriously?”, in <em>Philosophy of Science</em>, Vol. 68, No. 3, Sept. 2001, S1–S12. <span class="small">[<a href="http://www.jstor.org/stable/3080930">URI</a>]</span></p>
+
+*Updated*: 6 April 2013
