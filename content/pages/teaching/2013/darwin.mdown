@@ -351,9 +351,9 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
 -   [Turner, Frank M](http://www.yale.edu/history/faculty/turner_f.html). 2010. “The late Victorian conflict of science and religion as an event in nineteenth-century intellectual and cultural history,” in Dixon, Cantor, and Pumfrey (2010, pp. 87–110).
     \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/turner_late_victorian_conflict.pdf)\]
 
-### X. Darwin: Evolution, Naturalism and Chance I
+### X. Darwin: Evolution, Naturalism and Chance
 
-**Meeting Twenty (Wednesday 3 April) and Meeting Twenty One (Monday 8 April)**
+**Meeting Twenty (Wednesday 3 April) and Meeting Twenty One (Monday 8 April) and Meeting Twenty Two (Wednesday 10 April)**
 
 #### Primary Reading
 
@@ -361,23 +361,15 @@ resources [here](http://www.library.rochester.edu/subject/philosophy).
     \[[<span class="small">PDF</span>](http://sober.philosophy.wisc.edu/selected-papers/ID-2011-evolution_without_naturalism.pdf)\]
 -   [Elliott Sober](http://philosophy.wisc.edu/sober/). forthcoming. “Evolutionary Theory, Causal Completeness, and Theism—the Case of “Guided” Mutation”, in Denis M. Walsh and P. Thompson (Eds), *Essays in Honor of Michael Ruse*, Cambridge University Press, Cambridge.
         \[[<span class="small">PDF</span>](http://sober.philosophy.wisc.edu/ID-2013-AccomodationismForRuseFest.pdf)\]
+-   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Chance Variation: Darwin on Orchids”, in *Philosophy of Science*, Vol. 73, No. 5, December 2006, pp. 629–641. \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/518332)\]
+- Darwin-Gray correspondence, letters [2125](http://www.darwinproject.ac.uk/entry-2125), [2129](http://www.darwinproject.ac.uk/entry-2129), [2136](http://www.darwinproject.ac.uk/entry-2136),  [2704](http://www.darwinproject.ac.uk/entry-2704), [2855](http://www.darwinproject.ac.uk/entry-2855), [2930](http://www.darwinproject.ac.uk/entry-2930), [2998](http://www.darwinproject.ac.uk/entry-2998), [3176](http://www.darwinproject.ac.uk/entry-3176), [4056](http://www.darwinproject.ac.uk/entry-4056), [4196](http://www.darwinproject.ac.uk/entry-4196), [4234](http://www.darwinproject.ac.uk/entry-4234), [6167](http://www.darwinproject.ac.uk/entry-6167) and [6206](http://www.darwinproject.ac.uk/entry-6206).
 
 #### Secondary Reading
 
--   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Chance Variation: Darwin on Orchids”, in *Philosophy of Science*, Vol. 73, No. 5, December 2006, pp. 629–641.
-    \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/518332)\]
 -   [Beatty, John](http://faculty.arts.ubc.ca/jbeatty/). 2006. “Replaying Life's Tape”, in *Journal of Philosophy*, Vol. 103, No. 7, pp. 336–362.
     \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/beatty_life_tape.pdf)\]
 
-### XI. Darwin: Evolution, Naturalism and Chance II
-
-**Meeting Twenty Two (Wednesday 10 April)**
-
-#### Reading Schedule
-
-- See supplement on [The Darwin–Gray Correspondence](./darwin-gray).
-
-### XII. Darwin: Evolutionary Debunking Arguments ###
+### XI. Darwin: Evolutionary Debunking Arguments ###
 
 **Meeting Twenty Three (Monday 15 April) and Meeting Twenty Four (Wednesday 17 April) and Meeting Twenty Five (Monday 22 April)**
 
@@ -399,7 +391,7 @@ Gerald McKenny, and Kathleen Eggleson (Eds), *Darwin in the
 Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5314/)\]
 - [Kelly James Clark](http://www.calvin.edu/academic/philosophy/faculty/clark/) and [Justin L. Barrett](http://www.fuller.edu/Academics/Faculty/Faculty-Members/Barrett,-Justin-L-.aspx). 2011. “Reidian Religious Epistemology and the Cognitive Science of Religion”, in *Journal of the American Academy of Religion*, Vol. 79, No. 3, Sept. 2011, pp. 639–675. \[[<span class="small">URI</span>](http://dx.doi.org/10.1093/jaarel/lfr008)\]
 
-### XIII. Darwin: One Hundred and Fifty Years Later ###
+### XII. Darwin: One Hundred and Fifty Years Later ###
 
 **Meeting Twenty Six (Wednesday 24 April) and Meeting Twenty Seven (Monday 29 April) and Meeting Twenty Eight (Wednesday 1 May)**
 
@@ -418,4 +410,4 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 4 April 2012
+*Updated*: 9 April 2012
