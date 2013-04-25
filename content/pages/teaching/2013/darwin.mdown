@@ -402,12 +402,10 @@ Notre Dame. \[[<span class="small">URI</span>](http://philsci-archive.pitt.edu/5
     pp. 117–166.
     \[[<span class="small">PDF</span>](http://reductioland.net/zuihitsu/protected/kitcher_mess_pottage.pdf)\]
     \[[<span class="small">LIBRARY</span>](http://catalog.lib.rochester.edu/vwebv/holdingsInfo?&bibId=3454426)\]
-
-#### Secondary Reading
-
+- [Lipton, Peter](http://www.hps.cam.ac.uk/people/lipton/). “Science and Religion: The Immersion Solution”, in Andrew Moore and Michael Scott (Eds), *Realism and Religion: Philosophical and Theological Perspectives*, Ashgate, Aldershot, pp. 31–46. \[[<span class="small">PDF</span>](http://www.hps.cam.ac.uk/people/lipton/science_and_religion.pdf)\]
 -   [Harrison, Peter](http://users.ox.ac.uk/~theo0038/biographies/bioharrison.htm). 2006. ““Science” and “Religion”: Constructing the Boundaries,” in *The Journal of Religion*, Vol. 86, No. 1, January 2006, pp. 81–106.
     \[[<span class="small">URI</span>](http://dx.doi.org/10.1086/497085)\]
 
     > Reprinted in Dixon, Cantor, and Pumfrey (2010, pp. 23–49).
 
-*Updated*: 9 April 2012
+*Updated*: 25 April 2013
