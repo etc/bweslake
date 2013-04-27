@@ -70,7 +70,7 @@ This course is an introduction to the epistemological side of philosophy of scie
 <thead></thead>
 <tbody>
 <tr><td>First Paper:  </td><td>Wednesday 6 March </td><td>Questions <span class="small">[<a href="http://goo.gl/2Jnz7">PDF</a>]</span></td></tr>
-<tr><td>Second Paper:  </td><td>Wednesday 1 May </td><td>Questions [<em>coming</em>]</td></tr>
+<tr><td>Second Paper:  </td><td>Friday 10 May </td><td>Questions <span class="small">[<a href="http://goo.gl/iFo2F">PDF</a>]</span></td></tr>
 </tbody>
 </table>
 </p>
