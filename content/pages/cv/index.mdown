@@ -68,13 +68,15 @@ Philosophy of Mind
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1080/00048402.2013.788045>  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
 
 <div class="noteleft"><em>forthcoming</em></div>
 "Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford.
+“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
 <div class="noteleft"><em>forthcoming</em></div>
 [McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht.
@@ -153,8 +155,9 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 
 ## presentations
 <div class="noteleft">2013</div>
-- *Explanation in Metaphysics*, Neuchâtel, 22-23 <span class="sc">jun</span>.
-- University of Pittsburgh, 29 <span class="sc">mar</span>.
+- *Causation: New Prospects*, Collège de France, Paris, 5-6 <span class="sc">dec</span>.
+- “Explanation and The Explanatory Gap”, *Explanation in Metaphysics*, Neuchâtel, 22-23 <span class="sc">jun</span>.
+- “Against Explanatory Fundamentalism”, University of Pittsburgh, 29 <span class="sc">mar</span>.
 - “Was Darwin a Materialist?”, Philosophy Colloquium, Nazareth College, 7 <span class="sc">feb</span>.
 - “Comments on Ned Hall, *Physical and Metaphysical Modality*”, *Back at the Ranch*, Tucson, 30 <span class="sc">jan</span>-3 <span class="sc">feb</span>.
 
@@ -287,6 +290,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 ### refereeing
 
 *American Philosophical Quarterly*  
+*Australasian Journal of Philosophy*  
 *British Journal for the Philosophy of Science*  
 *Canadian Journal of Philosophy*  
 *Dialectica*  
