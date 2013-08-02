@@ -122,6 +122,8 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 “A Partial Theory of Actual Causation”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
 
+“The Problem of Disjunctive Explanations”.
+
 ### encyclopædia entries
 
 <div class="noteleft"><em>forthcoming</em></div>
