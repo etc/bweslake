@@ -75,6 +75,9 @@ Philosophy of Mind
 "Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
+"Difference-Making, Closure and Exclusion", in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.
+
+<div class="noteleft"><em>forthcoming</em></div>
 “Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
@@ -288,6 +291,10 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 ## Service
 
+### advisory board
+
+*InVisible Culture*
+
 ### refereeing
 
 *American Philosophical Quarterly*  
@@ -297,6 +304,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Dialectica*  
 *Erkenntnis*  
 *International Studies in the Philosophy of Science*  
+*InVisible Culture*  
 *Journal for General Philosophy of Science*  
 *Oxford University Press*  
 *Philosophers' Imprint*  
