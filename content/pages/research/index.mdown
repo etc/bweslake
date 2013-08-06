@@ -27,23 +27,13 @@ Title: Brad Weslake &bull; Research
 
 ## Papers
 
-“Against Explanatory Fundamentalism”, *in preparation*. \[[<span class="small">SLIDES</span>][fundament]\]  
+“The Problem of Disjunctive Explanations”, *under review*. \[[<span class="small">PDF</span>][dis-pdf]\] \[[<span class="small">PhilPapers</span>][dis-philpapers]\]  
 
-> According to explanatory fundamentalism, non-fundamental scientific
-explanations are never superior to corresponding fundamental physical
-explanations. In this paper I evaluate the prospects for developing a
-principled rejection of fundamentalism. First, I argue that our
-theories of explanation should be non-fundamentalist. Second, I argue
-for an account of explanatory depth that I claim best explains why
-non-fundamentalism is true. Finally, I consider a difficult problem
-for the account, concerning explanations involving disjunctive
-properties that are intuitively unsatisfactory.  I criticise solutions
-to the problem formulated by Lewis, Woodward, and Strevens and Sober,
-and then defend a solution inspired by an account of non-fundamental
-laws recently defended by Schrenk, Callender and Cohen.
+> I present a problem for theories of explanation, concerning explanations involving disjunctive properties.  The problem is particular acute for the explanatory non-fundamentalist, according to whom non-fundamental scientific explanations are sometimes superior to fundamental physical explanations.  I criticise solutions to the problem due to Woodward, Strevens and Sober, and Lewis, and then defend a solution inspired by an account of non-fundamental laws recently defended by Callender and Cohen.
 
- [fundament]: http://goo.gl/dHS4E
-
+ [dis-pdf]: http://goo.gl/KyLmBC
+ [dis-philpapers]: http://goo.gl/4dQFJy
+ 
 “Exclusion Excluded”, *under review*. \[[<span class="small">PDF</span>][37]\] \[[<span class="small">PhilPapers</span>][38]\]
 
 > I argue that an independently attractive account of causation and causal explanation provides a principled resolution of the exclusion problem. 

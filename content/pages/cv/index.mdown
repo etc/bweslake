@@ -122,7 +122,8 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 “A Partial Theory of Actual Causation”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
 
-“The Problem of Disjunctive Explanations”.
+“The Problem of Disjunctive Explanations”.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
 
 ### encyclopædia entries
 
@@ -330,4 +331,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 2 <span class="sc">aug</span> 2013
+*Updated*: 6 <span class="sc">aug</span> 2013
