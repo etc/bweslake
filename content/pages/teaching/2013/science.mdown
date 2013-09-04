@@ -1,0 +1,325 @@
+Title: Brad Weslake &bull; Philosophy of Science
+Categories: teaching/2013
+Template: class
+Summary: A survey course on the metaphysics of science.
+
+# Philosophy of Science
+
+## Fall 2013
+
+<p align="center"><br/><img width="70%" src="http://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity">
+
+<blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo;, <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
+
+<p><a href="#details">Details</a> | <a href="#instructor">Instructor</a> | <a href="#overview">Overview</a> | <a href ="#assessment">Assessment</a> | <a href ="#schedule">Schedule</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a> | <a href="#l15">15</a> | <a href="#l16">16</a> | <a href="#l17">17</a> | <a href="#l18">18</a> | <a href="#l19">19</a> | <a href="#l20">20</a> | <a href="#l21">21</a> | <a href="#l22">22</a> | <a href="#l23">23</a> | <a href="#l24">24</a>  | <a href="#l25">25</a>  | <a href="#l26">26</a>  | <a href="#l27">27</a> ]</p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Codes</th><th>Location</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHL 252, PHL 252W, PHL 452</td><td><a href="https://maps.google.com/maps/place?ftid=0x89d6b4c809c79969:0x3dcc2a69866555a2">Morey Hall</a> 502</td><td>Mondays and Wednesdays, 12:30pm to 1:45pm</td></tr>
+</tbody>
+</table>
+
+<a name="instructor"> </a>
+<h3>Instructor</h3>
+<table class="names">
+<thead>
+<tr><th>Name</th><th>Email</th><th>Office</th><th>Consultation Times</th></tr>
+</thead>
+<tbody>
+<tr><td>Brad Weslake</td><td><a href="mailto:bradley.weslake@rochester.edu">bradley.weslake@rochester.edu</a></td><td>520 <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=lattimore+hall&amp;sll=43.123226,-77.62639&amp;sspn=0.016915,0.038581&amp;gl=us&amp;ie=UTF8&amp;hq=&amp;hnear=Lattimore+Hall,+Rochester,+Monroe,+New+York+14627&amp;ll=43.128058,-77.630564&amp;spn=0.004424,0.009645&amp;z=17">Lattimore Hall</a></td><td>Mondays, 11<span class="small">AM</span>&ndash;12<span class="small">PM</span></td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>This is a survey course in general philosophy of science, focussing on metaphysical questions concerning the nature of science.  Our questions: Do scientific explanations work because they tell us about laws, or because they tell us about causes, or for some other reason?  How should we understand scientific laws?  Do the laws of nature govern the world or simply encapsulate some interesting patterns in the world?  What is the relationship between lower level and higher level laws, and between lower level and higher level scientific theories?  The course may taken for upper level writing credit.</p>
+
+<a name="assessment"> </a>
+<h3>Assessment</h3>
+<p>Requirements:</p>
+<ul class="assess">
+<li>Fifteen 1&ndash;2 page weekly reading summaries.</li>
+<li>Two 6&ndash;8–10 page research papers. </li>
+</ul>
+
+<p>The final grade will be determined approximately as follows:</p>
+<table class="assess">
+<tbody>
+<tr><td>Reading Summaries: </td><td>15% </td></tr>
+<tr><td>First Research Paper: </td><td>35% </td></tr>
+<tr><td>Second Research Paper: </td><td>50% </td></tr>
+</tbody>
+</table>
+
+<p><em>Note</em>: Graduate students or students enrolled for upper level writing credit will be required to write longer papers. Graduate students will also be required to do additional reading and meet for an additional discussion section.</p>
+
+<p>Due dates:</p>
+<table class="assess">
+<tbody>
+<tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
+<tr><td>First Paper:  </td><td>Wednesday 24 October</td><td>Questions [<span class="small">coming</span>]</td></tr>
+<tr><td>Second Paper:  </td><td>TBA</td><td>Questions [<span class="small">coming</span>]</td></tr>
+</tbody>
+</table>
+
+<p>Paper guidelines <span class="small  ">[<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
+
+<a name="schedule"> </a>
+<h3>Schedule</h3>
+
+<a name="l1"> </a>
+<h4>Introductory Discussion (Wednesday 4 September)</h4>
+
+<h3>Section I: Explanation</h3>
+
+<h4>Overview</h4><p>
+<a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. &ldquo;Scientific Explanation&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2009. <span class="small">[<a href="http://plato.stanford.edu/entries/scientific-explanation/">URI</a>]</span></p>
+
+<a name="l2"> </a>
+<h4>Meeting Two (Monday 9 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.iep.utm.edu/h/hempel.htm">Hempel, Carl Gustav</a>. 1965. &ldquo;Aspects of Scientific Explanation&rdquo;, in <em> Aspects of Scientific Explanation and Other Essays in the Philosophy of Science</em>,  Free Press, New York, pp. 331&ndash;496. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/hempel_aspects_i-ii.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;1&ndash;&sect;2.</blockquote>
+
+<a name="l3"> </a>
+<h4>Meeting Three (Wednesday 11 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;Causal Explanation: Background and Criticism&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 152&ndash;186. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_background.pdf">PDF</a>]</span></p>
+
+<a name="l4"> </a>
+<h4>Meeting Four (Monday 16 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lewis_causal_explanation.pdf">PDF</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;8.1&ndash;&sect;8.4.</blockquote>
+
+<a name="l5"> </a>
+<h4>Meeting Five (Wednesday 18 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_equilibrium_explanation.pdf">PDF</a>]</span></p>
+
+<a name="l6"> </a>
+<h4>Meeting Six (Monday 23 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1989. &ldquo;Explanatory Unification and the Causal Structure of the World&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 410&ndash;505. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_unification_causal_structure_excerpts.pdf">EXCERPTS PDF</a>] [<a href="http://reductioland.net/zuihitsu/protected/kitcher_unification_causal_structure.pdf">FULL PDF</a>]</span></p>
+
+<blockquote class="note">Excerpted in Balashov, Yuri and Alexander Rosenberg. 2002. <em>Philosophy of Science: Contemporary Readings</em>, Routledge, London, pp. 71&ndash;91. Excerpts are mandatory, full paper optional.</blockquote>
+
+<a name="l7"> </a>
+<h4>Meeting Seven (Wednesday 25 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;8.5&ndash;&sect;8.11.</blockquote>
+
+<a name="l8"> </a>
+<h4>Meeting Eight (Monday 30 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2004. &ldquo;The Causal and Unification Approaches to Explanation Unified&mdash;Causally&rdquo;, in <em>No&ucirc;s</em>, Vol. 38, No. 1, March 2004, pp. 154&ndash;176. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1468-0068.2004.00466.x">URI</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://www.strevens.org/">Strevens, Michael</a>. &ldquo;The Kairetic Account of Difference-Making&rdquo; and &ldquo;The Kairetic Account of Explanation&rdquo;, in <em>Depth: An Account of Scientific Explanation</em>, Harvard University Press, Cambridge MA, 2008, pp. 69&ndash;141.</p>
+
+<a name="l9"> </a>
+<h4>Meeting Nine (Wednesday 2 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00426">URI</a>]</span></p>
+
+<p><em>No Class (Monday 7 October)</em></p>
+
+<a name="l10"> </a>
+<h4>Meeting Ten (Wednesday 9 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00435">URI</a>]</span></p>
+
+<a name="l11"> </a>
+<h4>Meeting Eleven (Monday 14 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://en.wikipedia.org/wiki/Frank_Cameron_Jackson">Jackson, Frank</a> and <a href="http://www.princeton.edu/~ppettit/">Philip Pettit</a>. 1992. &ldquo;In Defense of Explanatory Ecumenism&rdquo;, in <em>Economics and Philosophy</em>, Vol. 8, No. 1, April 1992, pp. 1&ndash;21. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/jackson_pettit_explanatory_ecumenism.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in Jackson, Frank, Philip Pettit, and Michael Smith. 2004. <em>Mind, Morality, and Explanation: Selected Collaborations</em>, Oxford University Press, Oxford, pp. 163&ndash;186.</blockquote>
+
+<a name="l12"> </a>
+<h4>Meeting Twelve (Wednesday 16 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="../../..">Weslake, Brad</a>. 2010. &ldquo;Explanatory Depth&rdquo;, in <em>Philosophy of Science</em>, Vol. 77, No. 2, April 2010, pp. 273&ndash;294. <span class="small">[<a href="http://dx.doi.org/10.1086/651316">URI</a>]</span></p> 
+
+<h5>Secondary</h5>
+<p><a href="http://pages.suddenlink.net/potochnik/index.html">Potochnik, Angela</a>. 2010. &ldquo;Levels of Explanation Reconceived&rdquo;, in <em>Philosophy of Science</em>, Vol. 77, No. 1, January 2010, pp. 59&ndash;72. <span class="small">[<a href="http://dx.doi.org/10.1086/650208">URI</a>]</span></p>
+
+<h3>Section II: Laws</h3>
+
+<h4>Overview</h4><p>
+<a href="http://www4.ncsu.edu/~carroll/hpage.htm">Carroll, John W</a>. &ldquo;Laws of Nature&rdquo;, in Edward N. Zalta (Ed), <em>Stanford Encyclopedia of Philosophy</em>, Stanford University, Stanford, 2006. <span class="small">[<a href="http://plato.stanford.edu/entries/laws-of-nature/">URI</a>]</span></p>
+
+<a name="l13"> </a>
+<h4>Meeting Thirteen (Monday 21 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://personal.lse.ac.uk/cartwrig/">Cartwright, Nancy</a>. 1994. &ldquo;Fundamentalism vs. the Patchwork of Laws&rdquo;, in <em>Proceedings of the Aristotelian Society</em>, Vol. 94, pp. 279&ndash;292. <span class="small">[<a href="http://www.jstor.org/stable/4545199">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted in Papineau, David (Ed). 1996. <em>The Philosophy of Science</em>, Oxford University Press, Oxford, pp. 314&ndash;326; and in Cartwright, Nancy. 1999. <em>The Dappled World: A Study of the Boundaries of Science</em>, Cambridge University Press, Cambridge, pp. 23&ndash;34.</blockquote>
+
+<p><a href="http://en.wikipedia.org/wiki/Lawrence_Sklar">Sklar, Lawrence</a>. 2003. &ldquo;Dappled Theories in a Uniform World&rdquo;, in <em>Philosophy of Science</em>, Vol. 70, No. 2, April 2003, pp. 424&ndash;441. <span class="small">[<a href="http://www.jstor.org/stable/3693274">URI</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://webs2002.uab.es/departament_filosofia/professorat2/carlhoefer.html">Hoefer, Carl</a>. 2003. &ldquo;For Fundamentalism&rdquo;, in <em>Philosophy of Science</em>, Vol. 70, No. 5, December 2003, pp. 1401&ndash;1412. <span class="small">[<a href="http://www.jstor.org/stable/3693190">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted with a reply by Nancy Cartwright in Hartmann, Stephan, Carl Hoefer, and Luc Bovens (Eds). 2008. <em>Nancy Cartwright's Philosophy of Science</em>, Routledge, New York, pp. 307&ndash;323.</blockquote>
+
+<a name="l14"> </a>
+<h4>Meeting Fourteen (Wednesday 23 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;5.1&ndash;&sect;5.5.</blockquote>
+
+<h5>Secondary</h5>
+<p><a href="http://www.unc.edu/~jtrosap/">Roberts, John T</a>. 2008. &ldquo;The Law-Governed World-Picture&rdquo;, in <em>The Law-Governed Universe</em>, Oxford University Press, Oxford, pp. 1&ndash;44. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/roberts_law_governed_picture.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;1.1&ndash;&sect;1.6.</blockquote>
+
+<a name="l15"> </a>
+<h4>Meeting Fifteen (Monday 28 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;The Regularity View of Laws&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 137&ndash;158. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_regularity.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Read Sections &sect;5.6&ndash;&sect;5.7.</blockquote>
+
+<h5>Secondary</h5>
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 1996. &ldquo;Humean Supervenience&rdquo;, in <em>Philosophical Topics</em>, Vol. 24, No. 1, Spring 1996, pp. 101&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/loewer_humean_supervenience.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted  in Carroll, John W (Ed). 2004. <em>Readings on Laws of Nature</em>, University of Pittsburgh Press, Pittsburgh, pp. 176&ndash;206.</blockquote>
+
+<a name="l16"> </a>
+<h4>Meeting Sixteen (Wednesday 30 October)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.phs.uoa.gr/~psillos/">Psillos, Stathis</a>. 2002. &ldquo;Laws as Relations Among Universals&rdquo;, in <em>Causation and Explanation</em>, McGill-Queen's University Press, Montreal, 2002, pp. 159&ndash;177. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/psillos_universals.pdf">PDF</a>]</span></p>
+
+<a name="l17"> </a>
+<h4>Meeting Seventeen (Monday 4 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www4.ncsu.edu/~carroll/hpage.htm">Carroll, John W</a>. 1990. &ldquo;The Humean Tradition&rdquo;, in <em>The Philosophical Review</em>, Vol. 99, No. 2, April 1990, pp. 185&ndash;219. <span class="small">[<a href="http://www.jstor.org/stable/2185489">URI</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://philosophy.unc.edu/people/faculty/marc-lange">Lange, Marc</a>. 2005. &ldquo;Laws and Their Stability&rdquo;, in <em>Synthese</em>, Vol. 144, No. 3, April 2005, pp. 415&ndash;432. <span class="small">[<a href="http://dx.doi.org/10.1007/s11229-005-5874-1">URI</a>]</span></p>
+
+<a name="l18"> </a>
+<h4>Meeting Eighteen (Wednesday 6 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.ptr.bham.ac.uk/staff/beebee.shtml">Beebee, Helen</a>. 2000. &ldquo;The Non-Governing Conception of Laws of Nature&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 61, No. 3, November 2000, pp. 571&ndash;594. <span class="small">[<a href="http://www.jstor.org/stable/2653613">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted  in Carroll, John W (Ed). 2004. <em>Readings on Laws of Nature</em>, University of Pittsburgh Press, Pittsburgh, pp. 250&ndash;276.</blockquote>
+
+<a name="l19"> </a>
+<h4>Meeting Nineteen (Monday 11 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/maudlin_modest_proposal.pdf">PDF</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://www.uark.edu/depts/philinfo/ward.html">Ward, Barry</a>. 2007. &ldquo;Laws, Explanation, Governing, and Generation&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 85, No. 4, December 2007, pp. 537&ndash;552. <span class="small">[<a href="http://dx.doi.org/10.1080/00048400701654853">URI</a>]</span></p>
+
+<a name="l20"> </a>
+<h4>Meeting Twenty (Wednesday 13 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.pitt.edu/~philosop/people/earman.html">Earman, John</a> and <a href="http://www.unc.edu/~jtrosap/">John T. Roberts</a>. 2005. &ldquo;Contact with the Nomic: A Challenge for Deniers of Humean Supervenience about Laws of Nature Part II: The Epistemological Argument for Humean Supervenience&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 71, No. 2, September 2005, pp. 253&ndash;286. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1933-1592.2005.tb00449.x">URI</a>]</span></p>
+
+<h3>Section III: Non-Fundamental Laws and Explanation</h3>
+
+<h4>Overview</h4><p><a href="http://www.doubtfulspecies.org/">Hamilton, Andrew</a>. 2007. &ldquo;Laws of Biology, Laws of Nature: Problems and (Dis)Solutions&rdquo;, in <em>Philosophy Compass</em>, Vol. 2, No. 3, May 2007, pp. 592&ndash;610. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1747-9991.2007.00087.x">URI</a>]</span></p>
+
+<a name="l21"> </a>
+<h4>Meeting Twenty One (Monday 18 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1974. &ldquo;Special Sciences (Or: The Disunity of Science as a Working Hypothesis)&rdquo;, in <em>Synthese</em>, 
+Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/fodor_special_sciences.pdf">PDF</a>]</span></p>
+
+<blockquote class="note">Reprinted in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, 1980, Vol. 1, pp. 120&ndash;133; Jerry A. Fodor, <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, 1983, pp. 127&ndash;145; Paul K. Moser and J. D. Trout (Eds), <em>Contemporary Materialism: A Reader</em>, Routledge, London, 1995, pp. 53&ndash;67; and Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 395&ndash;410.</blockquote>
+
+<a name="l22"> </a>
+<h4>Meeting Twenty Two (Wednesday 20 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.brown.edu/Departments/Philosophy/faculty/kim.html">Kim, Jaegwon</a>. 1992. &ldquo;Multiple Realization and the Metaphysics of Reduction&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 52, No. 1, March 1992, pp. 1&ndash;26. <span class="small">[<a href="http://www.jstor.org/pss/2107741">URI</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1997. &ldquo;Special Sciences: Still Autonomous After All These Years&rdquo;, in <em>No&ucirc;s</em>, Vol. 31, Supplement: Philosophical Perspectives, Vol. 11: Mind, Causation, and World, pp. 149&mdash;163. <span class="small">[<a href="http://doi.wiley.com/10.1111/0029-4624.31.s11.7">URI</a>]</span></p>
+
+<a name="l23"> </a>
+<h4>Meeting Twenty Three (Monday 25 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2009. &ldquo;Why is There Anything Except Physics?&rdquo;, in <em>Synthese</em>, Vol. 170, No. 2, September 2009, pp. 217&ndash;233. <span class="small">[<a href="http://dx.doi.org/10.1007/s11229-009-9580-2">URI</a>]</span></p>
+
+<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds) <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 1997. &ldquo;What Is &lsquo;The Problem of the Direction of Time&rsquo;?&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association Part II: Symposia Papers, December 1997, pp. S223&ndash;S234. <span class="small">[<a href="http://www.jstor.org/pss/188405">URI</a>]</span></p>
+
+<p><em>No Class (Wednesday 27 November)</em></p>
+
+<a name="l24"> </a>
+<h4>Meeting Twenty Four (Monday 2 December)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a> and <a href="http://aardvark.ucsd.edu/">Jonathan Cohen</a>. &ldquo;Special Sciences, Conspiracy and the Better Best System Account of Lawhood&rdquo;, forthcoming in <em>Erkenntnis</em>. <span class="small">[<a href="http://philosophy.ucsd.edu/faculty/ccallender/Callender%20Cohen.pdf">PDF</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a> and <a href="http://aardvark.ucsd.edu/">Jonathan Cohen</a>. 2009. &ldquo;A Better Best System Theory of Lawhood&rdquo;, in <em>Philosophical Studies</em>, Vol. 145, No. 1, pp. 1&ndash;34. <span class="small">[<a href="http://dx.doi.org/10.1007/s11098-009-9389-3">URI</a>]</span></p>
+
+<p><a href="http://www.philosophy.umd.edu/Faculty/mfrisch/">Mathias Frisch</a>, &ldquo;From Arbuthnot to Boltzmann: The Past-hypothesis, the Best System, and the Special Sciences&rdquo;. <span class="small">[<a href="http://www.philosophy.umd.edu/Faculty/mfrisch/papers/lewis.pdf">PDF</a>]</span></p>
+
+<a name="l25"> </a>
+<h4>Meeting Twenty Five (Wednesday 4 December)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2008. &ldquo;Physically Contingent Laws and Counterfactual Support&rdquo;, in <em>Philosophers' Imprint</em>, Vol. 8, No. 8, August 2008, pp. 1&ndash;20. <span class="small">[<a href="http://hdl.handle.net/2027/spo.3521354.0008.008">URI</a>]</span></p>
+
+<h5>Secondary</h5>
+<p><a href="http://www.fas.harvard.edu/~phildept/hall.html">Hall, Ned</a>. 2005. &ldquo;Causation and Ceteris Paribus Laws&rdquo;, in <em>The Harvard Review of Philosophy</em>, Vol. 13, No. 1, Spring 2005, pp. 80&ndash;99. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/hall_causation_ceteris_paribus_laws.pdf">PDF</a>]</span></p>
+
+<a name="l26"> </a>
+<h4>Meeting Twenty Six (Monday 9 December)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.unc.edu/people/faculty/marc-lange">Lange, Marc</a>. 2002. &ldquo;Who's Afraid of <em>Ceteris-Paribus</em> Laws? Or: How I Learned to Stop Worrying and Love Them&rdquo;, in <em>Erkenntnis</em>, Vol. 57, No. 3, November 2002, pp. 407&ndash;423. <span class="small">[<a href="http://dx.doi.org/10.1023/A:1021546731582">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell (Eds). 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 131&ndash;147.</blockquote>
+
+<a name="l27"> </a>
+<h4>Meeting Twenty Seven (Wednesday 11 December)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2002. &ldquo;There is No Such Thing as a <em>Ceteris Paribus</em> Law&rdquo;, in <em>Erkenntnis</em>, Vol. 57, No. 3, November 2002, pp. 303&ndash;328. <span class="small">[<a href="http://dx.doi.org/10.1023/A:1021578127039">URI</a>]</span></p>
+
+<blockquote class="note">Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell (Eds). 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 27&ndash;52.</blockquote>
+
+*Updated*: 4 September 2013
