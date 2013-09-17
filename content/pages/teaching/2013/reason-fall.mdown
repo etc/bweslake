@@ -129,7 +129,7 @@ This course is an introduction to the epistemological side of philosophy of scie
 <a name="l6"> </a>
 <p><strong>Lecture Six (Monday 23 September)</strong></p>
 
-<p><em>Primary Reading</em><br/><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974,  pp. 96&ndash;102. <span class="small">[<a href="http://www.lse.ac.uk/collections/lakatos/scienceAndPseudoscienceTranscript.htm">URI</a>]</span></p>
+<p><em>Primary Reading</em><br/><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974,  pp. 96&ndash;102. <span class="small">[<a href="http://goo.gl/qpmxbO">URI</a>]</span></p>
 
 <blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7.  This lecture is also available as an <a href="http://richmedia.lse.ac.uk/philosophy/2002_LakatosScienceAndPseudoscience128.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
 
@@ -342,4 +342,4 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 
 <p><em>Wrap-up discussion.</em></p>
 
-*Updated*: 4 September 2013
+*Updated*: 16 September 2013
