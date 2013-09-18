@@ -101,34 +101,37 @@ Summary: A survey course on the metaphysics of science.
 <p><a href="http://philosophy.princeton.edu/david_lewis.html">Lewis, David</a>. 1986. &ldquo;Causal Explanation&rdquo;, in <em>Philosophical Papers</em>, Vol. II, Oxford University Press, Oxford, pp. 214&ndash;240. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lewis_causal_explanation.pdf">PDF</a>]</span></p>
 
 <h5>Secondary</h5>
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
-
-<blockquote class="note">Read Sections &sect;8.1&ndash;&sect;8.4.</blockquote>
+<p><a href="http://web.mit.edu/bskow/www/">Skow, Brad</a>. forthcoming. &ldquo;Are There Non-Causal Explanations (of Particular Events)?&rdquo;, in <em>British Journal for the Philosophy of Science</em>. <span class="small">[<a href="http://http://dx.doi.org/10.1093/bjps/axs047">URI</a>]</span></p>
 
 <a name="l5"> </a>
 <h4>Meeting Five (Wednesday 18 September)</h4>
 
-<h5>Primary</h5>
-<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_equilibrium_explanation.pdf">PDF</a>]</span></p>
+<p><em>Woodward and Lewis, continued.</em></p>
 
 <a name="l6"> </a>
 <h4>Meeting Six (Monday 23 September)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.wisc.edu/sober/">Sober, Elliott</a>. 1983. &ldquo;Equilibrium Explanation&rdquo;, in <em>Philosophical Studies</em>, Vol. 43, No. 2, March 1983, pp. 201&ndash;210. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_equilibrium_explanation.pdf">PDF</a>]</span></p>
+
+<a name="l7"> </a>
+<h4>Meeting Seven (Wednesday 25 September)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://www.columbia.edu/cu/philosophy/fac-bios/kitcher_philip/faculty.html">Kitcher, Philip</a>. 1989. &ldquo;Explanatory Unification and the Causal Structure of the World&rdquo;, in Philip Kitcher and Wesley Salmon (Eds), <em>Scientific Explanation</em>, Minnesota Studies in the Philosophy of Science, Vol. 13, University of Minnesota Press, Minneapolis, pp. 410&ndash;505. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/kitcher_unification_causal_structure_excerpts.pdf">EXCERPTS PDF</a>] [<a href="http://reductioland.net/zuihitsu/protected/kitcher_unification_causal_structure.pdf">FULL PDF</a>]</span></p>
 
 <blockquote class="note">Excerpted in Balashov, Yuri and Alexander Rosenberg. 2002. <em>Philosophy of Science: Contemporary Readings</em>, Routledge, London, pp. 71&ndash;91. Excerpts are mandatory, full paper optional.</blockquote>
 
-<a name="l7"> </a>
-<h4>Meeting Seven (Wednesday 25 September)</h4>
+<a name="l8"> </a>
+<h4>Meeting Eight (Monday 30 September)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a>. 2003. &ldquo;The Causal Mechanical and Unificationist Models of Explanation&rdquo;, in <em> Making Things Happen: A Theory of Causal Explanation</em>,  Oxford University Press, Oxford, pp. 350&ndash;373. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/woodward_causal_mechanical_unification.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Read Sections &sect;8.5&ndash;&sect;8.11.</blockquote>
 
-<a name="l8"> </a>
-<h4>Meeting Eight (Monday 30 September)</h4>
+<a name="l9"> </a>
+<h4>Meeting Nine (Wednesday 2 October)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2004. &ldquo;The Causal and Unification Approaches to Explanation Unified&mdash;Causally&rdquo;, in <em>No&ucirc;s</em>, Vol. 38, No. 1, March 2004, pp. 154&ndash;176. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1468-0068.2004.00466.x">URI</a>]</span></p>
@@ -136,18 +139,14 @@ Summary: A survey course on the metaphysics of science.
 <h5>Secondary</h5>
 <p><a href="http://www.strevens.org/">Strevens, Michael</a>. &ldquo;The Kairetic Account of Difference-Making&rdquo; and &ldquo;The Kairetic Account of Explanation&rdquo;, in <em>Depth: An Account of Scientific Explanation</em>, Harvard University Press, Cambridge MA, 2008, pp. 69&ndash;141.</p>
 
-<a name="l9"> </a>
-<h4>Meeting Nine (Wednesday 2 October)</h4>
-
-<h5>Primary</h5>
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00426">URI</a>]</span></p>
-
 <p><em>No Class (Monday 7 October)</em></p>
 
 <a name="l10"> </a>
 <h4>Meeting Ten (Wednesday 9 October)</h4>
 
 <h5>Primary</h5>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00426">URI</a>]</span></p>
+
 <p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00435">URI</a>]</span></p>
 
 <a name="l11"> </a>
@@ -322,4 +321,4 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 
 <blockquote class="note">Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell (Eds). 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 27&ndash;52.</blockquote>
 
-*Updated*: 4 September 2013
+*Updated*: 18 September 2013
