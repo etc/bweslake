@@ -124,22 +124,17 @@ This course is an introduction to the epistemological side of philosophy of scie
 <a name="l5"> </a>
 <p><strong>Lecture Five (Wednesday 18 September)</strong></p>
 
-<p><em>Popper, Kuhn and Putnam, continued.</em></p>
+<p><em>Primary Reading</em><br/><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974,  pp. 96&ndash;102. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lakatos-science-pseudoscience.pdf">PDF</a>]</span></p>
 
-<a name="l6"> </a>
-<p><strong>Lecture Six (Monday 23 September)</strong></p>
-
-<p><em>Primary Reading</em><br/><a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1974. &ldquo;Science and Pseudoscience&rdquo;, in Godfrey Vesey (Ed), Philosophy in the Open, Open University Press, 1974,  pp. 96&ndash;102. <span class="small">[<a href="http://goo.gl/qpmxbO">URI</a>]</span></p>
-
-<blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7.  This lecture is also available as an <a href="http://richmedia.lse.ac.uk/philosophy/2002_LakatosScienceAndPseudoscience128.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
+<blockquote class="note">Reprinted in Imre Lakatos, <em>The Methodology of Scientific Research Programmes</em>, Philosophical Papers, Volume 1, Cambridge University Press, Cambridge, 1977, pp. 1&ndash;7; and in Martin Curd, Jan A. Cover, and Christopher Pincock (Eds), <em>Philosophy of Science: The Central Issues</em>, 2nd edition, W. W. Norton, New York, 2012. The lecture is also available as an <a href="http://richmedia.lse.ac.uk/philosophy/2002_LakatosScienceAndPseudoscience128.mp3">MP3</a>, as delivered by Lakatos and originally broadcast on 30 June 1973.</blockquote>
 
 <p><em>Secondary Reading</em><br/>
 <a href="http://www.lse.ac.uk/collections/lakatos/">Lakatos, Imre</a>. 1970. &ldquo;Falsification and the Methodology of Scientific Research Programmes&rdquo;, in Lakatos, Imre, and Alan Musgrave, <em>Criticism and the Growth of Knowledge</em>, Proceedings of the International Colloquium in the Philosophy of Science, Volume 4, Cambridge University Press, Cambridge, 1970, pp. 91&ndash;196. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/lakatos_falsification_methodology.pdf">PDF</a>]</span></p>
 
 <p><a href="http://www.lse.ac.uk/collections/philosophyLogicAndScientificMethod/WhosWho/staffhomepages/worrall.htm">Worrall, John</a>. 2003. &ldquo;Normal Science and Dogmatism, Paradigms and Progress: Kuhn &lsquo;versus&rsquo; Popper and Lakatos&rdquo;, in Thomas Nickles, <em>Thomas Kuhn</em>, Contemporary Philosophy in Focus, Cambridge University Press, Cambridge, 2003, pp. 65&ndash;100. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/worrall_kuhn_versus_popper_lakatos.pdf">PDF</a>]</span></p>
 
-<a name="l7"> </a>
-<p><strong>Lecture Seven (Wednesday 25 September)</strong></p>
+<a name="l6"> </a>
+<p><strong>Lecture Six (Monday 23 September)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://cogsci.uwaterloo.ca/Biographies/pault.html">Thagard, Paul R</a>. 1978. &ldquo;Why Astrology is a Pseudoscience&rdquo;, in <em>PSA: Proceedings of the Biennial Meeting of the Philosophy of Science Association</em>, Volume One: Contributed Papers, 1978, pp. 223&ndash;234. <span class="small">[<a href="http://links.jstor.org/sici?sici=0270-8647(1978)1978%3C223%3AWAIAP%3E2.0.CO%3B2-W">URI</a>]</span></p>
@@ -148,8 +143,8 @@ This course is an introduction to the epistemological side of philosophy of scie
 <a href="http://en.wikipedia.org/wiki/Lynn_Thorndike">Thorndike, Lynn</a>. 1955. &ldquo;The True Place of Astrology in the History of Science&rdquo;, in <em>Isis</em>, Vol. 46, No. 3, September 1955, pp. 273&ndash;278. <span class="small">[<a href="http://www.jstor.org/stable/226346">URI</a>]</span>
 </p>
 
-<a name="l8"> </a>
-<p><strong>Lecture Eight (Monday 30 September)</strong></p>
+<a name="l7"> </a>
+<p><strong>Lecture Seven (Wednesday 25 September)</strong></p>
 
 <p><em>Primary Reading</em><br/>
 <a href="http://www.pragmatism.org/library/laudan/laudan.htm">Laudan, Larry</a>. 1983. &ldquo;The Demise of the Demarcation Problem&rdquo;, in Robert S. Cohen and Larry Laudan (Ed.), <em>Physics, Philosophy and Psychoanalysis: Essays in Honor of Adolf Gr&uuml;nbaum</em>, Boston Studies in the Philosophy of Science, Volume 76, Reidel, Dordrecht, pp. 111&ndash;127. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/laudan_demise.pdf">PDF</a>]</span></p>
@@ -160,6 +155,12 @@ Reprinted in Laudan, Larry, <em>Beyond Positivism and Relativism: Theory, Method
 <p><em>Secondary Reading</em><br/>
 <a href="http://www.indiana.edu/~soc/zbio_Gieryn.shtml">Gieryn, Thomas F</a>. 1983. &ldquo;Boundary-Work and the Demarcation of Science from Non-Science: Strains and Interests in Professional Ideologies of Scientists&rdquo;, in <em>American Sociological Review</em>, Vol. 48, No. 6, December 1983, pp. 781&ndash;795. <span class="small">[<a href="http://dx.doi.org/10.2307/2095325">URI</a>]</span>
 </p>
+
+<a name="l8"> </a>
+<p><strong>Lecture Eight (Monday 30 September)</strong></p>
+
+<p><em>Primary Reading</em><br/>
+<a href="http://en.wikipedia.org/wiki/Massimo_Pigliucci">Massimo Pigliucci</a>. 2013. &ldquo;The Demarcation Problem: A (Belated) Response to Laudan&rdquo;, in Massimo Pigliucci and Maarten Boudry (Eds), <em>Philosophy of Pseudoscience: Reconsidering the Demarcation Problem</em>, University of Chicago Press, Chicago, 2013, pp. 9–28. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/pigliucci-reply-laudan.pdf">PDF</a>]</span></p>
 
 <h3>Section II: Intelligent Design and the Demarcation Problem</h3>
 
@@ -342,4 +343,4 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 
 <p><em>Wrap-up discussion.</em></p>
 
-*Updated*: 16 September 2013
+*Updated*: 18 September 2013
