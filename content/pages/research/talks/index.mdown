@@ -7,14 +7,33 @@ Template: talks
 
 ### Upcoming ###
 
+11 October  
+“Explanation and The Explanatory Gap”  
+[Marist College][marist]
+
+5–6 December  
+“Why Think Causally?”  
+*Causation: New Prospects*  
+[Collège de France][cdf]  
+Paris
+
+27 February  
+Session on Temporal Passage  
+[Central APA][centralapa]  
+Chicago
+
+[centralapa]: http://www.apaonline.org/events/event_details.asp?id=318165 "Central APA"
+[marist]: http://www.marist.edu/liberalarts/philrel/ "Marist College: Philosophy and Religious Studies"
+[cdf]: http://www.college-de-france.fr/site/en-college/ "Collège de France"
+
+### Previous ###
+
 22-23 June 2013  
+“Explanation and The Explanatory Gap”  
 [Explanation in Metaphysics][neuchatel]  
 Neuchâtel
 
-[pitt]: http://www.philosophy.pitt.edu/ "Pittsburgh Philosophy"
 [neuchatel]: http://www.facebook.com/event.php?eid=483994068310621 "Explanation in Metaphysics"
-
-### Previous ###
 
 29 March 2013  
 “Against Explanatory Fundamentalism”  
