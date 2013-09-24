@@ -1,5 +1,5 @@
 Title: Brad Weslake &bull; Resources
-Categories: research/resources
+Categories: resources
 Summary: Resources.
 Template: research
 

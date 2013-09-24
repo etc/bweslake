@@ -1,7 +1,5 @@
 /
-research
-  research/talks
-  research/resources
+cv
 teaching
   teaching/2013
     teaching/2013/darwin
@@ -44,5 +42,5 @@ teaching
   teaching/resources
     teaching/resources/darwin
     teaching/resources/mind
-cv
+resources
 blog
