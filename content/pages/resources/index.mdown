@@ -1,7 +1,7 @@
 Title: Brad Weslake &bull; Resources
 Categories: resources
 Summary: Resources.
-Template: research
+Template: resources
 
 # Resources
 
@@ -52,4 +52,4 @@ Other things I find useful:
 
 A short note on the tools used to construct this site can be found [here][note].
 
- [note]: ../../blog/a-note-on-this-site
+ [note]: ../blog/a-note-on-this-site
