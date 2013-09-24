@@ -38,10 +38,10 @@ Philosophy of Mind
 
 ## Publications
 
-### books edited
+### books
 
 <div class="noteleft"><em>forthcoming</em></div>
-[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds). Harvard University Press, Cambridge MA, *forthcoming*.
+[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds). Harvard University Press, Cambridge MA.
 
 > A collection of newly commissioned papers on themes
 > from [David Albert][3]'s *[Time and Chance][4]* (<span class="sc">hup</span>, 2000), with replies by Albert.
@@ -64,7 +64,11 @@ Philosophy of Mind
  [13]: http://users.ox.ac.uk/~mert0130/
  [14]: ../
 
-### papers published
+### papers
+
+<div class="noteleft"><em>forthcoming</em></div>
+“A Partial Theory of Actual Causation”, in *The British Journal for the Philosophy of Science*.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*.  
@@ -72,17 +76,19 @@ Philosophy of Mind
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
 
 <div class="noteleft"><em>forthcoming</em></div>
-"Causation, Counterfactual Dependence and The Transition Problem", in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
+“Causation, Counterfactual Dependence and The Transition Problem”, in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
-"Difference-Making, Closure and Exclusion", in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.
+“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
-<div class="noteleft"><em>forthcoming</em></div>
-[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht.
+<div class="noteleft">2013</div>
+[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht, pp. 101–119.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1007/978-94-007-6537-5_6>
 
 <div class="noteleft">2010</div>
 “Explanatory Depth”, in *Philosophy of Science*,
@@ -119,16 +125,13 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 “Exclusion Excluded”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
 
-“A Partial Theory of Actual Causation”.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
-
 “The Problem of Disjunctive Explanations”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
 
 ### encyclopædia entries
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Regularity Theories of Causation”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford, *forthcoming*.
+“Regularity Theories of Causation”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford.
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Scientific Explanation”, in Duncan Pritchard (Ed), *Oxford Bibliographies in Philosophy*, Oxford University Press, Oxford.
@@ -161,7 +164,8 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 
 ## presentations
 <div class="noteleft">2013</div>
-- *Causation: New Prospects*, Collège de France, Paris, 5-6 <span class="sc">dec</span>.
+- “Why Think Causally?”, *Causation: New Prospects*, Collège de France, Paris, 5-6 <span class="sc">dec</span>.
+- “Explanation and The Explanatory Gap”, Colloquium, Marist College, 11 <span class="sc">oct</span>.
 - “Explanation and The Explanatory Gap”, *Explanation in Metaphysics*, Neuchâtel, 22-23 <span class="sc">jun</span>.
 - Invited participant, *The Passage of Time*, MIT, 19 <span class="sc">jun</span>.
 - “Against Explanatory Fundamentalism”, University of Pittsburgh, 29 <span class="sc">mar</span>.
@@ -331,4 +335,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 6 <span class="sc">aug</span> 2013
+*Updated*: 24 <span class="sc">sep</span> 2013
