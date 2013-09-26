@@ -83,7 +83,7 @@ Philosophy of Mind
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Asymmetries of Chance and Time*, Oxford University Press, Oxford.  
+“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Chance and Temporal Asymmetry*, Oxford University Press, Oxford.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
 <div class="noteleft">2013</div>
@@ -335,4 +335,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 24 <span class="sc">sep</span> 2013
+*Updated*: 26 <span class="sc">sep</span> 2013
