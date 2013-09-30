@@ -134,10 +134,7 @@ Summary: A survey course on the metaphysics of science.
 <h4>Meeting Nine (Wednesday 2 October)</h4>
 
 <h5>Primary</h5>
-<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2004. &ldquo;The Causal and Unification Approaches to Explanation Unified&mdash;Causally&rdquo;, in <em>No&ucirc;s</em>, Vol. 38, No. 1, March 2004, pp. 154&ndash;176. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1468-0068.2004.00466.x">URI</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://www.strevens.org/">Strevens, Michael</a>. &ldquo;The Kairetic Account of Difference-Making&rdquo; and &ldquo;The Kairetic Account of Explanation&rdquo;, in <em>Depth: An Account of Scientific Explanation</em>, Harvard University Press, Cambridge MA, 2008, pp. 69&ndash;141.</p>
+<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00426">URI</a>]</span></p>
 
 <p><em>No Class (Monday 7 October)</em></p>
 
@@ -145,8 +142,6 @@ Summary: A survey course on the metaphysics of science.
 <h4>Meeting Ten (Wednesday 9 October)</h4>
 
 <h5>Primary</h5>
-<p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part I: A Counterfactual Account&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 1, March 2003, pp. 1&ndash;24. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00426">URI</a>]</span></p>
-
 <p><a href="http://www.hss.caltech.edu/people/faculty/jfw">Woodward, James</a> and <a href="http://www.hss.caltech.edu/people/faculty/cricky">Hitchcock, Christopher</a>. 2003. &ldquo;Explanatory Generalizations, Part II: Plumbing Explanatory Depth&rdquo;, in <em>No&ucirc;s</em>, Vol. 37, No. 2, June 2003, pp. 181&ndash;199. <span class="small">[<a href="http://dx.doi.org/10.1111/1468-0068.00435">URI</a>]</span></p>
 
 <a name="l11"> </a>
@@ -321,4 +316,4 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 
 <blockquote class="note">Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell (Eds). 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 27&ndash;52.</blockquote>
 
-*Updated*: 18 September 2013
+*Updated*: 30 September 2013
