@@ -62,7 +62,7 @@ Summary: A survey course on the metaphysics of science.
 <table class="assess">
 <tbody>
 <tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
-<tr><td>First Paper:  </td><td>Wednesday 24 October</td><td>Questions [<span class="small">coming</span>]</td></tr>
+<tr><td>First Paper:  </td><td>Wednesday 30 October</td><td>Questions <span class="small">[<a href="http://goo.gl/BwukGu">PDF</a>]</span></p></td></tr>
 <tr><td>Second Paper:  </td><td>TBA</td><td>Questions [<span class="small">coming</span>]</td></tr>
 </tbody>
 </table>
@@ -147,7 +147,9 @@ Summary: A survey course on the metaphysics of science.
 <a name="l11"> </a>
 <h4>Meeting Eleven (Monday 14 October)</h4>
 
-<h5>Primary</h5>
+<em>Woodward and Hitchcock continued</em>
+
+<h5>Secondary</h5>
 <p><a href="http://en.wikipedia.org/wiki/Frank_Cameron_Jackson">Jackson, Frank</a> and <a href="http://www.princeton.edu/~ppettit/">Philip Pettit</a>. 1992. &ldquo;In Defense of Explanatory Ecumenism&rdquo;, in <em>Economics and Philosophy</em>, Vol. 8, No. 1, April 1992, pp. 1&ndash;21. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/jackson_pettit_explanatory_ecumenism.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">Reprinted in Jackson, Frank, Philip Pettit, and Michael Smith. 2004. <em>Mind, Morality, and Explanation: Selected Collaborations</em>, Oxford University Press, Oxford, pp. 163&ndash;186.</blockquote>
@@ -316,4 +318,4 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 
 <blockquote class="note">Reprinted in Earman, John, Clark Glymour, and Sandra Mitchell (Eds). 2003. <em>Ceteris Paribus Laws</em>, Kluwer, Dordrecht, pp. 27&ndash;52.</blockquote>
 
-*Updated*: 30 September 2013
+*Updated*: 9 October 2013
