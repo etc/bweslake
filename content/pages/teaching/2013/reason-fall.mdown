@@ -50,7 +50,7 @@ This course is an introduction to the epistemological side of philosophy of scie
 <h3>Assessment</h3>
 <p>Requirements:</p>
 <ul class="assess">
-<li>Participation in class and online discussion.</li>
+<li>Participation in class.</li>
 <li>Fifteen 1&ndash;2 page weekly reading summaries.</li>
 <li>Two 6&ndash;8 page research papers.</li>
 </ul>
@@ -343,4 +343,4 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 
 <p><em>Wrap-up discussion.</em></p>
 
-*Updated*: 9 October 2013
+*Updated*: 16 October 2013
