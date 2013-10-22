@@ -232,29 +232,25 @@ Watch <a href="http://www.millerandlevine.com/km/">Kenneth R. Miller</a> present
 <a name="l13"> </a>
 <p><strong>Lecture Thirteen (Monday 21 October)</strong></p>
 
-<p><em>Sober, continued.</em></p>
+<p><em>Primary Reading</em><br/>
+<a href="http://bradleymonton.com/">Monton, Bradley</a>. 2009. &ldquo;Why It Is Legitimate to Treat Intelligent Design as Science&rdquo;, in <em>Seeking God in Science: An Atheist Defends Intelligent Design</em>, Broadview, Peterborough ON, Chapter 2, pp. 47&ndash;74. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/monton_is_id_science.pdf">PDF</a>]</span></p>
+
+<p><em>Multimedia</em><br/>
+For some of the background on the readings for this class and next, see the PBS documentary <em>Judgment Day: Intelligent Design on Trial</em>, available in full <a href="http://www.pbs.org/wgbh/nova/evolution/intelligent-design-trial.html">here</a>.</p>
 
 <a name="l14"> </a>
 <p><strong>Lecture Fourteen (Wednesday 23 October)</strong></p>
 
-<p><em>Primary Reading</em><br/>
-<a href="http://bradleymonton.com/">Monton, Bradley</a>. 2009. &ldquo;Why It Is Legitimate to Treat Intelligent Design as Science&rdquo;, in <em>Seeking God in Science: An Atheist Defends Intelligent Design</em>, Broadview, Peterborough ON, Chapter 2, pp. 47&ndash;74. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/monton_is_id_science.pdf">PDF</a>]</span></p>
-
-<p><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, forthcoming in <em>Synthese</em>. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/pennock_demarcation_revisited.pdf">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br/><a href="https://www.msu.edu/~pennock5/">Pennock, Robert</a>. &ldquo;Can't Philosophers Tell the Difference Between Science and Religion? Demarcation Revisited&rdquo;, in <em>Synthese</em>, Vol. 178, No. 2, Jan. 2011, pp. 177–206. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/pennock_demarcation_revisited.pdf">PDF</a>]</span></p>
 
 <blockquote class="note">
 Reprinted in Michael Ruse and Robert T. Pennock (Eds), <em>But is it Science? The Philosophical Question in the Creation/Evolution Controversy</em>, Prometheus Books, Buffalo NY, 2nd Ed, 2008.</blockquote>
 
-<p><em>Multimedia</em><br/>
-For some of the background on this exchange, see the PBS documentary <em>Judgment Day: Intelligent Design on Trial</em>, available in full <a href="http://www.pbs.org/wgbh/nova/id/program.html">here</a>.</p>
-
 <a name="l15"> </a>
 <p><strong>Lecture Fifteen (Monday 28 October)</strong></p>
 
-<p><em>Monton and Pennock, continued.</em></p>
-
-<p><em>Secondary Reading</em><br/>
-<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2007. &ldquo;Intelligent Design Theory and the Supernatural&mdash;The &ldquo;God or Extra-Terrestrials&rdquo; Reply&rdquo;, in <em>Faith and Philosophy</em>, Vol. 24, No. 1, January 2007, pp. 72&ndash;82. <span class="small">[<a href="http://www.pdcnet.org/collection/authorizedshow?id=faithphil_2007_0024_0001_0072_0082&file_type=pdf&page=1">PDF</a>]</span></p>
+<p><em>Primary Reading</em><br/>
+<a href="http://philosophy.wisc.edu/sober/">Elliott Sober</a>. 2007. &ldquo;Why Methodological Naturalism?&rdquo;, in Gennaro Auletta, Marc Leclerc, and Rafael A. Martínez (Eds), <em>Biological Evolution: Facts and Theories: A Critical Appraisal 150 Years After “The Origin of Species”</em>, Gregorian Biblical Press, Rome, pp. 359–378. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/sober_why-methodological-naturalism.pdf">PDF</a>]</span></p>
 
 <h3>Section III: Conceptual Change</h3>
 
@@ -343,4 +339,4 @@ For some of the background on this exchange, see the PBS documentary <em>Judgmen
 
 <p><em>Wrap-up discussion.</em></p>
 
-*Updated*: 16 October 2013
+*Updated*: 22 October 2013
