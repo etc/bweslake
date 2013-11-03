@@ -5,7 +5,7 @@ require 'rack/rewrite'
 Bundler.require(:default)
 
 use Rack::Rewrite do
-  r301 %r{/research(\?.*)}, '/cv\#publications$1'
+  r301 '/research', '/cv#publications'
 end
 
 require 'nesta/app'
