@@ -71,11 +71,6 @@ Philosophy of Mind
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1080/00048402.2013.788045>  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
-
-<div class="noteleft"><em>forthcoming</em></div>
 “Causation, Counterfactual Dependence and The Transition Problem”, in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
@@ -85,6 +80,11 @@ Philosophy of Mind
 <div class="noteleft"><em>forthcoming</em></div>
 “Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Chance and Temporal Asymmetry*, Oxford University Press, Oxford.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
+
+<div class="noteleft">2013</div>
+“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 91, <span class="sc">no</span>. 4, pp. 785–797.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1080/00048402.2013.788045>  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
 
 <div class="noteleft">2013</div>
 [McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht, pp. 101–119.  
