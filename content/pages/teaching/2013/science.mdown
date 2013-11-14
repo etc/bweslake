@@ -222,7 +222,7 @@ Summary: A survey course on the metaphysics of science.
 <a name="l18"> </a>
 <h4>Meeting Eighteen (Wednesday 6 November)</h4>
 
-<h5>Secondary</h5>
+<h5>Primary</h5>
 <p><a href="http://en.wikipedia.org/wiki/David_Malet_Armstrong">David M. Armstrong</a>. 1983. &ldquo;Laws of Nature as Relations Between Universals&rdquo;, in <em>What is a Law of Nature?</em>, Cambridge: Cambridge University Press, pp. 77&ndash;110. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/armstrong-laws-universals.pdf">PDF</a>]</span></p>
 
 <a name="l19"> </a>
@@ -230,9 +230,6 @@ Summary: A survey course on the metaphysics of science.
 
 <h5>Primary</h5>
 <p><a href="http://www4.ncsu.edu/~carroll/hpage.htm">Carroll, John W</a>. 1990. &ldquo;The Humean Tradition&rdquo;, in <em>The Philosophical Review</em>, Vol. 99, No. 2, April 1990, pp. 185&ndash;219. <span class="small">[<a href="http://www.jstor.org/stable/2185489">URI</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://philosophy.unc.edu/people/faculty/marc-lange">Lange, Marc</a>. 2005. &ldquo;Laws and Their Stability&rdquo;, in <em>Synthese</em>, Vol. 144, No. 3, April 2005, pp. 415&ndash;432. <span class="small">[<a href="http://dx.doi.org/10.1007/s11229-005-5874-1">URI</a>]</span></p>
 
 <a name="l20"> </a>
 <h4>Meeting Twenty (Wednesday 13 November)</h4>
@@ -245,14 +242,23 @@ Summary: A survey course on the metaphysics of science.
 <a name="l21"> </a>
 <h4>Meeting Twenty One (Monday 18 November)</h4>
 
-<h5>Primary</h5>
-<p><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/maudlin_modest_proposal.pdf">PDF</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://www.uark.edu/depts/philinfo/ward.html">Ward, Barry</a>. 2007. &ldquo;Laws, Explanation, Governing, and Generation&rdquo;, in <em>Australasian Journal of Philosophy</em>, Vol. 85, No. 4, December 2007, pp. 537&ndash;552. <span class="small">[<a href="http://dx.doi.org/10.1080/00048400701654853">URI</a>]</span></p>
+<p><em>Carroll and Beebee continued.</em> Listen to Beebee discuss laws of nature here: <span class="small">[<a href="http://traffic.libsyn.com/philosophybites/Helen_Beebee_on_Laws_of_Nature.mp3">MP3</a>]</span>.</p>
 
 <a name="l22"> </a>
 <h4>Meeting Twenty Two (Wednesday 20 November)</h4>
+
+<h5>Primary</h5>
+<p><a href="http://philosophy.rutgers.edu/FACSTAFF/BIOS/maudlin.html">Maudlin, Tim</a>. 2007. &ldquo;A Modest Proposal Concerning Laws, Counterfactuals, and Explanations&rdquo;, in <em>The Metaphysics Within Physics</em>, Oxford University Press, Oxford, 2007, pp. 5&ndash;49. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/maudlin_modest_proposal.pdf">PDF</a>]</span></p>
+
+<a name="l23"> </a>
+<h4>Meeting Twenty Three (Monday 25 November)</h4>
+
+<p><a href="http://faculty.washington.edu/hildebrt/TylerHildebrand/Home.html">Tyler Hildebrand</a>. 2013. &ldquo;Can Primitive Laws Explain?&rdquo;, in <em>Philosophers’ Imprint</em>, Vol. 13, No. 15, July 2013, pp. 1&ndash;15. <span class="small">[<a href="http://www.philosophersimprint.org/013015/">URI</a>]</span></p>
+
+<p><em>No Class (Wednesday 27 November)</em></p>
+
+<a name="l24"> </a>
+<h4>Meeting Twenty Four (Monday 2 December)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://www.pitt.edu/~philosop/people/earman.html">Earman, John</a> and <a href="http://www.unc.edu/~jtrosap/">John T. Roberts</a>. 2005. &ldquo;Contact with the Nomic: A Challenge for Deniers of Humean Supervenience about Laws of Nature Part II: The Epistemological Argument for Humean Supervenience&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 71, No. 2, September 2005, pp. 253&ndash;286. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1933-1592.2005.tb00449.x">URI</a>]</span></p>
@@ -261,8 +267,8 @@ Summary: A survey course on the metaphysics of science.
 
 <h4>Overview</h4><p><a href="http://www.doubtfulspecies.org/">Hamilton, Andrew</a>. 2007. &ldquo;Laws of Biology, Laws of Nature: Problems and (Dis)Solutions&rdquo;, in <em>Philosophy Compass</em>, Vol. 2, No. 3, May 2007, pp. 592&ndash;610. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1747-9991.2007.00087.x">URI</a>]</span></p>
 
-<a name="l23"> </a>
-<h4>Meeting Twenty Three (Monday 25 November)</h4>
+<a name="l25"> </a>
+<h4>Meeting Twenty Five (Wednesday 4 December)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1974. &ldquo;Special Sciences (Or: The Disunity of Science as a Working Hypothesis)&rdquo;, in <em>Synthese</em>, 
@@ -270,8 +276,8 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 
 <blockquote class="note">Reprinted in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, 1980, Vol. 1, pp. 120&ndash;133; Jerry A. Fodor, <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, 1983, pp. 127&ndash;145; Paul K. Moser and J. D. Trout (Eds), <em>Contemporary Materialism: A Reader</em>, Routledge, London, 1995, pp. 53&ndash;67; and Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 395&ndash;410.</blockquote>
 
-<a name="l24"> </a>
-<h4>Meeting Twenty Four (Monday 2 December)</h4>
+<a name="l26"> </a>
+<h4>Meeting Twenty Six (Monday 9 December)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://www.brown.edu/Departments/Philosophy/faculty/kim.html">Kim, Jaegwon</a>. 1992. &ldquo;Multiple Realization and the Metaphysics of Reduction&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 52, No. 1, March 1992, pp. 1&ndash;26. <span class="small">[<a href="http://www.jstor.org/pss/2107741">URI</a>]</span></p>
@@ -279,8 +285,8 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 <h5>Secondary</h5>
 <p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1997. &ldquo;Special Sciences: Still Autonomous After All These Years&rdquo;, in <em>No&ucirc;s</em>, Vol. 31, Supplement: Philosophical Perspectives, Vol. 11: Mind, Causation, and World, pp. 149&mdash;163. <span class="small">[<a href="http://doi.wiley.com/10.1111/0029-4624.31.s11.7">URI</a>]</span></p>
 
-<a name="l25"> </a>
-<h4>Meeting Twenty Five (Wednesday 4 December)</h4>
+<a name="l27"> </a>
+<h4>Meeting Twenty Seven (Wednesday 11 December)</h4>
 
 <h5>Primary</h5>
 <p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2009. &ldquo;Why is There Anything Except Physics?&rdquo;, in <em>Synthese</em>, Vol. 170, No. 2, September 2009, pp. 217&ndash;233. <span class="small">[<a href="http://dx.doi.org/10.1007/s11229-009-9580-2">URI</a>]</span></p>
@@ -290,26 +296,4 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 <h5>Secondary</h5>
 <p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 1997. &ldquo;What Is &lsquo;The Problem of the Direction of Time&rsquo;?&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association Part II: Symposia Papers, December 1997, pp. S223&ndash;S234. <span class="small">[<a href="http://www.jstor.org/pss/188405">URI</a>]</span></p>
 
-<p><em>No Class (Wednesday 27 November)</em></p>
-
-<a name="l26"> </a>
-<h4>Meeting Twenty Six (Monday 9 December)</h4>
-
-<h5>Primary</h5>
-<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a> and <a href="http://aardvark.ucsd.edu/">Jonathan Cohen</a>. &ldquo;Special Sciences, Conspiracy and the Better Best System Account of Lawhood&rdquo;, forthcoming in <em>Erkenntnis</em>. <span class="small">[<a href="http://philosophy.ucsd.edu/faculty/ccallender/Callender%20Cohen.pdf">PDF</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a> and <a href="http://aardvark.ucsd.edu/">Jonathan Cohen</a>. 2009. &ldquo;A Better Best System Theory of Lawhood&rdquo;, in <em>Philosophical Studies</em>, Vol. 145, No. 1, pp. 1&ndash;34. <span class="small">[<a href="http://dx.doi.org/10.1007/s11098-009-9389-3">URI</a>]</span></p>
-
-<p><a href="http://www.philosophy.umd.edu/Faculty/mfrisch/">Mathias Frisch</a>, &ldquo;From Arbuthnot to Boltzmann: The Past-hypothesis, the Best System, and the Special Sciences&rdquo;. <span class="small">[<a href="http://www.philosophy.umd.edu/Faculty/mfrisch/papers/lewis.pdf">PDF</a>]</span></p>
-
-<a name="l27"> </a>
-<h4>Meeting Twenty Seven (Wednesday 11 December)</h4>
-
-<h5>Primary</h5>
-<p><a href="http://www.strevens.org/">Strevens, Michael</a>. 2008. &ldquo;Physically Contingent Laws and Counterfactual Support&rdquo;, in <em>Philosophers' Imprint</em>, Vol. 8, No. 8, August 2008, pp. 1&ndash;20. <span class="small">[<a href="http://hdl.handle.net/2027/spo.3521354.0008.008">URI</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://www.fas.harvard.edu/~phildept/hall.html">Hall, Ned</a>. 2005. &ldquo;Causation and Ceteris Paribus Laws&rdquo;, in <em>The Harvard Review of Philosophy</em>, Vol. 13, No. 1, Spring 2005, pp. 80&ndash;99. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/hall_causation_ceteris_paribus_laws.pdf">PDF</a>]</span></p>
-
-*Updated*: 5 November 2013
+*Updated*: 14 November 2013
