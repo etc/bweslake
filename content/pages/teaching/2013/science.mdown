@@ -63,7 +63,7 @@ Summary: A survey course on the metaphysics of science.
 <tbody>
 <tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
 <tr><td>First Paper:  </td><td>Wednesday 30 October</td><td>Questions <span class="small">[<a href="http://goo.gl/BwukGu">PDF</a>]</span></td></tr>
-<tr><td>Second Paper:  </td><td>TBA</td><td>Questions [<span class="small">coming</span>]</td></tr>
+<tr><td>Second Paper:  </td><td>Monday 16 December</td><td>Questions <span class="small">[<a href="http://goo.gl/uDJfwt">PDF</a>]</span></td></tr>
 </tbody>
 </table>
 
@@ -296,4 +296,4 @@ Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="ht
 <h5>Secondary</h5>
 <p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 1997. &ldquo;What Is &lsquo;The Problem of the Direction of Time&rsquo;?&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association Part II: Symposia Papers, December 1997, pp. S223&ndash;S234. <span class="small">[<a href="http://www.jstor.org/pss/188405">URI</a>]</span></p>
 
-*Updated*: 14 November 2013
+*Updated*: 26 November 2013
