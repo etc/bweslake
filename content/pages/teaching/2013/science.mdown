@@ -253,6 +253,7 @@ Summary: A survey course on the metaphysics of science.
 <a name="l23"> </a>
 <h4>Meeting Twenty Three (Monday 25 November)</h4>
 
+<h5>Primary</h5>
 <p><a href="http://faculty.washington.edu/hildebrt/TylerHildebrand/Home.html">Tyler Hildebrand</a>. 2013. &ldquo;Can Primitive Laws Explain?&rdquo;, in <em>Philosophers’ Imprint</em>, Vol. 13, No. 15, July 2013, pp. 1&ndash;15. <span class="small">[<a href="http://www.philosophersimprint.org/013015/">URI</a>]</span></p>
 
 <p><em>No Class (Wednesday 27 November)</em></p>
