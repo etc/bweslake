@@ -264,37 +264,4 @@ Summary: A survey course on the metaphysics of science.
 <h5>Primary</h5>
 <p><a href="http://www.pitt.edu/~philosop/people/earman.html">Earman, John</a> and <a href="http://www.unc.edu/~jtrosap/">John T. Roberts</a>. 2005. &ldquo;Contact with the Nomic: A Challenge for Deniers of Humean Supervenience about Laws of Nature Part II: The Epistemological Argument for Humean Supervenience&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 71, No. 2, September 2005, pp. 253&ndash;286. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1933-1592.2005.tb00449.x">URI</a>]</span></p>
 
-<h3>Section III: Non-Fundamental Laws and Explanation</h3>
-
-<h4>Overview</h4><p><a href="http://www.doubtfulspecies.org/">Hamilton, Andrew</a>. 2007. &ldquo;Laws of Biology, Laws of Nature: Problems and (Dis)Solutions&rdquo;, in <em>Philosophy Compass</em>, Vol. 2, No. 3, May 2007, pp. 592&ndash;610. <span class="small">[<a href="http://dx.doi.org/10.1111/j.1747-9991.2007.00087.x">URI</a>]</span></p>
-
-<a name="l25"> </a>
-<h4>Meeting Twenty Five (Wednesday 4 December)</h4>
-
-<h5>Primary</h5>
-<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1974. &ldquo;Special Sciences (Or: The Disunity of Science as a Working Hypothesis)&rdquo;, in <em>Synthese</em>, 
-Vol. 28, No. 2, October 1974, pp. 97&ndash;115. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/fodor_special_sciences.pdf">PDF</a>]</span></p>
-
-<blockquote class="note">Reprinted in Ned Block (Ed), <em>Readings in Philosophy of Psychology</em>, Harvard University Press, Cambridge MA, 1980, Vol. 1, pp. 120&ndash;133; Jerry A. Fodor, <em>RePresentations: Philosophical Essays on the Foundations of Cognitive Science</em>, MIT Press, Cambridge MA, 1983, pp. 127&ndash;145; Paul K. Moser and J. D. Trout (Eds), <em>Contemporary Materialism: A Reader</em>, Routledge, London, 1995, pp. 53&ndash;67; and Mark A. Bedau and Paul Humphreys (Eds), <em>Emergence: Contemporary Readings in Philosophy And Science</em>, MIT Press, Cambridge MA, 2008, pp. 395&ndash;410.</blockquote>
-
-<a name="l26"> </a>
-<h4>Meeting Twenty Six (Monday 9 December)</h4>
-
-<h5>Primary</h5>
-<p><a href="http://www.brown.edu/Departments/Philosophy/faculty/kim.html">Kim, Jaegwon</a>. 1992. &ldquo;Multiple Realization and the Metaphysics of Reduction&rdquo;, in <em>Philosophy and Phenomenological Research</em>, Vol. 52, No. 1, March 1992, pp. 1&ndash;26. <span class="small">[<a href="http://www.jstor.org/pss/2107741">URI</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://en.wikipedia.org/wiki/Jerry_Fodor">Fodor, Jerry A</a>. 1997. &ldquo;Special Sciences: Still Autonomous After All These Years&rdquo;, in <em>No&ucirc;s</em>, Vol. 31, Supplement: Philosophical Perspectives, Vol. 11: Mind, Causation, and World, pp. 149&mdash;163. <span class="small">[<a href="http://doi.wiley.com/10.1111/0029-4624.31.s11.7">URI</a>]</span></p>
-
-<a name="l27"> </a>
-<h4>Meeting Twenty Seven (Wednesday 11 December)</h4>
-
-<h5>Primary</h5>
-<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2009. &ldquo;Why is There Anything Except Physics?&rdquo;, in <em>Synthese</em>, Vol. 170, No. 2, September 2009, pp. 217&ndash;233. <span class="small">[<a href="http://dx.doi.org/10.1007/s11229-009-9580-2">URI</a>]</span></p>
-
-<p><a href="http://rci.rutgers.edu/~loewer/">Loewer, Barry</a>. 2008. &ldquo;Why There Is Anything Except Physics&rdquo;, in Jesper Kallestrup and Jakob Hohwy (Eds) <em>Being Reduced: New Essays on Reduction, Explanation and Causation</em>, Oxford University Press, Oxford, pp. 149&ndash;163. <span class="small">[<a href="http://reductioland.net/zuihitsu/protected/loewer_why_anything_except_physics.pdf">PDF</a>]</span></p>
-
-<h5>Secondary</h5>
-<p><a href="http://philosophy.ucsd.edu/faculty/ccallender/">Callender, Craig</a>. 1997. &ldquo;What Is &lsquo;The Problem of the Direction of Time&rsquo;?&rdquo;, in <em>Philosophy of Science</em>, Vol. 64, Supplement, Proceedings of the 1996 Biennial Meetings of the Philosophy of Science Association Part II: Symposia Papers, December 1997, pp. S223&ndash;S234. <span class="small">[<a href="http://www.jstor.org/pss/188405">URI</a>]</span></p>
-
-*Updated*: 26 November 2013
+*Updated*: 2 December 2013
