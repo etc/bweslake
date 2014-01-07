@@ -49,6 +49,9 @@ Philosophy of Mind
 > Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [Jill
 > North][12], [David Wallace][13], [Brad Weslake][14], and [Eric Winsberg][2]. 
 
+<div class="noteleft"><em>forthcoming</em></div>
+[Shamik Dasgupta][shamik] and Brad Weslake (Eds), *Current Controversies in Philosophy of Science*, Routledge, London.
+
  [1]: http://rci.rutgers.edu/~loewer/
  [2]: http://www.cas.usf.edu/~ewinsb/
  [3]: http://en.wikipedia.org/wiki/David_Albert
@@ -63,6 +66,7 @@ Philosophy of Mind
  [12]: http://www.yale.edu/philos/people/north_jill.html
  [13]: http://users.ox.ac.uk/~mert0130/
  [14]: ../
+ [shamik]: http://www.shamik.net/
 
 ### papers
 
@@ -71,7 +75,7 @@ Philosophy of Mind
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Causation, Counterfactual Dependence and The Transition Problem”, in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *currently untitled*, Harvard University Press, Cambridge MA.
+“Causation, Counterfactual Dependence and The Transition Problem”, in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.  
@@ -122,11 +126,11 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 
 ### papers under review
 
+“The Problem of Disjunctive Explanations”, revise and resubmit at *Erkenntnis*.  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
+
 “Exclusion Excluded”.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
-
-“The Problem of Disjunctive Explanations”.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
 
 ### encyclopædia entries
 
@@ -148,13 +152,16 @@ ePress, Melbourne, 2010.
 
 ### reviews
 
+<div class="noteleft"><em>forthcoming</em></div>
+“L. A. Paul and Ned Hall, *Causation: A User's Guide*”, in *Mind*.
+
 <div class="noteleft">2006</div>
-“Review of *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140.  
+“James Woodward, *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140.  
 <span class="sc">uri</span>:
 <http://dx.doi.org/10.1080/00048400600571935>
 
 <div class="noteleft">2004</div>
-“Review of *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004.  
+“William Robinson, *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
 
 ## research groups
@@ -163,6 +170,9 @@ ePress, Melbourne, 2010.
 Invited collaborator for project *Causation and Explanation*, hosted by Philosophisches Seminar der Universität zu Köln and funded by Deutsche Forschungsgemeinschaft.
 
 ## presentations
+<div class="noteleft">2014</div>
+- “Why Think Causally?”, New York University, 3 <span class="sc">feb</span>.
+
 <div class="noteleft">2013</div>
 - “Why Think Causally?”, *Causation: New Prospects*, Collège de France, Paris, 5-6 <span class="sc">dec</span>.
 - “Explanation and The Explanatory Gap”, Colloquium, Marist College, 11 <span class="sc">oct</span>.
@@ -265,11 +275,11 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 - Philosophy of Cognitive Science,
 [2010](http://bweslake.org/teaching/2010/cognition/).  
 - Philosophy of Biology,
-[2009](http://bweslake.org/teaching/2009/biology/).  
+[2009](http://bweslake.org/teaching/2009/biology/), 2014.  
 - Philosophy of Mind,
 [2007](http://bweslake.org/teaching/2007/mind/),
 [2008](http://bweslake.org/teaching/2008/mind/),
-[2009](http://bweslake.org/teaching/2009/mind/).  
+[2009](http://bweslake.org/teaching/2009/mind/), 2014.  
 - Philosophy of Science,
 [2008](http://bweslake.org/teaching/2008/science/),
 [2009](http://bweslake.org/teaching/2009/science/),
@@ -313,6 +323,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *International Studies in the Philosophy of Science*  
 *InVisible Culture*  
 *Journal for General Philosophy of Science*  
+*Mind*  
 *Noûs*  
 *Oxford University Press*  
 *Philosophers' Imprint*  
@@ -336,4 +347,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 1 <span class="sc">dec</span> 2013
+*Updated*: 7 <span class="sc">jan</span> 2014
