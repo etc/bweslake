@@ -275,11 +275,11 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 - Philosophy of Cognitive Science,
 [2010](http://bweslake.org/teaching/2010/cognition/).  
 - Philosophy of Biology,
-[2009](http://bweslake.org/teaching/2009/biology/), 2014.  
+[2009](http://bweslake.org/teaching/2009/biology/), [2014](http://bweslake.org/teaching/2014/biology/).  
 - Philosophy of Mind,
 [2007](http://bweslake.org/teaching/2007/mind/),
 [2008](http://bweslake.org/teaching/2008/mind/),
-[2009](http://bweslake.org/teaching/2009/mind/), 2014.  
+[2009](http://bweslake.org/teaching/2009/mind/), [2014](http://bweslake.org/teaching/2014/mind/).  
 - Philosophy of Science,
 [2008](http://bweslake.org/teaching/2008/science/),
 [2009](http://bweslake.org/teaching/2009/science/),
@@ -347,4 +347,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 7 <span class="sc">jan</span> 2014
+*Updated*: 16 <span class="sc">jan</span> 2014
