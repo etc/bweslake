@@ -81,7 +81,7 @@ Philosophy of Mind
 “Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
 
-<div class="noteleft"><em>forthcoming</em></div>
+<div class="noteleft">2014</div>
 “Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Chance and Temporal Asymmetry*, Oxford University Press, Oxford.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
@@ -171,6 +171,9 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 
 ## presentations
 <div class="noteleft">2014</div>
+- *Mental Causation: Old Problems, New Solutions?*, Center for Logic and Analytic Philosophy, Institute of Philosophy, Katholieke Universiteit Leuven, 20–21 <span class="sc">nov</span>.
+- “Selection, Drift, and Causal Explanation”, *Explanation Beyond Causation*, Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, 23-24 <span class="sc">oct</span>.
+- Invited participant, *Oberlin Colloquium in Philosophy*, 2–4 <span class="sc">may</span>.
 - “Why Think Causally?”, New York University, 3 <span class="sc">feb</span>.
 
 <div class="noteleft">2013</div>
