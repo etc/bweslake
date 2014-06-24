@@ -11,7 +11,7 @@ Summary: A collection of teaching resources on philosophy of mind.
 
 ### Overview
 
-This is (going to be) a collection of multimedia resources on philosophy of mind.  They are primarily designed to be a resource for a class on these topics.  Please [contact me](mailto:bradley.weslake@rochester.edu) with suggestions or broken links.
+This is (going to be) a collection of multimedia resources on philosophy of mind.  They are primarily designed to be a resource for a class on these topics.  Please [contact me](mailto:brad.weslake@nyu.edu) with suggestions or broken links.
 
 ### The Chinese Room
 
