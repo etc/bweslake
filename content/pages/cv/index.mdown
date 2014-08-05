@@ -44,15 +44,13 @@ Philosophy of Mind
 ### books
 
 <div class="noteleft"><em>forthcoming</em></div>
-[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds). Harvard University Press, Cambridge MA.
+[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *Time's Arrows and The Probability Structure of The World*, Harvard University Press, Cambridge MA.
 
 > A collection of newly commissioned papers on themes
 > from [David Albert][3]'s *[Time and Chance][4]* (<span class="sc">hup</span>, 2000), with replies by Albert.
-> Confirmed contributors include [Sean Carroll][5], [Mathias Frisch][6], [Nick Huggett][7], [Jenann
-> Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [Jill
-> North][12], [David Wallace][13], [Brad Weslake][14], and [Eric Winsberg][2]. 
+> Confirmed contributors include [Sean Carroll][5], Sidney Felder, [Alison Fernandes][alison], [Mathias Frisch][6], [Nick Huggett][7], [Jenann Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [Jill North][12], [David Wallace][13], and [Eric Winsberg][2]. 
 
-<div class="noteleft"><em>forthcoming</em></div>
+<div class="noteleft"><em>contracted</em></div>
 [Shamik Dasgupta][shamik] and Brad Weslake (Eds), *Current Controversies in Philosophy of Science*, Routledge, London.
 
  [1]: http://rci.rutgers.edu/~loewer/
@@ -62,13 +60,13 @@ Philosophy of Mind
  [5]: http://preposterousuniverse.com/
  [6]: http://www.philosophy.umd.edu/Faculty/mfrisch/index.html
  [7]: http://tigger.uic.edu/~huggett/
- [8]: http://www.u.arizona.edu/~jtismael/index.html
- [9]: http://www.brown.edu/Departments/Philosophy/facultymember.php?key=13
- [10]: http://philosophy.rutgers.edu/index.php?option=com_content&task=view&id=111&Itemid=210
+ [8]: http://www.jenanni.com/
+ [9]: http://sagaciousmatter.org/
+ [10]: http://philosophy.fas.nyu.edu/object/timmaudlin.html
  [11]: http://www.umass.edu/philosophy/faculty/meacham.htm
- [12]: http://www.yale.edu/philos/people/north_jill.html
+ [12]: https://courses.cit.cornell.edu/north/
  [13]: http://users.ox.ac.uk/~mert0130/
- [14]: ../
+ [alison]: http://philosophy.columbia.edu/directories/student/alison-fernandes
  [shamik]: http://www.shamik.net/
 
 ### papers
@@ -76,9 +74,6 @@ Philosophy of Mind
 <div class="noteleft"><em>forthcoming</em></div>
 “A Partial Theory of Actual Causation”, in *The British Journal for the Philosophy of Science*.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
-
-<div class="noteleft"><em>forthcoming</em></div>
-“Causation, Counterfactual Dependence and The Transition Problem”, in [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), Harvard University Press, Cambridge MA.
 
 <div class="noteleft"><em>forthcoming</em></div>
 “Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.  
@@ -131,17 +126,20 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 [haenni]: http://haenni.shorturl.com/ "Rolf Haenni"
 [hartmann]: http://stephanhartmann.org/ "Stephan Hartmann"
 
-### papers under review
+### papers in progress
 
-“The Problem of Disjunctive Explanations”, revise and resubmit at *Erkenntnis*.  
+“The Problem of Disjunctive Explanations”  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
+“Selection, Drift, and Non-Causal Explanation”  
+“Fitness and Variance”  
+“Why Think Causally?”
 
 ### encyclopædia entries
 
-<div class="noteleft"><em>forthcoming</em></div>
+<div class="noteleft"><em>contracted</em></div>
 “Regularity Theories of Causation”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford.
 
-<div class="noteleft"><em>forthcoming</em></div>
+<div class="noteleft"><em>contracted</em></div>
 “Scientific Explanation”, in Duncan Pritchard (Ed), *Oxford Bibliographies in Philosophy*, Oxford University Press, Oxford.
 
 <div class="noteleft">2010</div>
@@ -156,7 +154,7 @@ ePress, Melbourne, 2010.
 
 ### reviews
 
-<div class="noteleft"><em>forthcoming</em></div>
+<div class="noteleft"><em>contracted</em></div>
 “L. A. Paul and Ned Hall, *Causation: A User's Guide*”, in *Mind*.
 
 <div class="noteleft">2006</div>
@@ -176,6 +174,7 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 ## presentations
 <div class="noteleft">2014</div>
 - *Mental Causation: Old Problems, New Solutions?*, Center for Logic and Analytic Philosophy, Institute of Philosophy, Katholieke Universiteit Leuven, 20–21 <span class="sc">nov</span>.
+- “Why Think Causally?”, *Causation: A Workshop with Ned Hall*, Universität zu Köln, 10 <span class="sc">nov</span>.
 - “Selection, Drift, and Causal Explanation”, *Explanation Beyond Causation*, Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, 23-24 <span class="sc">oct</span>.
 - “Why Think Causally?”, New York University, 3 <span class="sc">feb</span>.
 
