@@ -48,7 +48,7 @@ Philosophy of Mind
 
 > A collection of newly commissioned papers on themes
 > from [David Albert][3]'s *[Time and Chance][4]* (<span class="sc">hup</span>, 2000), with replies by Albert.
-> Confirmed contributors include [Sean Carroll][5], Sidney Felder, [Alison Fernandes][alison], [Mathias Frisch][6], [Nick Huggett][7], [Jenann Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [Jill North][12], [David Wallace][13], and [Eric Winsberg][2]. 
+> Confirmed contributors include [Sean Carroll][5], Sidney Felder, [Alison Fernandes][alison], [Mathias Frisch][6], [Nick Huggett][7], [Jenann Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [David Wallace][13], and [Eric Winsberg][2]. 
 
 <div class="noteleft"><em>contracted</em></div>
 [Shamik Dasgupta][shamik] and Brad Weslake (Eds), *Current Controversies in Philosophy of Science*, Routledge, London.
@@ -64,7 +64,6 @@ Philosophy of Mind
  [9]: http://sagaciousmatter.org/
  [10]: http://philosophy.fas.nyu.edu/object/timmaudlin.html
  [11]: http://www.umass.edu/philosophy/faculty/meacham.htm
- [12]: https://courses.cit.cornell.edu/north/
  [13]: http://users.ox.ac.uk/~mert0130/
  [alison]: http://philosophy.columbia.edu/directories/student/alison-fernandes
  [shamik]: http://www.shamik.net/
