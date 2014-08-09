@@ -6,6 +6,7 @@ teaching
     teaching/2014/biology-reading
     teaching/2014/mind
     teaching/2014/mind-reading
+    teaching/2014/science
   teaching/2013
     teaching/2013/darwin
     teaching/2013/reason

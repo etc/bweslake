@@ -1,0 +1,70 @@
+Title: Brad Weslake &bull; Philosophy of Science
+Categories: teaching/2014
+Template: class
+Summary: An advanced introduction to philosophy of science.
+
+# Advanced Introduction to Philosophy of Science
+
+## Fall 2014
+
+<p align="center"><br/><img width="70%" src="http://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity">
+
+<blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo;, <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
+
+<p><a href="#details">Details</a> | <a href="#instructor">Instructor</a> | <a href="#overview">Overview</a> | <a href ="#assessment">Assessment</a> | <a href ="#schedule">Schedule</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> | <a href="#l4">4</a> | <a href="#l5">5</a> | <a href="#l6">6</a> | <a href="#l7">7</a> | <a href="#l8">8</a> | <a href="#l9">9</a> | <a href="#l10">10</a> | <a href="#l11">11</a> | <a href="#l12">12</a> | <a href="#l13">13</a> | <a href="#l14">14</a></p>
+
+<a name="details"> </a>
+<h3>Details</h3>
+<table class="names">
+<thead>
+<tr><th>Course Code</th><th> Times</th></tr>
+</thead>
+<tbody>
+<tr><td>PHIL-GA 1104</td><td>Fridays, 11:00am to 1:00pm</td></tr>
+</tbody>
+</table>
+
+<a name="instructor"> </a>
+<h3>Instructor</h3>
+<table class="names">
+<thead>
+<tr><th>Name</th><th>Email</th></tr>
+</thead>
+<tbody>
+<tr><td>Brad Weslake</td><td><a href="mailto:brad.weslake@nyu.edu">brad.weslake@nyu.edu</a></td></tr>
+</tbody>
+</table>
+
+<a name="overview"> </a>
+<h3>Overview</h3>
+<p>The course will cover three central topics in general philosophy of science: explanation, laws and causation. Topics may include: causal and non-causal theories of explanation; whether there are non-causal explanations of particular facts; the relationship between fundamental and non-fundamental explanations; theories of explanatory depth; whether fundamental laws have universal scope; Humean and non-Humean theories of laws; regularity and counterfactual theories of causation; causal models and their limitations; and causal exclusion principles.</p>
+
+<a name="assessment"> </a>
+<h3>Assessment</h3>
+<p>Requirements:</p>
+<ul class="assess">
+<li>Fourteen 1&ndash;2 page weekly reading summaries.</li>
+<li>One research paper. </li>
+</ul>
+
+<p>Due dates:</p>
+<table class="assess">
+<tbody>
+<tr><td>Reading Summaries: </td><td>At each associated class.</td></tr>
+<tr><td>Research Paper:  </td><td>Monday 15 December</td></tr>
+</tbody>
+</table>
+
+<a name="schedule"> </a>
+<h3>Schedule</h3>
+
+<a name="l1"> </a>
+<h4>Introductory Discussion (Wednesday 5 September)</h4>
+
+<h3>Section I: Explanation</h3>
+
+<h3>Section II: Laws</h3>
+
+<h3>Section III: Causation</h3>
+
+*Updated*: 9 August 2014
