@@ -17,10 +17,8 @@ This is (going to be) a collection of multimedia resources on philosophy of biol
 
 ## Development
 
-### Genetic Information
+### Genetic Information and Causation
 
 - Paul Griffiths, "[Information in Living Systems](https://www.youtube.com/watch?v=KrcoV21ctVY)", *Franke Program in Science and the Humanities*, 29 October 2013.
-
-### Genetic Causation
-
 - Alan Love, "[Integrating Generic and Genetic Explanations of Development"](https://www.youtube.com/watch?v=xbcbJ8FD7MY)", *Franke Program in Science and the Humanities*, 24 February 2014.
+- Thomas Pradeu, “[Development, Information and Causation](http://www.college-de-france.fr/site/en-claudine-tiercelin/seminar-2013-12-06-09h00.htm)”, Collège de France, 6 December 2013.
