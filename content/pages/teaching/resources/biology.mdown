@@ -1,0 +1,26 @@
+Title: Brad Weslake &bull; Philosophy of Biology Teaching Resources
+Categories: teaching/resources
+Template: class
+Summary: A collection of teaching resources on philosophy of biology.
+
+# Philosophy of Biology Teaching Resources
+
+### Overview
+
+This is (going to be) a collection of multimedia resources on philosophy of biology.  They are primarily designed to be a resource for a class on these topics.  Please [contact me](mailto:brad.weslake@nyu.edu) with suggestions or broken links.
+
+## Evolution
+
+### What Does Selection Explain?
+
+- Peter Godfrey-Smith, “[Origin Explanations](https://www.youtube.com/watch?v=84XnJd1t9Ak)”, University of California Santa Barbara, February 2011.
+
+## Development
+
+### Genetic Information
+
+- Paul Griffiths, "[Information in Living Systems](https://www.youtube.com/watch?v=KrcoV21ctVY)", *Franke Program in Science and the Humanities*, 29 October 2013.
+
+### Genetic Causation
+
+- Alan Love, "[Integrating Generic and Genetic Explanations of Development"](https://www.youtube.com/watch?v=xbcbJ8FD7MY)", *Franke Program in Science and the Humanities*, 24 February 2014.

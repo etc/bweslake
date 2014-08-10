@@ -13,6 +13,11 @@ Summary: A collection of teaching resources on philosophy of mind.
 
 This is (going to be) a collection of multimedia resources on philosophy of mind.  They are primarily designed to be a resource for a class on these topics.  Please [contact me](mailto:brad.weslake@nyu.edu) with suggestions or broken links.
 
+### Other Minds
+
+- Elliott Sober, “[Parsimony and Chimpanzee Mind-Reading](https://www.youtube.com/watch?v=cnOGcOYLBBM)“, Rotman Institute of Philosophy, 5 October 2013.
+- Kristin Andrews and Robert Lurz, [Animals and Mindreading](http://www.philostv.com/kristin-andrews-and-robert-lurz/), Philosophy TV, 24 April 2012.
+
 ### The Chinese Room
 
 - John Searle, "[Minds, Brains and Science](http://www.bbc.co.uk/programmes/p00gq1fk/episodes/player)", *Reith Lectures*, 1984.
