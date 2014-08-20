@@ -17,10 +17,10 @@ Summary: An advanced introduction to philosophy of science.
 <h3>Details</h3>
 <table class="names">
 <thead>
-<tr><th>Course Code</th><th> Times</th></tr>
+<tr><th>Course Code</th><th>Location</th><th> Times</th></tr>
 </thead>
 <tbody>
-<tr><td>PHIL-GA 1104</td><td>Fridays, 11:00am to 1:00pm</td></tr>
+<tr><td>PHIL-GA 1104</td><td><a href="http://goo.gl/j02G4q">5 Washington Place</a> Room 202</td><td>Fridays, 11:00am to 1:00pm</td></tr>
 </tbody>
 </table>
 
