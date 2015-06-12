@@ -1,9 +1,9 @@
 source 'http://rubygems.org'
+ruby "2.0.0"
 
 # gem 'nesta', '0.9.11'
 gem 'nesta', :git => 'git://github.com/gma/nesta.git'
 gem 'kramdown', '0.13.3'
-# gem 'nesta-plugin-maldini'
 gem 'nesta-plugin-maldini', :git => 'git://github.com/etc/nesta-plugin-maldini.git'
-# gem (RUBY_VERSION =~ /^1.9/) ? 'ruby-debug19': 'ruby-debug'
 gem 'rack-rewrite', :git => 'git://github.com/jtrupiano/rack-rewrite.git'
+gem 'thin'
