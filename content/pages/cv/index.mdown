@@ -5,11 +5,10 @@ Summary: Curriculum Vitae
 
 # CV
 
-Department of Philosophy  
-New York University  
-5 Washington Place  
-New York, NY  
-USA `10003`  
+NYU Shanghai  
+1555 Century Avenue  
+Pudong, Shanghai  
+China `200122`  
 [brad.weslake@nyu.edu](mailto:brad.weslake@nyu.edu)  
 <http://bweslake.org/>
 
@@ -165,14 +164,29 @@ ePress, Melbourne, 2010.
 “William Robinson, *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
 
-## research groups
+## grants and collaborations
 
 <div class="noteleft">2013–2015</div>
 Invited collaborator for project *Causation and Explanation*, hosted by Philosophisches Seminar der Universität zu Köln and funded by Deutsche Forschungsgemeinschaft.
 
+<div class="noteleft">2015–2016</div>
+Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shanghai) on Shanghai Research Challenge Fund grant *Origins of Randomness in Quantum Mechanics* ($50,000).
+
 ## presentations
+
+<div class="noteleft">2016</div>
+- “Fitness and Variance”, *Reduction in Physics and Biology*, Instituto de Filosofía y Ciencias de la Complejidad, Santiago de Chile, 4–7 <span class="sc">jan</span>.
+
+<div class="noteleft">2015</div>
+- “Fitness and Variance”, *15th Congress of Logic, Methodology and Philosophy of Science*, Helsinki, 3–8 <span class="sc">aug</span>.
+- “Fitness and Variance”, *Australasian Association of Philosophy*, Sydney, 5–9 <span class="sc">jul</span>.
+- Invited participant to *Varieties of Understanding Midpoint Conference*, New York, 24–26 <span class="sc">jun</span>.
+- “Why Think Causally?”, University College London, 18 <span class="sc">jun</span>.
+- Invited participant to *Orange Beach Epistemology Workshop 7: Inference to the Best Explanation*, Orange Beach, 18–19 <span class="sc">may</span>.
+- “Fitness in Evolutionary Theory”, Faculty Lunch Speaker Series, NYU Shanghai, 16 <span class="sc">apr</span>.
+
 <div class="noteleft">2014</div>
-- *Mental Causation: Old Problems, New Solutions?*, Center for Logic and Analytic Philosophy, Institute of Philosophy, Katholieke Universiteit Leuven, 20–21 <span class="sc">nov</span>.
+- “Interventionism, Externalism and Exclusion”, *Mental Causation: Old Problems, New Solutions?*, Center for Logic and Analytic Philosophy, Institute of Philosophy, Katholieke Universiteit Leuven, 20–21 <span class="sc">nov</span>.
 - “Why Think Causally?”, *Causation: A Workshop with Ned Hall*, Universität zu Köln, 10 <span class="sc">nov</span>.
 - “Selection, Drift, and Causal Explanation”, *Explanation Beyond Causation*, Munich Center for Mathematical Philosophy, Ludwig-Maximilians-Universität München, 23-24 <span class="sc">oct</span>.
 - “Why Think Causally?”, New York University, 3 <span class="sc">feb</span>.
@@ -253,6 +267,7 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 
 ### graduate
 
+- Advanced Introduction to Philosophy of Science, [2014](http://bweslake.org/teaching/2014/science).
 - The Direction of Time (Reading Course),
 [2013](http://bweslake.org/teaching/2013/time/).  
 - Causation, [2012](http://bweslake.org/teaching/2012/causation/).
@@ -279,7 +294,8 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 - Philosophy of Cognitive Science,
 [2010](http://bweslake.org/teaching/2010/cognition/).  
 - Philosophy of Biology,
-[2009](http://bweslake.org/teaching/2009/biology/), [2014](http://bweslake.org/teaching/2014/biology/).  
+[2009](http://bweslake.org/teaching/2009/biology/), [2014a](http://bweslake.org/teaching/2014/biology/),
+[2014b](http://bweslake.org/teaching/2014/biology-fall/).  
 - Philosophy of Mind,
 [2007](http://bweslake.org/teaching/2007/mind/),
 [2008](http://bweslake.org/teaching/2008/mind/),
@@ -287,7 +303,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 - Philosophy of Science,
 [2008](http://bweslake.org/teaching/2008/science/),
 [2009](http://bweslake.org/teaching/2009/science/),
-[2010](http://bweslake.org/teaching/2010/science/), [2012](http://bweslake.org/teaching/2012/science/), [2013](http://bweslake.org/teaching/2013/science/).  
+[2010](http://bweslake.org/teaching/2010/science/), [2012](http://bweslake.org/teaching/2012/science/), [2013](http://bweslake.org/teaching/2013/science/), 2015.  
 - Philosophy of Biology (Reading Course),
 [2008](http://bweslake.org/teaching/2008/biology/).  
 - Philosophy of Science, Rutgers Newark, 2007.  
@@ -295,6 +311,8 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 ### lower level
 
+- Central Problems in Philosophy, [2015](http://bweslake.org/teaching/2015/central-problems).
+- Logic, 2015.
 - Reason and Science,
 [2008](http://bweslake.org/teaching/2008/reason/),
 [2009](http://bweslake.org/teaching/2009/reason/),
@@ -306,9 +324,9 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 ### dissertation committees
 
 <div class="noteleft"><span class="sc">2011</span></div>
-<div><a href="http://sites.google.com/site/kevinmccain/home">Kevin McCain</a> <span class="sc">phd</span></div>
+<div><a href="http://sites.google.com/site/kevinmccain/home">Kevin McCain</a> <span class="sc">phd</span>, University of Rochester</div>
 <div class="noteleft">2011</div>
-<div>Hannah Oh <span class="sc">phd</span></div>
+<div>Hannah Oh <span class="sc">phd</span>, University of Rochester</div>
 
 ## Service
 
@@ -327,6 +345,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *International Studies in the Philosophy of Science*  
 *InVisible Culture*  
 *Journal for General Philosophy of Science*  
+*Journal of the American Philosophical Association*  
 *Mind*  
 *Noûs*  
 *Oxford University Press*  
@@ -340,6 +359,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Synthese*  
 *Theoria*  
 *Theory and Research in Education*  
+*University of Chicago Press*
 
 ### memberships
 
