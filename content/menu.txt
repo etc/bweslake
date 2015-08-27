@@ -3,6 +3,8 @@ cv
 teaching
   teaching/2015
     teaching/2015/central-problems
+    teaching/2015/logic
+    teaching/2015/science
   teaching/2014
     teaching/2014/biology
     teaching/2014/biology-reading
