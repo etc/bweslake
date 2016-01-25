@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2015 Teaching 
+Summary: 2016
+Template: teaching-year
+
+# 2016

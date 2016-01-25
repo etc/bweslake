@@ -1,6 +1,8 @@
 /
 cv
 teaching
+  teaching/2016
+    teaching/2016/central-problems
   teaching/2015
     teaching/2015/central-problems
     teaching/2015/logic
