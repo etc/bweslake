@@ -66,6 +66,3 @@ DEPENDENCIES
   nesta-plugin-maldini!
   rack-rewrite!
   thin
-
-BUNDLED WITH
-   1.10.6
