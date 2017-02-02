@@ -46,7 +46,6 @@ Other things I find useful:
 * [Cyberduck][duck]
 * [Detexify][detexify]
 * [Pandoc][pandoc]
-* [nvALT][nvalt]
 * [GitHub for Mac][githubmac]
 * [Skim][skim]
 * [f.lux][flux]
@@ -55,7 +54,6 @@ Other things I find useful:
  [detexify]: http://detexify.kirelabs.org/classify.html "Detexify"
  [duck]: http://cyberduck.ch/
  [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc"
- [nvalt]: http://brettterpstra.com/project/nvalt/ "nvALT"
  [githubmac]: http://mac.github.com/ "GitHub for Mac"
  [skim]: http://skim-app.sourceforge.net/ "Skim"
  [flux]: http://stereopsis.com/flux/ "f.lux"
