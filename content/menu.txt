@@ -1,6 +1,9 @@
 /
 cv
 teaching
+  teaching/2017
+    teaching/2017/biology
+    teaching/2017/logic
   teaching/2016
     teaching/2016/central-problems
     teaching/2016/topics
