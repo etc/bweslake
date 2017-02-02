@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: git://github.com/gma/nesta.git
-  revision: 482892c5ced85b55846eeffa4423a6b0b3fdf5c3
+  revision: 935b73d802898902ed9c562ad6b08a63d7694722
   specs:
     nesta (0.11.1)
       RedCloth (~> 4.2)
@@ -29,31 +29,31 @@ GIT
 GEM
   remote: http://rubygems.org/
   specs:
-    RedCloth (4.2.9)
-    bibtex-ruby (4.1.2)
+    RedCloth (4.3.2)
+    bibtex-ruby (4.4.3)
       latex-decode (~> 0.0)
-    daemons (1.2.3)
-    eventmachine (1.0.9.1)
+    daemons (1.2.4)
+    eventmachine (1.2.2)
     haml (4.0.7)
       tilt
     haml-contrib (1.0.0.1)
       haml (>= 3.2.0.alpha.13)
-    kramdown (0.13.3)
+    kramdown (1.13.2)
     latex-decode (0.2.2)
       unicode (~> 0.4)
-    rack (1.6.4)
+    rack (1.6.5)
     rack-protection (1.5.3)
       rack
-    rdiscount (2.1.8)
-    sass (3.4.21)
-    sinatra (1.4.7)
+    rdiscount (2.2.0.1)
+    sass (3.4.23)
+    sinatra (1.4.8)
       rack (~> 1.5)
       rack-protection (~> 1.4)
       tilt (>= 1.3, < 3)
-    thin (1.6.4)
+    thin (1.7.0)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
-      rack (~> 1.0)
+      rack (>= 1, < 3)
     tilt (1.4.1)
     unicode (0.4.4.2)
 
@@ -61,8 +61,14 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  kramdown (= 0.13.3)
+  kramdown (= 1.13.2)
   nesta!
   nesta-plugin-maldini!
   rack-rewrite!
   thin
+
+RUBY VERSION
+   ruby 2.0.0p353
+
+BUNDLED WITH
+   1.14.3
