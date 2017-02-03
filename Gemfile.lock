@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/etc/nesta-plugin-maldini.git
+  revision: 588932bdf17988d7f2fb3511eeaefdc71dc8f2eb
+  specs:
+    nesta-plugin-maldini (0.0.1)
+      bibtex-ruby (>= 2.0.0)
+      nesta (>= 0.9.11)
+
+GIT
   remote: git://github.com/gma/nesta.git
   revision: 935b73d802898902ed9c562ad6b08a63d7694722
   specs:
@@ -17,13 +25,6 @@ GIT
   revision: 758860bc46bbd7e701121702990011caf61091f9
   specs:
     rack-rewrite (1.5.1)
-
-PATH
-  remote: /Users/brad/code/nesta-plugin-maldini
-  specs:
-    nesta-plugin-maldini (0.0.1)
-      bibtex-ruby (>= 2.0.0)
-      nesta (>= 0.9.11)
 
 GEM
   remote: http://rubygems.org/
