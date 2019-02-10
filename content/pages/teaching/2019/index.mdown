@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2019 Teaching 
+Summary: 2019
+Template: teaching-year
+
+# 2019
