@@ -85,12 +85,13 @@ Philosophy of Mind
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
-
-<div class="noteleft"><em>forthcoming</em></div>
 “Exclusion Excluded”, in *International Studies in the Philosophy of Science*.  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
+
+<div class="noteleft">2017</div>
+“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford, pp. 215–231.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1093/oso/9780198746911.001.0001>  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
 
 <div class="noteleft">2014</div>
 “Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Chance and Temporal Asymmetry*, Oxford University Press, Oxford, pp. 241–257.  
@@ -185,7 +186,31 @@ Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shangh
 
 ## presentations
 
+<div class="noteleft">2019</div>
+- “Recent Philosophy of Sex and Gender”, *Gender Studies Discussion Group*, NYU Shanghai, 29 <span class="sc">feb</span>.
+
+<div class="noteleft">2018</div>
+- “The Philosophy and Physics of Time”, *Volta*, All Club, Shanghai, 19 <span class="sc">dec</span>.
+- “Fitness and Variance”, *Workshop on Modeling and Reasoning in the Sciences*, National Yang Ming University, Taiwan, 23–24 <span class="sc">nov</span>.
+- “Fitness and Variance”, *Philosophy Workshop*, NYU Shanghai, 21 <span class="sc">aug</span>.
+- *Radcliffe Seminar on Causation*, Harvard, 8–9 <span class="sc">jan</span>.
+- Invited Author Meets Critics session on Brad Skow, *Reasons Why*, *American Philosophical Association*, 3–6 <span class="sc">jan</span>.
+
+<div class="noteleft">2017</div>
+- “Fitness and Variance“, *Frontier in the Philosophy of Specific Sciences*, Tsinghua University, 19-20 <span class="sc">aug</span>.
+-  Debate with Paul Glimcher on Neuroscience and Free Will, NYU Shanghai, 24 <span class="sc">apr</span>.
+-  “Fitness and Variance“, *Foundations of Probability Seminar* Rutgers, 27 <span class="sc">mar</span>.
+-  “Causation, Information and Specificity”, *MuST 10: Causation and Complexity*, Sydney Centre for the Foundations of Science, 1–3 <span class="sc">mar</span>.
+
 <div class="noteleft">2016</div>
+- “A Confusion in Concepts of Causal Importance”, East China Normal University, 9 <span class="sc">dec</span>.
+- Panel Discussion on Lu Yang, NYU Shanghai Art Gallery, 6 <span class="sc">dec</span>.
+- “Causation, Information and Specificity”, *Philosophy of Science Association*, Atlanta, 3-6 <span class="sc">nov</span>.
+- “Recent Work on The Direction of Causation”, *Causation and the Physical World*, Universität zu Köln, 17–18 <span class="sc">jun</span>.
+- “Introduction to Philosophy of Causation“ (with Ned Hall), *Causation Workshop*, Harvard, 10–11 <span class="sc">jun</span>.
+- “Probability in the Law: A Case Study”, *International Conference on Facts and Evidence: A Dialogue Between Philosophy and Law*, East China Normal University, 28-29 <span class="sc">may</span>.
+- “Sudden Infant Death or Murder? The Seductive Allure of Probability Models in the Law”, *Colloquium in the Humanities and Social Sciences*, NYU Shanghai, 3 <span class="sc">may</span>.
+- “Interventionism, Externalism and Exclusion”, *Emergence, Exclusion, and Causation Workshop*, University of Glasgow, 14–15 <span class="sc">apr</span>.
 - “Fitness and Variance”, *Reduction in Physics and Biology*, Instituto de Filosofía y Ciencias de la Complejidad, Santiago de Chile, 4–7 <span class="sc">jan</span>.
 
 <div class="noteleft">2015</div>
@@ -306,7 +331,9 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 [2010](http://bweslake.org/teaching/2010/cognition/).  
 - Philosophy of Biology,
 [2009](http://bweslake.org/teaching/2009/biology/), [2014a](http://bweslake.org/teaching/2014/biology/),
-[2014b](http://bweslake.org/teaching/2014/biology-fall/).  
+[2014b](http://bweslake.org/teaching/2014/biology-fall/),
+[2017](http://bweslake.org/teaching/2017/biology),
+[2019](http://bweslake.org/teaching/2019/biology).  
 - Philosophy of Mind,
 [2007](http://bweslake.org/teaching/2007/mind/),
 [2008](http://bweslake.org/teaching/2008/mind/),
@@ -315,6 +342,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 [2008](http://bweslake.org/teaching/2008/science/),
 [2009](http://bweslake.org/teaching/2009/science/),
 [2010](http://bweslake.org/teaching/2010/science/), [2012](http://bweslake.org/teaching/2012/science/), [2013](http://bweslake.org/teaching/2013/science/), 2015.  
+- Philosophy of Technology (with [Anna Greenspan](http://annagreenspan.com/)), [2016](http://bweslake.org/teaching/2016/technology), 2018.
 - Philosophy of Biology (Reading Course),
 [2008](http://bweslake.org/teaching/2008/biology/).  
 - Philosophy of Science, Rutgers Newark, 2007.  
@@ -322,7 +350,9 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 ### lower level
 
-- Central Problems in Philosophy, [2015](http://bweslake.org/teaching/2015/central-problems).
+- Global Perspectives on Society (with [Duane Corpis](https://shanghai.nyu.edu/academics/faculty/directory/duane-corpis)), 2017, 2018.
+- Central Problems in Philosophy, [2015](http://bweslake.org/teaching/2015/central-problems),
+[2016](http://bweslake.org/teaching/2016/central-problems).
 - Logic, 2015.
 - Reason and Science,
 [2008](http://bweslake.org/teaching/2008/reason/),
@@ -382,4 +412,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 *Available on request*
 
-*Updated*: 12 <span class="sc">aug</span> 2015
+*Updated*: 28 <span class="sc">mar</span> 2019
