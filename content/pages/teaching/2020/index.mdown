@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2020 Teaching 
+Summary: 2020
+Template: teaching-year
+
+# 2020
