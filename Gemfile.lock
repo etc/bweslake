@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 935b73d802898902ed9c562ad6b08a63d7694722
+  revision: e75bca8bcd94f7abd573de99fa34fc097fa8e281
   specs:
     nesta (0.11.1)
       RedCloth (~> 4.2)
@@ -18,7 +18,7 @@ GIT
       rdiscount (~> 2.1)
       sass (>= 3.1)
       sinatra (~> 1.4)
-      tilt (~> 1.4)
+      tilt (~> 2.0)
 
 GIT
   remote: https://github.com/jtrupiano/rack-rewrite.git
@@ -30,34 +30,40 @@ GEM
   remote: http://rubygems.org/
   specs:
     RedCloth (4.3.2)
-    bibtex-ruby (4.4.3)
+    bibtex-ruby (5.1.2)
       latex-decode (~> 0.0)
-    daemons (1.2.4)
-    eventmachine (1.2.3)
-    haml (5.0.1)
+    daemons (1.3.1)
+    eventmachine (1.2.7)
+    ffi (1.12.2)
+    haml (5.1.2)
       temple (>= 0.8.0)
       tilt
     haml-contrib (1.0.0.1)
       haml (>= 3.2.0.alpha.13)
     kramdown (1.13.2)
-    latex-decode (0.2.2)
-      unicode (~> 0.4)
-    rack (1.6.8)
-    rack-protection (1.5.3)
+    latex-decode (0.3.1)
+    rack (1.6.13)
+    rack-protection (1.5.5)
       rack
+    rb-fsevent (0.10.3)
+    rb-inotify (0.10.1)
+      ffi (~> 1.0)
     rdiscount (2.2.0.1)
-    sass (3.4.24)
+    sass (3.7.4)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
     sinatra (1.4.8)
       rack (~> 1.5)
       rack-protection (~> 1.4)
       tilt (>= 1.3, < 3)
-    temple (0.8.0)
-    thin (1.7.1)
+    temple (0.8.2)
+    thin (1.7.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
       rack (>= 1, < 3)
-    tilt (1.4.1)
-    unicode (0.4.4.4)
+    tilt (2.0.10)
 
 PLATFORMS
   ruby
@@ -70,7 +76,7 @@ DEPENDENCIES
   thin
 
 RUBY VERSION
-   ruby 2.3.3p222
+   ruby 2.5.7p206
 
 BUNDLED WITH
-   1.15.1
+   1.17.3
