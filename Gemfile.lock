@@ -42,8 +42,8 @@ GEM
     kramdown (1.13.2)
     latex-decode (0.2.2)
       unicode (~> 0.4)
-    rack (1.6.8)
-    rack-protection (1.5.3)
+    rack (1.6.13)
+    rack-protection (1.5.5)
       rack
     rdiscount (2.2.0.1)
     sass (3.4.24)
