@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
 ruby "2.5.7"
 
-gem 'nesta', :git => 'https://github.com/gma/nesta.git'
+# gem 'nesta', :git => 'https://github.com/gma/nesta.git'
+gem 'nesta', :git => 'https://github.com/etc/nesta.git'
 # Use the following instead to specify a particular version, eg. 0.9.11
 # gem 'nesta', '0.9.11'
 # Use the following instead, to try out local changes to Nesta:
