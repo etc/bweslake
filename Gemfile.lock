@@ -40,7 +40,7 @@ GEM
       tilt
     haml-contrib (1.0.0.1)
       haml (>= 3.2.0.alpha.13)
-    kramdown (1.13.2)
+    kramdown (2.1.0)
     latex-decode (0.3.1)
     rack (1.6.13)
     rack-protection (1.5.5)
@@ -63,7 +63,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  kramdown (= 1.13.2)
+  kramdown (= 2.1.0)
   nesta!
   nesta-plugin-maldini!
   rack-rewrite!
