@@ -6,7 +6,7 @@ gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 # gem 'nesta', '0.9.11'
 # Use the following instead, to try out local changes to Nesta:
 # gem 'nesta', :path => '/Users/brad/code/nesta'
-gem 'kramdown', '2.1.0'
+gem 'kramdown', '2.3.0'
 gem 'nesta-plugin-maldini', :git => 'https://github.com/etc/nesta-plugin-maldini.git'
 # Use the following instead, to try out local changes to Maldini:
 # gem 'nesta-plugin-maldini', :path => '/Users/brad/code/nesta-plugin-maldini'
