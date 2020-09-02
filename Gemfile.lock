@@ -48,7 +48,7 @@ GEM
     rack (2.2.3)
     rack-protection (2.0.8.1)
       rack
-    rdiscount (2.2.0.1)
+    rdiscount (2.2.0.2)
     rexml (3.2.4)
     ruby2_keywords (0.0.2)
     sassc (2.4.0)
@@ -76,7 +76,7 @@ DEPENDENCIES
   thin
 
 RUBY VERSION
-   ruby 2.7.0p0
+   ruby 2.7.1p83
 
 BUNDLED WITH
    2.1.4

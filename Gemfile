@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "2.7.0"
+ruby "2.7.1"
 
 gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 # Use the following instead to specify a particular version, eg. 0.9.11
