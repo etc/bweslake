@@ -1,6 +1,11 @@
 /
 cv
 teaching
+  teaching/2021
+    teaching/2021/what-is-philosophy
+    teaching/2021/technology-ug
+    teaching/2021/technology-pg
+    teaching/2021/causal-inference
   teaching/2020
     teaching/2020/science
   teaching/2019

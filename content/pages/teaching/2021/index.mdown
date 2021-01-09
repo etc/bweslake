@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2021 Teaching 
+Summary: 2021
+Template: teaching-year
+
+# 2021
