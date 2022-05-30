@@ -3,6 +3,7 @@ cv
 teaching
   teaching/2022
     teaching/2022/biology
+    teaching/2022/mind
   teaching/2021
     teaching/2021/what-is-philosophy
     teaching/2021/technology-ug
