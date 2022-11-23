@@ -8,11 +8,11 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 372dddbdeecff35969dac595f947a512fc4ea399
+  revision: a0dea4ccf09ba829dc01194a127ae40baa2c6d27
   specs:
-    nesta (0.12.0)
+    nesta (0.13.0)
       RedCloth (~> 4.2)
-      haml (>= 3.1)
+      haml (>= 3.1, < 6.0)
       haml-contrib (>= 1.0)
       rack (~> 2.0)
       rdiscount (~> 2.1)
@@ -48,7 +48,7 @@ GEM
     rack (2.2.4)
     rack-protection (2.2.2)
       rack
-    rdiscount (2.2.0.2)
+    rdiscount (2.2.7)
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
     sassc (2.4.0)
@@ -58,7 +58,7 @@ GEM
       rack (~> 2.2)
       rack-protection (= 2.2.2)
       tilt (~> 2.0)
-    temple (0.8.2)
+    temple (0.9.1)
     thin (1.8.1)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
