@@ -10,6 +10,8 @@ module Nesta
     #
     # use Rack::Static, :urls => ["/parallelist"], :root => "themes/parallelist/public"
 
+    Encoding.default_external = "UTF-8"
+
     helpers do
       # Use Kramdown for Markdown processing.
       Tilt.prefer Tilt::KramdownTemplate
