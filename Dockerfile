@@ -1,0 +1,3 @@
+FROM ruby:3.1.2
+
+ENV LANG C.UTF-8
