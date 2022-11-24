@@ -8,7 +8,7 @@ use Rack::Rewrite do
 
   # Unless working locally, ensure site is served at http://bweslake.org
   # unless ENV['RACK_ENV'] == 'development'
-  #  r301 %r{.*}, 'http://bweslake.org$&',
+  #  r301 %r{.*}, 'https://bweslake.org$&',
   #    :if => Proc.new { |rack_env| rack_env['SERVER_NAME'] != 'bweslake.org' }
   #end
 

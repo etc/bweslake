@@ -1,6 +1,6 @@
 ## About ##
 
-This is a personal academic site constructed with [Nesta](http://nestacms.com/ "Nesta").  It started with various hacks to the Nesta website itself, but has gradually evolved away.  The site is hosted on [Railway](https://railway.app/ "Railway.app") and can be accessed at [http://bweslake.org/](http://bweslake.org/ "http://bweslake.org/").  For more, see this [note](http://bweslake.org/blog/a-note-on-this-site "A Note on This Site").
+This is a personal academic site constructed with [Nesta](http://nestacms.com/ "Nesta").  It started with various hacks to the Nesta website itself, but has gradually evolved away.  The site is hosted on [Railway](https://railway.app/ "Railway.app") and can be accessed at [https://bweslake.org/](https://bweslake.org/ "https://bweslake.org/").  For more, see this [note](http://bweslake.org/blog/a-note-on-this-site "A Note on This Site").
 
 ### Parallelist ###
 
