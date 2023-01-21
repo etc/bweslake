@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2023 Teaching 
+Summary: 2023
+Template: teaching-year
+
+# 2023
