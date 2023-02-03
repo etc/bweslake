@@ -18,9 +18,14 @@
     = local_stylesheet_link_tag('local')
     %script(src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML")
     %link(href="/articles.xml" rel="alternate" type="application/atom+xml")
+  %script{async: true, src: "https://www.googletagmanager.com/gtag/js?id=G-KDW9ZGXJJQ"}
+  %script
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-KDW9ZGXJJQ');
   %body
     #container
       = haml :header, :layout => false
       = yield
       = haml :footer, :layout => false
-    = haml :analytics, :layout => false
