@@ -146,6 +146,6 @@ Reprinted as &ldquo;The Path from Data to Theory&rdquo; in Jarrett Leplin (Ed). 
 
 <p><a href="http://www.phil.metu.edu.tr/erdinc-sayan/">Sayan, Erdinç</a>. 2005. &ldquo;Idealizations and Approximations in Science, and the Bayesian Theory of Confirmation&rdquo;, in Gürol Irzik and Güven Güzeldere (Eds), <em>Turkish Studies in the History and Philosophy of Science</em>, Boston Studies in the Philosophy of Science, Vol. 244, Springer, Dordrecht, pp. 103&ndash;112. [<a href="http://reductioland.net/zuihitsu/protected/sayan_bayesian_idealisation.pdf">PDF</a>]</p>
 
-<p><img src="http://bweslake.s3.amazonaws.com/images/bad_credit.jpg" alt="Bad Credit, from http://tsilli.com/"></p>
+<p><img src="https://bweslake.s3.amazonaws.com/images/bad_credit.jpg" alt="Bad Credit, from http://tsilli.com/"></p>
 
 *Updated*: 17 April 2008

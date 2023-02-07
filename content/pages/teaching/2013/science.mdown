@@ -7,7 +7,7 @@ Summary: A survey course on the metaphysics of science.
 
 ## Fall 2013
 
-<p align="center"><br/><img width="70%" src="http://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity">
+<p align="center"><br/><img width="70%" src="https://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity">
 
 <blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo;, <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
 
@@ -67,7 +67,7 @@ Summary: A survey course on the metaphysics of science.
 </tbody>
 </table>
 
-<p>Paper guidelines <span class="small  ">[<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
+<p>Paper guidelines <span class="small  ">[<a href="https://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
 
 <a name="schedule"> </a>
 <h3>Schedule</h3>

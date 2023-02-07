@@ -7,7 +7,7 @@ Summary: An introduction to the philosophy of cognitive science, focusing on phi
 
 ## Spring 2010
 
-<p align="left"><br/><img width="30%" src="http://bweslake.s3.amazonaws.com/images/trepanning.jpg" alt="Mr. Rodman's Trepanning Instrument">
+<p align="left"><br/><img width="30%" src="https://bweslake.s3.amazonaws.com/images/trepanning.jpg" alt="Mr. Rodman's Trepanning Instrument">
 
 <blockquote class="captionleft">From <em>The Philosophical Magazine, Comprehending the Various Branches of Science, the Liberal and Fine Arts, Agriculture, Manufactures, and Commerce</em>, London, 1811, Part VII, Vol VI (via <a href="http://thediagram.com/2_6/rodman.html">here</a>).</blockquote></p>
 
@@ -52,13 +52,13 @@ Summary: An introduction to the philosophy of cognitive science, focusing on phi
 <thead></thead>
 <tbody>
 <tr><td>Exam:  </td><td>Wednesday 3 March </td><td></td></tr>
-<tr><td>Final Paper:  </td><td>Monday 3 May </td><td>Questions <span class="small">[<a href="http://bweslake.s3.amazonaws.com/teaching/2010/cognition/final.pdf">PDF</a>]</span></td></tr>
+<tr><td>Final Paper:  </td><td>Monday 3 May </td><td>Questions <span class="small">[<a href="https://bweslake.s3.amazonaws.com/teaching/2010/cognition/final.pdf">PDF</a>]</span></td></tr>
 <tr><td>Reading Summaries:  </td><td>At <em>the beginning</em> of each associated class, <em>with no exceptions</em></td></tr>
 </tbody>
 </table>
 </p>
 
-<p>Essay guidelines <span class="small">[<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
+<p>Essay guidelines <span class="small">[<a href="https://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
 
 <a name="reference"> </a>
 <h3>Reference Works</h3>

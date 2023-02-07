@@ -7,7 +7,7 @@ Summary: A collection of teaching resources on Darwin and religion.
 
 &nbsp;
 ![Charles Darwin, Diagram of Divergence of
-Taxa](http://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
+Taxa](https://bweslake.s3.amazonaws.com/images/darwin_diagram.png)
 
 <blockquote class="caption">Part of Darwin's &ldquo;Diagram of Divergence of Taxa&rdquo;, the only diagram in <em>On The Origin of Species</em>.  For the full diagram see <a href="http://darwin-online.org.uk/content/frameset?viewtype=image&amp;itemID=F373&amp;pageseq=133">here</a>.</blockquote>
 

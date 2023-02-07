@@ -25,7 +25,7 @@ A short note on the tools used to construct this site can be found [here][note].
 
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master
- [9]: http://bweslake.s3.amazonaws.com/research/resources/DOItoURI.scpt.zip
+ [9]: https://bweslake.s3.amazonaws.com/research/resources/DOItoURI.scpt.zip
 
 ### Workflow
 

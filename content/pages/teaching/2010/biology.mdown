@@ -7,7 +7,7 @@ Summary: A unit on philosophy of biology for a four-course sequence providing co
 
 ## Fall 2010
 
-<p align="center"><img width="100%" src="http://bweslake.s3.amazonaws.com/images/darwin_diagram.png" alt="Charles Darwin, Diagram of Divergence of Taxa">
+<p align="center"><img width="100%" src="https://bweslake.s3.amazonaws.com/images/darwin_diagram.png" alt="Charles Darwin, Diagram of Divergence of Taxa">
 <blockquote class="caption">Part of Darwin's &ldquo;Diagram of Divergence of Taxa&rdquo;, the only diagram in <em>On The Origin of Species</em>.</blockquote></p>
 
 <p><a href="#details">Details</a> | <a href="#overview">Overview</a> | <a href ="#reading">Schedule</a> [ <a href="#l1">1</a> | <a href="#l2">2</a> | <a href="#l3">3</a> ]</p>

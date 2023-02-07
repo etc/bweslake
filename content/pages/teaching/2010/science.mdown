@@ -7,7 +7,7 @@ Summary: A survey course on the metaphysics of science.
 
 ## Fall 2010
 
-<p align="center"><br/><img width="70%" src="http://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity">
+<p align="center"><br/><img width="70%" src="https://bweslake.s3.amazonaws.com/images/faraday.png" alt="From Michael Faraday, Experimental Researches in Electricity">
 
 <blockquote class="caption">Michael Faraday's diagram of magnetic lines of force, from his &ldquo;Experimental Researches in Electricity&rdquo;, <em>Philosophical Transactions of the Royal Society of London</em>, Vol. 142, 1 January 1852, pp. 25&ndash;56.</blockquote></p>
 
@@ -61,12 +61,12 @@ Summary: A survey course on the metaphysics of science.
 <table class="assess">
 <tbody>
 <tr><td>Reading Summaries:  </td><td>At each associated class, <em>with no exceptions</em></td></tr>
-<tr><td>First Paper:  </td><td>Wednesday 27 October</td><td>Questions [<span class="small"><a href="http://bweslake.s3.amazonaws.com/teaching/2010/science/essay1.pdf">PDF</a></span>]</td></tr>
-<tr><td>Second Paper:  </td><td>Monday 13 December</td><td>Questions [<span class="small"><a href="http://bweslake.s3.amazonaws.com/teaching/2010/science/essay2.pdf">PDF</a></span>]</td></tr>
+<tr><td>First Paper:  </td><td>Wednesday 27 October</td><td>Questions [<span class="small"><a href="https://bweslake.s3.amazonaws.com/teaching/2010/science/essay1.pdf">PDF</a></span>]</td></tr>
+<tr><td>Second Paper:  </td><td>Monday 13 December</td><td>Questions [<span class="small"><a href="https://bweslake.s3.amazonaws.com/teaching/2010/science/essay2.pdf">PDF</a></span>]</td></tr>
 </tbody>
 </table>
 
-<p>Paper guidelines <span class="small">[<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
+<p>Paper guidelines <span class="small">[<a href="https://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</span></p>
 
 <a name="reading"> </a>
 <h3>Reading</h3>

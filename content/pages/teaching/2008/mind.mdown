@@ -28,7 +28,7 @@ Summary: An overview of the recent history of philosophy of mind, focusing on th
 <p>This course is an overview of the recent history of philosophy of mind, focusing on the relationship between the mind and the physical world.  The aim is to trace through some of the central debates in this history, and to assess where we stand today.  Topics covered include the question of how to formulate physicalism about the mind; an examination of behaviourism, the identity theory, and functionalist theories of the mind; the prospects for integrating consciousness and mental content within a physicalist worldview; and the problem of mental causation.  The course may be taken for upper level writing credit.</p>
 
 <p><em>Printable Syllabus</em><br>
-Available <a href="http://bweslake.s3.amazonaws.com/teaching/2008/mind/syllabus.pdf">here</a> [PDF]</p>
+Available <a href="https://bweslake.s3.amazonaws.com/teaching/2008/mind/syllabus.pdf">here</a> [PDF]</p>
 
 <a name="announcements"> </a>
 <h3>Announcements</h3><br>
@@ -70,14 +70,14 @@ reading and meet for an additional discussion section.</p>
 <p>Due dates:</p>
 <table class="assess">
 <tbody>
-<tr><td><a name="essay1"> </a>First Paper:  </td><td>Wednesday 29 October </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2008/mind/essay1.pdf">PDF</a>]</td></tr>
-<tr><td><a name="essay2"> </a>Second Paper:  </td><td>Wednesday 17 December </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2008/mind/essay2.pdf">PDF</a>]</td></tr>
+<tr><td><a name="essay1"> </a>First Paper:  </td><td>Wednesday 29 October </td><td>Questions [<a href="https://bweslake.s3.amazonaws.com/teaching/2008/mind/essay1.pdf">PDF</a>]</td></tr>
+<tr><td><a name="essay2"> </a>Second Paper:  </td><td>Wednesday 17 December </td><td>Questions [<a href="https://bweslake.s3.amazonaws.com/teaching/2008/mind/essay2.pdf">PDF</a>]</td></tr>
 <tr><td>Weekly Reading Summaries:  </td><td>Midnight <em>two nights before each class</em></td></tr>
 </tbody>
 </table>
 
 <p><em>Research Resources</em><br>
-Available <a href="http://bweslake.s3.amazonaws.com/teaching/2008/mind/resources.pdf">here</a> [PDF]</p>
+Available <a href="https://bweslake.s3.amazonaws.com/teaching/2008/mind/resources.pdf">here</a> [PDF]</p>
 
 <a name="textbook"> </a>
 <h3>Textbook</h3>

@@ -7,7 +7,7 @@ Summary: An introduction to the epistemology of science.
 
 ## Spring 2009
 
-<p align="center"><img width="60%" src="http://bweslake.s3.amazonaws.com/images/lavoisier.png" alt="From Lavoisier's Trait&eacute; &eacute;l&eacute;mentaire"></p>
+<p align="center"><img width="60%" src="https://bweslake.s3.amazonaws.com/images/lavoisier.png" alt="From Lavoisier's Trait&eacute; &eacute;l&eacute;mentaire"></p>
 
 <blockquote class="caption">Lavoisier's experiment to analyze water (boiling in flask A) into its constituents of oxygen and hydrogen by passing the steam through a red-hot glass tube (EF) that contains spirals of beaten iron. The oxygen from the steam combines chemically with the glowing iron, while the released gaseous hydrogen is collected at left; scrupulous weighing verifies the equivalence of water and products. From Lavoisier's <em>Trait&eacute; &eacute;l&eacute;mentaire</em> (1789). Image and caption from <a href="http://www.press.uchicago.edu/presssite/metadata.epl?mode=synopsis&amp;bookkey=176215">here</a>.</blockquote>
 
@@ -76,14 +76,14 @@ Summary: An introduction to the epistemology of science.
 <p><table class="assess">
 <thead></thead>
 <tbody>
-<tr><td>First Paper:  </td><td>Monday 16 March </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2009/reason/essay1.pdf">PDF</a>]</td></tr>
-<tr><td>Second Paper:  </td><td>Wednesday 29 April </td><td>Questions [<a href="http://bweslake.s3.amazonaws.com/teaching/2009/reason/essay2.pdf">PDF</a>]</td></tr>
+<tr><td>First Paper:  </td><td>Monday 16 March </td><td>Questions [<a href="https://bweslake.s3.amazonaws.com/teaching/2009/reason/essay1.pdf">PDF</a>]</td></tr>
+<tr><td>Second Paper:  </td><td>Wednesday 29 April </td><td>Questions [<a href="https://bweslake.s3.amazonaws.com/teaching/2009/reason/essay2.pdf">PDF</a>]</td></tr>
 <tr><td>Reading Summaries:  </td><td>At <em>the beginning</em> of each associated class, <em>with no exceptions</em></td></tr>
 </tbody>
 </table>
 </p>
 
-<p>Essay guidelines [<a href="http://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</p>
+<p>Essay guidelines [<a href="https://bweslake.s3.amazonaws.com/teaching/resources/guidelines.pdf">PDF</a>]</p>
 
 <a name="reading"> </a>
 <h3>Reading</h3>

@@ -5,7 +5,7 @@ Summary: A collection of teaching resources on philosophy of mind.
 
 # Philosophy of Mind Teaching Resources
 
-<p align="left"><br/><img width="30%" src="http://bweslake.s3.amazonaws.com/images/trepanning.jpg" alt="Mr. Rodman's Trepanning Instrument">
+<p align="left"><br/><img width="30%" src="https://bweslake.s3.amazonaws.com/images/trepanning.jpg" alt="Mr. Rodman's Trepanning Instrument">
 
 <blockquote class="captionleft">From <em>The Philosophical Magazine, Comprehending the Various Branches of Science, the Liberal and Fine Arts, Agriculture, Manufactures, and Commerce</em>, London, 1811, Part VII, Vol VI (via <a href="http://thediagram.com/2_6/rodman.html">here</a>).</blockquote></p>
 
