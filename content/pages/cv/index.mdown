@@ -6,10 +6,10 @@ Summary: Curriculum Vitae
 # CV
 
 NYU Shanghai  
-1555 Century Avenue  
+567 West Yangsi Road  
 Pudong, Shanghai  
-China `200122`  
-[brad.weslake@nyu.edu](mailto:brad.weslake@nyu.edu)\\
+China `200126`  
+[brad.weslake@nyu.edu](mailto:brad.weslake@nyu.edu)  
 <http://bweslake.org/>
 
 ## Areas of speciality
@@ -24,6 +24,8 @@ Philosophy of Mind
 
 <div class="noteleft">2015–</div>
 <div><em>Associate Professor of Philosophy</em>, NYU Shanghai</div>
+<div class="noteleft">2015–</div>
+<div><em>Global Network Associate Professor of Philosophy</em>, NYU</div>
 <div class="noteleft">2014</div>
 <div><em>Visiting Associate Professor of Philosophy</em>, NYU</div>
 <div class="noteleft">2007–2014</div>
@@ -42,50 +44,20 @@ Philosophy of Mind
 
 ### books
 
-<div class="noteleft"><em>forthcoming</em></div>
-[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), *Time's Arrows and The Probability Structure of The World*, Harvard University Press, Cambridge MA.
+<div class="noteleft">2023</div>
+[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), [*The Probability Map of the Universe: Essays on David Albert’s Time and Chance*](https://www.hup.harvard.edu/catalog.php?isbn=9780674967878), Harvard University Press, Cambridge MA.
 
-> Papers on themes from [David Albert][3]'s *[Time and Chance][4]* (<span class="sc">hup</span>, 2000), with replies by Albert.
-> Contributors include [Sean Carroll][5], Sidney Felder, [Alison Fernandes][alison], [Mathias Frisch][6], [Nick Huggett][7], [Jenann Ismael][8], [Doug Kutach][9], [Barry Loewer][1], [Tim Maudlin][10], [Chris Meacham][11], [David Wallace][13], and [Eric Winsberg][2]. 
+<div class="noteleft">2020</div>
+[Shamik Dasgupta][shamik] and Brad Weslake (Eds), [*Current Controversies in Philosophy of Science*](https://doi.org/10.4324/9781315713151), Routledge, London.
 
-<div class="noteleft"><em>contracted</em></div>
-[Shamik Dasgupta][shamik] and Brad Weslake (Eds), *Current Controversies in Philosophy of Science*, Routledge, London.
-
-> Contributors include [Sean Carroll][5], [Ellen Clarke][ellen], [Laura Franklin-Hall][laura], [Ned Hall][ned], [Jenann Ismael][jenann], [Matthew Kotzen][matt], [Mary Leng][mary], [Alyssa Ney][alyssa], [Maureen O’Malley][maureen], [Chris Pincock][chris], [Joan Roughgarden][joan] and [David Wallace][13].
-
- [1]: http://rci.rutgers.edu/~loewer/
- [2]: http://www.cas.usf.edu/~ewinsb/
- [3]: http://en.wikipedia.org/wiki/David_Albert
- [4]: http://www.hup.harvard.edu/catalog.php?isbn=9780674011328
- [5]: http://preposterousuniverse.com/
- [6]: http://www.philosophy.umd.edu/Faculty/mfrisch/index.html
- [7]: http://tigger.uic.edu/~huggett/
- [8]: http://www.jenanni.com/
- [9]: http://sagaciousmatter.org/
- [10]: http://philosophy.fas.nyu.edu/object/timmaudlin.html
- [11]: http://www.umass.edu/philosophy/faculty/meacham.htm
- [13]: http://users.ox.ac.uk/~mert0130/
- [alison]: http://philosophy.columbia.edu/directories/student/alison-fernandes
+ [1]: https://www.philosophy.rutgers.edu/faculty-174/182-faculty-profiles/617-barryloewer
+ [2]: https://www.winsberg.net/
  [shamik]: http://www.shamik.net/
- [ellen]: http://ellenclarke.net/
- [laura]: http://laurafranklin-hall.com/
- [ned]: http://philosophy.fas.harvard.edu/people/edward-j-hall
- [jenann]: http://www.jenanni.com/
- [matt]: http://matthewkotzen.net/
- [mary]: https://www.york.ac.uk/philosophy/about/staff/mary-leng/
- [alyssa]: http://philosophy.ucdavis.edu/people/aney
- [maureen]: http://www.maureenomalley.org/
- [chris]: http://pincock-yilmazer.com/chris/
- [joan]: https://en.wikipedia.org/wiki/Joan_Roughgarden
 
 ### papers
 
 <div class="noteleft"><em>forthcoming</em></div>
-“A Partial Theory of Actual Causation”, in *The British Journal for the Philosophy of Science*.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
-
-<div class="noteleft"><em>forthcoming</em></div>
-“Exclusion Excluded”, in *International Studies in the Philosophy of Science*.  
+“Exclusion Excluded”, in a volume edited by Alastair Wilson and Katie Robertson with Oxford University Press.
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
 
 <div class="noteleft">2017</div>
@@ -95,6 +67,7 @@ Philosophy of Mind
 
 <div class="noteleft">2014</div>
 “Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Chance and Temporal Asymmetry*, Oxford University Press, Oxford, pp. 241–257.  
+<span class="sc">uri</span>: <http://dx.doi.org/10.1093/acprof:oso/9780199673421.003.0012>  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
 <div class="noteleft">2013</div>
@@ -127,8 +100,7 @@ Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
 
 <div class="noteleft">2006</div>
 “Common Causes and The Direction of Causation”, in
-*Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special
-Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16, <span class="sc">no</span>. 3, <span class="sc">aug</span>
+*Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16, <span class="sc">no</span>. 3, <span class="sc">aug</span>
 2006, pp. 239–257.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1007/s11023-006-9042-2>  
 <span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/2792/>
@@ -138,19 +110,13 @@ Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16,
 
 ### papers in progress
 
+“A Partial Theory of Actual Causation”  
+<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
+
 “The Problem of Disjunctive Explanations”  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
-“Selection, Drift, and Non-Causal Explanation”  
-“Fitness and Variance”  
-“Why Think Causally?”
 
 ### encyclopædia entries
-
-<div class="noteleft"><em>contracted</em></div>
-“Regularity Theories of Causation”, in Edward N. Zalta (Ed), *Stanford Encyclopedia of Philosophy*, Stanford University, Stanford.
-
-<div class="noteleft"><em>contracted</em></div>
-“Scientific Explanation”, in Duncan Pritchard (Ed), *Oxford Bibliographies in Philosophy*, Oxford University Press, Oxford.
 
 <div class="noteleft">2010</div>
 “Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash
@@ -163,9 +129,6 @@ ePress, Melbourne, 2010.
 <span class="sc">preprint</span>: <http://philpapers.org/rec/west>
 
 ### reviews
-
-<div class="noteleft"><em>contracted</em></div>
-“L. A. Paul and Ned Hall, *Causation: A User's Guide*”, in *Mind*.
 
 <div class="noteleft">2006</div>
 “James Woodward, *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140.  
@@ -186,7 +149,21 @@ Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shangh
 
 ## presentations
 
+<div class="noteleft">2022</div>
+- “Tolstoy’s Philosophy in *War and Peace*”, NYU Shanghai, 5 <span class="sc">may</span>. 
+
+<div class="noteleft">2021</div>
+- “Surrogacy: Some Philosophical Dimensions”, NYU Shanghai, 4 <span class="sc">mar</span>. 
+
+<div class="noteleft">2020</div>
+- “Comments on Darrell Rowbottom, Does Science Progress?”, *Asian Epistemology Network*, 18 <span class="sc">dec</span>.
+- “Explanation in Evolution and Artificial Intelligence”, *NYU Trailblazer Series*, 2 <span class="sc">dec</span>.
+
 <div class="noteleft">2019</div>
+- “Interventionism, Externalism and Exclusion”, *Causality Workshop*, Harvard University, 12-14 <span class="sc">dec</span>.
+- Debate on Evolutionary Explanations of Human Homosexuality, NYU Shanghai, 10 <span class="sc">dec</span>.
+- “Interventionism, Externalism and Exclusion”, *Workshop on Causal Reasoning*, Shandong University, 29 <span class="sc">nov</span>.
+- “(A Little) Philosophy of Sex, Gender and Sexual Orientation”,  *Playground*, Shanghai, 24 <span class="sc">nov</span>.
 - “Recent Philosophy of Sex and Gender”, *Gender Studies Discussion Group*, NYU Shanghai, 29 <span class="sc">feb</span>.
 
 <div class="noteleft">2018</div>
@@ -303,7 +280,9 @@ Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shangh
 
 ### graduate
 
-- Advanced Introduction to Philosophy of Science, [2014](http://bweslake.org/teaching/2014/science).
+- Philosophy of Technology (with [Anna Greenspan](http://annagreenspan.com/)), [2021](http://bweslake.org/teaching/2021/technology-pg}).
+- Causal Inference (with [Jeff Erlich](https://erlichlab.org/)), [2021](http://bweslake.org/teaching/2021/causal-inference).
+- Advanced Introduction to Philosophy of Science, [2014](http://bweslake.org/teaching/2014/science), [2020](http://bweslake.org/teaching/2020/science).
 - The Direction of Time (Reading Course),
 [2013](http://bweslake.org/teaching/2013/time/).  
 - Causation, [2012](http://bweslake.org/teaching/2012/causation/).
@@ -333,16 +312,16 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 [2009](http://bweslake.org/teaching/2009/biology/), [2014a](http://bweslake.org/teaching/2014/biology/),
 [2014b](http://bweslake.org/teaching/2014/biology-fall/),
 [2017](http://bweslake.org/teaching/2017/biology),
-[2019](http://bweslake.org/teaching/2019/biology).  
+[2019](http://bweslake.org/teaching/2019/biology), [2022](http://bweslake.org/teaching/2022/biology), [2023](http://bweslake.org/teaching/2023/biology).  
 - Philosophy of Mind,
 [2007](http://bweslake.org/teaching/2007/mind/),
 [2008](http://bweslake.org/teaching/2008/mind/),
-[2009](http://bweslake.org/teaching/2009/mind/), [2014](http://bweslake.org/teaching/2014/mind/).  
+[2009](http://bweslake.org/teaching/2009/mind/), [2014](http://bweslake.org/teaching/2014/mind/), [2022](https://bweslake.org/teaching/2022/mind).  
 - Philosophy of Science,
 [2008](http://bweslake.org/teaching/2008/science/),
 [2009](http://bweslake.org/teaching/2009/science/),
-[2010](http://bweslake.org/teaching/2010/science/), [2012](http://bweslake.org/teaching/2012/science/), [2013](http://bweslake.org/teaching/2013/science/), 2015.  
-- Philosophy of Technology (with [Anna Greenspan](http://annagreenspan.com/)), [2016](http://bweslake.org/teaching/2016/technology), 2018.
+[2010](http://bweslake.org/teaching/2010/science/), [2012](http://bweslake.org/teaching/2012/science/), [2013](http://bweslake.org/teaching/2013/science/), [2015](http://bweslake.org/teaching/2015/science).  
+- Philosophy of Technology (with [Anna Greenspan](http://annagreenspan.com/)), [2016](http://bweslake.org/teaching/2016/technology), 2018, [2021](https://bweslake.org/teaching/2021/technology-ug), [2023](https://bweslake.org/teaching/2023/technology).
 - Philosophy of Biology (Reading Course),
 [2008](http://bweslake.org/teaching/2008/biology/).  
 - Philosophy of Science, Rutgers Newark, 2007.  
@@ -350,10 +329,11 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 ### lower level
 
-- Global Perspectives on Society (with [Duane Corpis](https://shanghai.nyu.edu/academics/faculty/directory/duane-corpis)), 2017, 2018.
+- Global Perspectives on Society (with [Duane Corpis](https://shanghai.nyu.edu/academics/faculty/directory/duane-corpis)) 2017, 2018 (with [Shirin Edwin](https://www.metrostate.edu/about/directory/shirin-edwin)) 2019, (with [Maria Adele Carrai](https://mariadelecarrai.com/)) 2021.
+- What is Philosophy? [2021](http://bweslake.org/teaching/2021/what-is-philosophy).
 - Central Problems in Philosophy, [2015](http://bweslake.org/teaching/2015/central-problems),
 [2016](http://bweslake.org/teaching/2016/central-problems).
-- Logic, 2015.
+- Logic, [2015](http://bweslake.org/teaching/2015/logic).
 - Reason and Science,
 [2008](http://bweslake.org/teaching/2008/reason/),
 [2009](http://bweslake.org/teaching/2009/reason/),
@@ -370,10 +350,6 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 <div>Hannah Oh <span class="sc">phd</span>, University of Rochester</div>
 
 ## Service
-
-### advisory board
-
-*InVisible Culture*
 
 ### refereeing
 
@@ -402,14 +378,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Theory and Research in Education*  
 *University of Chicago Press*
 
-### memberships
-
-*American Philosophical Association*  
-*Australasian Association of Philosophy*  
-*Philosophy of Science Association*
-
-## Referees
-
-*Available on request*
-
-*Updated*: 28 <span class="sc">mar</span> 2019
+*Updated*: 6 <span class="sc">apr</span> 2023
