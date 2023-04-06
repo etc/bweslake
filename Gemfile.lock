@@ -8,16 +8,17 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: daed5fae59019dde86b94d3fdbfb07b3438a4de1
+  revision: 0ddc95a2f9e1e2a55d2a5aff82ea1b12062b3cd9
   specs:
-    nesta (0.13.0)
+    nesta (0.14.0)
       RedCloth (~> 4.2)
       haml (>= 3.1, < 6.0)
       haml-contrib (>= 1.0)
-      rack (~> 2.0)
+      rack (~> 2)
+      rake
       rdiscount (~> 2.1)
-      sassc (>= 2.2)
-      sinatra (~> 2.0)
+      sass-embedded (~> 1.58)
+      sinatra (~> 3.0)
       tilt (~> 2.0)
 
 GIT
@@ -34,7 +35,7 @@ GEM
       latex-decode (~> 0.0)
     daemons (1.4.1)
     eventmachine (1.2.7)
-    ffi (1.15.5)
+    google-protobuf (3.22.2)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
@@ -43,27 +44,29 @@ GEM
     kramdown (2.4.0)
       rexml
     latex-decode (0.4.0)
-    mustermann (2.0.2)
+    mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
     rack (2.2.6.4)
-    rack-protection (2.2.4)
+    rack-protection (3.0.5)
       rack
+    rake (13.0.6)
     rdiscount (2.2.7)
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
-    sassc (2.4.0)
-      ffi (~> 1.9)
-    sinatra (2.2.4)
-      mustermann (~> 2.0)
-      rack (~> 2.2)
-      rack-protection (= 2.2.4)
+    sass-embedded (1.60.0)
+      google-protobuf (~> 3.21)
+      rake (>= 10.0.0)
+    sinatra (3.0.5)
+      mustermann (~> 3.0)
+      rack (~> 2.2, >= 2.2.4)
+      rack-protection (= 3.0.5)
       tilt (~> 2.0)
-    temple (0.9.1)
-    thin (1.8.1)
+    temple (0.10.0)
+    thin (1.8.2)
       daemons (~> 1.0, >= 1.0.9)
       eventmachine (~> 1.0, >= 1.0.4)
       rack (>= 1, < 3)
-    tilt (2.0.11)
+    tilt (2.1.0)
 
 PLATFORMS
   ruby
@@ -79,4 +82,4 @@ RUBY VERSION
    ruby 3.2.0p0
 
 BUNDLED WITH
-   2.4.5
+   2.4.10
