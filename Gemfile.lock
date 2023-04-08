@@ -53,7 +53,7 @@ GEM
     rdiscount (2.2.7)
     rexml (3.2.5)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.60.0)
+    sass-embedded (1.61.0)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
     sinatra (3.0.5)
