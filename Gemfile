@@ -14,6 +14,10 @@ gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 
 gem 'kramdown', '2.4.0'
 gem 'tilt', '2.1.0'
+# Tilt 2.2.0 seems incompatible with Sinatra, generating the following error:
+# file_model.rb:2:in `const_get': uninitialized constant Tilt::BlueClothTemplate (NameError)
+# Keep trying to remove the line above and see if it works, as time goes on!
+
 gem 'nesta-plugin-maldini', :git => 'https://github.com/etc/nesta-plugin-maldini.git'
 # Use the following instead, to try out local changes to Maldini:
 # gem 'nesta-plugin-maldini', :path => '/Users/brad/code/nesta-plugin-maldini'
