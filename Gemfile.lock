@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 979a1057023dc81d642e54a04da777866061e710
+  revision: 46a9edb9c172bb0fc19c1c40dad6cc14039725fb
   specs:
-    nesta (0.14.0)
+    nesta (0.15.0)
       RedCloth (~> 4.2)
       haml (>= 3.1, < 6.0)
       haml-contrib (>= 1.0)
@@ -46,14 +46,14 @@ GEM
     latex-decode (0.4.0)
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
-    rack (2.2.7)
+    rack (2.2.8)
     rack-protection (3.0.6)
       rack
     rake (13.0.6)
     rdiscount (2.2.7.1)
-    rexml (3.2.5)
+    rexml (3.2.6)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.63.6)
+    sass-embedded (1.64.2)
       google-protobuf (~> 3.23)
       rake (>= 13.0.0)
     sinatra (3.0.6)
