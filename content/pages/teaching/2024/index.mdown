@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2024 Teaching 
+Summary: 2024
+Template: teaching-year
+
+# 2024
