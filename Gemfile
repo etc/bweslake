@@ -16,5 +16,6 @@ gem 'kramdown', '2.4.0'
 gem 'nesta-plugin-maldini', :git => 'https://github.com/etc/nesta-plugin-maldini.git'
 # Use the following instead, to try out local changes to Maldini:
 # gem 'nesta-plugin-maldini', :path => '/Users/brad/code/nesta-plugin-maldini'
+gem 'racc'
 gem 'rack-rewrite', :git => 'https://github.com/jtrupiano/rack-rewrite.git'
 gem 'thin'
