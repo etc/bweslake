@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby "3.2.2"
+ruby "3.3.0"
 
 gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 
