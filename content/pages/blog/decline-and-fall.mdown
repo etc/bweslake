@@ -1,0 +1,36 @@
+Template: article
+Title: Brad Weslake &bull; Decline and Fall
+Categories: rome, gibbon
+Author: Brad Weslake
+Date: 8 January 2024
+Summary: Favourite sentence from each chapter of The Decline and Fall of the Roman Empire.
+
+# Decline and Fall
+
+Favourite sentence from each chapter of *The Decline and Fall of the Roman Empire*.
+
+- Chapter I: “The native Caledonians preserved, in the northern extremity of the island, their wild independence, for which they were not less indebted to their poverty than to their valour.”
+- Chapter II: “A cloud of critics, of compilers, of commentators, darkened the face of learning, and the decline of genius was soon followed by the corruption of taste.”
+- Chapter III: “Augustus was sensible that mankind is governed by names; nor was he deceived in his expectation that the senate and people would submit to slavery, provided they were respectfully assured that they still enjoyed their ancient freedom.”
+- Chapter IV: “But the power of instruction is seldom of much efficacy, except in those happy dispositions where it is almost superfluous.”
+- Chapter V: “He promised only to betray, he flattered only to ruin; and however he might occasionally bind himself by oaths and treaties, his conscience, obsequious to his interest, always released him from the inconvenient obligation.”
+- Chapter VI: “She was doomed to weep over the death of one of her sons, and over the life of the other.”
+- Chapter VII: “Twenty-two acknowledged concubines, and a library of sixty-two thousand volumes, attested the variety of his inclinations; and from the productions which he left behind him, it appears that both the one and the other were designed for use rather than for ostentation.”
+- Chapter VIII: “Every mode of religion, to make a deep and lasting impression on the human mind, must exercise our obedience by enjoining practices of devotion, for which we can assign no reason; and must acquire our esteem, by inculcating moral duties analogous to the dictates of our own hearts.”
+- Chapter IX: “Some applause has been hastily bestowed on the sublime notion entertained by that people of the Deity whom they neither confined within the walls of a temple, nor represented by any human figure; but when we recollect that the Germans were unskilled in architecture, and totally unacquainted with the art of sculpture, we shall readily assign the true reason of a scruple, which arose not so much from a superiority of reason as from a want of ingenuity.”
+- Chapter X: “In every art that he attempted his lively genius enabled him to succeed; and, as his genius was destitute of judgment, he attempted every art, except the important ones of war and government.”
+- Chapter XI: “Fear has been the original parent of superstition, and every new calamity urges trembling mortals to deprecate the wrath of their invisible enemies.”
+- Chapter XII: “Such was the unhappy condition of the Roman emperors, that, whatever might be their conduct, their fate was commonly the same.”
+- Chapter XIII: “Diocletian acquired the glory of giving to the world the first example of a resignation, which has not been very frequently imitated by succeeding monarchs.”
+- Chapter XIV: “The guardians of these ancient oracles were as well versed in the arts of this world, as they were ignorant of the secrets of fate; and they returned him a very prudent answer, which might adapt itself to the event, and secure their reputation whatever should be the chance of arms.”
+- Chapter XV: “So urgent on the vulgar is the necessity of believing that the fall of any system of mythology will most probably be succeeded by the introduction of some other mode of superstition.”
+- Chapter XVI: “The behaviour of the Christians was too remarkable to escape the notice of the ancient philosophers; but they seem to have considered it with much less admiration than astonishment”
+- Chapter XVII: “But it is not in the city of Constantine, nor in the declining period of an empire when the human mind was depressed by civil and religious slavery, that we should seek for the souls of Homer and of Demosthenes.”
+- Chapter XVIII: “The poverty of Lactantius may be applied either to the praise of the disinterested philosopher or to the shame of the unfeeling patron.”
+- Chapter XIX: “The retired scholastic education of Julian, in which he had been more conversant with books than with arms, with the dead than with the living, left him in profound ignorance of the practical arts of war and government; and, when he awkwardly repeated some military exercise which it was necessary for him to learn, he exclaimed with a sigh, “O Plato, Plato, what a task for a philosopher!”
+- Chapter XX: “By the delay of their baptism, they could venture freely to indulge their passions in the enjoyments of this world, while they still retained in their own hands the means of a sure and easy absolution.”
+- Chapter XXI: “Where the subject lies so far beyond our reach, the difference between the highest and the lowest of human understandings may indeed be calculated as infinitely small; yet the degree of weakness may perhaps be measured by the degree of obstinacy and dogmatic confidence.”
+- Chapter XXII: “The generality of princes, if they were stripped of their purple and cast naked into the world, would immediately sink to the lowest rank of society, without a hope of emerging from their obscurity.”
+- Chapter XXIII: “The meekness and resignation which had distinguished the primitive disciples of the gospel was the object of the applause rather than of the imitation of their successors.”
+- Chapter XXIV: “Rien n'est beau que le vrai; a maxim which should be inscribed on the desk of every rhetorician.”
+- Chapter XXV: “A people dissatisfied with their present condition grasp at any visions of their past or future glory.”
