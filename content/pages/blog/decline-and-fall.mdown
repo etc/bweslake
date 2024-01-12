@@ -3,7 +3,7 @@ Title: Brad Weslake &bull; Decline and Fall
 Categories: rome, gibbon
 Author: Brad Weslake
 Date: 8 January 2024
-Summary: Favourite sentence from each chapter of The Decline and Fall of the Roman Empire.
+Summary: Favourite sentence from each chapter of *The Decline and Fall of the Roman Empire*.
 
 # Decline and Fall
 
@@ -34,3 +34,4 @@ Favourite sentence from each chapter of *The Decline and Fall of the Roman Empir
 - Chapter XXIII: “The meekness and resignation which had distinguished the primitive disciples of the gospel was the object of the applause rather than of the imitation of their successors.”
 - Chapter XXIV: “Rien n'est beau que le vrai; a maxim which should be inscribed on the desk of every rhetorician.”
 - Chapter XXV: “A people dissatisfied with their present condition grasp at any visions of their past or future glory.”
+- Chapter XXVI: “Without presuming to discuss the truth or propriety of these lofty speculations, the historian may content himself with an observation, which seems to be justified by experience, that man has much more to fear from the passions of his fellow-creatures than from the convulsions of the elements.”
