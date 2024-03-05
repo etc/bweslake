@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 6f7c4521e05e7179e6ec55b7aa6581eaa277062d
+  revision: dd26f303ab0c214c854535e8f137a85d483391ea
   specs:
     nesta (0.15.0)
       RedCloth (~> 4.2)
@@ -32,11 +32,12 @@ GEM
   specs:
     RedCloth (4.3.3)
     base64 (0.2.0)
-    bibtex-ruby (6.0.0)
+    bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
+      racc (~> 1.7)
     daemons (1.4.1)
     eventmachine (1.2.7)
-    google-protobuf (3.25.1)
+    google-protobuf (3.25.3-arm64-darwin)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
@@ -48,15 +49,15 @@ GEM
     mustermann (3.0.0)
       ruby2_keywords (~> 0.0.1)
     racc (1.7.3)
-    rack (2.2.8)
+    rack (2.2.8.1)
     rack-protection (3.2.0)
       base64 (>= 0.1.0)
       rack (~> 2.2, >= 2.2.4)
     rake (13.1.0)
-    rdiscount (2.2.7.2)
+    rdiscount (2.2.7.3)
     rexml (3.2.6)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.69.6-arm64-darwin)
+    sass-embedded (1.71.1-arm64-darwin)
       google-protobuf (~> 3.25)
     sinatra (3.2.0)
       mustermann (~> 3.0)
