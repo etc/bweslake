@@ -57,16 +57,16 @@ Philosophy of Mind
 ### papers
 
 <div class="noteleft"><em>forthcoming</em></div>
-“Exclusion Excluded”, in a volume edited by Alastair Wilson and Katie Robertson with Oxford University Press.
+“Exclusion Excluded”, [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford.
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
 
 <div class="noteleft">2017</div>
-“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), *Making a Difference*, Oxford University Press, Oxford, pp. 215–231.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1093/oso/9780198746911.001.0001>  
+“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), [*Making a Difference*](https://global.oup.com/academic/product/making-a-difference-9780198746911), Oxford University Press, Oxford, pp. 215–231.  
+<span class="sc">uri</span>: <https://doi.org/10.1093/oso/9780198746911.003.0011>  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
 
 <div class="noteleft">2014</div>
-“Statistical Mechanical Imperialism”, in Alastair Wilson (Ed), *Chance and Temporal Asymmetry*, Oxford University Press, Oxford, pp. 241–257.  
+“Statistical Mechanical Imperialism”, in [Alastair Wilson](https://alastairwilson.org/) (Ed), [*Chance and Temporal Asymmetry*](https://global.oup.com/academic/product/chance-and-temporal-asymmetry-9780199673421), Oxford University Press, Oxford, pp. 241–257.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1093/acprof:oso/9780199673421.003.0012>  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
 
@@ -86,8 +86,7 @@ Philosophy of Mind
 
 <div class="noteleft">2009</div>
 [Price, Huw][price] and Weslake, Brad. “The Time-Asymmetry of Causation”,
-in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford
-Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
+in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
 414–443.  
 <span class="sc">uri</span>: <http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021>  
 <span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/4475/>
@@ -148,6 +147,11 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shanghai) on Shanghai Research Challenge Fund grant *Origins of Randomness in Quantum Mechanics* ($50,000).
 
 ## presentations
+
+<div class="noteleft">2023</div>
+- “What is Causal Explanation?”, *Philosophy Meets Science*, NYU Shanghai, 20 <span class="sc">oct</span>.
+- “Comments on Michael Strevens, Why High-Level Explanations Exist”, Fudan University, 19 <span class="sc">oct</span>.
+
 
 <div class="noteleft">2022</div>
 - “Tolstoy’s Philosophy in *War and Peace*”, NYU Shanghai, 5 <span class="sc">may</span>. 
@@ -378,4 +382,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Theory and Research in Education*  
 *University of Chicago Press*
 
-*Updated*: 6 <span class="sc">apr</span> 2023
+*Updated*: 4 <span class="sc">apr</span> 2024
