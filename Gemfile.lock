@@ -38,6 +38,7 @@ GEM
     daemons (1.4.1)
     eventmachine (1.2.7)
     google-protobuf (3.25.3-arm64-darwin)
+    google-protobuf (3.25.3-x86_64-linux)
     haml (5.2.2)
       temple (>= 0.8.0)
       tilt
@@ -55,15 +56,19 @@ GEM
       rack (~> 2.2, >= 2.2.4)
     rake (13.1.0)
     rdiscount (2.2.7.3)
-    rexml (3.2.6)
+    rexml (3.2.8)
+      strscan (>= 3.0.9)
     ruby2_keywords (0.0.5)
     sass-embedded (1.71.1-arm64-darwin)
+      google-protobuf (~> 3.25)
+    sass-embedded (1.71.1-x86_64-linux-gnu)
       google-protobuf (~> 3.25)
     sinatra (3.2.0)
       mustermann (~> 3.0)
       rack (~> 2.2, >= 2.2.4)
       rack-protection (= 3.2.0)
       tilt (~> 2.0)
+    strscan (3.1.0)
     temple (0.10.3)
     thin (1.8.2)
       daemons (~> 1.0, >= 1.0.9)
@@ -73,6 +78,7 @@ GEM
 
 PLATFORMS
   arm64-darwin-22
+  x86_64-linux
 
 DEPENDENCIES
   kramdown (= 2.4.0)
