@@ -316,7 +316,8 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 [2009](http://bweslake.org/teaching/2009/biology/), [2014a](http://bweslake.org/teaching/2014/biology/),
 [2014b](http://bweslake.org/teaching/2014/biology-fall/),
 [2017](http://bweslake.org/teaching/2017/biology),
-[2019](http://bweslake.org/teaching/2019/biology), [2022](http://bweslake.org/teaching/2022/biology), [2023](http://bweslake.org/teaching/2023/biology).  
+[2019](http://bweslake.org/teaching/2019/biology), [2022](http://bweslake.org/teaching/2022/biology), [2023](http://bweslake.org/teaching/2023/biology),
+[2024](http://bweslake.org/teaching/2024/biology).  
 - Philosophy of Mind,
 [2007](http://bweslake.org/teaching/2007/mind/),
 [2008](http://bweslake.org/teaching/2008/mind/),
@@ -325,7 +326,8 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 [2008](http://bweslake.org/teaching/2008/science/),
 [2009](http://bweslake.org/teaching/2009/science/),
 [2010](http://bweslake.org/teaching/2010/science/), [2012](http://bweslake.org/teaching/2012/science/), [2013](http://bweslake.org/teaching/2013/science/), [2015](http://bweslake.org/teaching/2015/science).  
-- Philosophy of Technology (with [Anna Greenspan](http://annagreenspan.com/)), [2016](http://bweslake.org/teaching/2016/technology), 2018, [2021](https://bweslake.org/teaching/2021/technology-ug), [2023](https://bweslake.org/teaching/2023/technology).
+- Philosophy of Technology (with [Anna Greenspan](http://annagreenspan.com/)), [2016](http://bweslake.org/teaching/2016/technology), 2018, [2021](https://bweslake.org/teaching/2021/technology-ug), [2023](https://bweslake.org/teaching/2023/technology),
+[2024](https://bweslake.org/teaching/2024/technology).
 - Philosophy of Biology (Reading Course),
 [2008](http://bweslake.org/teaching/2008/biology/).  
 - Philosophy of Science, Rutgers Newark, 2007.  
@@ -365,6 +367,7 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Erkenntnis*  
 *International Studies in the Philosophy of Science*  
 *InVisible Culture*  
+*Journal of Philosophy*  
 *Journal for General Philosophy of Science*  
 *Journal of the American Philosophical Association*  
 *Mind*  
@@ -378,8 +381,9 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Social Epistemology*  
 *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*  
 *Synthese*  
+*The Philosophical Review*  
 *Theoria*  
 *Theory and Research in Education*  
 *University of Chicago Press*
 
-*Updated*: 4 <span class="sc">apr</span> 2024
+*Updated*: 15 <span class="sc">jun</span> 2024
