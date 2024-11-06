@@ -13,4 +13,4 @@ COPY . /app
 
 EXPOSE 80
 
-CMD ["bundle", "exec", "thin", "start", "-a", "0.0.0.0", "-p", "80"]
+CMD ["bundle", "exec", "puma", "-p", "80"]
