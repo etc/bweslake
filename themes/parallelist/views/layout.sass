@@ -1,3 +1,5 @@
+@use "mixins"
+
 $columns: 12
 $container-width: 54em
 $gutter: 2.107em // from modularscale.com with 16px/864px
@@ -26,7 +28,7 @@ $fill-width: grid-width(10)
   header[role=banner]
     nav.primary
       ul.menu
-        padding: calc($base-vertical-margin / 2) 0
+        padding: calc(mixins.$base-vertical-margin / 2) 0
         li
           float: left
           margin-right: $gutter
@@ -44,7 +46,7 @@ $fill-width: grid-width(10)
       left: 0
       top: 0
     nav.primary
-      line-height: $vertical-rhythm
+      line-height: mixins.$vertical-rhythm
       ul li
         margin-right: $gutter
     p.links
@@ -80,7 +82,7 @@ $fill-width: grid-width(10)
     div#widesidebar
       float: right
       width: $wide-sidebar-width
-      padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
+      padding: (mixins.$base-vertical-margin * 3) 0 mixins.$base-vertical-margin
 
     div#narrowcontent
       float: left
@@ -93,7 +95,7 @@ $fill-width: grid-width(10)
     div#narrowsidebar
       float: right
       width: $narrow-sidebar-width
-      padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
+      padding: (mixins.$base-vertical-margin * 3) 0 mixins.$base-vertical-margin
 
       ol, ul
         margin-left: 1em
@@ -101,7 +103,7 @@ $fill-width: grid-width(10)
     div#sidebar
       width: $sidebar-width
       margin-left: $sidebar-left
-      padding: ($base-vertical-margin * 3) 0 $base-vertical-margin
+      padding: (mixins.$base-vertical-margin * 3) 0 mixins.$base-vertical-margin
 
       heading h1
         display: none

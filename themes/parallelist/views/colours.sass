@@ -1,4 +1,4 @@
-@use "sass:color";
+@use "sass:color"
 
 $base-color: #313126
 $background-color: #fff
@@ -8,5 +8,5 @@ $link-color: #619461
 $visited-link-color: color.adjust($link-color, $lightness: -5%, $space: hsl)
 $hover-link-color: color.adjust($link-color, $lightness: 15%, $space: hsl)
 $active-link-color: color.adjust($link-color, $lightness: -20%, $space: hsl)
-$nav-link-color: color.adjust(lighten($link-color, 25%), $saturation: -35%, $space: hsl)
+$nav-link-color: color.adjust(color.adjust($link-color, $lightness: 25%), $saturation: -35%, $space: hsl)
 $meta-color: #87877D
