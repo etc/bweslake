@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 10e1b093bb3f243d1b5ec197167299252eb363a6
+  revision: 80b1b5e5fd694c04f0cf6d59993426439a03f6d9
   specs:
     nesta (0.17.0)
       RedCloth (~> 4.2)
@@ -87,7 +87,7 @@ DEPENDENCIES
   rack-rewrite!
 
 RUBY VERSION
-   ruby 3.3.4p94
+   ruby 3.3.6p108
 
 BUNDLED WITH
-   2.5.23
+   2.5.22
