@@ -13,9 +13,13 @@ gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 # gem 'nesta', :git => 'https://github.com/gma/nesta.git', :ref => '90686e4c14b0088f98f6813ff769047217a078c4'
 
 gem 'kramdown', '2.4.0'
+gem 'tilt', '2.4.0'
+# If using 2.5.0, you get error: uninitialized constant Tilt::MarukuTemplate (NameError)
+
 gem 'nesta-plugin-maldini', :git => 'https://github.com/etc/nesta-plugin-maldini.git'
 # Use the following instead, to try out local changes to Maldini:
 # gem 'nesta-plugin-maldini', :path => '/Users/brad/code/nesta-plugin-maldini'
+
 gem 'racc'
 gem 'rack-rewrite', :git => 'https://github.com/jtrupiano/rack-rewrite.git'
 gem 'puma'

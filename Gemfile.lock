@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 80b1b5e5fd694c04f0cf6d59993426439a03f6d9
+  revision: fece02c683c7826c5de32e0a656d33f3a73e5282
   specs:
-    nesta (0.17.0)
+    nesta (0.18.0)
       RedCloth (~> 4.2)
       haml (>= 3.1, < 6.0)
       haml-contrib (>= 1.0)
@@ -35,8 +35,8 @@ GEM
     bibtex-ruby (6.1.0)
       latex-decode (~> 0.0)
       racc (~> 1.7)
-    bigdecimal (3.1.8)
-    google-protobuf (4.28.3-arm64-darwin)
+    bigdecimal (3.1.9)
+    google-protobuf (4.29.3-arm64-darwin)
       bigdecimal
       rake (>= 13)
     haml (5.2.2)
@@ -47,28 +47,32 @@ GEM
     kramdown (2.4.0)
       rexml
     latex-decode (0.4.0)
+    logger (1.6.4)
     mustermann (3.0.3)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.7.4)
-    puma (6.4.3)
+    puma (6.5.0)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.1.8)
-    rack-protection (4.0.0)
+    rack-protection (4.1.1)
       base64 (>= 0.1.0)
+      logger (>= 1.6.0)
       rack (>= 3.0.0, < 4)
-    rack-session (2.0.0)
+    rack-session (2.1.0)
+      base64 (>= 0.1.0)
       rack (>= 3.0.0)
     rake (13.2.1)
     rdiscount (2.2.7.3)
-    rexml (3.3.9)
+    rexml (3.4.0)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.80.6-arm64-darwin)
-      google-protobuf (~> 4.28)
-    sinatra (4.0.0)
+    sass-embedded (1.83.1-arm64-darwin)
+      google-protobuf (~> 4.29)
+    sinatra (4.1.1)
+      logger (>= 1.6.0)
       mustermann (~> 3.0)
       rack (>= 3.0.0, < 4)
-      rack-protection (= 4.0.0)
+      rack-protection (= 4.1.1)
       rack-session (>= 2.0.0, < 3)
       tilt (~> 2.0)
     temple (0.10.3)
@@ -85,9 +89,10 @@ DEPENDENCIES
   puma
   racc
   rack-rewrite!
+  tilt (= 2.4.0)
 
 RUBY VERSION
    ruby 3.3.6p108
 
 BUNDLED WITH
-   2.5.22
+   2.6.1
