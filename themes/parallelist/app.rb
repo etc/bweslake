@@ -10,6 +10,10 @@ module Nesta
     #
     # use Rack::Static, :urls => ["/parallelist"], :root => "themes/parallelist/public"
 
+    # Something about the new versions of sinatra and rack-protection seems to require the following
+    # See: https://github.com/ytti/oxidized/issues/3340
+    set :host_authorization, { permitted_hosts: [] }
+
     helpers do
       # Use Kramdown for Markdown processing.
       Tilt.prefer Tilt::KramdownTemplate
