@@ -78,7 +78,7 @@ Philosophy of Mind
 
 <div class="noteleft">2009</div>
 [Price, Huw][price] and Weslake, Brad. “The Time-Asymmetry of Causation”,
-in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
+in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *The Oxford Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
 414–443. [<span class="sc">[uri](http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021)] [[pdf](http://philpapers.org/archive/pritto.pdf)</span>] 
 
  [beebee]: http://www.birmingham.ac.uk/staff/profiles/philosophy/beebee-helen.aspx "Helen Beebee"
