@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: fece02c683c7826c5de32e0a656d33f3a73e5282
+  revision: 2dd21377660d5d4e4f360302e4371a588fdccbf5
   specs:
     nesta (0.18.0)
       RedCloth (~> 4.2)
@@ -51,10 +51,10 @@ GEM
     mustermann (3.0.3)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.7.4)
-    puma (6.5.0)
+    puma (6.6.0)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.1.8)
+    rack (3.1.9)
     rack-protection (4.1.1)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
@@ -92,7 +92,7 @@ DEPENDENCIES
   tilt (= 2.4.0)
 
 RUBY VERSION
-   ruby 3.3.6p108
+   ruby 3.4.1p0
 
 BUNDLED WITH
-   2.6.1
+   2.6.3
