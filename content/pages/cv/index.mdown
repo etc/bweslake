@@ -45,10 +45,10 @@ Philosophy of Mind
 ### books
 
 <div class="noteleft">2023</div>
-[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), [*The Probability Map of the Universe: Essays on David Albert’s Time and Chance*](https://www.hup.harvard.edu/catalog.php?isbn=9780674967878), Harvard University Press, Cambridge MA.
+[Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), [*The Probability Map of the Universe: Essays on David Albert’s Time and Chance*](https://www.hup.harvard.edu/catalog.php?isbn=9780674967878), Harvard University Press, Cambridge MA. [<span class="sc">[uri](https://doi.org/10.4159/9780674287716)]
 
 <div class="noteleft">2020</div>
-[Shamik Dasgupta][shamik], [Ravit Dotan][ravit] and Brad Weslake (Eds), [*Current Controversies in Philosophy of Science*](https://doi.org/10.4324/9781315713151), Routledge, London.
+[Shamik Dasgupta][shamik], [Ravit Dotan][ravit] and Brad Weslake (Eds), [*Current Controversies in Philosophy of Science*](https://www.routledge.com/Current-Controversies-in-Philosophy-of-Science/Dasgupta-Dotan-Weslake/p/book/9780367531171), Routledge, London. [<span class="sc">[uri](https://doi.org/10.4324/9781315713151)]
 
  [1]: https://www.philosophy.rutgers.edu/faculty-174/182-faculty-profiles/617-barryloewer
  [2]: https://www.winsberg.net/
@@ -58,40 +58,28 @@ Philosophy of Mind
 ### papers
 
 <div class="noteleft">2024</div>
-“Exclusion Excluded”, in [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford, pp. 101–135.  
-<span class="sc">uri</span>: <https://doi.org/10.1093/oso/9780192862945.003.0005>  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
+“Exclusion Excluded”, in [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford, pp. 101–135. [<span class="sc">[uri](https://doi.org/10.1093/oso/9780192862945.003.0005)]  [[pdf](https://philpapers.org/archive/wesee.pdf)</span>]  
 
 <div class="noteleft">2017</div>
-“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), [*Making a Difference*](https://global.oup.com/academic/product/making-a-difference-9780198746911), Oxford University Press, Oxford, pp. 215–231.  
-<span class="sc">uri</span>: <https://doi.org/10.1093/oso/9780198746911.003.0011>  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesdca-3>
+“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), [*Making a Difference*](https://global.oup.com/academic/product/making-a-difference-9780198746911), Oxford University Press, Oxford, pp. 215–231. [<span class="sc">[uri](https://doi.org/10.1093/oso/9780198746911.003.0011)] [[pdf](http://philpapers.org/archive/wesdca-3.pdf)</span>]
 
 <div class="noteleft">2014</div>
-“Statistical Mechanical Imperialism”, in [Alastair Wilson](https://alastairwilson.org/) (Ed), [*Chance and Temporal Asymmetry*](https://global.oup.com/academic/product/chance-and-temporal-asymmetry-9780199673421), Oxford University Press, Oxford, pp. 241–257.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1093/acprof:oso/9780199673421.003.0012>  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wessmi>
+“Statistical Mechanical Imperialism”, in [Alastair Wilson](https://alastairwilson.org/) (Ed), [*Chance and Temporal Asymmetry*](https://global.oup.com/academic/product/chance-and-temporal-asymmetry-9780199673421), Oxford University Press, Oxford, pp. 241–257. [<span class="sc">[uri](http://dx.doi.org/10.1093/acprof:oso/9780199673421.003.0012)] [[pdf](http://philpapers.org/archive/wessmi.pdf)</span>]  
 
 <div class="noteleft">2013</div>
-“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 91, <span class="sc">no</span>. 4, pp. 785–797.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1080/00048402.2013.788045>  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wespca-2>
+“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 91, <span class="sc">no</span>. 4, pp. 785–797. [<span class="sc">[uri](http://dx.doi.org/10.1080/00048402.2013.788045)] [[pdf](http://philpapers.org/archive/wespca-2.pdf)</span>] 
 
 <div class="noteleft">2013</div>
-[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht, pp. 101–119.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1007/978-94-007-6537-5_6>
+[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht, pp. 101–119. [<span class="sc">[uri](http://dx.doi.org/10.1007/978-94-007-6537-5_6)] [[pdf](http://philpapers.org/archive/mcceta-4.pdf)</span>] 
 
 <div class="noteleft">2010</div>
 “Explanatory Depth”, in *Philosophy of Science*,
-<span class="sc">vol</span>. 77, <span class="sc">no</span>. 2, <span class="sc">apr</span> 2010, pp. 273–294.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1086/651316>
+<span class="sc">vol</span>. 77, <span class="sc">no</span>. 2, <span class="sc">apr</span> 2010, pp. 273–294. [<span class="sc">[uri](http://dx.doi.org/10.1086/651316)] [[pdf](http://philpapers.org/archive/wesed.pdf)</span>] 
 
 <div class="noteleft">2009</div>
 [Price, Huw][price] and Weslake, Brad. “The Time-Asymmetry of Causation”,
 in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *Oxford Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
-414–443.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021>  
-<span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/4475/>
+414–443. [<span class="sc">[uri](http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021)] [[pdf](http://philpapers.org/archive/pritto.pdf)</span>] 
 
  [beebee]: http://www.birmingham.ac.uk/staff/profiles/philosophy/beebee-helen.aspx "Helen Beebee"
  [price]: http://prce.hu/w/ "Huw Price"
@@ -102,9 +90,7 @@ in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menz
 <div class="noteleft">2006</div>
 “Common Causes and The Direction of Causation”, in
 *Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16, <span class="sc">no</span>. 3, <span class="sc">aug</span>
-2006, pp. 239–257.  
-<span class="sc">uri</span>: <http://dx.doi.org/10.1007/s11023-006-9042-2>  
-<span class="sc">preprint</span>: <http://philsci-archive.pitt.edu/2792/>
+2006, pp. 239–257. [<span class="sc">[uri](http://dx.doi.org/10.1007/s11023-006-9042-2)] [[pdf](http://philpapers.org/archive/wescca.pdf)</span>]   
 
 [haenni]: http://haenni.shorturl.com/ "Rolf Haenni"
 [hartmann]: http://stephanhartmann.org/ "Stephan Hartmann"
@@ -119,26 +105,22 @@ in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menz
 
 ### encyclopædia entries
 
-<div class="noteleft">2010</div>
-“Causation”, in Graham Oppy and Nick Trakakis (Eds), *A Companion to Philosophy in Australia and New Zealand*, Monash
-ePress, Melbourne, 2010.
+<div class="noteleft">2014 [2010]</div>
+“Causation”, in Graham Oppy and Nick Trakakis (Eds), [*A Companion to Philosophy in Australia and New Zealand*](http://library.oapen.org/handle/20.500.12657/31527), Monash University Publishing, Melbourne, 2nd Ed, 2014, pp. 107–110. [<span class="sc">[pdf](http://philpapers.org/archive/wesctd.pdf)]  
 
 <div class="noteleft">2006</div>
-“Causation”, “Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp.
-44–45, 283–284.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesc>  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/west>
+“Causation” in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. [<span class="sc">[pdf](http://philpapers.org/archive/wesc.pdf)]   
+
+<div class="noteleft">2006</div>
+“Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, 283–284. [<span class="sc">[pdf](http://philpapers.org/archive/west.pdf)]  
 
 ### reviews
 
 <div class="noteleft">2006</div>
-“James Woodward, *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140.  
-<span class="sc">uri</span>:
-<http://dx.doi.org/10.1080/00048400600571935>
+“James Woodward, *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140. [<span class="sc">[uri](http://dx.doi.org/10.1080/00048400600571935)] [[pdf](http://philpapers.org/archive/wesu.pdf)</span>] 
 
 <div class="noteleft">2004</div>
-“William Robinson, *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004.  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesrou>
+“William Robinson, *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004. [<span class="sc">[uri](https://metapsychology.net/index.php/book-review/understanding-phenomenal-consciousness/)] [[pdf](https://bweslake.s3.amazonaws.com/research/papers/weslake_review_robinson.pdf)</span>] 
 
 ## grants and collaborations
 
