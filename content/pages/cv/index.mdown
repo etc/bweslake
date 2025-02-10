@@ -359,6 +359,8 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 
 ### dissertation committees
 
+<div class="noteleft"><span class="sc">2020</span></div>
+<div><a href="https://sites.google.com/nyu.edu/samuellee">Sam Lee</a> <span class="sc">phd</span>, NYU</div>
 <div class="noteleft"><span class="sc">2011</span></div>
 <div><a href="http://sites.google.com/site/kevinmccain/home">Kevin McCain</a> <span class="sc">phd</span>, University of Rochester</div>
 <div class="noteleft">2011</div>
@@ -395,4 +397,4 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 *Theory and Research in Education*  
 *University of Chicago Press*
 
-*Updated*: 10 <span class="sc">feb</span> 2025
+*Updated*: 10 <span class="sc">feb</span> 2025 [ <span class="sc"><a href="http://goo.gl/6a62E">pdf</a></span> ]
