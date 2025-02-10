@@ -48,16 +48,18 @@ Philosophy of Mind
 [Barry Loewer][1], [Eric Winsberg][2] and Brad Weslake (Eds), [*The Probability Map of the Universe: Essays on David Albert’s Time and Chance*](https://www.hup.harvard.edu/catalog.php?isbn=9780674967878), Harvard University Press, Cambridge MA.
 
 <div class="noteleft">2020</div>
-[Shamik Dasgupta][shamik] and Brad Weslake (Eds), [*Current Controversies in Philosophy of Science*](https://doi.org/10.4324/9781315713151), Routledge, London.
+[Shamik Dasgupta][shamik], [Ravit Dotan][ravit] and Brad Weslake (Eds), [*Current Controversies in Philosophy of Science*](https://doi.org/10.4324/9781315713151), Routledge, London.
 
  [1]: https://www.philosophy.rutgers.edu/faculty-174/182-faculty-profiles/617-barryloewer
  [2]: https://www.winsberg.net/
  [shamik]: http://www.shamik.net/
+ [ravit]: https://www.techbetter.ai/about
 
 ### papers
 
 <div class="noteleft">2024</div>
-“Exclusion Excluded”, in [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford, pp. 101–135.
+“Exclusion Excluded”, in [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford, pp. 101–135.  
+<span class="sc">uri</span>: <https://doi.org/10.1093/oso/9780192862945.003.0005>  
 <span class="sc">preprint</span>: <http://philpapers.org/rec/wesee>  
 
 <div class="noteleft">2017</div>
@@ -148,10 +150,17 @@ Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shangh
 
 ## presentations
 
+<div class="noteleft">2025</div>
+- “Fitness Anti-Reductionism”, University of Missouri, 27 <span class="sc">feb</span>.
+
+<div class="noteleft">2024</div>
+- “Commentary on Factual Difference-Making”, *Technical Support Group*, NYU, 1 <span class="sc">oct</span>.
+- “What is Causal Explanation?”, *Lunch Talk*, NYU, 20 <span class="sc">sep</span>.
+- “Causation, Information and Specificity”, *Work in Progress Seminar*, NYU Shanghai, 12 <span class="sc">apr</span>.
+
 <div class="noteleft">2023</div>
 - “What is Causal Explanation?”, *Philosophy Meets Science*, NYU Shanghai, 20 <span class="sc">oct</span>.
 - “Comments on Michael Strevens, Why High-Level Explanations Exist”, Fudan University, 19 <span class="sc">oct</span>.
-
 
 <div class="noteleft">2022</div>
 - “Tolstoy’s Philosophy in *War and Peace*”, NYU Shanghai, 5 <span class="sc">may</span>. 
