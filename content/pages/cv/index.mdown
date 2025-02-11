@@ -97,11 +97,8 @@ in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menz
 
 ### papers in progress
 
-“A Partial Theory of Actual Causation”  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/wesapt>  
-
-“The Problem of Disjunctive Explanations”  
-<span class="sc">preprint</span>: <http://philpapers.org/rec/westpo-11>  
+“A Partial Theory of Actual Causation” [<span class="sc">[pdf](https://bweslake.s3.amazonaws.com/research/papers/weslake_ac.pdf)</span>]  
+“The Problem of Disjunctive Explanations” [<span class="sc">[pdf](https://bweslake.s3.amazonaws.com/research/papers/weslake_disjunctive_explanations.pdf)</span>]
 
 ### encyclopædia entries
 
@@ -342,9 +339,9 @@ Orr](http://www.rochester.edu/College/bio/professors/orr.html)),
 ### dissertation committees
 
 <div class="noteleft"><span class="sc">2020</span></div>
-<div><a href="https://sites.google.com/nyu.edu/samuellee">Sam Lee</a> <span class="sc">phd</span>, NYU</div>
+<div><a href="https://sites.google.com/nyu.edu/samuellee">Samuel Lee</a> <span class="sc">phd</span>, NYU</div>
 <div class="noteleft"><span class="sc">2011</span></div>
-<div><a href="http://sites.google.com/site/kevinmccain/home">Kevin McCain</a> <span class="sc">phd</span>, University of Rochester</div>
+<div><a href="https://sites.google.com/site/kevinmccain37/">Kevin McCain</a> <span class="sc">phd</span>, University of Rochester</div>
 <div class="noteleft">2011</div>
 <div>Hannah Oh <span class="sc">phd</span>, University of Rochester</div>
 
