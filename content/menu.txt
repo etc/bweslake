@@ -79,5 +79,4 @@ teaching
   teaching/resources
     teaching/resources/darwin
     teaching/resources/mind
-resources
 blog
