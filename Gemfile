@@ -7,12 +7,13 @@ gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 # gem 'nesta', '0.9.11'
 #
 # Use the following instead, for local changes to Nesta:
-# gem 'nesta', :path => '/Users/brad/code/nesta'
+# gem 'nesta', :path => '/Users/bw68/code/nesta'
 
 # Use the following instead, for a particular GitHub commit (copy the SHA from Github):
 # gem 'nesta', :git => 'https://github.com/gma/nesta.git', :ref => '90686e4c14b0088f98f6813ff769047217a078c4'
 
-gem 'kramdown', '2.4.0'
+gem 'kramdown'
+
 gem 'tilt', '2.4.0'
 # If using 2.5.0, you get error: uninitialized constant Tilt::MarukuTemplate (NameError)
 

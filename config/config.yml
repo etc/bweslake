@@ -28,6 +28,8 @@ theme: parallelist
 #
 disqus_short_name: bweslake
 
+markdown: kramdown
+
 # read_more
 #     When the summary of an article is displayed on the home page, or
 #     on a category page, there is a link underneath the summary that
