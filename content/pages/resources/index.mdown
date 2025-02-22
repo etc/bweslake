@@ -22,10 +22,13 @@ A short note on the tools used to construct this site can be found [here][note].
 
 *   My [BibTeX][7] bibliography is available [here][8].
 *   A simple Applescript to transform <span class="small">DOI</span> fields to <span class="small">URL</span> fields for a selected BibDesk entry is available [here][9] (place it in `~/Library/Application Support/BibDesk/Scripts` to make it available in the BibDesk Scripts menu).
+*   A simple Applescript to transform Title fields to title case for a selected BibDesk entry is available [here][10] (place it in `~/Library/Application Support/BibDesk/Scripts` to make it available in the BibDesk Scripts menu). You will need to edit the script to point it to wherever you have placed [this script][11], on which it relies.
 
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master
  [9]: https://bweslake.s3.amazonaws.com/research/resources/DOItoURI.scpt.zip
+ [10]: https://bweslake.s3.amazonaws.com/research/resources/DOItoURI.scpt.zip
+ [11]: http://plasmasturm.org/code/titlecase/
 
 ### Workflow
 
