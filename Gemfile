@@ -8,7 +8,7 @@ gem 'nesta', :git => 'https://github.com/gma/nesta.git'
 #
 # Use the following instead, for local changes to Nesta:
 # gem 'nesta', :path => '/Users/bw68/code/nesta'
-
+#
 # Use the following instead, for a particular GitHub commit (copy the SHA from Github):
 # gem 'nesta', :git => 'https://github.com/gma/nesta.git', :ref => '90686e4c14b0088f98f6813ff769047217a078c4'
 
