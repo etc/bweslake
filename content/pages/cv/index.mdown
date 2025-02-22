@@ -145,7 +145,7 @@ Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shangh
 <div>“What is Causal Explanation?”, *Philosophy Meets Science*, NYU Shanghai.</div>
 
 <div class="noteleft">2023-10-19</div>
-<div>“On <a href="https://www.strevens.org/"">Michael Strevens</a>, <em>Why High-Level Explanations Exist</em>”, Fudan.</div>
+<div>“On <a href="https://www.strevens.org/">Michael Strevens</a>, <em>Why High-Level Explanations Exist</em>”, Fudan.</div>
 
 <div class="noteleft">2022-05-05</div>
 <div>“Tolstoy’s Philosophy in <em>War and Peace</em>”, NYU Shanghai.</div>
