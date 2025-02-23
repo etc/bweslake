@@ -13,49 +13,49 @@ A short note on the tools used to construct this site can be found [here][note].
 
 ### Maldini ###
 
-[Maldini][maldini] is a citation and bibliography plugin for [Nesta][nesta]. It allows citations and reference lists to be automatically generated from BibTeX files, using a syntax analogous to the commands used for the same purpose in LaTeX. For more information, see [here][maldini].
+I wrote [Maldini][maldini], a citation and bibliography plugin for [Nesta][nesta]. It allows citations and reference lists to be automatically generated from BibTeX files, using a syntax analogous to the commands used for the same purpose in LaTeX. For more information, see [here][maldini].
 
   [maldini]: ../resources/maldini "Maldini"
   [nesta]: http://nestacms.com/ "Nesta"
 
-### Downloads
+### BibTeX
 
-*   My [BibTeX][7] bibliography is available [here][8].
-*   A simple Applescript to transform <span class="small">DOI</span> fields to <span class="small">URL</span> fields for a selected BibDesk entry is available [here][9] (place it in `~/Library/Application Support/BibDesk/Scripts` to make it available in the BibDesk Scripts menu).
-*   A simple Applescript to transform Title fields to title case for a selected BibDesk entry is available [here][10] (place it in `~/Library/Application Support/BibDesk/Scripts` to make it available in the BibDesk Scripts menu). You will need to edit the script to point it to wherever you have placed [this script][11], on which it relies.
+* My 12,500+ entry [BibTeX][7] bibliography is available [here][8].
+* Here are three Applescripts for use with BibDesk. Install by placing them in `~/Library/Application Support/BibDesk/Scripts`, which makes them available in the BibDesk Scripts menu. Each applies to the selected Bibdesk entry only.
+  * [Transform <span class="small">DOI</span> fields to <span class="small">URL</span> fields][9].
+  * [Transform Title and Booktitle fields to title case][10]. You will need to edit the script to point it to wherever you have placed [this script][11], on which it relies.
+  * [Convert Unicode special characters to LaTeX escape sequences][12]. Operates on fields Title, Booktitle, Publisher, Author, Editor, and Address. You will need to edit the script to point it to wherever you have placed [this script][13], on which it relies.
 
  [7]: http://en.wikipedia.org/wiki/BibTeX
  [8]: http://github.com/etc/philosophy-bibliography/tree/master
  [9]: https://bweslake.s3.amazonaws.com/research/resources/DOItoURI.scpt.zip
  [10]: https://bweslake.s3.amazonaws.com/research/resources/Titlecase.scpt.zip
  [11]: http://plasmasturm.org/code/titlecase/
+ [12]: https://bweslake.s3.amazonaws.com/research/resources/Special%20Characters.scpt.zip
+ [13]: https://pypi.org/project/pylatexenc
 
 ### Workflow
 
-I use [TextMate][1] for editing, [LaTeX][2] for typesetting, [BibDesk][3] for bibliography management, [biblatex][4] for bibliographic typesetting, and [Git][git] for version control.
+I use [TextMate][1] for editing [Pandoc][pandoc] files, [LaTeX][2] for typesetting them, [BibDesk][3] for bibliography management, [biblatex][4] for bibliographic typesetting, and [Git][git] for version control. The [vc][vc] LaTeX package can be used to embed Git version information into PDFs, as for example in my [CV][cv] (see the very end).
 
   [1]: http://macromates.com/
   [2]: http://www.latex-project.org/
   [3]: http://bibdesk.sourceforge.net/
   [4]: http://www.ctan.org/tex-archive/help/Catalogue/entries/biblatex.html
   [git]: http://git-scm.com/
+  [vc]: https://ctan.org/pkg/vc
+  [cv]: http://goo.gl/6a62E
 
 ### Utilities
 
-Other things I find useful:
+Tools I find useful: [Coherent PDF Tools][coherent], [Cyberduck][duck], [Detexify][detexify], [f.lux][flux], [GitHub for Mac][githubmac], [Obsidian][obsidian], [Skim][skim], [Solarized][solarized].
 
-* [Cyberduck][duck]
-* [Detexify][detexify]
-* [Pandoc][pandoc]
-* [GitHub for Mac][githubmac]
-* [Skim][skim]
-* [f.lux][flux]
-* [Solarized][solarized]
-
+ [coherent]: https://www.coherentpdf.com/ "Coherent PDF Command Line Tools"
  [detexify]: http://detexify.kirelabs.org/classify.html "Detexify"
  [duck]: http://cyberduck.ch/
  [pandoc]: http://johnmacfarlane.net/pandoc/ "Pandoc"
  [githubmac]: http://mac.github.com/ "GitHub for Mac"
+ [obsidian]: https://obsidian.md/ "Obsidian"
  [skim]: http://skim-app.sourceforge.net/ "Skim"
  [flux]: http://stereopsis.com/flux/ "f.lux"
  [solarized]: http://ethanschoonover.com/solarized "Solarized"
