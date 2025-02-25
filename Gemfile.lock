@@ -66,7 +66,7 @@ GEM
     rdiscount (2.2.7.3)
     rexml (3.4.1)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.85.0-arm64-darwin)
+    sass-embedded (1.85.1-arm64-darwin)
       google-protobuf (~> 4.29)
     sinatra (4.1.1)
       logger (>= 1.6.0)
