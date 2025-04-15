@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 8239550f5aead91ce30a3c4193eaebe1e82288ca
+  revision: 6fc0f223eb02cae489f11755f9539c9f99bc1aad
   specs:
     nesta (0.18.0)
       RedCloth (~> 4.2)
@@ -36,7 +36,7 @@ GEM
       latex-decode (~> 0.0)
       racc (~> 1.7)
     bigdecimal (3.1.9)
-    google-protobuf (4.30.0-arm64-darwin)
+    google-protobuf (4.30.2-arm64-darwin)
       bigdecimal
       rake (>= 13)
     haml (5.2.2)
@@ -47,14 +47,14 @@ GEM
     kramdown (2.5.1)
       rexml (>= 3.3.9)
     latex-decode (0.4.0)
-    logger (1.6.6)
+    logger (1.7.0)
     mustermann (3.0.3)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.7.4)
     puma (6.6.0)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.1.12)
+    rack (3.1.13)
     rack-protection (4.1.1)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
@@ -66,8 +66,8 @@ GEM
     rdiscount (2.2.7.3)
     rexml (3.4.1)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.85.1-arm64-darwin)
-      google-protobuf (~> 4.29)
+    sass-embedded (1.86.3-arm64-darwin)
+      google-protobuf (~> 4.30)
     sinatra (4.1.1)
       logger (>= 1.6.0)
       mustermann (~> 3.0)
