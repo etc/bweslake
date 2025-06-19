@@ -10,7 +10,7 @@ NYU Shanghai
 Pudong, Shanghai  
 China `200126`  
 [brad.weslake@nyu.edu](mailto:brad.weslake@nyu.edu)  
-<http://bweslake.org/>
+<https://bweslake.org/>
 
 ## Areas of speciality
 
@@ -52,7 +52,7 @@ Philosophy of Mind
 
  [1]: https://www.philosophy.rutgers.edu/faculty-174/182-faculty-profiles/617-barryloewer
  [2]: https://www.winsberg.net/
- [shamik]: http://www.shamik.net/
+ [shamik]: https://www.shamik.net/
  [ravit]: https://www.techbetter.ai/about
 
 ### papers
@@ -61,38 +61,38 @@ Philosophy of Mind
 “Exclusion Excluded”, in [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford, pp. 101–135. [<span class="sc">[uri](https://doi.org/10.1093/oso/9780192862945.003.0005)]  [[pdf](https://philpapers.org/archive/wesee.pdf)</span>]  
 
 <div class="noteleft">2017</div>
-“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), [*Making a Difference*](https://global.oup.com/academic/product/making-a-difference-9780198746911), Oxford University Press, Oxford, pp. 215–231. [<span class="sc">[uri](https://doi.org/10.1093/oso/9780198746911.003.0011)] [[pdf](http://philpapers.org/archive/wesdca-3.pdf)</span>]
+“Difference-Making, Closure and Exclusion”, in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Huw Price][price] (Eds), [*Making a Difference*](https://global.oup.com/academic/product/making-a-difference-9780198746911), Oxford University Press, Oxford, pp. 215–231. [<span class="sc">[uri](https://doi.org/10.1093/oso/9780198746911.003.0011)] [[pdf](https://philpapers.org/archive/wesdca-3.pdf)</span>]
 
 <div class="noteleft">2014</div>
-“Statistical Mechanical Imperialism”, in [Alastair Wilson](https://alastairwilson.org/) (Ed), [*Chance and Temporal Asymmetry*](https://global.oup.com/academic/product/chance-and-temporal-asymmetry-9780199673421), Oxford University Press, Oxford, pp. 241–257. [<span class="sc">[uri](http://dx.doi.org/10.1093/acprof:oso/9780199673421.003.0012)] [[pdf](http://philpapers.org/archive/wessmi.pdf)</span>]  
+“Statistical Mechanical Imperialism”, in [Alastair Wilson](https://alastairwilson.org/) (Ed), [*Chance and Temporal Asymmetry*](https://global.oup.com/academic/product/chance-and-temporal-asymmetry-9780199673421), Oxford University Press, Oxford, pp. 241–257. [<span class="sc">[uri](https://doi.org/10.1093/acprof:oso/9780199673421.003.0012)] [[pdf](https://philpapers.org/archive/wessmi.pdf)</span>]  
 
 <div class="noteleft">2013</div>
-“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 91, <span class="sc">no</span>. 4, pp. 785–797. [<span class="sc">[uri](http://dx.doi.org/10.1080/00048402.2013.788045)] [[pdf](http://philpapers.org/archive/wespca-2.pdf)</span>] 
+“Proportionality, Contrast and Explanation”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 91, <span class="sc">no</span>. 4, pp. 785–797. [<span class="sc">[uri](https://doi.org/10.1080/00048402.2013.788045)] [[pdf](https://philpapers.org/archive/wespca-2.pdf)</span>] 
 
 <div class="noteleft">2013</div>
-[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht, pp. 101–119. [<span class="sc">[uri](http://dx.doi.org/10.1007/978-94-007-6537-5_6)] [[pdf](http://philpapers.org/archive/mcceta-4.pdf)</span>] 
+[McCain, Kevin][mccain] and Weslake, Brad. “Evolutionary Theory and the Epistemology of Science”, in Kostas Kampourakis (Ed), *The Philosophy of Biology: A Companion for Educators*, Springer, Dordrecht, pp. 101–119. [<span class="sc">[uri](https://doi.org/10.1007/978-94-007-6537-5_6)] [[pdf](https://philpapers.org/archive/mcceta-4.pdf)</span>] 
 
 <div class="noteleft">2010</div>
 “Explanatory Depth”, in *Philosophy of Science*,
-<span class="sc">vol</span>. 77, <span class="sc">no</span>. 2, <span class="sc">apr</span> 2010, pp. 273–294. [<span class="sc">[uri](http://dx.doi.org/10.1086/651316)] [[pdf](http://philpapers.org/archive/wesed.pdf)</span>] 
+<span class="sc">vol</span>. 77, <span class="sc">no</span>. 2, <span class="sc">apr</span> 2010, pp. 273–294. [<span class="sc">[uri](https://doi.org/10.1086/651316)] [[pdf](https://philpapers.org/archive/wesed.pdf)</span>] 
 
 <div class="noteleft">2009</div>
 [Price, Huw][price] and Weslake, Brad. “The Time-Asymmetry of Causation”,
 in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menzies] (Eds), *The Oxford Handbook of Causation*, Oxford University Press, Oxford, 2009, pp.
-414–443. [<span class="sc">[uri](http://dx.doi.org/10.1093/oxfordhb/9780199279739.003.0021)] [[pdf](http://philpapers.org/archive/pritto.pdf)</span>] 
+414–443. [<span class="sc">[uri](https://doi.org/10.1093/oxfordhb/9780199279739.003.0021)] [[pdf](https://philpapers.org/archive/pritto.pdf)</span>] 
 
- [beebee]: http://www.birmingham.ac.uk/staff/profiles/philosophy/beebee-helen.aspx "Helen Beebee"
- [price]: http://prce.hu/w/ "Huw Price"
- [hitchcock]: http://www.hss.caltech.edu/people/cricky/profile "Chris Hitchcock"
+ [beebee]: https://ahc.leeds.ac.uk/philosophy/staff/3939/professor-helen-beebee "Helen Beebee"
+ [price]: https://prce.hu/w/ "Huw Price"
+ [hitchcock]: https://www.hss.caltech.edu/people/christopher-hitchcock "Chris Hitchcock"
  [mccain]: https://sites.google.com/site/kevinmccain/home "Kevin McCain"
- [menzies]: http://www.phil.mq.edu.au/staff/menzies.htm "Peter Menzies"
+ [menzies]: https://en.wikipedia.org/wiki/Peter_Menzies_(philosopher) "Peter Menzies"
 
 <div class="noteleft">2006</div>
 “Common Causes and The Direction of Causation”, in
 *Minds and Machines*, [Rolf Haenni][haenni] and [Stephan Hartmann][hartmann] (Eds), *Special Issue on Causality, Uncertainty and Ignorance*, <span class="sc">vol</span>. 16, <span class="sc">no</span>. 3, <span class="sc">aug</span>
-2006, pp. 239–257. [<span class="sc">[uri](http://dx.doi.org/10.1007/s11023-006-9042-2)] [[pdf](http://philpapers.org/archive/wescca.pdf)</span>]   
+2006, pp. 239–257. [<span class="sc">[uri](https://doi.org/10.1007/s11023-006-9042-2)] [[pdf](https://philpapers.org/archive/wescca.pdf)</span>]   
 
-[haenni]: http://haenni.shorturl.com/ "Rolf Haenni"
+[haenni]: https://www.bfh.ch/en/about-bfh/people/mut5d2n7zvw2/ "Rolf Haenni"
 [hartmann]: http://stephanhartmann.org/ "Stephan Hartmann"
 
 ### papers in progress
@@ -103,18 +103,18 @@ in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menz
 ### encyclopædia entries
 
 <div class="noteleft">2014 [2010]</div>
-“Causation”, in Graham Oppy and Nick Trakakis (Eds), [*A Companion to Philosophy in Australia and New Zealand*](http://library.oapen.org/handle/20.500.12657/31527), Monash University Publishing, Melbourne, 2nd Ed, 2014, pp. 107–110. [<span class="sc">[pdf](http://philpapers.org/archive/wesctd.pdf)]  
+“Causation”, in Graham Oppy and Nick Trakakis (Eds), [*A Companion to Philosophy in Australia and New Zealand*](https://library.oapen.org/handle/20.500.12657/31527), Monash University Publishing, Melbourne, 2nd Ed, 2014, pp. 107–110. [<span class="sc">[pdf](https://philpapers.org/archive/wesctd.pdf)]  
 
 <div class="noteleft">2006</div>
-“Causation” in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. [<span class="sc">[pdf](http://philpapers.org/archive/wesc.pdf)]   
+“Causation” in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, pp. 44–45. [<span class="sc">[pdf](https://philpapers.org/archive/wesc.pdf)]   
 
 <div class="noteleft">2006</div>
-“Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, 283–284. [<span class="sc">[pdf](http://philpapers.org/archive/west.pdf)]  
+“Time”, in Martin Cohen (Ed), *Essentials of Philosophy and Ethics*, Hodder Arnold, London, 2006, 283–284. [<span class="sc">[pdf](https://philpapers.org/archive/west.pdf)]  
 
 ### reviews
 
 <div class="noteleft">2006</div>
-“James Woodward, *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140. [<span class="sc">[uri](http://dx.doi.org/10.1080/00048400600571935)] [[pdf](http://philpapers.org/archive/wesu.pdf)</span>] 
+“James Woodward, *Making Things Happen*”, in *Australasian Journal of Philosophy*, <span class="sc">vol</span>. 84, <span class="sc">no</span>. 1, <span class="sc">mar</span> 2006, pp. 136-140. [<span class="sc">[uri](https://doi.org/10.1080/00048400600571935)] [[pdf](https://philpapers.org/archive/wesu.pdf)</span>] 
 
 <div class="noteleft">2004</div>
 “William Robinson, *Understanding Phenomenal Consciousness*”, in *Metapsychology Online Reviews*, <span class="sc">vol</span>. 8, <span class="sc">no</span>. 49, 29 <span class="sc">nov</span> 2004. [<span class="sc">[uri](https://metapsychology.net/index.php/book-review/understanding-phenomenal-consciousness/)] [[pdf](https://bweslake.s3.amazonaws.com/research/papers/weslake_review_robinson.pdf)</span>] 
@@ -125,7 +125,7 @@ in [Helen Beebee][beebee], [Chris Hitchcock][hitchcock] and [Peter Menzies][menz
 Invited collaborator for project *Causation and Explanation*, hosted by Philosophisches Seminar der Universität zu Köln and funded by Deutsche Forschungsgemeinschaft.
 
 <div class="noteleft">2015–2016</div>
-Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shanghai) on Shanghai Research Challenge Fund grant *Origins of Randomness in Quantum Mechanics* ($50,000).
+Principal Investigator (with [Tim Byrnes](https://nyu.timbyrnes.net/), NYU Shanghai) on Shanghai Research Challenge Fund grant *Origins of Randomness in Quantum Mechanics* ($50,000).
 
 ## Presentations
 
@@ -415,67 +415,67 @@ Principal Investigator (with [Tim Byrnes](http://nyu.timbyrnes.net/), NYU Shangh
 
 ### graduate
 
-<div>Philosophy of Technology (with <a href="http://annagreenspan.com/">Anna Greenspan</a>), <a href="http://bweslake.org/teaching/2021/technology-pg">2021</a>.</div>
-<div>Causal Inference (with <a href="https://erlichlab.org/">Jeff Erlich</a>), <a href="http://bweslake.org/teaching/2008/ibe/">2008</a>.</div>
-<div>Advanced Introduction to Philosophy of Science, <a href="http://bweslake.org/teaching/2014/science">2014</a>, <a href="http://bweslake.org/teaching/2020/science">2020</a>.</div>
+<div>Philosophy of Technology (with <a href="https://annagreenspan.com/">Anna Greenspan</a>), <a href="https://bweslake.org/teaching/2021/technology-pg">2021</a>.</div>
+<div>Causal Inference (with <a href="https://erlichlab.org/">Jeff Erlich</a>), <a href="https://bweslake.org/teaching/2021/causal-inference">2021</a>.</div>
+<div>Advanced Introduction to Philosophy of Science, <a href="https://bweslake.org/teaching/2014/science">2014</a>, <a href="https://bweslake.org/teaching/2020/science">2020</a>.</div>
 <div>The Direction of Time (Reading Course),
-<a href="http://bweslake.org/teaching/2013/time/">2013</a>.</div>
-<div>Causation, <a href="http://bweslake.org/teaching/2012/causation/">2012</a>.</div>
+<a href="https://bweslake.org/teaching/2013/time/">2013</a>.</div>
+<div>Causation, <a href="https://bweslake.org/teaching/2012/causation/">2012</a>.</div>
 <div>Perception (Reading Course),
-<a href="http://bweslake.org/teaching/2012/perception/">2012</a>.</div>
+<a href="https://bweslake.org/teaching/2012/perception/">2012</a>.</div>
 <div>Philosophy of Biology (Guest Lectures in Department of Biology),
-<a href="http://bweslake.org/teaching/2010/biology/">2010</a>.</div>
+<a href="https://bweslake.org/teaching/2010/biology/">2010</a>.</div>
 <div>Causation and Counterfactuals (Reading Course),
-<a href="http://bweslake.org/teaching/2010/causation/">2010</a>.</div>
+<a href="https://bweslake.org/teaching/2010/causation/">2010</a>.</div>
 <div>Models and Idealisation (Reading Course),
-<a href="http://bweslake.org/teaching/2009/models/">2009</a>.</div>
+<a href="https://bweslake.org/teaching/2009/models/">2009</a>.</div>
 <div>Inference to the Best Explanation and Scientific Realism,
-<a href="http://bweslake.org/teaching/2008/ibe/">2008</a>.</div>
+<a href="https://bweslake.org/teaching/2008/realism/">2008</a>.</div>
 <div>Scientific Explanation,
-<a href="http://bweslake.org/teaching/2007/explanation/">2007</a>.</div>
+<a href="https://bweslake.org/teaching/2007/explanation/">2007</a>.</div>
 <div>Conditionals and Counterfactuals (Reading Course), 2007.</div>
 
 ### upper level
 
-<div>Darwin and Religion (with <a href="http://www.rochester.edu/College/bio/professors/orr.html">H. Allen
+<div>Darwin and Religion (with <a href="https://www.rochester.edu/College/bio/professors/orr.html">H. Allen
 Orr</a>),
-<a href="http://bweslake.org/teaching/2010/darwin/">2010</a>,  
-<a href="http://bweslake.org/teaching/2012/darwin/">2012</a>, <a href="http://bweslake.org/teaching/2013/darwin/">2013</a>.</div>
+<a href="https://bweslake.org/teaching/2010/darwin/">2010</a>,  
+<a href="https://bweslake.org/teaching/2012/darwin/">2012</a>, <a href="https://bweslake.org/teaching/2013/darwin/">2013</a>.</div>
 <div>Philosophy of Cognitive Science,
-<a href="http://bweslake.org/teaching/2010/cognition/">2010</a>.</div>
+<a href="https://bweslake.org/teaching/2010/cognition/">2010</a>.</div>
 <div>Philosophy of Biology,
-<a href="http://bweslake.org/teaching/2009/biology/">2009</a>, <a href="http://bweslake.org/teaching/2014/biology/">2014a</a>,
-<a href="http://bweslake.org/teaching/2014/biology-fall/">2014b</a>,
-<a href="http://bweslake.org/teaching/2017/biology">2017</a>,
-<a href="http://bweslake.org/teaching/2019/biology">2019</a>, <a href="http://bweslake.org/teaching/2022/biology">2022</a>, <a href="http://bweslake.org/teaching/2023/biology">2023</a>,
-<a href="http://bweslake.org/teaching/2024/biology">2024</a>.</div>
+<a href="https://bweslake.org/teaching/2009/biology/">2009</a>, <a href="https://bweslake.org/teaching/2014/biology/">2014a</a>,
+<a href="https://bweslake.org/teaching/2014/biology-fall/">2014b</a>,
+<a href="https://bweslake.org/teaching/2017/biology">2017</a>,
+<a href="https://bweslake.org/teaching/2019/biology">2019</a>, <a href="https://bweslake.org/teaching/2022/biology">2022</a>, <a href="https://bweslake.org/teaching/2023/biology">2023</a>,
+<a href="https://bweslake.org/teaching/2024/biology">2024</a>.</div>
 <div>Philosophy of Mind,
-<a href="http://bweslake.org/teaching/2007/mind/">2007</a>,
-<a href="http://bweslake.org/teaching/2008/mind/">2008</a>,
-<a href="http://bweslake.org/teaching/2009/mind/">2009</a>, <a href="http://bweslake.org/teaching/2014/mind/">2014</a>, <a href="https://bweslake.org/teaching/2022/mind">2022</a>.</div>
+<a href="https://bweslake.org/teaching/2007/mind/">2007</a>,
+<a href="https://bweslake.org/teaching/2008/mind/">2008</a>,
+<a href="https://bweslake.org/teaching/2009/mind/">2009</a>, <a href="https://bweslake.org/teaching/2014/mind/">2014</a>, <a href="https://bweslake.org/teaching/2022/mind">2022</a>.</div>
 <div>Philosophy of Science,
-<a href="http://bweslake.org/teaching/2008/science/">2008</a>,
-<a href="http://bweslake.org/teaching/2009/science/">2009</a>,
-<a href="http://bweslake.org/teaching/2010/science/">2010</a>, <a href="http://bweslake.org/teaching/2012/science/">2012</a>, <a href="http://bweslake.org/teaching/2013/science/">2013</a>, <a href="http://bweslake.org/teaching/2015/science">2015</a>.</div>
-<div>Philosophy of Technology (with <a href="http://annagreenspan.com/">Anna Greenspan</a>), <a href="http://bweslake.org/teaching/2016/technology">2016</a>, 2018, <a href="https://bweslake.org/teaching/2021/technology-ug">2021</a>, <a href="https://bweslake.org/teaching/2023/technology">2023</a>,
+<a href="https://bweslake.org/teaching/2008/science/">2008</a>,
+<a href="https://bweslake.org/teaching/2009/science/">2009</a>,
+<a href="https://bweslake.org/teaching/2010/science/">2010</a>, <a href="https://bweslake.org/teaching/2012/science/">2012</a>, <a href="https://bweslake.org/teaching/2013/science/">2013</a>, <a href="https://bweslake.org/teaching/2015/science">2015</a>.</div>
+<div>Philosophy of Technology (with <a href="https://annagreenspan.com/">Anna Greenspan</a>), <a href="https://bweslake.org/teaching/2016/technology">2016</a>, 2018, <a href="https://bweslake.org/teaching/2021/technology-ug">2021</a>, <a href="https://bweslake.org/teaching/2023/technology">2023</a>,
 <a href="https://bweslake.org/teaching/2024/technology">2024</a>.</div>
 <div>Philosophy of Biology (Reading Course),
-<a href="http://bweslake.org/teaching/2008/biology/">2008</a>.</div>
+<a href="https://bweslake.org/teaching/2008/biology/">2008</a>.</div>
 <div>Philosophy of Science, Rutgers Newark, 2007.  </div>
 <div>Philosophy of Mind, University of Sydney, 2005, 2006.</div>
 
 ### lower level
 
 <div>Global Perspectives on Society (with <a href="https://shanghai.nyu.edu/academics/faculty/directory/duane-corpis">Duane Corpis</a>) 2017, 2018 (with <a href="https://today.smumn.edu/articles/welcome-dr-shirin-edwin/">Shirin Edwin</a>) 2019, (with <a href="https://mariadelecarrai.com/">Maria Adele Carrai</a>) 2021.</div>
-<div>What is Philosophy? <a href="http://bweslake.org/teaching/2021/what-is-philosophy">2021</a>.</div>
-<div>Central Problems in Philosophy, <a href="http://bweslake.org/teaching/2015/central-problems">2015</a>,
-<a href="http://bweslake.org/teaching/2016/central-problems">2016</a>.</div>
-<div>Logic, <a href="http://bweslake.org/teaching/2015/logic">2015</a>.</div>
+<div>What is Philosophy? <a href="https://bweslake.org/teaching/2021/what-is-philosophy">2021</a>.</div>
+<div>Central Problems in Philosophy, <a href="https://bweslake.org/teaching/2015/central-problems">2015</a>,
+<a href="https://bweslake.org/teaching/2016/central-problems">2016</a>.</div>
+<div>Logic, <a href="https://bweslake.org/teaching/2015/logic">2015</a>.</div>
 <div>Reason and Science,
-<a href="http://bweslake.org/teaching/2008/reason/">2008</a>,
-<a href="http://bweslake.org/teaching/2009/reason/">2009</a>,
-<a href="http://bweslake.org/teaching/2010/reason/">2010</a>,
-<a href="http://bweslake.org/teaching/2012/reason/">2012</a>, <a href="http://bweslake.org/teaching/2013/reason/">2013a</a>, <a href="http://bweslake.org/teaching/2013/reason-fall/">2013b</a>.</div>
+<a href="https://bweslake.org/teaching/2008/reason/">2008</a>,
+<a href="https://bweslake.org/teaching/2009/reason/">2009</a>,
+<a href="https://bweslake.org/teaching/2010/reason/">2010</a>,
+<a href="https://bweslake.org/teaching/2012/reason/">2012</a>, <a href="https://bweslake.org/teaching/2013/reason/">2013a</a>, <a href="https://bweslake.org/teaching/2013/reason-fall/">2013b</a>.</div>
 <div>Introduction to Philosophy, Adelphi University, 2007.</div>
 <div>Morality and Ethics, Adelphi University, 2007.</div>
 
@@ -494,4 +494,4 @@ Orr</a>),
 
 *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *British Journal for the Philosophy of Science*, *Canadian Journal of Philosophy*, *Dialectica*, *Erkenntnis*, *International Studies in the Philosophy of Science*, *InVisible Culture*, *Journal of Philosophy*, *Journal for General Philosophy of Science*, *Journal of the American Philosophical Association*, *Mind*, *Noûs*, *Oxford University Press*, *Philosophers' Imprint*, *Philosophical Quarterly*, *Philosophical Studies*, *Philosophy of Science*, *Ratio*, *Social Epistemology*, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, *Synthese*, *The Philosophical Review*, *Theoria*, *Theory and Research in Education*, *University of Chicago Press*
 
-17 <span class="sc">february</span> 2025 [ <span class="sc"><a href="http://goo.gl/6a62E">pdf</a></span> ]
+17 <span class="sc">february</span> 2025 [ <span class="sc"><a href="https://goo.gl/6a62E">pdf</a></span> ]
