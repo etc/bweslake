@@ -1,6 +1,8 @@
 /
 cv
 teaching
+  teaching/2025
+    teaching/2025/mind
   teaching/2024
     teaching/2024/biology
     teaching/2024/technology

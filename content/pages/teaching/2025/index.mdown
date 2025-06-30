@@ -1,0 +1,5 @@
+Title: Brad Weslake &bull; 2025 Teaching 
+Summary: 2025
+Template: teaching-year
+
+# 2025
