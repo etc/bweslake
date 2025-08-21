@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: 7d302b8fe6488a56dd0936fb802095e2666f6358
+  revision: a1daefe650eeb178230376c62b025f9bda749738
   specs:
     nesta (0.18.0)
       RedCloth (~> 4.2)
@@ -32,11 +32,12 @@ GEM
   specs:
     RedCloth (4.3.4)
     base64 (0.3.0)
-    bibtex-ruby (6.1.0)
+    bibtex-ruby (6.2.0)
       latex-decode (~> 0.0)
+      logger (~> 1.7)
       racc (~> 1.7)
     bigdecimal (3.2.2)
-    google-protobuf (4.31.1-arm64-darwin)
+    google-protobuf (4.32.0-arm64-darwin)
       bigdecimal
       rake (>= 13)
     haml (5.2.2)
@@ -48,13 +49,13 @@ GEM
       rexml (>= 3.3.9)
     latex-decode (0.4.0)
     logger (1.7.0)
-    mustermann (3.0.3)
+    mustermann (3.0.4)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.7.4)
-    puma (6.6.0)
+    puma (6.6.1)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.1.16)
+    rack (3.2.0)
     rack-protection (4.1.1)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
@@ -66,7 +67,7 @@ GEM
     rdiscount (2.2.7.3)
     rexml (3.4.1)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.89.2-arm64-darwin)
+    sass-embedded (1.90.0-arm64-darwin)
       google-protobuf (~> 4.31)
     sinatra (4.1.1)
       logger (>= 1.6.0)
@@ -75,7 +76,7 @@ GEM
       rack-protection (= 4.1.1)
       rack-session (>= 2.0.0, < 3)
       tilt (~> 2.0)
-    temple (0.10.3)
+    temple (0.10.4)
     tilt (2.4.0)
 
 PLATFORMS
