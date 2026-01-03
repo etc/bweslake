@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: a1daefe650eeb178230376c62b025f9bda749738
+  revision: e8fe28d6595ec0d95f77cf4e84860ff8c7a4ff46
   specs:
     nesta (0.18.0)
       RedCloth (~> 4.2)
@@ -19,7 +19,7 @@ GIT
       rdiscount (~> 2.1)
       sass-embedded (~> 1.58)
       sinatra (~> 4.0)
-      tilt (~> 2.1)
+      tilt (< 2.5)
 
 GIT
   remote: https://github.com/jtrupiano/rack-rewrite.git
@@ -36,11 +36,11 @@ GEM
       latex-decode (~> 0.0)
       logger (~> 1.7)
       racc (~> 1.7)
-    bigdecimal (3.3.1)
-    google-protobuf (4.33.0-arm64-darwin)
+    bigdecimal (4.0.1)
+    google-protobuf (4.33.2-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.33.0-x86_64-linux-gnu)
+    google-protobuf (4.33.2-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
     haml (5.2.2)
@@ -70,9 +70,9 @@ GEM
     rdiscount (2.2.7.3)
     rexml (3.4.4)
     ruby2_keywords (0.0.5)
-    sass-embedded (1.93.2-arm64-darwin)
+    sass-embedded (1.97.1-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.93.2-x86_64-linux-gnu)
+    sass-embedded (1.97.1-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     sinatra (4.2.1)
       logger (>= 1.6.0)
