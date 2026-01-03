@@ -72,6 +72,13 @@ header[role=banner]
   h1
     @include mixins.adjust-font-size(mixins.$h1-scale, 0, 0.5)
     line-height: 1em
+    a
+      color: inherit
+      text-decoration: none
+      &:hover
+        color: colours.$link-color
+      &:visited
+        color: inherit
   h2
     margin: 0
   h1
@@ -210,6 +217,9 @@ header[role=banner]
         font-weight: 700
         a
           text-decoration: none
+          &:hover
+            font-weight: 700
+            color: color.adjust(colours.$link-color, $lightness: 15%, $space: hsl)
 
   p.links
     position: absolute
@@ -238,11 +248,14 @@ header[role=banner]
 
 a
   color: colours.$link-color
+  text-decoration-color: color.adjust(colours.$link-color, $lightness: 40%, $space: hsl)
   @include mixins.transition(color 0.25s 0 ease)
   &:visited
     color: colours.$visited-link-color
+    text-decoration-color: color.adjust(colours.$visited-link-color, $lightness: 35%, $space: hsl)
   &:hover
     color: colours.$hover-link-color
+    text-decoration-color: colours.$hover-link-color
   &:active
     color: colours.$active-link-color
 
@@ -351,6 +364,8 @@ section.articles
       text-shadow: none
       a
         text-decoration: none
+        &:hover
+          color: color.adjust(colours.$link-color, $lightness: 15%, $space: hsl)
     p.read_more
       @include mixins.adjust-font-size(1, 0, 0)
       margin-top: -(mixins.$base-vertical-margin)
@@ -400,6 +415,15 @@ article.home
 
     h1
       @include mixins.adjust-font-size(mixins.$h2-scale, 1.6, 0.4)
+
+    &.overview
+      & > p:first-child
+        margin-top: 0
+
+    &.news
+      heading
+        img
+          display: block
 
     &.quote
       heading
