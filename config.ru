@@ -6,7 +6,7 @@ Bundler.require(:default)
 
 use Rack::Rewrite do
 
-  # Unless working locally, ensure site is served at http://bweslake.org
+  # Unless working locally, ensure site is served at https://bweslake.org
   # unless ENV['RACK_ENV'] == 'development'
   #  r301 %r{.*}, 'https://bweslake.org$&',
   #    :if => Proc.new { |rack_env| rack_env['SERVER_NAME'] != 'bweslake.org' }
