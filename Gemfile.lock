@@ -67,7 +67,7 @@ GEM
       base64 (>= 0.1.0)
       rack (>= 3.0.0)
     rake (13.3.1)
-    rdiscount (2.2.7.3)
+    rdiscount (2.2.7.4)
     rexml (3.4.4)
     ruby2_keywords (0.0.5)
     sass-embedded (1.98.0-arm64-darwin)
