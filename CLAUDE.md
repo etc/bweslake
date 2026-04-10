@@ -4,23 +4,24 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-Personal academic website for Brad Weslake built with [Nesta CMS](https://nestacms.com/) (a Ruby/Sinatra-based CMS). Hosted on Railway at https://bweslake.org/.
+Personal academic website for Brad Weslake built with [Nesta CMS](https://nestacms.com/) (a Ruby/Sinatra-based CMS). Hosted on [Fly.io](https://fly.io/) at https://bweslake.org/.
 
-## Commands
+## Commands 
 
-```bash
-# Install dependencies
+### Install dependencies
 bundle install
 
-# Run development server (default port 9292)
+### Run development server
 bundle exec puma
 
-# Run on specific port
+### Run on specific port
 bundle exec puma -p 3000
 
-# Production (Docker)
+### Run Docker
 docker build -t bweslake . && docker run -p 80:80 bweslake
-```
+
+### Deploy
+flyctl deploy
 
 ## Architecture
 
