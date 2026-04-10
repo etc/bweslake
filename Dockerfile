@@ -13,4 +13,4 @@ COPY . /app
 
 EXPOSE 80
 
-CMD ["bundle", "exec", "puma", "-p", "80"]
+CMD ["bundle", "exec", "puma", "-b", "tcp://0.0.0.0:80"]
