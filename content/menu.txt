@@ -3,6 +3,7 @@ teaching
   teaching/2026
     teaching/2026/biology
     teaching/2026/technology
+    teaching/2026/mind
   teaching/2025
     teaching/2025/mind
   teaching/2024
