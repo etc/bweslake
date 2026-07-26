@@ -57,6 +57,9 @@ Philosophy of Mind
 
 ### papers
 
+<div class="noteleft">2025</div>
+“Commentary on Factual Difference-Making”, in *Australasian Philosophical Review*, <span class="sc">vol</span>. 9, <span class="sc">no</span>. 2, pp. 167–176. [<span class="sc">[uri](https://doi.org/10.1080/24740500.2025.2592584)]  [[pdf](https://philpapers.org/archive/wescof-3.pdf)</span>]  
+
 <div class="noteleft">2024</div>
 “Exclusion Excluded”, in [Alastair Wilson](https://alastairwilson.org/) and [Katie Robertson](https://katierobertsonphilosophy.wordpress.com/) (Eds), *Levels of Explanation*, Oxford University Press, Oxford, pp. 101–135. [<span class="sc">[uri](https://doi.org/10.1093/oso/9780192862945.003.0005)]  [[pdf](https://philpapers.org/archive/wesee.pdf)</span>]  
 
@@ -128,6 +131,21 @@ Invited collaborator for project *Causation and Explanation*, hosted by Philosop
 Principal Investigator (with [Tim Byrnes](https://nyu.timbyrnes.net/), NYU Shanghai) on Shanghai Research Challenge Fund grant *Origins of Randomness in Quantum Mechanics* ($50,000).
 
 ## Presentations
+
+<div class="noteleft">2025-11-07</div>
+<div>“A Puzzle About High-Level Causation”, <em>Multi-level Causal Models</em>, University of Bern.</div>
+
+<div class="noteleft">2025-09-26</div>
+<div>“Causation and Entanglement”, <em>Boundary-Crossing</em>, Zhengzhou University.</div>
+
+<div class="noteleft">2025-07-15</div>
+<div>“A Puzzle About High-Level Causation”, <em>Parisation</em>, Paris.</div>
+
+<div class="noteleft">2025-04-11</div>
+<div>“Causation and Entanglement”, <em>Mind Research Group</em>, Rutgers.</div>
+
+<div class="noteleft">2025-04-10</div>
+<div>“Fitness Anti-Reductionism”, <em>Philosophy of Biology: Evolution and Individuation</em>, NYU.</div>
 
 <div class="noteleft">2025-02-07</div>
 <div>“Fitness Anti-Reductionism”, University of Missouri.</div>
@@ -494,4 +512,4 @@ Orr</a>),
 
 *American Philosophical Quarterly*, *Australasian Journal of Philosophy*, *British Journal for the Philosophy of Science*, *Canadian Journal of Philosophy*, *Dialectica*, *Erkenntnis*, *International Studies in the Philosophy of Science*, *InVisible Culture*, *Journal of Philosophy*, *Journal for General Philosophy of Science*, *Journal of the American Philosophical Association*, *Mind*, *Noûs*, *Oxford University Press*, *Philosophers' Imprint*, *Philosophical Quarterly*, *Philosophical Studies*, *Philosophy of Science*, *Ratio*, *Social Epistemology*, *Studies in History and Philosophy of Science Part C: Studies in History and Philosophy of Biological and Biomedical Sciences*, *Synthese*, *The Philosophical Review*, *Theoria*, *Theory and Research in Education*, *University of Chicago Press*
 
-17 <span class="sc">february</span> 2025 [ <span class="sc"><a href="https://goo.gl/6a62E">pdf</a></span> ]
+6 <span class="sc">july</span> 2026 [ <span class="sc"><a href="https://goo.gl/6a62E">pdf</a></span> ]
