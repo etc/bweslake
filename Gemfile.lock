@@ -8,7 +8,7 @@ GIT
 
 GIT
   remote: https://github.com/gma/nesta.git
-  revision: c94a643a5d355e949cad4d7031d69aecf148df2b
+  revision: 8597b9a3854b651416f6e386739983093011cee9
   specs:
     nesta (0.18.0)
       RedCloth (~> 4.2)
@@ -36,11 +36,11 @@ GEM
       latex-decode (~> 0.0)
       logger (~> 1.7)
       racc (~> 1.7)
-    bigdecimal (4.1.1)
-    google-protobuf (4.34.1-arm64-darwin)
+    bigdecimal (4.1.2)
+    google-protobuf (4.35.1-arm64-darwin)
       bigdecimal
       rake (~> 13.3)
-    google-protobuf (4.34.1-x86_64-linux-gnu)
+    google-protobuf (4.35.1-x86_64-linux-gnu)
       bigdecimal
       rake (~> 13.3)
     haml (5.2.2)
@@ -52,10 +52,9 @@ GEM
       rexml (>= 3.4.4)
     latex-decode (0.4.2)
     logger (1.7.0)
-    mustermann (3.0.4)
-      ruby2_keywords (~> 0.0.1)
+    mustermann (3.1.1)
     nio4r (2.7.5)
-    puma (8.0.0)
+    puma (8.0.2)
       nio4r (~> 2.0)
     racc (1.8.1)
     rack (3.2.6)
@@ -66,13 +65,12 @@ GEM
     rack-session (2.1.2)
       base64 (>= 0.1.0)
       rack (>= 3.0.0)
-    rake (13.3.1)
-    rdiscount (2.2.7.4)
+    rake (13.4.2)
+    rdiscount (2.2.7.5)
     rexml (3.4.4)
-    ruby2_keywords (0.0.5)
-    sass-embedded (1.99.0-arm64-darwin)
+    sass-embedded (1.102.0-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.99.0-x86_64-linux-gnu)
+    sass-embedded (1.102.0-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     sinatra (4.2.1)
       logger (>= 1.6.0)
