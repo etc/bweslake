@@ -466,17 +466,19 @@ Orr</a>),
 <a href="https://bweslake.org/teaching/2014/biology-fall/">2014b</a>,
 <a href="https://bweslake.org/teaching/2017/biology">2017</a>,
 <a href="https://bweslake.org/teaching/2019/biology">2019</a>, <a href="https://bweslake.org/teaching/2022/biology">2022</a>, <a href="https://bweslake.org/teaching/2023/biology">2023</a>,
-<a href="https://bweslake.org/teaching/2024/biology">2024</a>.</div>
+<a href="https://bweslake.org/teaching/2024/biology">2024</a>,
+<a href="https://bweslake.org/teaching/2026/biology">2026</a></div>
 <div>Philosophy of Mind,
 <a href="https://bweslake.org/teaching/2007/mind/">2007</a>,
 <a href="https://bweslake.org/teaching/2008/mind/">2008</a>,
-<a href="https://bweslake.org/teaching/2009/mind/">2009</a>, <a href="https://bweslake.org/teaching/2014/mind/">2014</a>, <a href="https://bweslake.org/teaching/2022/mind">2022</a>.</div>
+<a href="https://bweslake.org/teaching/2009/mind/">2009</a>, <a href="https://bweslake.org/teaching/2014/mind/">2014</a>, <a href="https://bweslake.org/teaching/2022/mind">2022</a>, <a href="https://bweslake.org/teaching/2025/mind">2025</a>.</div>
 <div>Philosophy of Science,
 <a href="https://bweslake.org/teaching/2008/science/">2008</a>,
 <a href="https://bweslake.org/teaching/2009/science/">2009</a>,
 <a href="https://bweslake.org/teaching/2010/science/">2010</a>, <a href="https://bweslake.org/teaching/2012/science/">2012</a>, <a href="https://bweslake.org/teaching/2013/science/">2013</a>, <a href="https://bweslake.org/teaching/2015/science">2015</a>.</div>
 <div>Philosophy of Technology (with <a href="https://annagreenspan.com/">Anna Greenspan</a>), <a href="https://bweslake.org/teaching/2016/technology">2016</a>, 2018, <a href="https://bweslake.org/teaching/2021/technology-ug">2021</a>, <a href="https://bweslake.org/teaching/2023/technology">2023</a>,
-<a href="https://bweslake.org/teaching/2024/technology">2024</a>.</div>
+<a href="https://bweslake.org/teaching/2024/technology">2024</a>,
+<a href="https://bweslake.org/teaching/2026/technology">2026</a></div>
 <div>Philosophy of Biology (Reading Course),
 <a href="https://bweslake.org/teaching/2008/biology/">2008</a>.</div>
 <div>Philosophy of Science, Rutgers Newark, 2007.  </div>
