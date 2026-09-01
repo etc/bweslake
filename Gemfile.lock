@@ -37,10 +37,10 @@ GEM
       logger (~> 1.7)
       racc (~> 1.7)
     bigdecimal (4.1.2)
-    google-protobuf (4.35.1-arm64-darwin)
+    google-protobuf (4.36.1-arm64-darwin)
       bigdecimal
       rake (~> 13.3)
-    google-protobuf (4.35.1-x86_64-linux-gnu)
+    google-protobuf (4.36.1-x86_64-linux-gnu)
       bigdecimal
       rake (~> 13.3)
     haml (5.2.2)
@@ -57,7 +57,7 @@ GEM
     puma (8.0.2)
       nio4r (~> 2.0)
     racc (1.8.1)
-    rack (3.2.6)
+    rack (3.2.7)
     rack-protection (4.2.1)
       base64 (>= 0.1.0)
       logger (>= 1.6.0)
@@ -68,9 +68,9 @@ GEM
     rake (13.4.2)
     rdiscount (2.2.7.5)
     rexml (3.4.4)
-    sass-embedded (1.102.0-arm64-darwin)
+    sass-embedded (1.103.1-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.102.0-x86_64-linux-gnu)
+    sass-embedded (1.103.1-x86_64-linux-gnu)
       google-protobuf (~> 4.31)
     sinatra (4.2.1)
       logger (>= 1.6.0)
@@ -79,7 +79,7 @@ GEM
       rack-protection (= 4.2.1)
       rack-session (>= 2.0.0, < 3)
       tilt (~> 2.0)
-    temple (0.10.6)
+    temple (0.10.7)
     tilt (2.4.0)
 
 PLATFORMS
