@@ -59,6 +59,9 @@ h4, h5, h6
 h5
   letter-spacing: 0.08em
   text-transform: uppercase
+h5[id^="secondary-reading"],
+h5[id^="secondary-reading"] + ul
+  color: colours.$meta-color
 h1
   @include mixins.adjust-font-size(mixins.$h1-scale, 0.6, 0.4)
 h2
